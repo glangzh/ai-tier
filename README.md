@@ -23,7 +23,18 @@ npm run preview  # 预览构建产物
 
 ## 部署
 
-仓库已含 `vercel.json`，导入 Vercel 后直接部署，无需额外配置：
+仓库已含平台配置，导入后直接部署，无需额外填写构建参数。
+
+阿里云 ESA Pages（`esa.jsonc`）：
+
+| 项 | 值 |
+|---|---|
+| 安装命令 | `npm install` |
+| 构建命令 | `npm run build` |
+| 静态资源目录 | `./dist` |
+| 未匹配路由 | `singlePageApplication` |
+
+Vercel（`vercel.json`）：
 
 | 项 | 值 |
 |---|---|

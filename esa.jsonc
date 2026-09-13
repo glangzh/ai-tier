@@ -1,0 +1,11 @@
+{
+  // 阿里云 ESA Pages 构建配置
+  // 本项目是纯静态 SPA：构建产物在 dist/，未匹配的导航请求回落到 index.html
+  "name": "ai-tier",
+  "installCommand": "npm install",
+  "buildCommand": "npm run build",
+  "assets": {
+    "directory": "./dist",
+    "notFoundStrategy": "singlePageApplication"
+  }
+}
