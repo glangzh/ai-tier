@@ -134,8 +134,8 @@ export const messages: Record<string, Message> = {
   'ladder.empty': { zh: '（空）', en: '(none)' },
   'table.title': { zh: '完整数据', en: 'Full data' },
   'table.hint': {
-    zh: '天数越小越接近前沿；「估算」= 该分数非直接收录。',
-    en: 'Lower is closer to the frontier. "est." marks an estimated score.',
+    zh: '估算：该分数非直接收录。节奏差：做出与前沿同等的能力，但比前沿晚交付多少天。能力差：交付时能力仍未追上前沿，这段差距折算成多少天。',
+    en: 'est.: the score is not directly benchmarked. Pacing gap: how many days later this vendor delivered what the frontier already had. Capability gap: the remaining shortfall at delivery, converted into days.',
   },
 
   // ---- 说明页 ----
