@@ -1,0 +1,263 @@
+{
+  "as_of": "2026-09-04",
+  "benchmark": "AAII v4.2",
+  "frontier": {
+    "date": "2026-09-01",
+    "name": "Claude Fable 5.1",
+    "score": 56.8
+  },
+  "generated_at": "2026-09-10T12:38:36",
+  "pools": {
+    "main": {
+      "Claude Fable 5": [
+        53.2,
+        "2026-06-09"
+      ],
+      "Claude Fable 5.1": [
+        56.8,
+        "2026-09-01"
+      ],
+      "Claude Opus 4.6": [
+        36.4,
+        "2026-02-05"
+      ],
+      "Claude Opus 4.7": [
+        44.3,
+        "2026-04-16"
+      ],
+      "Claude Opus 4.8": [
+        46.4,
+        "2026-05-28"
+      ],
+      "Claude Opus 5": [
+        54.1,
+        "2026-07-24"
+      ]
+    }
+  },
+  "rows": [
+    {
+      "anchor": "—（基准自身）",
+      "d": 0,
+      "date": "2026-09-01",
+      "dt": 0,
+      "estimated": false,
+      "g": 0,
+      "model": "Claude Fable 5.1",
+      "name": "Anthropic",
+      "overridden": false,
+      "score": 56.8,
+      "tier": "T1",
+      "up": false
+    },
+    {
+      "anchor": "Claude Opus 5 → Claude Fable 5.1",
+      "d": 64,
+      "date": "2026-09-03",
+      "dt": 33,
+      "estimated": false,
+      "g": 31,
+      "model": "GPT-6 Astra (max)",
+      "name": "OpenAI",
+      "overridden": false,
+      "score": 54.7,
+      "tier": "T1",
+      "up": false
+    },
+    {
+      "anchor": "Claude Opus 4.8 → Claude Fable 5",
+      "d": 133,
+      "date": "2026-07-16",
+      "dt": 43,
+      "estimated": false,
+      "g": 90,
+      "model": "Kimi K3 (max)",
+      "name": "月之暗面",
+      "overridden": false,
+      "score": 50.2,
+      "tier": "T2",
+      "up": false
+    },
+    {
+      "anchor": "Claude Opus 4.8 → Claude Fable 5",
+      "d": 158,
+      "date": "2026-08-12",
+      "dt": 69,
+      "estimated": false,
+      "g": 89,
+      "model": "Grok 4.6 (high)",
+      "name": "SpaceXAI",
+      "overridden": false,
+      "score": 50.6,
+      "tier": "T2",
+      "up": false
+    },
+    {
+      "anchor": "Claude Opus 4.8 → Claude Fable 5",
+      "d": 163,
+      "date": "2026-08-03",
+      "dt": 67,
+      "estimated": false,
+      "g": 96,
+      "model": "Qwen3.8 Max",
+      "name": "阿里巴巴",
+      "overridden": false,
+      "score": 46.9,
+      "tier": "T2",
+      "up": false
+    },
+    {
+      "anchor": "Claude Opus 4.8 → Claude Fable 5",
+      "d": 168,
+      "date": "2026-08-14",
+      "dt": 75,
+      "estimated": false,
+      "g": 93,
+      "model": "GLM-5.3 (max)",
+      "name": "智谱",
+      "overridden": false,
+      "score": 48.6,
+      "tier": "T2",
+      "up": false
+    },
+    {
+      "anchor": "Claude Opus 4.8 → Claude Fable 5",
+      "d": 175,
+      "date": "2026-09-02",
+      "dt": 88,
+      "estimated": false,
+      "g": 87,
+      "model": "Muse Spark 1.3 (xhigh)",
+      "name": "Meta",
+      "overridden": false,
+      "score": 51.6,
+      "tier": "T2",
+      "up": false
+    },
+    {
+      "anchor": "Claude Opus 4.8 → Claude Fable 5",
+      "d": 184,
+      "date": "2026-08-28",
+      "dt": 90,
+      "estimated": true,
+      "g": 94,
+      "model": "Hy4 preview",
+      "name": "腾讯",
+      "overridden": false,
+      "score": 47.8,
+      "tier": "T2",
+      "up": false
+    },
+    {
+      "anchor": "Claude Opus 4.8 → Claude Fable 5",
+      "d": 191,
+      "date": "2026-09-02",
+      "dt": 96,
+      "estimated": false,
+      "g": 95,
+      "model": "Gemini 3.8 Flash (high)",
+      "name": "Google",
+      "overridden": false,
+      "score": 47.1,
+      "tier": "T2",
+      "up": false
+    },
+    {
+      "anchor": "Claude Opus 4.6 → Claude Opus 4.7",
+      "d": 297,
+      "date": "2026-08-13",
+      "dt": 139,
+      "estimated": false,
+      "g": 158,
+      "model": "V4 Pro 0813 (max)",
+      "name": "DeepSeek",
+      "overridden": false,
+      "score": 42.1,
+      "tier": "T3",
+      "up": false
+    },
+    {
+      "anchor": "Claude Opus 4.6 → Claude Opus 4.7 (外推)",
+      "d": 334,
+      "date": "2026-06-01",
+      "dt": 121,
+      "estimated": false,
+      "g": 213,
+      "model": "MiniMax M3",
+      "name": "MiniMax",
+      "overridden": false,
+      "score": 35.8,
+      "tier": "T4",
+      "up": false
+    },
+    {
+      "anchor": "Claude Opus 4.6 → Claude Opus 4.7 (外推)",
+      "d": 352,
+      "date": "2026-04-22",
+      "dt": 110,
+      "estimated": false,
+      "g": 242,
+      "model": "MiMo-V2.5-Pro",
+      "name": "小米",
+      "overridden": false,
+      "score": 32.6,
+      "tier": "T4",
+      "up": false
+    }
+  ],
+  "schema_version": 2,
+  "self_check": [
+    {
+      "detail": "全部模型统一通过",
+      "item": "D 口径（D=G+Δt）",
+      "ok": true
+    },
+    {
+      "detail": "12 行全部通过",
+      "item": "分档区间（左闭右开）",
+      "ok": true
+    },
+    {
+      "detail": "全部 ≥ 0",
+      "item": "无负差距（D ≥ 0）",
+      "ok": true
+    },
+    {
+      "detail": "Muse Spark 1.1 295  →  Muse Spark 1.2 193  →  Muse Spark 1.3 175　（固定发布日 2026-09-02）",
+      "item": "单调性（分升则 D 降）",
+      "ok": true
+    },
+    {
+      "detail": "Claude Fable 5.1",
+      "item": "前沿锚自洽（D=0）",
+      "ok": true
+    },
+    {
+      "detail": "",
+      "item": "在途修正适用性",
+      "ok": true
+    }
+  ],
+  "tier_bands": [
+    {
+      "hi": 100,
+      "label": "T1",
+      "lo": 0
+    },
+    {
+      "hi": 200,
+      "label": "T2",
+      "lo": 100
+    },
+    {
+      "hi": 300,
+      "label": "T3",
+      "lo": 200
+    },
+    {
+      "hi": null,
+      "label": "T4",
+      "lo": 300
+    }
+  ]
+}

@@ -1,0 +1,2476 @@
+{
+  "as_of": "2026-09-08",
+  "benchmark": "AAII v4.3",
+  "company_benchmarks": {
+    "default_id": "anthropic",
+    "references": [
+      {
+        "benchmark": "AAII v4.3",
+        "comparisons": [
+          {
+            "company": "Anthropic",
+            "company_id": "anthropic",
+            "date": "2026-09-01",
+            "direction": "same",
+            "equivalent_date": "2026-09-01",
+            "estimated": false,
+            "gap_days": 0,
+            "model": "Claude Fable 5.1",
+            "score": 53.0,
+            "status": "ok",
+            "tier": "T1"
+          },
+          {
+            "company": "OpenAI",
+            "company_id": "openai",
+            "date": "2026-09-03",
+            "direction": "behind",
+            "equivalent_date": "2026-09-01",
+            "estimated": false,
+            "gap_days": 2,
+            "model": "GPT-6 Astra (max)",
+            "score": 53.0,
+            "status": "ok",
+            "tier": "T1"
+          },
+          {
+            "company": "月之暗面",
+            "company_id": "moonshot",
+            "date": "2026-07-16",
+            "direction": "behind",
+            "equivalent_date": "2026-05-31",
+            "estimated": false,
+            "gap_days": 46,
+            "model": "Kimi K3 (max)",
+            "score": 44.0,
+            "status": "ok",
+            "tier": "T2"
+          },
+          {
+            "company": "SpaceXAI",
+            "company_id": "spacexai",
+            "date": "2026-08-12",
+            "direction": "behind",
+            "equivalent_date": "2026-05-31",
+            "estimated": false,
+            "gap_days": 73,
+            "model": "Grok 4.6 (high)",
+            "score": 44.0,
+            "status": "ok",
+            "tier": "T2"
+          },
+          {
+            "company": "智谱",
+            "company_id": "zhipu",
+            "date": "2026-08-14",
+            "direction": "behind",
+            "equivalent_date": "2026-06-01",
+            "estimated": false,
+            "gap_days": 74,
+            "model": "GLM-5.3 (max)",
+            "score": 45.0,
+            "status": "ok",
+            "tier": "T2"
+          },
+          {
+            "company": "Meta",
+            "company_id": "meta",
+            "date": "2026-09-02",
+            "direction": "behind",
+            "equivalent_date": "2026-06-06",
+            "estimated": false,
+            "gap_days": 88,
+            "model": "Muse Spark 1.3",
+            "score": 48.0,
+            "status": "ok",
+            "tier": "T2"
+          },
+          {
+            "company": "阿里巴巴",
+            "company_id": "alibaba",
+            "date": "2026-09-02",
+            "direction": "behind",
+            "equivalent_date": "2026-06-02",
+            "estimated": true,
+            "gap_days": 92,
+            "model": "Qwen3.8-Max-0902",
+            "score": 45.4,
+            "status": "ok",
+            "tier": "T2"
+          },
+          {
+            "company": "腾讯",
+            "company_id": "tencent",
+            "date": "2026-08-28",
+            "direction": "behind",
+            "equivalent_date": "2026-05-30",
+            "estimated": true,
+            "gap_days": 90,
+            "model": "Hy4 preview",
+            "score": 43.4,
+            "status": "ok",
+            "tier": "T2"
+          },
+          {
+            "company": "Google",
+            "company_id": "google",
+            "date": "2026-09-02",
+            "direction": "behind",
+            "equivalent_date": "2026-04-16",
+            "estimated": false,
+            "gap_days": 139,
+            "model": "Gemini 3.8 Flash (high)",
+            "score": 41.0,
+            "status": "ok",
+            "tier": "T3"
+          },
+          {
+            "company": "DeepSeek",
+            "company_id": "deepseek",
+            "date": "2026-08-13",
+            "direction": "behind",
+            "equivalent_date": "2026-03-08",
+            "estimated": false,
+            "gap_days": 158,
+            "model": "V4 Pro 0813 (max)",
+            "score": 36.0,
+            "status": "ok",
+            "tier": "T4"
+          },
+          {
+            "company": "MiniMax",
+            "company_id": "minimax",
+            "date": "2026-06-01",
+            "direction": null,
+            "equivalent_date": null,
+            "estimated": false,
+            "gap_days": null,
+            "model": "MiniMax M3",
+            "score": 30.0,
+            "status": "out_of_range",
+            "tier": "T4"
+          },
+          {
+            "company": "小米",
+            "company_id": "xiaomi",
+            "date": "2026-04-22",
+            "direction": null,
+            "equivalent_date": null,
+            "estimated": false,
+            "gap_days": null,
+            "model": "MiMo-V2.5-Pro",
+            "score": 26.0,
+            "status": "out_of_range",
+            "tier": "T4"
+          }
+        ],
+        "date_end": "2026-09-01",
+        "date_start": "2026-02-05",
+        "id": "anthropic",
+        "name": "Anthropic",
+        "points": [
+          {
+            "date": "2026-02-05",
+            "model": "Claude Opus 4.6",
+            "score": 32.0
+          },
+          {
+            "date": "2026-04-16",
+            "model": "Claude Opus 4.7",
+            "score": 41.0
+          },
+          {
+            "date": "2026-05-28",
+            "model": "Claude Opus 4.8",
+            "score": 42.0
+          },
+          {
+            "date": "2026-06-09",
+            "model": "Claude Fable 5",
+            "score": 50.0
+          },
+          {
+            "date": "2026-07-24",
+            "model": "Claude Opus 5",
+            "score": 51.0
+          },
+          {
+            "date": "2026-09-01",
+            "model": "Claude Fable 5.1",
+            "score": 53.0
+          }
+        ],
+        "status": "ok"
+      },
+      {
+        "benchmark": "AAII v4.3",
+        "comparisons": [
+          {
+            "company": "Anthropic",
+            "company_id": "anthropic",
+            "date": "2026-09-01",
+            "direction": "ahead",
+            "equivalent_date": "2026-09-03",
+            "estimated": false,
+            "gap_days": -2,
+            "model": "Claude Fable 5.1",
+            "score": 53.0,
+            "status": "ok",
+            "tier": "T1"
+          },
+          {
+            "company": "OpenAI",
+            "company_id": "openai",
+            "date": "2026-09-03",
+            "direction": "same",
+            "equivalent_date": "2026-09-03",
+            "estimated": false,
+            "gap_days": 0,
+            "model": "GPT-6 Astra (max)",
+            "score": 53.0,
+            "status": "ok",
+            "tier": "T1"
+          },
+          {
+            "company": "月之暗面",
+            "company_id": "moonshot",
+            "date": "2026-07-16",
+            "direction": "behind",
+            "equivalent_date": "2026-06-10",
+            "estimated": false,
+            "gap_days": 36,
+            "model": "Kimi K3 (max)",
+            "score": 44.0,
+            "status": "ok",
+            "tier": "T2"
+          },
+          {
+            "company": "SpaceXAI",
+            "company_id": "spacexai",
+            "date": "2026-08-12",
+            "direction": "behind",
+            "equivalent_date": "2026-06-10",
+            "estimated": false,
+            "gap_days": 63,
+            "model": "Grok 4.6 (high)",
+            "score": 44.0,
+            "status": "ok",
+            "tier": "T2"
+          },
+          {
+            "company": "智谱",
+            "company_id": "zhipu",
+            "date": "2026-08-14",
+            "direction": "behind",
+            "equivalent_date": "2026-06-19",
+            "estimated": false,
+            "gap_days": 56,
+            "model": "GLM-5.3 (max)",
+            "score": 45.0,
+            "status": "ok",
+            "tier": "T2"
+          },
+          {
+            "company": "Meta",
+            "company_id": "meta",
+            "date": "2026-09-02",
+            "direction": "behind",
+            "equivalent_date": "2026-07-18",
+            "estimated": false,
+            "gap_days": 46,
+            "model": "Muse Spark 1.3",
+            "score": 48.0,
+            "status": "ok",
+            "tier": "T2"
+          },
+          {
+            "company": "阿里巴巴",
+            "company_id": "alibaba",
+            "date": "2026-09-02",
+            "direction": "behind",
+            "equivalent_date": "2026-06-23",
+            "estimated": true,
+            "gap_days": 71,
+            "model": "Qwen3.8-Max-0902",
+            "score": 45.4,
+            "status": "ok",
+            "tier": "T2"
+          },
+          {
+            "company": "腾讯",
+            "company_id": "tencent",
+            "date": "2026-08-28",
+            "direction": "behind",
+            "equivalent_date": "2026-06-04",
+            "estimated": true,
+            "gap_days": 85,
+            "model": "Hy4 preview",
+            "score": 43.4,
+            "status": "ok",
+            "tier": "T2"
+          },
+          {
+            "company": "Google",
+            "company_id": "google",
+            "date": "2026-09-02",
+            "direction": "behind",
+            "equivalent_date": "2026-05-12",
+            "estimated": false,
+            "gap_days": 113,
+            "model": "Gemini 3.8 Flash (high)",
+            "score": 41.0,
+            "status": "ok",
+            "tier": "T3"
+          },
+          {
+            "company": "DeepSeek",
+            "company_id": "deepseek",
+            "date": "2026-08-13",
+            "direction": null,
+            "equivalent_date": null,
+            "estimated": false,
+            "gap_days": null,
+            "model": "V4 Pro 0813 (max)",
+            "score": 36.0,
+            "status": "out_of_range",
+            "tier": "T4"
+          },
+          {
+            "company": "MiniMax",
+            "company_id": "minimax",
+            "date": "2026-06-01",
+            "direction": null,
+            "equivalent_date": null,
+            "estimated": false,
+            "gap_days": null,
+            "model": "MiniMax M3",
+            "score": 30.0,
+            "status": "out_of_range",
+            "tier": "T4"
+          },
+          {
+            "company": "小米",
+            "company_id": "xiaomi",
+            "date": "2026-04-22",
+            "direction": null,
+            "equivalent_date": null,
+            "estimated": false,
+            "gap_days": null,
+            "model": "MiMo-V2.5-Pro",
+            "score": 26.0,
+            "status": "out_of_range",
+            "tier": "T4"
+          }
+        ],
+        "date_end": "2026-09-03",
+        "date_start": "2026-04-23",
+        "id": "openai",
+        "name": "OpenAI",
+        "points": [
+          {
+            "date": "2026-04-23",
+            "model": "GPT-5.5 (xhigh)",
+            "score": 39.0
+          },
+          {
+            "date": "2026-07-09",
+            "model": "GPT-5.6 Sol (max)",
+            "score": 47.0
+          },
+          {
+            "date": "2026-09-03",
+            "model": "GPT-6 Astra (max)",
+            "score": 53.0
+          }
+        ],
+        "status": "ok"
+      },
+      {
+        "benchmark": "AAII v4.3",
+        "comparisons": [
+          {
+            "company": "Anthropic",
+            "company_id": "anthropic",
+            "date": "2026-09-01",
+            "direction": "ahead",
+            "equivalent_date": "2026-08-12",
+            "estimated": false,
+            "gap_days": -73,
+            "model": "Claude Fable 5.1",
+            "score": 53.0,
+            "status": "ok",
+            "tier": "T1"
+          },
+          {
+            "company": "OpenAI",
+            "company_id": "openai",
+            "date": "2026-09-03",
+            "direction": "ahead",
+            "equivalent_date": "2026-08-12",
+            "estimated": false,
+            "gap_days": -63,
+            "model": "GPT-6 Astra (max)",
+            "score": 53.0,
+            "status": "ok",
+            "tier": "T1"
+          },
+          {
+            "company": "月之暗面",
+            "company_id": "moonshot",
+            "date": "2026-07-16",
+            "direction": "ahead",
+            "equivalent_date": "2026-08-12",
+            "estimated": false,
+            "gap_days": -27,
+            "model": "Kimi K3 (max)",
+            "score": 44.0,
+            "status": "ok",
+            "tier": "T2"
+          },
+          {
+            "company": "SpaceXAI",
+            "company_id": "spacexai",
+            "date": "2026-08-12",
+            "direction": "same",
+            "equivalent_date": "2026-08-12",
+            "estimated": false,
+            "gap_days": 0,
+            "model": "Grok 4.6 (high)",
+            "score": 44.0,
+            "status": "ok",
+            "tier": "T2"
+          },
+          {
+            "company": "智谱",
+            "company_id": "zhipu",
+            "date": "2026-08-14",
+            "direction": "ahead",
+            "equivalent_date": "2026-08-12",
+            "estimated": false,
+            "gap_days": -5,
+            "model": "GLM-5.3 (max)",
+            "score": 45.0,
+            "status": "ok",
+            "tier": "T2"
+          },
+          {
+            "company": "Meta",
+            "company_id": "meta",
+            "date": "2026-09-02",
+            "direction": "behind",
+            "equivalent_date": "2026-08-12",
+            "estimated": false,
+            "gap_days": 7,
+            "model": "Muse Spark 1.3",
+            "score": 48.0,
+            "status": "ok",
+            "tier": "T2"
+          },
+          {
+            "company": "阿里巴巴",
+            "company_id": "alibaba",
+            "date": "2026-09-02",
+            "direction": "behind",
+            "equivalent_date": "2026-08-12",
+            "estimated": true,
+            "gap_days": 13,
+            "model": "Qwen3.8-Max-0902",
+            "score": 45.4,
+            "status": "ok",
+            "tier": "T2"
+          },
+          {
+            "company": "腾讯",
+            "company_id": "tencent",
+            "date": "2026-08-28",
+            "direction": "behind",
+            "equivalent_date": "2026-08-07",
+            "estimated": true,
+            "gap_days": 21,
+            "model": "Hy4 preview",
+            "score": 43.4,
+            "status": "ok",
+            "tier": "T2"
+          },
+          {
+            "company": "Google",
+            "company_id": "google",
+            "date": "2026-09-02",
+            "direction": "behind",
+            "equivalent_date": "2026-07-22",
+            "estimated": false,
+            "gap_days": 42,
+            "model": "Gemini 3.8 Flash (high)",
+            "score": 41.0,
+            "status": "ok",
+            "tier": "T3"
+          },
+          {
+            "company": "DeepSeek",
+            "company_id": "deepseek",
+            "date": "2026-08-13",
+            "direction": null,
+            "equivalent_date": null,
+            "estimated": false,
+            "gap_days": null,
+            "model": "V4 Pro 0813 (max)",
+            "score": 36.0,
+            "status": "out_of_range",
+            "tier": "T4"
+          },
+          {
+            "company": "MiniMax",
+            "company_id": "minimax",
+            "date": "2026-06-01",
+            "direction": null,
+            "equivalent_date": null,
+            "estimated": false,
+            "gap_days": null,
+            "model": "MiniMax M3",
+            "score": 30.0,
+            "status": "out_of_range",
+            "tier": "T4"
+          },
+          {
+            "company": "小米",
+            "company_id": "xiaomi",
+            "date": "2026-04-22",
+            "direction": null,
+            "equivalent_date": null,
+            "estimated": false,
+            "gap_days": null,
+            "model": "MiMo-V2.5-Pro",
+            "score": 26.0,
+            "status": "out_of_range",
+            "tier": "T4"
+          }
+        ],
+        "date_end": "2026-08-12",
+        "date_start": "2026-07-08",
+        "id": "spacexai",
+        "name": "SpaceXAI",
+        "points": [
+          {
+            "date": "2026-07-08",
+            "model": "Grok 4.5 (high)",
+            "score": 39.0
+          },
+          {
+            "date": "2026-08-12",
+            "model": "Grok 4.6 (high)",
+            "score": 44.0
+          }
+        ],
+        "status": "ok"
+      },
+      {
+        "benchmark": "AAII v4.3",
+        "comparisons": [
+          {
+            "company": "Anthropic",
+            "company_id": "anthropic",
+            "date": "2026-09-01",
+            "direction": "ahead",
+            "equivalent_date": "2026-07-16",
+            "estimated": false,
+            "gap_days": -46,
+            "model": "Claude Fable 5.1",
+            "score": 53.0,
+            "status": "ok",
+            "tier": "T1"
+          },
+          {
+            "company": "OpenAI",
+            "company_id": "openai",
+            "date": "2026-09-03",
+            "direction": "ahead",
+            "equivalent_date": "2026-07-16",
+            "estimated": false,
+            "gap_days": -36,
+            "model": "GPT-6 Astra (max)",
+            "score": 53.0,
+            "status": "ok",
+            "tier": "T1"
+          },
+          {
+            "company": "月之暗面",
+            "company_id": "moonshot",
+            "date": "2026-07-16",
+            "direction": "same",
+            "equivalent_date": "2026-07-16",
+            "estimated": false,
+            "gap_days": 0,
+            "model": "Kimi K3 (max)",
+            "score": 44.0,
+            "status": "ok",
+            "tier": "T2"
+          },
+          {
+            "company": "SpaceXAI",
+            "company_id": "spacexai",
+            "date": "2026-08-12",
+            "direction": "behind",
+            "equivalent_date": "2026-07-16",
+            "estimated": false,
+            "gap_days": 27,
+            "model": "Grok 4.6 (high)",
+            "score": 44.0,
+            "status": "ok",
+            "tier": "T2"
+          },
+          {
+            "company": "智谱",
+            "company_id": "zhipu",
+            "date": "2026-08-14",
+            "direction": "behind",
+            "equivalent_date": "2026-07-16",
+            "estimated": false,
+            "gap_days": 22,
+            "model": "GLM-5.3 (max)",
+            "score": 45.0,
+            "status": "ok",
+            "tier": "T2"
+          },
+          {
+            "company": "Meta",
+            "company_id": "meta",
+            "date": "2026-09-02",
+            "direction": "behind",
+            "equivalent_date": "2026-07-16",
+            "estimated": false,
+            "gap_days": 34,
+            "model": "Muse Spark 1.3",
+            "score": 48.0,
+            "status": "ok",
+            "tier": "T2"
+          },
+          {
+            "company": "阿里巴巴",
+            "company_id": "alibaba",
+            "date": "2026-09-02",
+            "direction": "behind",
+            "equivalent_date": "2026-07-16",
+            "estimated": true,
+            "gap_days": 40,
+            "model": "Qwen3.8-Max-0902",
+            "score": 45.4,
+            "status": "ok",
+            "tier": "T2"
+          },
+          {
+            "company": "腾讯",
+            "company_id": "tencent",
+            "date": "2026-08-28",
+            "direction": "behind",
+            "equivalent_date": "2026-07-11",
+            "estimated": true,
+            "gap_days": 48,
+            "model": "Hy4 preview",
+            "score": 43.4,
+            "status": "ok",
+            "tier": "T2"
+          },
+          {
+            "company": "Google",
+            "company_id": "google",
+            "date": "2026-09-02",
+            "direction": "behind",
+            "equivalent_date": "2026-06-21",
+            "estimated": false,
+            "gap_days": 73,
+            "model": "Gemini 3.8 Flash (high)",
+            "score": 41.0,
+            "status": "ok",
+            "tier": "T3"
+          },
+          {
+            "company": "DeepSeek",
+            "company_id": "deepseek",
+            "date": "2026-08-13",
+            "direction": "behind",
+            "equivalent_date": "2026-05-12",
+            "estimated": false,
+            "gap_days": 93,
+            "model": "V4 Pro 0813 (max)",
+            "score": 36.0,
+            "status": "ok",
+            "tier": "T4"
+          },
+          {
+            "company": "MiniMax",
+            "company_id": "minimax",
+            "date": "2026-06-01",
+            "direction": "behind",
+            "equivalent_date": "2026-03-24",
+            "estimated": false,
+            "gap_days": 69,
+            "model": "MiniMax M3",
+            "score": 30.0,
+            "status": "ok",
+            "tier": "T4"
+          },
+          {
+            "company": "小米",
+            "company_id": "xiaomi",
+            "date": "2026-04-22",
+            "direction": "behind",
+            "equivalent_date": "2026-02-20",
+            "estimated": false,
+            "gap_days": 61,
+            "model": "MiMo-V2.5-Pro",
+            "score": 26.0,
+            "status": "ok",
+            "tier": "T4"
+          }
+        ],
+        "date_end": "2026-07-16",
+        "date_start": "2026-01-27",
+        "id": "moonshot",
+        "name": "月之暗面",
+        "points": [
+          {
+            "date": "2026-01-27",
+            "estimated": true,
+            "model": "Kimi K2.5 (Reasoning)",
+            "score": 23.0
+          },
+          {
+            "date": "2026-07-16",
+            "model": "Kimi K3 (max)",
+            "score": 44.0
+          }
+        ],
+        "status": "ok"
+      },
+      {
+        "benchmark": "AAII v4.3",
+        "comparisons": [
+          {
+            "company": "Anthropic",
+            "company_id": "anthropic",
+            "date": "2026-09-01",
+            "direction": "ahead",
+            "equivalent_date": "2026-08-14",
+            "estimated": false,
+            "gap_days": -74,
+            "model": "Claude Fable 5.1",
+            "score": 53.0,
+            "status": "ok",
+            "tier": "T1"
+          },
+          {
+            "company": "OpenAI",
+            "company_id": "openai",
+            "date": "2026-09-03",
+            "direction": "ahead",
+            "equivalent_date": "2026-08-14",
+            "estimated": false,
+            "gap_days": -56,
+            "model": "GPT-6 Astra (max)",
+            "score": 53.0,
+            "status": "ok",
+            "tier": "T1"
+          },
+          {
+            "company": "月之暗面",
+            "company_id": "moonshot",
+            "date": "2026-07-16",
+            "direction": "ahead",
+            "equivalent_date": "2026-08-07",
+            "estimated": false,
+            "gap_days": -22,
+            "model": "Kimi K3 (max)",
+            "score": 44.0,
+            "status": "ok",
+            "tier": "T2"
+          },
+          {
+            "company": "SpaceXAI",
+            "company_id": "spacexai",
+            "date": "2026-08-12",
+            "direction": "behind",
+            "equivalent_date": "2026-08-07",
+            "estimated": false,
+            "gap_days": 5,
+            "model": "Grok 4.6 (high)",
+            "score": 44.0,
+            "status": "ok",
+            "tier": "T2"
+          },
+          {
+            "company": "智谱",
+            "company_id": "zhipu",
+            "date": "2026-08-14",
+            "direction": "same",
+            "equivalent_date": "2026-08-14",
+            "estimated": false,
+            "gap_days": 0,
+            "model": "GLM-5.3 (max)",
+            "score": 45.0,
+            "status": "ok",
+            "tier": "T2"
+          },
+          {
+            "company": "Meta",
+            "company_id": "meta",
+            "date": "2026-09-02",
+            "direction": "behind",
+            "equivalent_date": "2026-08-14",
+            "estimated": false,
+            "gap_days": 8,
+            "model": "Muse Spark 1.3",
+            "score": 48.0,
+            "status": "ok",
+            "tier": "T2"
+          },
+          {
+            "company": "阿里巴巴",
+            "company_id": "alibaba",
+            "date": "2026-09-02",
+            "direction": "behind",
+            "equivalent_date": "2026-08-14",
+            "estimated": true,
+            "gap_days": 16,
+            "model": "Qwen3.8-Max-0902",
+            "score": 45.4,
+            "status": "ok",
+            "tier": "T2"
+          },
+          {
+            "company": "腾讯",
+            "company_id": "tencent",
+            "date": "2026-08-28",
+            "direction": "behind",
+            "equivalent_date": "2026-08-03",
+            "estimated": true,
+            "gap_days": 25,
+            "model": "Hy4 preview",
+            "score": 43.4,
+            "status": "ok",
+            "tier": "T2"
+          },
+          {
+            "company": "Google",
+            "company_id": "google",
+            "date": "2026-09-02",
+            "direction": "behind",
+            "equivalent_date": "2026-07-17",
+            "estimated": false,
+            "gap_days": 47,
+            "model": "Gemini 3.8 Flash (high)",
+            "score": 41.0,
+            "status": "ok",
+            "tier": "T3"
+          },
+          {
+            "company": "DeepSeek",
+            "company_id": "deepseek",
+            "date": "2026-08-13",
+            "direction": "behind",
+            "equivalent_date": "2026-06-13",
+            "estimated": false,
+            "gap_days": 61,
+            "model": "V4 Pro 0813 (max)",
+            "score": 36.0,
+            "status": "ok",
+            "tier": "T4"
+          },
+          {
+            "company": "MiniMax",
+            "company_id": "minimax",
+            "date": "2026-06-01",
+            "direction": "behind",
+            "equivalent_date": "2026-05-04",
+            "estimated": false,
+            "gap_days": 28,
+            "model": "MiniMax M3",
+            "score": 30.0,
+            "status": "ok",
+            "tier": "T4"
+          },
+          {
+            "company": "小米",
+            "company_id": "xiaomi",
+            "date": "2026-04-22",
+            "direction": "behind",
+            "equivalent_date": "2026-04-07",
+            "estimated": false,
+            "gap_days": 15,
+            "model": "MiMo-V2.5-Pro",
+            "score": 26.0,
+            "status": "ok",
+            "tier": "T4"
+          }
+        ],
+        "date_end": "2026-08-14",
+        "date_start": "2026-04-07",
+        "id": "zhipu",
+        "name": "智谱",
+        "points": [
+          {
+            "date": "2026-04-07",
+            "model": "GLM-5.1 (Reasoning)",
+            "score": 26.0
+          },
+          {
+            "date": "2026-08-14",
+            "model": "GLM-5.3 (max)",
+            "score": 45.0
+          }
+        ],
+        "status": "ok"
+      },
+      {
+        "benchmark": "AAII v4.3",
+        "comparisons": [
+          {
+            "company": "Anthropic",
+            "company_id": "anthropic",
+            "date": "2026-09-01",
+            "direction": "ahead",
+            "equivalent_date": "2026-09-02",
+            "estimated": false,
+            "gap_days": -139,
+            "model": "Claude Fable 5.1",
+            "score": 53.0,
+            "status": "ok",
+            "tier": "T1"
+          },
+          {
+            "company": "OpenAI",
+            "company_id": "openai",
+            "date": "2026-09-03",
+            "direction": "ahead",
+            "equivalent_date": "2026-09-02",
+            "estimated": false,
+            "gap_days": -113,
+            "model": "GPT-6 Astra (max)",
+            "score": 53.0,
+            "status": "ok",
+            "tier": "T1"
+          },
+          {
+            "company": "月之暗面",
+            "company_id": "moonshot",
+            "date": "2026-07-16",
+            "direction": "ahead",
+            "equivalent_date": "2026-09-02",
+            "estimated": false,
+            "gap_days": -73,
+            "model": "Kimi K3 (max)",
+            "score": 44.0,
+            "status": "ok",
+            "tier": "T2"
+          },
+          {
+            "company": "SpaceXAI",
+            "company_id": "spacexai",
+            "date": "2026-08-12",
+            "direction": "ahead",
+            "equivalent_date": "2026-09-02",
+            "estimated": false,
+            "gap_days": -42,
+            "model": "Grok 4.6 (high)",
+            "score": 44.0,
+            "status": "ok",
+            "tier": "T2"
+          },
+          {
+            "company": "智谱",
+            "company_id": "zhipu",
+            "date": "2026-08-14",
+            "direction": "ahead",
+            "equivalent_date": "2026-09-02",
+            "estimated": false,
+            "gap_days": -47,
+            "model": "GLM-5.3 (max)",
+            "score": 45.0,
+            "status": "ok",
+            "tier": "T2"
+          },
+          {
+            "company": "Meta",
+            "company_id": "meta",
+            "date": "2026-09-02",
+            "direction": "ahead",
+            "equivalent_date": "2026-09-02",
+            "estimated": false,
+            "gap_days": -25,
+            "model": "Muse Spark 1.3",
+            "score": 48.0,
+            "status": "ok",
+            "tier": "T2"
+          },
+          {
+            "company": "阿里巴巴",
+            "company_id": "alibaba",
+            "date": "2026-09-02",
+            "direction": "ahead",
+            "equivalent_date": "2026-09-02",
+            "estimated": true,
+            "gap_days": -25,
+            "model": "Qwen3.8-Max-0902",
+            "score": 45.4,
+            "status": "ok",
+            "tier": "T2"
+          },
+          {
+            "company": "腾讯",
+            "company_id": "tencent",
+            "date": "2026-08-28",
+            "direction": "ahead",
+            "equivalent_date": "2026-09-02",
+            "estimated": true,
+            "gap_days": -13,
+            "model": "Hy4 preview",
+            "score": 43.4,
+            "status": "ok",
+            "tier": "T2"
+          },
+          {
+            "company": "Google",
+            "company_id": "google",
+            "date": "2026-09-02",
+            "direction": "same",
+            "equivalent_date": "2026-09-02",
+            "estimated": false,
+            "gap_days": 0,
+            "model": "Gemini 3.8 Flash (high)",
+            "score": 41.0,
+            "status": "ok",
+            "tier": "T3"
+          },
+          {
+            "company": "DeepSeek",
+            "company_id": "deepseek",
+            "date": "2026-08-13",
+            "direction": "behind",
+            "equivalent_date": "2026-06-22",
+            "estimated": false,
+            "gap_days": 52,
+            "model": "V4 Pro 0813 (max)",
+            "score": 36.0,
+            "status": "ok",
+            "tier": "T4"
+          },
+          {
+            "company": "MiniMax",
+            "company_id": "minimax",
+            "date": "2026-06-01",
+            "direction": null,
+            "equivalent_date": null,
+            "estimated": false,
+            "gap_days": null,
+            "model": "MiniMax M3",
+            "score": 30.0,
+            "status": "out_of_range",
+            "tier": "T4"
+          },
+          {
+            "company": "小米",
+            "company_id": "xiaomi",
+            "date": "2026-04-22",
+            "direction": null,
+            "equivalent_date": null,
+            "estimated": false,
+            "gap_days": null,
+            "model": "MiMo-V2.5-Pro",
+            "score": 26.0,
+            "status": "out_of_range",
+            "tier": "T4"
+          }
+        ],
+        "date_end": "2026-09-02",
+        "date_start": "2026-05-19",
+        "id": "google",
+        "name": "Google",
+        "points": [
+          {
+            "date": "2026-05-19",
+            "model": "Gemini 3.5 Flash (medium)",
+            "score": 34.0
+          },
+          {
+            "date": "2026-08-13",
+            "model": "Gemini 3.7 Flash (high)",
+            "score": 39.0
+          },
+          {
+            "date": "2026-09-02",
+            "model": "Gemini 3.8 Flash (high)",
+            "score": 41.0
+          }
+        ],
+        "status": "ok"
+      },
+      {
+        "benchmark": "AAII v4.3",
+        "comparisons": [
+          {
+            "company": "Anthropic",
+            "company_id": "anthropic",
+            "date": "2026-09-01",
+            "direction": "ahead",
+            "equivalent_date": "2026-09-02",
+            "estimated": false,
+            "gap_days": -88,
+            "model": "Claude Fable 5.1",
+            "score": 53.0,
+            "status": "ok",
+            "tier": "T1"
+          },
+          {
+            "company": "OpenAI",
+            "company_id": "openai",
+            "date": "2026-09-03",
+            "direction": "ahead",
+            "equivalent_date": "2026-09-02",
+            "estimated": false,
+            "gap_days": -46,
+            "model": "GPT-6 Astra (max)",
+            "score": 53.0,
+            "status": "ok",
+            "tier": "T1"
+          },
+          {
+            "company": "月之暗面",
+            "company_id": "moonshot",
+            "date": "2026-07-16",
+            "direction": "ahead",
+            "equivalent_date": "2026-08-19",
+            "estimated": false,
+            "gap_days": -34,
+            "model": "Kimi K3 (max)",
+            "score": 44.0,
+            "status": "ok",
+            "tier": "T2"
+          },
+          {
+            "company": "SpaceXAI",
+            "company_id": "spacexai",
+            "date": "2026-08-12",
+            "direction": "ahead",
+            "equivalent_date": "2026-08-19",
+            "estimated": false,
+            "gap_days": -7,
+            "model": "Grok 4.6 (high)",
+            "score": 44.0,
+            "status": "ok",
+            "tier": "T2"
+          },
+          {
+            "company": "智谱",
+            "company_id": "zhipu",
+            "date": "2026-08-14",
+            "direction": "ahead",
+            "equivalent_date": "2026-08-22",
+            "estimated": false,
+            "gap_days": -8,
+            "model": "GLM-5.3 (max)",
+            "score": 45.0,
+            "status": "ok",
+            "tier": "T2"
+          },
+          {
+            "company": "Meta",
+            "company_id": "meta",
+            "date": "2026-09-02",
+            "direction": "same",
+            "equivalent_date": "2026-09-02",
+            "estimated": false,
+            "gap_days": 0,
+            "model": "Muse Spark 1.3",
+            "score": 48.0,
+            "status": "ok",
+            "tier": "T2"
+          },
+          {
+            "company": "阿里巴巴",
+            "company_id": "alibaba",
+            "date": "2026-09-02",
+            "direction": "behind",
+            "equivalent_date": "2026-08-23",
+            "estimated": true,
+            "gap_days": 10,
+            "model": "Qwen3.8-Max-0902",
+            "score": 45.4,
+            "status": "ok",
+            "tier": "T2"
+          },
+          {
+            "company": "腾讯",
+            "company_id": "tencent",
+            "date": "2026-08-28",
+            "direction": "behind",
+            "equivalent_date": "2026-08-16",
+            "estimated": true,
+            "gap_days": 12,
+            "model": "Hy4 preview",
+            "score": 43.4,
+            "status": "ok",
+            "tier": "T2"
+          },
+          {
+            "company": "Google",
+            "company_id": "google",
+            "date": "2026-09-02",
+            "direction": "behind",
+            "equivalent_date": "2026-08-08",
+            "estimated": false,
+            "gap_days": 25,
+            "model": "Gemini 3.8 Flash (high)",
+            "score": 41.0,
+            "status": "ok",
+            "tier": "T3"
+          },
+          {
+            "company": "DeepSeek",
+            "company_id": "deepseek",
+            "date": "2026-08-13",
+            "direction": "behind",
+            "equivalent_date": "2026-07-18",
+            "estimated": false,
+            "gap_days": 26,
+            "model": "V4 Pro 0813 (max)",
+            "score": 36.0,
+            "status": "ok",
+            "tier": "T4"
+          },
+          {
+            "company": "MiniMax",
+            "company_id": "minimax",
+            "date": "2026-06-01",
+            "direction": null,
+            "equivalent_date": null,
+            "estimated": false,
+            "gap_days": null,
+            "model": "MiniMax M3",
+            "score": 30.0,
+            "status": "out_of_range",
+            "tier": "T4"
+          },
+          {
+            "company": "小米",
+            "company_id": "xiaomi",
+            "date": "2026-04-22",
+            "direction": null,
+            "equivalent_date": null,
+            "estimated": false,
+            "gap_days": null,
+            "model": "MiMo-V2.5-Pro",
+            "score": 26.0,
+            "status": "out_of_range",
+            "tier": "T4"
+          }
+        ],
+        "date_end": "2026-09-02",
+        "date_start": "2026-07-09",
+        "id": "meta",
+        "name": "Meta",
+        "points": [
+          {
+            "date": "2026-07-09",
+            "model": "Muse Spark 1.1 (xhigh)",
+            "score": 34.0
+          },
+          {
+            "date": "2026-08-05",
+            "model": "Muse Spark 1.2 (xhigh)",
+            "score": 40.0
+          },
+          {
+            "date": "2026-09-02",
+            "model": "Muse Spark 1.3 (max)",
+            "score": 48.0
+          }
+        ],
+        "status": "ok"
+      },
+      {
+        "benchmark": "AAII v4.3",
+        "comparisons": [
+          {
+            "company": "Anthropic",
+            "company_id": "anthropic",
+            "date": "2026-09-01",
+            "direction": "ahead",
+            "equivalent_date": "2026-08-28",
+            "estimated": false,
+            "gap_days": -90,
+            "model": "Claude Fable 5.1",
+            "score": 53.0,
+            "status": "ok",
+            "tier": "T1"
+          },
+          {
+            "company": "OpenAI",
+            "company_id": "openai",
+            "date": "2026-09-03",
+            "direction": "ahead",
+            "equivalent_date": "2026-08-28",
+            "estimated": false,
+            "gap_days": -85,
+            "model": "GPT-6 Astra (max)",
+            "score": 53.0,
+            "status": "ok",
+            "tier": "T1"
+          },
+          {
+            "company": "月之暗面",
+            "company_id": "moonshot",
+            "date": "2026-07-16",
+            "direction": "ahead",
+            "equivalent_date": "2026-08-28",
+            "estimated": false,
+            "gap_days": -48,
+            "model": "Kimi K3 (max)",
+            "score": 44.0,
+            "status": "ok",
+            "tier": "T2"
+          },
+          {
+            "company": "SpaceXAI",
+            "company_id": "spacexai",
+            "date": "2026-08-12",
+            "direction": "ahead",
+            "equivalent_date": "2026-08-28",
+            "estimated": false,
+            "gap_days": -21,
+            "model": "Grok 4.6 (high)",
+            "score": 44.0,
+            "status": "ok",
+            "tier": "T2"
+          },
+          {
+            "company": "智谱",
+            "company_id": "zhipu",
+            "date": "2026-08-14",
+            "direction": "ahead",
+            "equivalent_date": "2026-08-28",
+            "estimated": false,
+            "gap_days": -25,
+            "model": "GLM-5.3 (max)",
+            "score": 45.0,
+            "status": "ok",
+            "tier": "T2"
+          },
+          {
+            "company": "Meta",
+            "company_id": "meta",
+            "date": "2026-09-02",
+            "direction": "ahead",
+            "equivalent_date": "2026-08-28",
+            "estimated": false,
+            "gap_days": -12,
+            "model": "Muse Spark 1.3",
+            "score": 48.0,
+            "status": "ok",
+            "tier": "T2"
+          },
+          {
+            "company": "阿里巴巴",
+            "company_id": "alibaba",
+            "date": "2026-09-02",
+            "direction": "ahead",
+            "equivalent_date": "2026-08-28",
+            "estimated": true,
+            "gap_days": -7,
+            "model": "Qwen3.8-Max-0902",
+            "score": 45.4,
+            "status": "ok",
+            "tier": "T2"
+          },
+          {
+            "company": "腾讯",
+            "company_id": "tencent",
+            "date": "2026-08-28",
+            "direction": "same",
+            "equivalent_date": "2026-08-28",
+            "estimated": true,
+            "gap_days": 0,
+            "model": "Hy4 preview",
+            "score": 43.4,
+            "status": "ok",
+            "tier": "T2"
+          },
+          {
+            "company": "Google",
+            "company_id": "google",
+            "date": "2026-09-02",
+            "direction": "behind",
+            "equivalent_date": "2026-08-20",
+            "estimated": false,
+            "gap_days": 13,
+            "model": "Gemini 3.8 Flash (high)",
+            "score": 41.0,
+            "status": "ok",
+            "tier": "T3"
+          },
+          {
+            "company": "DeepSeek",
+            "company_id": "deepseek",
+            "date": "2026-08-13",
+            "direction": "behind",
+            "equivalent_date": "2026-08-05",
+            "estimated": false,
+            "gap_days": 8,
+            "model": "V4 Pro 0813 (max)",
+            "score": 36.0,
+            "status": "ok",
+            "tier": "T4"
+          },
+          {
+            "company": "MiniMax",
+            "company_id": "minimax",
+            "date": "2026-06-01",
+            "direction": "ahead",
+            "equivalent_date": "2026-07-18",
+            "estimated": false,
+            "gap_days": -47,
+            "model": "MiniMax M3",
+            "score": 30.0,
+            "status": "ok",
+            "tier": "T4"
+          },
+          {
+            "company": "小米",
+            "company_id": "xiaomi",
+            "date": "2026-04-22",
+            "direction": "ahead",
+            "equivalent_date": "2026-07-06",
+            "estimated": false,
+            "gap_days": -75,
+            "model": "MiMo-V2.5-Pro",
+            "score": 26.0,
+            "status": "ok",
+            "tier": "T4"
+          }
+        ],
+        "date_end": "2026-08-28",
+        "date_start": "2026-07-06",
+        "id": "tencent",
+        "name": "腾讯",
+        "points": [
+          {
+            "date": "2026-07-06",
+            "model": "Hy3",
+            "score": 26.0
+          },
+          {
+            "date": "2026-08-28",
+            "estimated": true,
+            "model": "Hy4 preview",
+            "score": 43.4
+          }
+        ],
+        "status": "ok"
+      },
+      {
+        "benchmark": "AAII v4.3",
+        "comparisons": [
+          {
+            "company": "Anthropic",
+            "company_id": "anthropic",
+            "date": "2026-09-01",
+            "direction": "ahead",
+            "equivalent_date": "2026-09-02",
+            "estimated": false,
+            "gap_days": -92,
+            "model": "Claude Fable 5.1",
+            "score": 53.0,
+            "status": "ok",
+            "tier": "T1"
+          },
+          {
+            "company": "OpenAI",
+            "company_id": "openai",
+            "date": "2026-09-03",
+            "direction": "ahead",
+            "equivalent_date": "2026-09-02",
+            "estimated": false,
+            "gap_days": -71,
+            "model": "GPT-6 Astra (max)",
+            "score": 53.0,
+            "status": "ok",
+            "tier": "T1"
+          },
+          {
+            "company": "月之暗面",
+            "company_id": "moonshot",
+            "date": "2026-07-16",
+            "direction": "ahead",
+            "equivalent_date": "2026-08-25",
+            "estimated": false,
+            "gap_days": -40,
+            "model": "Kimi K3 (max)",
+            "score": 44.0,
+            "status": "ok",
+            "tier": "T2"
+          },
+          {
+            "company": "SpaceXAI",
+            "company_id": "spacexai",
+            "date": "2026-08-12",
+            "direction": "ahead",
+            "equivalent_date": "2026-08-25",
+            "estimated": false,
+            "gap_days": -13,
+            "model": "Grok 4.6 (high)",
+            "score": 44.0,
+            "status": "ok",
+            "tier": "T2"
+          },
+          {
+            "company": "智谱",
+            "company_id": "zhipu",
+            "date": "2026-08-14",
+            "direction": "ahead",
+            "equivalent_date": "2026-08-30",
+            "estimated": false,
+            "gap_days": -16,
+            "model": "GLM-5.3 (max)",
+            "score": 45.0,
+            "status": "ok",
+            "tier": "T2"
+          },
+          {
+            "company": "Meta",
+            "company_id": "meta",
+            "date": "2026-09-02",
+            "direction": "ahead",
+            "equivalent_date": "2026-09-02",
+            "estimated": false,
+            "gap_days": -10,
+            "model": "Muse Spark 1.3",
+            "score": 48.0,
+            "status": "ok",
+            "tier": "T2"
+          },
+          {
+            "company": "阿里巴巴",
+            "company_id": "alibaba",
+            "date": "2026-09-02",
+            "direction": "same",
+            "equivalent_date": "2026-09-02",
+            "estimated": true,
+            "gap_days": 0,
+            "model": "Qwen3.8-Max-0902",
+            "score": 45.4,
+            "status": "ok",
+            "tier": "T2"
+          },
+          {
+            "company": "腾讯",
+            "company_id": "tencent",
+            "date": "2026-08-28",
+            "direction": "behind",
+            "equivalent_date": "2026-08-21",
+            "estimated": true,
+            "gap_days": 7,
+            "model": "Hy4 preview",
+            "score": 43.4,
+            "status": "ok",
+            "tier": "T2"
+          },
+          {
+            "company": "Google",
+            "company_id": "google",
+            "date": "2026-09-02",
+            "direction": "behind",
+            "equivalent_date": "2026-08-08",
+            "estimated": false,
+            "gap_days": 25,
+            "model": "Gemini 3.8 Flash (high)",
+            "score": 41.0,
+            "status": "ok",
+            "tier": "T3"
+          },
+          {
+            "company": "DeepSeek",
+            "company_id": "deepseek",
+            "date": "2026-08-13",
+            "direction": "behind",
+            "equivalent_date": "2026-07-03",
+            "estimated": false,
+            "gap_days": 41,
+            "model": "V4 Pro 0813 (max)",
+            "score": 36.0,
+            "status": "ok",
+            "tier": "T4"
+          },
+          {
+            "company": "MiniMax",
+            "company_id": "minimax",
+            "date": "2026-06-01",
+            "direction": "behind",
+            "equivalent_date": "2026-05-19",
+            "estimated": false,
+            "gap_days": 13,
+            "model": "MiniMax M3",
+            "score": 30.0,
+            "status": "ok",
+            "tier": "T4"
+          },
+          {
+            "company": "小米",
+            "company_id": "xiaomi",
+            "date": "2026-04-22",
+            "direction": null,
+            "equivalent_date": null,
+            "estimated": false,
+            "gap_days": null,
+            "model": "MiMo-V2.5-Pro",
+            "score": 26.0,
+            "status": "out_of_range",
+            "tier": "T4"
+          }
+        ],
+        "date_end": "2026-09-02",
+        "date_start": "2026-05-19",
+        "id": "alibaba",
+        "name": "阿里巴巴",
+        "points": [
+          {
+            "date": "2026-05-19",
+            "model": "Qwen3.7 Max",
+            "score": 30.0
+          },
+          {
+            "date": "2026-08-03",
+            "model": "Qwen3.8 Max",
+            "score": 40.0
+          },
+          {
+            "date": "2026-09-02",
+            "estimated": true,
+            "model": "Qwen3.8-Max-0902",
+            "score": 45.4
+          }
+        ],
+        "status": "ok"
+      },
+      {
+        "benchmark": "AAII v4.3",
+        "comparisons": [
+          {
+            "company": "Anthropic",
+            "company_id": "anthropic",
+            "date": "2026-09-01",
+            "direction": "ahead",
+            "equivalent_date": "2026-08-13",
+            "estimated": false,
+            "gap_days": -158,
+            "model": "Claude Fable 5.1",
+            "score": 53.0,
+            "status": "ok",
+            "tier": "T1"
+          },
+          {
+            "company": "OpenAI",
+            "company_id": "openai",
+            "date": "2026-09-03",
+            "direction": null,
+            "equivalent_date": null,
+            "estimated": false,
+            "gap_days": null,
+            "model": "GPT-6 Astra (max)",
+            "score": 53.0,
+            "status": "out_of_range",
+            "tier": "T1"
+          },
+          {
+            "company": "月之暗面",
+            "company_id": "moonshot",
+            "date": "2026-07-16",
+            "direction": "ahead",
+            "equivalent_date": "2026-08-13",
+            "estimated": false,
+            "gap_days": -93,
+            "model": "Kimi K3 (max)",
+            "score": 44.0,
+            "status": "ok",
+            "tier": "T2"
+          },
+          {
+            "company": "SpaceXAI",
+            "company_id": "spacexai",
+            "date": "2026-08-12",
+            "direction": null,
+            "equivalent_date": null,
+            "estimated": false,
+            "gap_days": null,
+            "model": "Grok 4.6 (high)",
+            "score": 44.0,
+            "status": "out_of_range",
+            "tier": "T2"
+          },
+          {
+            "company": "智谱",
+            "company_id": "zhipu",
+            "date": "2026-08-14",
+            "direction": "ahead",
+            "equivalent_date": "2026-08-13",
+            "estimated": false,
+            "gap_days": -61,
+            "model": "GLM-5.3 (max)",
+            "score": 45.0,
+            "status": "ok",
+            "tier": "T2"
+          },
+          {
+            "company": "Meta",
+            "company_id": "meta",
+            "date": "2026-09-02",
+            "direction": "ahead",
+            "equivalent_date": "2026-08-13",
+            "estimated": false,
+            "gap_days": -26,
+            "model": "Muse Spark 1.3",
+            "score": 48.0,
+            "status": "ok",
+            "tier": "T2"
+          },
+          {
+            "company": "阿里巴巴",
+            "company_id": "alibaba",
+            "date": "2026-09-02",
+            "direction": "ahead",
+            "equivalent_date": "2026-08-13",
+            "estimated": true,
+            "gap_days": -41,
+            "model": "Qwen3.8-Max-0902",
+            "score": 45.4,
+            "status": "ok",
+            "tier": "T2"
+          },
+          {
+            "company": "腾讯",
+            "company_id": "tencent",
+            "date": "2026-08-28",
+            "direction": "ahead",
+            "equivalent_date": "2026-08-13",
+            "estimated": true,
+            "gap_days": -8,
+            "model": "Hy4 preview",
+            "score": 43.4,
+            "status": "ok",
+            "tier": "T2"
+          },
+          {
+            "company": "Google",
+            "company_id": "google",
+            "date": "2026-09-02",
+            "direction": "ahead",
+            "equivalent_date": "2026-08-13",
+            "estimated": false,
+            "gap_days": -52,
+            "model": "Gemini 3.8 Flash (high)",
+            "score": 41.0,
+            "status": "ok",
+            "tier": "T3"
+          },
+          {
+            "company": "DeepSeek",
+            "company_id": "deepseek",
+            "date": "2026-08-13",
+            "direction": "same",
+            "equivalent_date": "2026-08-13",
+            "estimated": false,
+            "gap_days": 0,
+            "model": "V4 Pro 0813 (max)",
+            "score": 36.0,
+            "status": "ok",
+            "tier": "T4"
+          },
+          {
+            "company": "MiniMax",
+            "company_id": "minimax",
+            "date": "2026-06-01",
+            "direction": null,
+            "equivalent_date": null,
+            "estimated": false,
+            "gap_days": null,
+            "model": "MiniMax M3",
+            "score": 30.0,
+            "status": "out_of_range",
+            "tier": "T4"
+          },
+          {
+            "company": "小米",
+            "company_id": "xiaomi",
+            "date": "2026-04-22",
+            "direction": null,
+            "equivalent_date": null,
+            "estimated": false,
+            "gap_days": null,
+            "model": "MiMo-V2.5-Pro",
+            "score": 26.0,
+            "status": "out_of_range",
+            "tier": "T4"
+          }
+        ],
+        "date_end": "2026-08-13",
+        "date_start": "2026-04-24",
+        "id": "deepseek",
+        "name": "DeepSeek",
+        "points": [
+          {
+            "date": "2026-04-24",
+            "model": "DeepSeek V4 Pro (max)",
+            "score": 31.0
+          },
+          {
+            "date": "2026-07-31",
+            "model": "DeepSeek V4 Flash 0731 (max)",
+            "score": 35.0
+          },
+          {
+            "date": "2026-08-13",
+            "model": "DeepSeek V4 Pro 0813 (max)",
+            "score": 36.0
+          }
+        ],
+        "status": "ok"
+      },
+      {
+        "benchmark": "AAII v4.3",
+        "comparisons": [
+          {
+            "company": "Anthropic",
+            "company_id": "anthropic",
+            "date": "2026-09-01",
+            "direction": null,
+            "equivalent_date": null,
+            "estimated": false,
+            "gap_days": null,
+            "model": "Claude Fable 5.1",
+            "score": 53.0,
+            "status": "out_of_range",
+            "tier": "T1"
+          },
+          {
+            "company": "OpenAI",
+            "company_id": "openai",
+            "date": "2026-09-03",
+            "direction": null,
+            "equivalent_date": null,
+            "estimated": false,
+            "gap_days": null,
+            "model": "GPT-6 Astra (max)",
+            "score": 53.0,
+            "status": "out_of_range",
+            "tier": "T1"
+          },
+          {
+            "company": "月之暗面",
+            "company_id": "moonshot",
+            "date": "2026-07-16",
+            "direction": "ahead",
+            "equivalent_date": "2026-06-01",
+            "estimated": false,
+            "gap_days": -69,
+            "model": "Kimi K3 (max)",
+            "score": 44.0,
+            "status": "ok",
+            "tier": "T2"
+          },
+          {
+            "company": "SpaceXAI",
+            "company_id": "spacexai",
+            "date": "2026-08-12",
+            "direction": null,
+            "equivalent_date": null,
+            "estimated": false,
+            "gap_days": null,
+            "model": "Grok 4.6 (high)",
+            "score": 44.0,
+            "status": "out_of_range",
+            "tier": "T2"
+          },
+          {
+            "company": "智谱",
+            "company_id": "zhipu",
+            "date": "2026-08-14",
+            "direction": "ahead",
+            "equivalent_date": "2026-06-01",
+            "estimated": false,
+            "gap_days": -28,
+            "model": "GLM-5.3 (max)",
+            "score": 45.0,
+            "status": "ok",
+            "tier": "T2"
+          },
+          {
+            "company": "Meta",
+            "company_id": "meta",
+            "date": "2026-09-02",
+            "direction": null,
+            "equivalent_date": null,
+            "estimated": false,
+            "gap_days": null,
+            "model": "Muse Spark 1.3",
+            "score": 48.0,
+            "status": "out_of_range",
+            "tier": "T2"
+          },
+          {
+            "company": "阿里巴巴",
+            "company_id": "alibaba",
+            "date": "2026-09-02",
+            "direction": "ahead",
+            "equivalent_date": "2026-06-01",
+            "estimated": true,
+            "gap_days": -13,
+            "model": "Qwen3.8-Max-0902",
+            "score": 45.4,
+            "status": "ok",
+            "tier": "T2"
+          },
+          {
+            "company": "腾讯",
+            "company_id": "tencent",
+            "date": "2026-08-28",
+            "direction": "behind",
+            "equivalent_date": "2026-06-01",
+            "estimated": true,
+            "gap_days": 47,
+            "model": "Hy4 preview",
+            "score": 43.4,
+            "status": "ok",
+            "tier": "T2"
+          },
+          {
+            "company": "Google",
+            "company_id": "google",
+            "date": "2026-09-02",
+            "direction": null,
+            "equivalent_date": null,
+            "estimated": false,
+            "gap_days": null,
+            "model": "Gemini 3.8 Flash (high)",
+            "score": 41.0,
+            "status": "out_of_range",
+            "tier": "T3"
+          },
+          {
+            "company": "DeepSeek",
+            "company_id": "deepseek",
+            "date": "2026-08-13",
+            "direction": null,
+            "equivalent_date": null,
+            "estimated": false,
+            "gap_days": null,
+            "model": "V4 Pro 0813 (max)",
+            "score": 36.0,
+            "status": "out_of_range",
+            "tier": "T4"
+          },
+          {
+            "company": "MiniMax",
+            "company_id": "minimax",
+            "date": "2026-06-01",
+            "direction": "same",
+            "equivalent_date": "2026-06-01",
+            "estimated": false,
+            "gap_days": 0,
+            "model": "MiniMax M3",
+            "score": 30.0,
+            "status": "ok",
+            "tier": "T4"
+          },
+          {
+            "company": "小米",
+            "company_id": "xiaomi",
+            "date": "2026-04-22",
+            "direction": "behind",
+            "equivalent_date": "2026-03-13",
+            "estimated": false,
+            "gap_days": 40,
+            "model": "MiMo-V2.5-Pro",
+            "score": 26.0,
+            "status": "ok",
+            "tier": "T4"
+          }
+        ],
+        "date_end": "2026-06-01",
+        "date_start": "2025-10-26",
+        "id": "minimax",
+        "name": "MiniMax",
+        "points": [
+          {
+            "date": "2025-10-26",
+            "estimated": true,
+            "model": "MiniMax-M2",
+            "score": 19.0
+          },
+          {
+            "date": "2026-06-01",
+            "model": "MiniMax M3",
+            "score": 30.0
+          }
+        ],
+        "status": "ok"
+      },
+      {
+        "benchmark": "AAII v4.3",
+        "comparisons": [
+          {
+            "company": "Anthropic",
+            "company_id": "anthropic",
+            "date": "2026-09-01",
+            "direction": null,
+            "equivalent_date": null,
+            "estimated": false,
+            "gap_days": null,
+            "model": "Claude Fable 5.1",
+            "score": 53.0,
+            "status": "out_of_range",
+            "tier": "T1"
+          },
+          {
+            "company": "OpenAI",
+            "company_id": "openai",
+            "date": "2026-09-03",
+            "direction": null,
+            "equivalent_date": null,
+            "estimated": false,
+            "gap_days": null,
+            "model": "GPT-6 Astra (max)",
+            "score": 53.0,
+            "status": "out_of_range",
+            "tier": "T1"
+          },
+          {
+            "company": "月之暗面",
+            "company_id": "moonshot",
+            "date": "2026-07-16",
+            "direction": "ahead",
+            "equivalent_date": "2026-04-22",
+            "estimated": false,
+            "gap_days": -61,
+            "model": "Kimi K3 (max)",
+            "score": 44.0,
+            "status": "ok",
+            "tier": "T2"
+          },
+          {
+            "company": "SpaceXAI",
+            "company_id": "spacexai",
+            "date": "2026-08-12",
+            "direction": null,
+            "equivalent_date": null,
+            "estimated": false,
+            "gap_days": null,
+            "model": "Grok 4.6 (high)",
+            "score": 44.0,
+            "status": "out_of_range",
+            "tier": "T2"
+          },
+          {
+            "company": "智谱",
+            "company_id": "zhipu",
+            "date": "2026-08-14",
+            "direction": "ahead",
+            "equivalent_date": "2026-04-22",
+            "estimated": false,
+            "gap_days": -15,
+            "model": "GLM-5.3 (max)",
+            "score": 45.0,
+            "status": "ok",
+            "tier": "T2"
+          },
+          {
+            "company": "Meta",
+            "company_id": "meta",
+            "date": "2026-09-02",
+            "direction": null,
+            "equivalent_date": null,
+            "estimated": false,
+            "gap_days": null,
+            "model": "Muse Spark 1.3",
+            "score": 48.0,
+            "status": "out_of_range",
+            "tier": "T2"
+          },
+          {
+            "company": "阿里巴巴",
+            "company_id": "alibaba",
+            "date": "2026-09-02",
+            "direction": null,
+            "equivalent_date": null,
+            "estimated": true,
+            "gap_days": null,
+            "model": "Qwen3.8-Max-0902",
+            "score": 45.4,
+            "status": "out_of_range",
+            "tier": "T2"
+          },
+          {
+            "company": "腾讯",
+            "company_id": "tencent",
+            "date": "2026-08-28",
+            "direction": "behind",
+            "equivalent_date": "2026-04-22",
+            "estimated": true,
+            "gap_days": 75,
+            "model": "Hy4 preview",
+            "score": 43.4,
+            "status": "ok",
+            "tier": "T2"
+          },
+          {
+            "company": "Google",
+            "company_id": "google",
+            "date": "2026-09-02",
+            "direction": null,
+            "equivalent_date": null,
+            "estimated": false,
+            "gap_days": null,
+            "model": "Gemini 3.8 Flash (high)",
+            "score": 41.0,
+            "status": "out_of_range",
+            "tier": "T3"
+          },
+          {
+            "company": "DeepSeek",
+            "company_id": "deepseek",
+            "date": "2026-08-13",
+            "direction": null,
+            "equivalent_date": null,
+            "estimated": false,
+            "gap_days": null,
+            "model": "V4 Pro 0813 (max)",
+            "score": 36.0,
+            "status": "out_of_range",
+            "tier": "T4"
+          },
+          {
+            "company": "MiniMax",
+            "company_id": "minimax",
+            "date": "2026-06-01",
+            "direction": "ahead",
+            "equivalent_date": "2026-04-22",
+            "estimated": false,
+            "gap_days": -40,
+            "model": "MiniMax M3",
+            "score": 30.0,
+            "status": "ok",
+            "tier": "T4"
+          },
+          {
+            "company": "小米",
+            "company_id": "xiaomi",
+            "date": "2026-04-22",
+            "direction": "same",
+            "equivalent_date": "2026-04-22",
+            "estimated": false,
+            "gap_days": 0,
+            "model": "MiMo-V2.5-Pro",
+            "score": 26.0,
+            "status": "ok",
+            "tier": "T4"
+          }
+        ],
+        "date_end": "2026-04-22",
+        "date_start": "2025-12-16",
+        "id": "xiaomi",
+        "name": "小米",
+        "points": [
+          {
+            "date": "2025-12-16",
+            "estimated": true,
+            "model": "MiMo-V2-Flash (Feb 2026)",
+            "score": 22.0
+          },
+          {
+            "date": "2026-04-22",
+            "model": "MiMo-V2.5-Pro",
+            "score": 26.0
+          }
+        ],
+        "status": "ok"
+      }
+    ]
+  },
+  "frontier": {
+    "date": "2026-09-01",
+    "name": "Claude Fable 5.1",
+    "score": 53.0
+  },
+  "generated_at": "2026-09-10T10:36:24",
+  "pools": {
+    "main": {
+      "Claude Fable 5": [
+        50.0,
+        "2026-06-09"
+      ],
+      "Claude Fable 5.1": [
+        53.0,
+        "2026-09-01"
+      ],
+      "Claude Opus 4.6": [
+        32.0,
+        "2026-02-05"
+      ],
+      "Claude Opus 4.7": [
+        41.0,
+        "2026-04-16"
+      ],
+      "Claude Opus 4.8": [
+        42.0,
+        "2026-05-28"
+      ],
+      "Claude Opus 5": [
+        51.0,
+        "2026-07-24"
+      ]
+    }
+  },
+  "rows": [
+    {
+      "anchor": "—（基准自身）",
+      "company_id": "anthropic",
+      "d": 0,
+      "date": "2026-09-01",
+      "dt": 0,
+      "estimated": false,
+      "g": 0,
+      "model": "Claude Fable 5.1",
+      "name": "Anthropic",
+      "overridden": false,
+      "score": 53.0,
+      "tier": "T1",
+      "up": false
+    },
+    {
+      "anchor": "Claude Opus 5 → Claude Fable 5.1 (外推)",
+      "company_id": "openai",
+      "d": 2,
+      "date": "2026-09-03",
+      "dt": 2,
+      "estimated": false,
+      "g": 0,
+      "model": "GPT-6 Astra (max)",
+      "name": "OpenAI",
+      "overridden": false,
+      "score": 53.0,
+      "tier": "T1",
+      "up": false
+    },
+    {
+      "anchor": "Claude Opus 4.8 → Claude Fable 5",
+      "company_id": "moonshot",
+      "d": 139,
+      "date": "2026-07-16",
+      "dt": 46,
+      "estimated": false,
+      "g": 93,
+      "model": "Kimi K3 (max)",
+      "name": "月之暗面",
+      "overridden": false,
+      "score": 44.0,
+      "tier": "T2",
+      "up": false
+    },
+    {
+      "anchor": "Claude Opus 4.8 → Claude Fable 5",
+      "company_id": "spacexai",
+      "d": 166,
+      "date": "2026-08-12",
+      "dt": 73,
+      "estimated": false,
+      "g": 93,
+      "model": "Grok 4.6 (high)",
+      "name": "SpaceXAI",
+      "overridden": false,
+      "score": 44.0,
+      "tier": "T2",
+      "up": false
+    },
+    {
+      "anchor": "Claude Opus 4.8 → Claude Fable 5",
+      "company_id": "zhipu",
+      "d": 166,
+      "date": "2026-08-14",
+      "dt": 74,
+      "estimated": false,
+      "g": 92,
+      "model": "GLM-5.3 (max)",
+      "name": "智谱",
+      "overridden": false,
+      "score": 45.0,
+      "tier": "T2",
+      "up": false
+    },
+    {
+      "anchor": "Claude Opus 4.8 → Claude Fable 5",
+      "company_id": "meta",
+      "d": 175,
+      "date": "2026-09-02",
+      "dt": 88,
+      "estimated": false,
+      "g": 87,
+      "model": "Muse Spark 1.3",
+      "name": "Meta",
+      "overridden": false,
+      "score": 48.0,
+      "tier": "T2",
+      "up": false
+    },
+    {
+      "anchor": "Claude Opus 4.8 → Claude Fable 5",
+      "company_id": "alibaba",
+      "d": 183,
+      "date": "2026-09-02",
+      "dt": 92,
+      "estimated": true,
+      "g": 91,
+      "model": "Qwen3.8-Max-0902",
+      "name": "阿里巴巴",
+      "overridden": false,
+      "score": 45.4,
+      "tier": "T2",
+      "up": false
+    },
+    {
+      "anchor": "Claude Opus 4.8 → Claude Fable 5",
+      "company_id": "tencent",
+      "d": 184,
+      "date": "2026-08-28",
+      "dt": 90,
+      "estimated": true,
+      "g": 94,
+      "model": "Hy4 preview",
+      "name": "腾讯",
+      "overridden": false,
+      "score": 43.4,
+      "tier": "T2",
+      "up": false
+    },
+    {
+      "anchor": "Claude Opus 4.6 → Claude Opus 4.7",
+      "company_id": "google",
+      "d": 277,
+      "date": "2026-09-02",
+      "dt": 139,
+      "estimated": false,
+      "g": 138,
+      "model": "Gemini 3.8 Flash (high)",
+      "name": "Google",
+      "overridden": false,
+      "score": 41.0,
+      "tier": "T3",
+      "up": false
+    },
+    {
+      "anchor": "Claude Opus 4.6 → Claude Opus 4.7",
+      "company_id": "deepseek",
+      "d": 335,
+      "date": "2026-08-13",
+      "dt": 158,
+      "estimated": false,
+      "g": 177,
+      "model": "V4 Pro 0813 (max)",
+      "name": "DeepSeek",
+      "overridden": false,
+      "score": 36.0,
+      "tier": "T4",
+      "up": false
+    },
+    {
+      "anchor": "Claude Opus 4.6 → Claude Opus 4.7 (外推)",
+      "company_id": "minimax",
+      "d": 356,
+      "date": "2026-06-01",
+      "dt": 132,
+      "estimated": false,
+      "g": 224,
+      "model": "MiniMax M3",
+      "name": "MiniMax",
+      "overridden": false,
+      "score": 30.0,
+      "tier": "T4",
+      "up": false
+    },
+    {
+      "anchor": "Claude Opus 4.6 → Claude Opus 4.7 (外推)",
+      "company_id": "xiaomi",
+      "d": 378,
+      "date": "2026-04-22",
+      "dt": 123,
+      "estimated": false,
+      "g": 255,
+      "model": "MiMo-V2.5-Pro",
+      "name": "小米",
+      "overridden": false,
+      "score": 26.0,
+      "tier": "T4",
+      "up": false
+    }
+  ],
+  "schema_version": 4,
+  "self_check": [
+    {
+      "detail": "全部模型统一通过",
+      "item": "D 口径（D=G+Δt）",
+      "ok": true
+    },
+    {
+      "detail": "12 家可选，12 家可计算，0 家待补曲线",
+      "item": "公司对标曲线",
+      "ok": true
+    },
+    {
+      "detail": "66 对，可算 51，换参照一致，前沿池 5 段逐段扰动（每段拉长一半）分档成员全部不变；最陡段 Claude Opus 4.8→Claude Fable 5（0.67 分/天）",
+      "item": "两两验证（ALG-08）",
+      "ok": true
+    },
+    {
+      "detail": "12 行全部通过",
+      "item": "分档区间（左闭右开）",
+      "ok": true
+    },
+    {
+      "detail": "全部 ≥ 0",
+      "item": "无负差距（D ≥ 0）",
+      "ok": true
+    },
+    {
+      "detail": "Muse Spark 1.1 191  →  Muse Spark 1.2 179  →  Muse Spark 1.3 57　（固定发布日 2026-09-02）",
+      "item": "单调性（分升则 D 降）",
+      "ok": true
+    },
+    {
+      "detail": "Claude Fable 5.1",
+      "item": "前沿锚自洽（D=0）",
+      "ok": true
+    },
+    {
+      "detail": "",
+      "item": "在途修正适用性",
+      "ok": true
+    }
+  ],
+  "tier_bands": [
+    {
+      "hi": 100,
+      "label": "T1",
+      "lo": 0
+    },
+    {
+      "hi": 200,
+      "label": "T2",
+      "lo": 100
+    },
+    {
+      "hi": 300,
+      "label": "T3",
+      "lo": 200
+    },
+    {
+      "hi": null,
+      "label": "T4",
+      "lo": 300
+    }
+  ]
+}
