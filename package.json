@@ -4,12 +4,12 @@
   "type": "module",
   "scripts": {
     "dev": "next dev",
-    "build": "next build",
+    "build": "npm run data:check && npm run feeds && next build",
     "start": "next start -p ${PORT:-3000}",
     "start:redis": "REDIS_URL=$REDIS_URL next start -p ${PORT:-3000}",
     "feeds": "node scripts/emit-feeds.ts",
     "data:check": "node scripts/data-contract.mjs",
-    "verify": "npm run data:check && npm run feeds && npm run build && node scripts/serve-check.mjs"
+    "verify": "npm run build && node scripts/serve-check.mjs"
   },
   "dependencies": {
     "@radix-ui/react-select": "^2.3.7",
@@ -27,6 +27,6 @@
     "typescript": "^5.9.2"
   },
   "engines": {
-    "node": ">=23.6"
+    "node": "24.x"
   }
 }

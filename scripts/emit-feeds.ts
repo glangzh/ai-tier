@@ -8,7 +8,9 @@ import { join, resolve } from "node:path";
 const ROOT = resolve(import.meta.dirname, "..");
 const DATA = join(ROOT, "data");
 const PUBLIC = join(ROOT, "public");
-const SITE = (process.env.SITE_URL || "https://airadar.example").replace(/\/$/, "");
+const SITE = (process.env.SITE_URL || (process.env.VERCEL_PROJECT_PRODUCTION_URL
+  ? `https://${process.env.VERCEL_PROJECT_PRODUCTION_URL}`
+  : "https://airadar.example")).replace(/\/$/, "");
 const read = async (rel: string) => JSON.parse(await readFile(join(DATA, rel), "utf8"));
 const esc = (s: unknown) => String(s ?? "").replace(/[<>&]/g, (c) => ({ "<": "&lt;", ">": "&gt;", "&": "&amp;" }[c] ?? c));
 const TYPE_LABEL: Record<string, string> = {

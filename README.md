@@ -14,4 +14,12 @@ pnpm start
 
 GitHub 目标为 [glangzh/ai-tier](https://github.com/glangzh/ai-tier)，remote 仅配置在本目录：`git -C site remote add origin https://github.com/glangzh/ai-tier.git`（在完整工作区根目录执行）。
 
-当前迁移分支是 `codex/airadar-frontend`；合并前保留 `main` 的旧 Vite 站点。新前端含 Next.js Route Handlers，需要 Node 运行环境，不能直接沿用旧站点的 `dist/` 静态部署配置。
+当前前端以 `main` 为发布分支；旧 Vite 版本备份在 `backup/vite-main-2026-10-10`。
+
+## Vercel
+
+仓库根目录就是独立前端，无需设置 `site/` 为远端 Root Directory。
+`vercel.json` 指定 Next.js、锁定依赖安装和 `.next` 产物，`package.json` 指定 Node.js 24。
+构建先校验公开数据、生成 RSS/sitemap/robots，再运行 Next.js 构建；feeds 使用 `SITE_URL` 或 Vercel 的生产域名。
+
+在线打卡、投喂与宠物状态沿用 Redis 存储，需要在 Vercel 项目配置可从云端访问的 `REDIS_URL` 和 `EVENT_SALT`；凭据只放环境变量，不进 Git。
