@@ -7,3 +7,5 @@
 - 数据实质更新时，相关前端与公开数据可以同一提交；推送前运行 `npm run verify`。
 - 凭据、`.env`、运行状态、采集缓存、内部分析、根仓库历史不得进入本仓库或 GitHub。
 - 保留用户已有修改，排除无关改动。禁止强制推送。
+- 唯一 GitHub 目标：`https://github.com/glangzh/ai-tier`。推送前核对 `origin`；等价 SSH 地址可用，其它目标禁止推送。
+- 当前迁移分支为 `codex/airadar-frontend`；不自动合并迁移 PR，不覆盖远端 `main` 的旧 Vite 部署。

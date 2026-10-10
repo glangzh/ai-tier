@@ -12,4 +12,6 @@ pnpm start
 `data/` 随前端版本提交，因此单独克隆本仓库即可构建，无需采集器、父目录或内部数据。
 在本地完整工作区更新数据后，从根目录运行 `npm run data:export`：仅导出公开索引、已验证梯队、模型搭配，以及公开活动引用的官方来源和证据。抓取状态、待审记录和完整事实源不导出。
 
-GitHub remote 必须配置在本目录：`git -C site remote add origin <明确的前端仓库地址>`（在完整工作区根目录执行）。
+GitHub 目标为 [glangzh/ai-tier](https://github.com/glangzh/ai-tier)，remote 仅配置在本目录：`git -C site remote add origin https://github.com/glangzh/ai-tier.git`（在完整工作区根目录执行）。
+
+当前迁移分支是 `codex/airadar-frontend`；合并前保留 `main` 的旧 Vite 站点。新前端含 Next.js Route Handlers，需要 Node 运行环境，不能直接沿用旧站点的 `dist/` 静态部署配置。
