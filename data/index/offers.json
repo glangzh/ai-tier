@@ -1,418 +1,6 @@
 [
   {
     "schemaVersion": 0,
-    "offerKey": "ad6b185485a0180a",
-    "occurredAt": "2026-09-18",
-    "publishedAt": "2026-09-18T11:33:00Z",
-    "verification": "auto_verified",
-    "category": "creditsPromotion",
-    "promotionType": "free",
-    "appliesTo": [
-      "model"
-    ],
-    "vendor": "qoder",
-    "entity": "qwen3.8-flash",
-    "amount": "计费系数由 0.1× 降至 0.0×",
-    "eligibility": "Qoder 国际版新老个人用户",
-    "howToClaim": "auto",
-    "startsAt": "2026-09-18T02:00:00Z",
-    "startsAtText": "2026 年 9 月 18 日 10:00",
-    "expiresAt": "2026-09-30T15:59:59Z",
-    "expiresAtText": "9 月 30 日 23:59:59",
-    "region": null,
-    "restrictions": "团队版（Teams）及企业版（Enterprise）订阅用户不适用；账号 Credits 余额为 0 时也可使用",
-    "claimUrl": "https://docs.qoder.com/zh/events/flashoffer",
-    "sourceId": "qoder-events-flashoffer",
-    "facts": [
-      {
-        "quote": "指定模型 ：Qwen3.8-Flash。",
-        "url": "https://docs.qoder.com/zh/events/flashoffer",
-        "snapshot": "snapshots/qoder-events-flashoffer/2026-09-18-1133-70fe58dc.json"
-      },
-      {
-        "quote": "优惠内容 ：指定模型计费系数由 0.1× 降至 0.0×，调用该模型不消耗 Credits。",
-        "url": "https://docs.qoder.com/zh/events/flashoffer",
-        "snapshot": "snapshots/qoder-events-flashoffer/2026-09-18-1133-70fe58dc.json"
-      },
-      {
-        "quote": "活动时间 ：2026 年 9 月 18 日 10:00 至 9 月 30 日 23:59:59。",
-        "url": "https://docs.qoder.com/zh/events/flashoffer",
-        "snapshot": "snapshots/qoder-events-flashoffer/2026-09-18-1133-70fe58dc.json"
-      }
-    ],
-    "supersedes": null,
-    "quantity": null
-  },
-  {
-    "schemaVersion": 0,
-    "offerKey": "404b19e575f5a9a3",
-    "occurredAt": "2026-09-18",
-    "publishedAt": "2026-09-18T11:19:00Z",
-    "verification": "auto_verified",
-    "category": "creditsPromotion",
-    "promotionType": "bonus",
-    "appliesTo": [
-      "subscription"
-    ],
-    "planKind": "toolPlan",
-    "vendor": "qoder",
-    "entity": "qoder-pro",
-    "amount": "加赠 1,000 Credits",
-    "eligibility": "仅限个人版",
-    "howToClaim": "purchase",
-    "startsAt": "2026-09-01T02:00:00Z",
-    "startsAtText": "9 月续费、升级",
-    "expiresAt": "2026-09-30T16:00:00Z",
-    "expiresAtText": "9 月 30 日 24:00（SGT）",
-    "region": null,
-    "restrictions": "Teams、企业版不参与加赠。到账后 30 天内有效。",
-    "claimUrl": "https://docs.qoder.com/zh/events/bogo",
-    "sourceId": "qoder-events-bogo",
-    "facts": [
-      {
-        "quote": "续费、升级加赠 ：9 月续费或升级加赠 1,000 Credits，适用于 Pro、Pro+、Ultra",
-        "url": "https://docs.qoder.com/zh/events/bogo",
-        "snapshot": "snapshots/qoder-events-bogo/2026-09-18-1119-bc48b0f4.json"
-      },
-      {
-        "quote": "Teams、企业版不参与加赠。",
-        "url": "https://docs.qoder.com/zh/events/bogo",
-        "snapshot": "snapshots/qoder-events-bogo/2026-09-18-1119-bc48b0f4.json"
-      },
-      {
-        "quote": "付款成功后几分钟内自动到账，不需要额外操作。到账后 30 天内有效。",
-        "url": "https://docs.qoder.com/zh/events/bogo",
-        "snapshot": "snapshots/qoder-events-bogo/2026-09-18-1119-bc48b0f4.json"
-      }
-    ],
-    "supersedes": null,
-    "quantity": {
-      "value": 1000,
-      "unit": "credits",
-      "raw": "加赠 1,000 Credits"
-    }
-  },
-  {
-    "schemaVersion": 0,
-    "offerKey": "446642bff10e4457",
-    "occurredAt": "2026-09-18",
-    "publishedAt": "2026-09-18T11:19:00Z",
-    "verification": "auto_verified",
-    "category": "creditsPromotion",
-    "promotionType": "bonus",
-    "appliesTo": [
-      "subscription"
-    ],
-    "planKind": "toolPlan",
-    "vendor": "qoder",
-    "entity": "qoder-pro",
-    "amount": "Pro 首月 4,000 / Pro+ 12,000",
-    "eligibility": "个人版首次下单",
-    "howToClaim": "purchase",
-    "startsAt": "2026-09-01T02:00:00Z",
-    "startsAtText": "2026 年 9 月 1 日 10:00",
-    "expiresAt": "2026-09-30T16:00:00Z",
-    "expiresAtText": "9 月 30 日 24:00（SGT）",
-    "region": null,
-    "restrictions": "Teams、企业版不参与加赠。首次付费不加赠 Ultra。",
-    "claimUrl": "https://docs.qoder.com/zh/events/bogo",
-    "sourceId": "qoder-events-bogo",
-    "facts": [
-      {
-        "quote": "首次下单，Pro / Pro+ 加赠等额 Credits ：Pro 首月 4,000 / Pro+ 12,000。",
-        "url": "https://docs.qoder.com/zh/events/bogo",
-        "snapshot": "snapshots/qoder-events-bogo/2026-09-18-1119-bc48b0f4.json"
-      },
-      {
-        "quote": "活动时间：2026 年 9 月 1 日 10:00 至 9 月 30 日 24:00（SGT）。加赠以订单支付成功时间是否在活动期内为准。",
-        "url": "https://docs.qoder.com/zh/events/bogo",
-        "snapshot": "snapshots/qoder-events-bogo/2026-09-18-1119-bc48b0f4.json"
-      }
-    ],
-    "supersedes": null,
-    "quantity": null
-  },
-  {
-    "schemaVersion": 0,
-    "occurredAt": "2026-09-18",
-    "publishedAt": "2026-09-18T17:38:00Z",
-    "verification": "auto_verified",
-    "category": "creditsPromotion",
-    "region": null,
-    "startsAt": null,
-    "startsAtText": null,
-    "expiresAt": "2026-09-30T23:59:59+08:00",
-    "expiresAtText": "即日起至2026年9月30日期间",
-    "validityText": null,
-    "supersedes": null,
-    "offerKey": "64cf70e68f3bd04d",
-    "promotionType": "referral",
-    "appliesTo": [
-      "agent"
-    ],
-    "vendor": "workbuddy",
-    "entity": "workbuddy",
-    "amount": "邀请好友首次使用，即得 50 积分",
-    "eligibility": "将专属邀请链接或海报分享给好友",
-    "baseline": null,
-    "howToClaim": "invite",
-    "restrictions": "活跃奖：好友7日内累计使用3天，额外得 100 积分；好友30天内首次付费升级个人版，双方各得 500 积分",
-    "claimUrl": "https://www.workbuddy.cn/events/invite",
-    "sourceId": "workbuddy-invite",
-    "facts": [
-      {
-        "quote": "基础奖：邀请好友首次使用，即得 50 积分 活跃奖：好友7日内累计使用3天，额外得 100 积分",
-        "url": "https://www.workbuddy.cn/events/invite",
-        "snapshot": "snapshots/workbuddy-invite/2026-09-18-1736-8145630a.json"
-      },
-      {
-        "quote": "即日起至2026年9月30日期间，推荐好友使用，一起拿积分",
-        "url": "https://www.workbuddy.cn/events/invite",
-        "snapshot": "snapshots/workbuddy-invite/2026-09-18-1736-8145630a.json"
-      },
-      {
-        "quote": "分享专属链接 将专属邀请链接或海报分享给好友",
-        "url": "https://www.workbuddy.cn/events/invite",
-        "snapshot": "snapshots/workbuddy-invite/2026-09-18-1736-8145630a.json"
-      }
-    ],
-    "quantity": {
-      "value": 50,
-      "unit": "points",
-      "raw": "邀请好友首次使用，即得 50 积分"
-    }
-  },
-  {
-    "schemaVersion": 0,
-    "occurredAt": "2026-09-18",
-    "publishedAt": "2026-09-18T17:38:00Z",
-    "verification": "auto_verified",
-    "category": "creditsPromotion",
-    "region": null,
-    "startsAt": null,
-    "startsAtText": null,
-    "expiresAt": "2026-09-30T23:59:59+08:00",
-    "expiresAtText": "即日起至2026年9月30日期间",
-    "validityText": null,
-    "supersedes": null,
-    "offerKey": "8e0188729b6bfd63",
-    "promotionType": "newcomer",
-    "appliesTo": [
-      "agent"
-    ],
-    "vendor": "workbuddy",
-    "entity": "workbuddy",
-    "amount": "好友注册即享 2,000 积分",
-    "eligibility": "新用户福利（截止日期：2026年9月30日）",
-    "baseline": null,
-    "howToClaim": "signup",
-    "restrictions": "通过邀请链接注册的新用户可得 2,000 积分；积分用途与有效期见活动页折叠项",
-    "claimUrl": "https://www.workbuddy.cn/events/invite",
-    "sourceId": "workbuddy-invite",
-    "facts": [
-      {
-        "quote": "好友注册即享 2,000 积分 新用户福利（截止日期：2026年9月30日）",
-        "url": "https://www.workbuddy.cn/events/invite",
-        "snapshot": "snapshots/workbuddy-invite/2026-09-18-1736-8145630a.json"
-      },
-      {
-        "quote": "即日起至2026年9月30日期间，推荐好友使用，一起拿积分",
-        "url": "https://www.workbuddy.cn/events/invite",
-        "snapshot": "snapshots/workbuddy-invite/2026-09-18-1736-8145630a.json"
-      }
-    ],
-    "quantity": {
-      "value": 2000,
-      "unit": "points",
-      "raw": "好友注册即享 2,000 积分"
-    }
-  },
-  {
-    "schemaVersion": 0,
-    "occurredAt": "2026-09-18",
-    "publishedAt": "2026-09-18T15:00:00Z",
-    "verification": "auto_verified",
-    "category": "creditsPromotion",
-    "region": null,
-    "offerKey": "f3b98e6cb9a8aa57",
-    "promotionType": "referral",
-    "appliesTo": [
-      "agent",
-      "subscription"
-    ],
-    "planKind": "toolPlan",
-    "vendor": "trae",
-    "entity": "traecode",
-    "amount": "邀请人与被邀请人双方各获得 500 通用积分",
-    "eligibility": "活动期间已注册并登录 TraeCode 的用户",
-    "howToClaim": "invite",
-    "validityText": "自积分发放之日起 31 天 内有效，逾期未使用自动失效",
-    "restrictions": "单个邀请人活动期间累计最高可获得 3500 积分；老用户通过链接登录不计为有效邀请；通用积分可在 TraeCode 与 TraeWork 使用；不可转让、不可兑现、不可开票",
-    "startsAt": "2026-09-07T00:00:00+08:00",
-    "startsAtText": "2026 年 09 月 07 日 00:00:00 - 2026 年 10 月 01 日 00:00:00",
-    "expiresAt": "2026-10-01T00:00:00+08:00",
-    "expiresAtText": "2026 年 09 月 07 日 00:00:00 - 2026 年 10 月 01 日 00:00:00",
-    "claimUrl": "https://docs.trae.cn/ide_ide_invite-new-users-to-earn-credits-for-traecode",
-    "sourceId": "trae-invite-credits",
-    "supersedes": "119218f5bb88e465",
-    "facts": [
-      {
-        "quote": "奖励内容 ：每完成一次有效邀请， 邀请人与被邀请人双方各获得 500 通用积分 。",
-        "url": "https://docs.trae.cn/ide_ide_invite-new-users-to-earn-credits-for-traecode",
-        "snapshot": "snapshots/trae-invite-credits/2026-09-18-1500-39510c9f.json"
-      },
-      {
-        "quote": "奖励上限（封顶） ：单个邀请人活动期间累计最高可获得 3500 积分。",
-        "url": "https://docs.trae.cn/ide_ide_invite-new-users-to-earn-credits-for-traecode",
-        "snapshot": "snapshots/trae-invite-credits/2026-09-18-1500-39510c9f.json"
-      },
-      {
-        "quote": "积分有效期 ：自积分发放之日起 31 天 内有效，逾期未使用自动失效。",
-        "url": "https://docs.trae.cn/ide_ide_invite-new-users-to-earn-credits-for-traecode",
-        "snapshot": "snapshots/trae-invite-credits/2026-09-18-1500-39510c9f.json"
-      },
-      {
-        "quote": "邀请人 ：活动期间已注册并登录 TraeCode 的用户；",
-        "url": "https://docs.trae.cn/ide_ide_invite-new-users-to-earn-credits-for-traecode",
-        "snapshot": "snapshots/trae-invite-credits/2026-09-18-1500-39510c9f.json"
-      }
-    ],
-    "quantity": {
-      "value": 500,
-      "unit": "points",
-      "raw": "邀请人与被邀请人双方各获得 500 通用积分"
-    }
-  },
-  {
-    "schemaVersion": 0,
-    "offerKey": "3812c3d2854743b3",
-    "occurredAt": "2026-09-18",
-    "publishedAt": "2026-09-18T15:20:00Z",
-    "verification": "auto_verified",
-    "category": "creditsPromotion",
-    "promotionType": "discount",
-    "appliesTo": [
-      "model",
-      "subscription"
-    ],
-    "planKind": "codingPlan",
-    "vendor": "zhipu",
-    "entity": "glm-coding-plan",
-    "amount": "额度消耗全部为 0",
-    "eligibility": "通过 GLM Coding Plan 使用 GLM-5.3-Flash 模型",
-    "howToClaim": "auto",
-    "startsAt": "2026-09-03T00:00:00+08:00",
-    "startsAtText": "2026 年 9 月 3 日至 2026 年 10 月 7 日",
-    "expiresAt": "2026-10-07T23:59:59+08:00",
-    "expiresAtText": "2026 年 9 月 3 日至 2026 年 10 月 7 日",
-    "validityText": null,
-    "region": null,
-    "restrictions": "错峰时段（每日 23:00 至次日 09:00）内通过 ZCode、AutoClaw 使用 GLM-5.3-Flash 额度消耗全部为 0；通过套餐支持的其他 Agent 使用时可用额度按标准规则 ×2 倍；仅 GLM-5.3-Flash，选用 GLM-5.3 仍按套餐标准规则消耗；已达 5 小时/周 限额上限时暂不可参与；需 ZCode 3.10 及以上版本",
-    "claimUrl": "https://docs.bigmodel.cn/cn/coding-plan/notice/event-glm-5.3-flash",
-    "sourceId": "zhipu-event-glm-flash",
-    "supersedes": "a87c7a3823113d0f",
-    "facts": [
-      {
-        "quote": "通过 ZCode 使用 额度消耗全部为 0 ，畅用爽蹬",
-        "url": "https://docs.bigmodel.cn/cn/coding-plan/notice/event-glm-5.3-flash",
-        "snapshot": "snapshots/zhipu-event-glm-flash/2026-09-18-1440-24e2e5de.json"
-      },
-      {
-        "quote": "通过套餐支持的其他 Agent 使用 可用额度在您套餐标准规则的基础上全部 ×2 倍",
-        "url": "https://docs.bigmodel.cn/cn/coding-plan/notice/event-glm-5.3-flash",
-        "snapshot": "snapshots/zhipu-event-glm-flash/2026-09-18-1440-24e2e5de.json"
-      },
-      {
-        "quote": "该活动 仅支持 GLM-5.3-Flash 模型 ；错峰时段内选用 GLM-5.3，仍按套餐标准规则消耗额度。",
-        "url": "https://docs.bigmodel.cn/cn/coding-plan/notice/event-glm-5.3-flash",
-        "snapshot": "snapshots/zhipu-event-glm-flash/2026-09-18-1440-24e2e5de.json"
-      },
-      {
-        "quote": "活动时间：2026 年 9 月 3 日至 2026 年 10 月 7 日 （活动截止时间已从 9 月 20 日延期至 10 月 7 日）。",
-        "url": "https://docs.bigmodel.cn/cn/coding-plan/notice/event-glm-5.3-flash",
-        "snapshot": "snapshots/zhipu-event-glm-flash/2026-09-27-1357-6bfad035.json"
-      },
-      {
-        "quote": "夜间畅用活动 来袭：9 月 3 日至 10 月 7 日，每日 23:00～次日 09:00，套餐用户在 ZCode 、 AutoClaw 端调用 GLM-5.3-Flash 无限畅蹬，在其他 Agent 额度翻倍！",
-        "url": "https://docs.bigmodel.cn/cn/coding-plan/overview",
-        "snapshot": "snapshots/zhipu-coding-plan/2026-09-27-1357-e6e9de0b.json"
-      }
-    ],
-    "baseline": "套餐标准规则",
-    "quantity": null
-  },
-  {
-    "schemaVersion": 0,
-    "offerKey": "bb9c6c6c18d72a28",
-    "occurredAt": "2026-09-27",
-    "publishedAt": "2026-09-27T13:57:29.810Z",
-    "verification": "auto_verified",
-    "category": "creditsPromotion",
-    "region": null,
-    "startsAt": "2026-09-25T00:00:00+08:00",
-    "startsAtText": "9 月 25 日至 10 月 7 日",
-    "expiresAt": "2026-10-07T23:59:59+08:00",
-    "expiresAtText": "9 月 25 日至 10 月 7 日",
-    "validityText": null,
-    "supersedes": null,
-    "promotionType": "discount",
-    "appliesTo": [
-      "model",
-      "subscription"
-    ],
-    "planKind": "codingPlan",
-    "vendor": "zhipu",
-    "entity": "glm-coding-plan",
-    "amount": "全天按非高峰时段规则消耗额度",
-    "eligibility": "9 月 25 日至 10 月 7 日",
-    "baseline": "全部在高峰时段，按 1 倍积分消耗",
-    "howToClaim": "auto",
-    "restrictions": "「庆双节活动」为限时活动：9 月 25 日至 10 月 7 日期间，GLM Coding Plan 套餐额度全天（含高峰时段）按非高峰时段规则消耗，即按基础积分消耗的 50% 抵扣；参照物是标准消耗规则——高峰时段（每周一至周五的 14:00～18:00，UTC+8）按 1 倍积分消耗，非高峰时段按 50% 抵扣，活动期内高峰时段不再按 1 倍计。消耗的是套餐积分额度，用户已为套餐付费，故按 discount 入库而非 free。页面未说明需领取动作，同页兄弟活动标注「进入指定时间段自动生效」，本条按自动生效处理。套餐仅限在官方支持的指定工具与产品环境中使用；同页另有 9 月 3 日至 10 月 7 日的夜间错峰活动（GLM-5.3-Flash 在 ZCode、AutoClaw 消耗降为 0 / 其他 Agent 额度翻倍）可叠加，已另有记录 3812c3d2854743b3，本条不重复收录。该句同时出现在套餐概览页与套餐改版说明页（用量修订公告）内，故合并为一条记录",
-    "claimUrl": "https://docs.bigmodel.cn/cn/coding-plan/overview",
-    "sourceId": "zhipu-coding-plan",
-    "facts": [
-      {
-        "quote": "庆双节活动 ：9 月 25 日至 10 月 7 日，全天按非高峰时段规则消耗额度。",
-        "url": "https://docs.bigmodel.cn/cn/coding-plan/overview",
-        "snapshot": "snapshots/zhipu-coding-plan/2026-09-27-1357-e6e9de0b.json"
-      },
-      {
-        "quote": "非高峰时段内，模型调用按基础积分消耗的 50% 抵扣。",
-        "url": "https://docs.bigmodel.cn/cn/coding-plan/overview",
-        "snapshot": "snapshots/zhipu-coding-plan/2026-09-27-1357-e6e9de0b.json"
-      },
-      {
-        "quote": "高峰时段：每周一至周五的 14:00～18:00 （UTC+8）。",
-        "url": "https://docs.bigmodel.cn/cn/coding-plan/overview",
-        "snapshot": "snapshots/zhipu-coding-plan/2026-09-27-1357-e6e9de0b.json"
-      },
-      {
-        "quote": "最少 Tokens：全部在高峰时段，按 1 倍积分消耗",
-        "url": "https://docs.bigmodel.cn/cn/coding-plan/overview",
-        "snapshot": "snapshots/zhipu-coding-plan/2026-09-27-1357-e6e9de0b.json"
-      },
-      {
-        "quote": "订阅套餐后，在上述编程工具中调用 GLM 模型，按接入指南配置即可使用套餐额度。",
-        "url": "https://docs.bigmodel.cn/cn/coding-plan/overview",
-        "snapshot": "snapshots/zhipu-coding-plan/2026-09-27-1357-e6e9de0b.json"
-      },
-      {
-        "quote": "庆双节活动 ：9 月 25 日至 10 月 7 日，全天按非高峰时段规则消耗额度。",
-        "url": "https://docs.bigmodel.cn/cn/coding-plan/notice/usage-revision",
-        "snapshot": "snapshots/zhipu-usage-revision/2026-09-27-1357-d67ed6ab.json"
-      }
-    ],
-    "corroboration": [
-      {
-        "sourceId": "zhipu-usage-revision",
-        "quote": "庆双节活动 ：9 月 25 日至 10 月 7 日，全天按非高峰时段规则消耗额度。",
-        "snapshot": "snapshots/zhipu-usage-revision/2026-09-27-1357-d67ed6ab.json"
-      }
-    ],
-    "quantity": null
-  },
-  {
-    "schemaVersion": 0,
     "occurredAt": "2026-09-18",
     "publishedAt": "2026-09-18T15:00:00Z",
     "verification": "auto_verified",
@@ -456,6 +44,101 @@
     ],
     "baseline": "0.8 倍",
     "quantity": null
+  },
+  {
+    "schemaVersion": 0,
+    "occurredAt": "2026-09-18",
+    "publishedAt": "2026-09-18T17:38:00Z",
+    "verification": "auto_verified",
+    "category": "creditsPromotion",
+    "region": null,
+    "startsAt": null,
+    "startsAtText": null,
+    "expiresAt": "2026-10-31T23:59:59+08:00",
+    "expiresAtText": "即日起至2026年10月31日期间",
+    "validityText": null,
+    "supersedes": null,
+    "offerKey": "64cf70e68f3bd04d",
+    "promotionType": "referral",
+    "appliesTo": [
+      "agent"
+    ],
+    "vendor": "workbuddy",
+    "entity": "workbuddy",
+    "amount": "邀请好友首次使用，即得 50 积分",
+    "eligibility": "将专属邀请链接或海报分享给好友",
+    "baseline": null,
+    "howToClaim": "invite",
+    "restrictions": "活跃奖：好友7日内累计使用3天，额外得 100 积分；好友30天内首次付费升级个人版，双方各得 500 积分",
+    "claimUrl": "https://www.workbuddy.cn/events/invite",
+    "sourceId": "workbuddy-invite",
+    "facts": [
+      {
+        "quote": "基础奖：邀请好友首次使用，即得 50 积分 活跃奖：好友7日内累计使用3天，额外得 100 积分",
+        "url": "https://www.workbuddy.cn/events/invite",
+        "snapshot": "snapshots/workbuddy-invite/2026-10-10-1138-f5bebec1.json"
+      },
+      {
+        "quote": "即日起至2026年10月31日期间，推荐好友使用，一起拿积分",
+        "url": "https://www.workbuddy.cn/events/invite",
+        "snapshot": "snapshots/workbuddy-invite/2026-10-10-1138-f5bebec1.json"
+      },
+      {
+        "quote": "分享专属链接 将专属邀请链接或海报分享给好友",
+        "url": "https://www.workbuddy.cn/events/invite",
+        "snapshot": "snapshots/workbuddy-invite/2026-10-10-1138-f5bebec1.json"
+      }
+    ],
+    "quantity": {
+      "value": 50,
+      "unit": "points",
+      "raw": "邀请好友首次使用，即得 50 积分"
+    }
+  },
+  {
+    "schemaVersion": 0,
+    "occurredAt": "2026-09-18",
+    "publishedAt": "2026-09-18T17:38:00Z",
+    "verification": "auto_verified",
+    "category": "creditsPromotion",
+    "region": null,
+    "startsAt": null,
+    "startsAtText": null,
+    "expiresAt": "2026-10-31T23:59:59+08:00",
+    "expiresAtText": "即日起至2026年10月31日期间",
+    "validityText": null,
+    "supersedes": null,
+    "offerKey": "8e0188729b6bfd63",
+    "promotionType": "newcomer",
+    "appliesTo": [
+      "agent"
+    ],
+    "vendor": "workbuddy",
+    "entity": "workbuddy",
+    "amount": "好友注册即享 2,000 积分",
+    "eligibility": "新用户福利（截止日期：2026年10月31日）",
+    "baseline": null,
+    "howToClaim": "signup",
+    "restrictions": "通过邀请链接注册的新用户可得 2,000 积分；积分用途与有效期见活动页折叠项",
+    "claimUrl": "https://www.workbuddy.cn/events/invite",
+    "sourceId": "workbuddy-invite",
+    "facts": [
+      {
+        "quote": "好友注册即享 2,000 积分 新用户福利（截止日期：2026年10月31日）",
+        "url": "https://www.workbuddy.cn/events/invite",
+        "snapshot": "snapshots/workbuddy-invite/2026-10-10-1138-f5bebec1.json"
+      },
+      {
+        "quote": "即日起至2026年10月31日期间，推荐好友使用，一起拿积分",
+        "url": "https://www.workbuddy.cn/events/invite",
+        "snapshot": "snapshots/workbuddy-invite/2026-10-10-1138-f5bebec1.json"
+      }
+    ],
+    "quantity": {
+      "value": 2000,
+      "unit": "points",
+      "raw": "好友注册即享 2,000 积分"
+    }
   },
   {
     "schemaVersion": 0,
