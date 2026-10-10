@@ -198,7 +198,7 @@
     "anthropic": {
       "availability_change": 0,
       "benchmark_upgrade": 2,
-      "model_release": 13,
+      "model_release": 18,
       "score_revision": 0
     },
     "deepseek": {
@@ -234,7 +234,7 @@
     "openai": {
       "availability_change": 1,
       "benchmark_upgrade": 2,
-      "model_release": 5,
+      "model_release": 10,
       "score_revision": 0
     },
     "spacexai": {
@@ -950,6 +950,106 @@
       "model": "GLM-5.3",
       "score": 45,
       "type": "benchmark_upgrade"
+    },
+    {
+      "benchmark": "AAII v4.3.2",
+      "company_id": "anthropic",
+      "date": "2026-09-28",
+      "id": "anthropic:Claude Sonnet 5.5 (High, Default Fallback):release",
+      "model": "Claude Sonnet 5.5 (High, Default Fallback)",
+      "score": 47,
+      "stage": "official",
+      "type": "model_release"
+    },
+    {
+      "benchmark": "AAII v4.3.2",
+      "company_id": "anthropic",
+      "date": "2026-09-28",
+      "id": "anthropic:Claude Sonnet 5.5 (Low, Default Fallback):release",
+      "model": "Claude Sonnet 5.5 (Low, Default Fallback)",
+      "score": 36,
+      "stage": "official",
+      "type": "model_release"
+    },
+    {
+      "benchmark": "AAII v4.3.2",
+      "company_id": "anthropic",
+      "date": "2026-09-28",
+      "id": "anthropic:Claude Sonnet 5.5 (Max, Default Fallback):release",
+      "model": "Claude Sonnet 5.5 (Max, Default Fallback)",
+      "score": 56,
+      "stage": "official",
+      "type": "model_release"
+    },
+    {
+      "benchmark": "AAII v4.3.2",
+      "company_id": "anthropic",
+      "date": "2026-09-28",
+      "id": "anthropic:Claude Sonnet 5.5 (Medium, Default Fallback):release",
+      "model": "Claude Sonnet 5.5 (Medium, Default Fallback)",
+      "score": 41,
+      "stage": "official",
+      "type": "model_release"
+    },
+    {
+      "benchmark": "AAII v4.3.2",
+      "company_id": "anthropic",
+      "date": "2026-09-28",
+      "id": "anthropic:Claude Sonnet 5.5 (Xhigh, Default Fallback):release",
+      "model": "Claude Sonnet 5.5 (Xhigh, Default Fallback)",
+      "score": 52,
+      "stage": "official",
+      "type": "model_release"
+    },
+    {
+      "benchmark": "AAII v4.3.2",
+      "company_id": "openai",
+      "date": "2026-09-29",
+      "id": "openai:GPT-6.1 Sol (High):release",
+      "model": "GPT-6.1 Sol (High)",
+      "score": 50,
+      "stage": "official",
+      "type": "model_release"
+    },
+    {
+      "benchmark": "AAII v4.3.2",
+      "company_id": "openai",
+      "date": "2026-09-29",
+      "id": "openai:GPT-6.1 Sol (Low):release",
+      "model": "GPT-6.1 Sol (Low)",
+      "score": 42,
+      "stage": "official",
+      "type": "model_release"
+    },
+    {
+      "benchmark": "AAII v4.3.2",
+      "company_id": "openai",
+      "date": "2026-09-29",
+      "id": "openai:GPT-6.1 Sol (Max):release",
+      "model": "GPT-6.1 Sol (Max)",
+      "score": 52,
+      "stage": "official",
+      "type": "model_release"
+    },
+    {
+      "benchmark": "AAII v4.3.2",
+      "company_id": "openai",
+      "date": "2026-09-29",
+      "id": "openai:GPT-6.1 Sol (Medium):release",
+      "model": "GPT-6.1 Sol (Medium)",
+      "score": 48,
+      "stage": "official",
+      "type": "model_release"
+    },
+    {
+      "benchmark": "AAII v4.3.2",
+      "company_id": "openai",
+      "date": "2026-09-29",
+      "id": "openai:GPT-6.1 Sol (Xhigh):release",
+      "model": "GPT-6.1 Sol (Xhigh)",
+      "score": 51,
+      "stage": "official",
+      "type": "model_release"
     },
     {
       "benchmark": "AAII v4.3.2",
