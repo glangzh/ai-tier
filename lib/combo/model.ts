@@ -1,4 +1,4 @@
-import snapshot from "@data/combo/models-2026-09-30.json";
+import snapshot from "@data/combo/current.json";
 import { pairCost, type Structure } from "./cost";
 export type { Structure } from "./cost";
 

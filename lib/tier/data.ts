@@ -1,23 +1,25 @@
+import snapshot0 from "@data/tier/history/2026-10-10.json";
+import snapshot1 from "@data/tier/history/2026-09-27.json";
+import snapshot2 from "@data/tier/history/2026-09-12.json";
+import snapshot3 from "@data/tier/history/2026-09-08.json";
+import snapshot4 from "@data/tier/history/2026-09-04.json";
+import snapshot5 from "@data/tier/history/2026-09-03.json";
 import type { Dimensions, EventStream, Index, Snapshot, TierChange } from "@/lib/tier/types";
 import historyIndex from "@data/tier/history_index.json";
 import dimensionPack from "@data/tier/dimensions.json";
 import eventPack from "@data/tier/events.json";
-import snap20260903 from "@data/tier/history/2026-09-03.json";
-import snap20260904 from "@data/tier/history/2026-09-04.json";
-import snap20260908 from "@data/tier/history/2026-09-08.json";
-import snap20260912 from "@data/tier/history/2026-09-12.json";
-import snap20260927 from "@data/tier/history/2026-09-27.json";
 
 /**
  * 榜的数据在构建期静态打包：没有运行时 fetch，也就没有 BASE_URL 与加载失败分支。
  * history_index.json 是公开数据协议；快照在构建期静态打包，避免运行时请求。
  */
 const SNAPSHOTS: Record<string, Snapshot> = {
-  "history/2026-09-03.json": snap20260903 as unknown as Snapshot,
-  "history/2026-09-04.json": snap20260904 as unknown as Snapshot,
-  "history/2026-09-08.json": snap20260908 as unknown as Snapshot,
-  "history/2026-09-12.json": snap20260912 as unknown as Snapshot,
-  "history/2026-09-27.json": snap20260927 as unknown as Snapshot,
+  "history/2026-10-10.json": snapshot0 as unknown as Snapshot,
+  "history/2026-09-27.json": snapshot1 as unknown as Snapshot,
+  "history/2026-09-12.json": snapshot2 as unknown as Snapshot,
+  "history/2026-09-08.json": snapshot3 as unknown as Snapshot,
+  "history/2026-09-04.json": snapshot4 as unknown as Snapshot,
+  "history/2026-09-03.json": snapshot5 as unknown as Snapshot,
 };
 
 export async function loadIndex(): Promise<Index> {

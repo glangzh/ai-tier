@@ -1,11 +1,20 @@
 {
   "snapshots": [
     {
+      "as_of": "2026-10-10",
+      "benchmark": "AAII v4.3.2",
+      "file": "history/2026-10-10.json",
+      "generated_at": "2026-10-10T19:33:05",
+      "latest": true,
+      "rows": 12,
+      "verified": true
+    },
+    {
       "as_of": "2026-09-27",
       "benchmark": "AAII v4.3.2",
       "file": "history/2026-09-27.json",
       "generated_at": "2026-09-27T21:22:37",
-      "latest": true,
+      "latest": false,
       "rows": 12,
       "verified": true
     },

@@ -198,7 +198,7 @@
     "anthropic": {
       "availability_change": 0,
       "benchmark_upgrade": 2,
-      "model_release": 8,
+      "model_release": 13,
       "score_revision": 0
     },
     "deepseek": {
@@ -210,7 +210,7 @@
     "google": {
       "availability_change": 0,
       "benchmark_upgrade": 3,
-      "model_release": 3,
+      "model_release": 4,
       "score_revision": 0
     },
     "meta": {
@@ -950,10 +950,70 @@
       "model": "GLM-5.3",
       "score": 45,
       "type": "benchmark_upgrade"
+    },
+    {
+      "benchmark": "AAII v4.3.2",
+      "company_id": "google",
+      "date": "2026-09-30",
+      "id": "google:Gemini 4 Argon (High):release",
+      "model": "Gemini 4 Argon (High)",
+      "score": 53,
+      "stage": "official",
+      "type": "model_release"
+    },
+    {
+      "benchmark": "AAII v4.3.2",
+      "company_id": "anthropic",
+      "date": "2026-10-07",
+      "id": "anthropic:Claude Haiku 5.5 (High):release",
+      "model": "Claude Haiku 5.5 (High)",
+      "score": 38,
+      "stage": "official",
+      "type": "model_release"
+    },
+    {
+      "benchmark": "AAII v4.3.2",
+      "company_id": "anthropic",
+      "date": "2026-10-07",
+      "id": "anthropic:Claude Haiku 5.5 (Low):release",
+      "model": "Claude Haiku 5.5 (Low)",
+      "score": 29,
+      "stage": "official",
+      "type": "model_release"
+    },
+    {
+      "benchmark": "AAII v4.3.2",
+      "company_id": "anthropic",
+      "date": "2026-10-07",
+      "id": "anthropic:Claude Haiku 5.5 (Max):release",
+      "model": "Claude Haiku 5.5 (Max)",
+      "score": 43,
+      "stage": "official",
+      "type": "model_release"
+    },
+    {
+      "benchmark": "AAII v4.3.2",
+      "company_id": "anthropic",
+      "date": "2026-10-07",
+      "id": "anthropic:Claude Haiku 5.5 (Medium):release",
+      "model": "Claude Haiku 5.5 (Medium)",
+      "score": 34,
+      "stage": "official",
+      "type": "model_release"
+    },
+    {
+      "benchmark": "AAII v4.3.2",
+      "company_id": "anthropic",
+      "date": "2026-10-07",
+      "id": "anthropic:Claude Haiku 5.5 (Xhigh):release",
+      "model": "Claude Haiku 5.5 (Xhigh)",
+      "score": 41,
+      "stage": "official",
+      "type": "model_release"
     }
   ],
   "meta": {
-    "as_of": "2026-09-27",
+    "as_of": "2026-10-10",
     "benchmark": "AAII v4.3.2",
     "note": "事件流；benchmark_upgrade = 同一模型换了评测版本（口径变更，不是能力变化）"
   }

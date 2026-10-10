@@ -125,17 +125,30 @@ expect("组合策略是导航第三项", navOf(home).indexOf("/deals") < navOf(h
 expect("组合页中英预渲染且当前项高亮", combo.includes("高低搭配，找到合适的模型")
   && comboEn.includes("Pair models for the job") && /<a[^>]*class="on"[^>]*aria-current="page"[^>]*href="\/zh-CN\/combo"/.test(navOf(combo)));
 expect("组合页标出 AA 快照与无重复缓存折扣", combo.includes("Artificial Analysis")
-  && combo.includes("2026-09-30") && combo.includes("不叠加缓存折扣") && !combo.includes("缓存命中率"));
+  && combo.includes(JSON.parse(readFileSync(join(process.cwd(), "data/combo/current.json"), "utf8")).asOf) && combo.includes("不叠加缓存折扣") && !combo.includes("缓存命中率"));
 expect("当前页在导航里标 aria-current", /aria-current="page"/.test(home) && /aria-current="page"/.test(rank));
 expect("导航当前项有常驻高亮类", /<a[^>]*class="on"[^>]*aria-current="page"/.test(navOf(home)) && /<a[^>]*class="on"[^>]*aria-current="page"/.test(navOf(rank)));
 expect("榜页 SSR 有标题区", rank.includes("梯队榜"));
-// 变化条目随每周测算而变，不能钉死某一周的公司名；这里只锁结构、下限与被禁标签。
+// 与本轮历史数据核对变化，不能要求每次至少发生三条梯队变化。
+const tierIndex = JSON.parse(readFileSync(join(process.cwd(), "data/tier/history_index.json"), "utf8"));
+const histories = [...tierIndex.snapshots].sort((a, b) => a.as_of.localeCompare(b.as_of))
+  .map((entry) => JSON.parse(readFileSync(join(process.cwd(), "data/tier", entry.file), "utf8")));
+let expectedChanges = [];
+for (let i = 1; i < histories.length; i++) {
+  const key = (row) => (row.company_id ?? row.name).trim().toLocaleLowerCase();
+  const previous = new Map(histories[i - 1].rows.map((row) => [key(row), row]));
+  const changes = histories[i].rows.flatMap((row) => {
+    const before = previous.get(key(row));
+    return before && before.tier !== row.tier ? [{ from: before.tier, to: row.tier }] : [];
+  });
+  if (changes.length) expectedChanges = changes;
+}
 const tierChanges = [...rank.matchAll(/（T\d）→[^（\n]{0,12}（T\d）/g)];
 expect(
   "榜页只显示梯队变化结果",
   !rank.includes("最近更新")
     && !rank.includes(">梯队变化<")
-    && tierChanges.length >= 3,
+    && expectedChanges.every((change) => tierChanges.some((match) => match[0].startsWith(`（${change.from}）→`) && match[0].endsWith(`（${change.to}）`))),
   `梯队变化 ${tierChanges.length} 条`,
 );
 expect("榜页移除站内说明", !rank.includes("不参与优惠口径的采集与校验") && !rankEn.includes("AIRadar only presents it"));

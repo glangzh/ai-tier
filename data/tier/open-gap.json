@@ -1,7 +1,7 @@
 {
-  "as_of": "2026-09-27",
+  "as_of": "2026-10-10",
   "benchmark": "AAII v4.3.2",
-  "score_source": "data/tier/history/2026-09-27.json",
+  "score_source": "data/tier/history/2026-10-10.json",
   "models": [
     {
       "id": "claude-fable-5",
@@ -156,7 +156,7 @@
       "available_at": "2026-06-12",
       "available_by": "2026-06-12",
       "license": "MiniMax Community License",
-      "source": "https://huggingface.co/MiniMaxAI/MiniMax-M3",
+      "source": "https://artificialanalysis.ai/leaderboards/models",
       "availability_source": "https://huggingface.co/MiniMaxAI/MiniMax-M3/commits/main"
     },
     {
@@ -210,6 +210,19 @@
       "license": null,
       "source": "https://artificialanalysis.ai/models/gpt-5-5",
       "availability_source": "https://artificialanalysis.ai/models/gpt-5-5"
+    },
+    {
+      "id": "gemini-4-argon",
+      "company_id": "google",
+      "model": "Gemini 4 Argon (High)",
+      "score": 53,
+      "access": "closed",
+      "released_at": "2026-09-30",
+      "available_at": null,
+      "available_by": "2026-10-10",
+      "license": null,
+      "source": "https://artificialanalysis.ai/leaderboards/models",
+      "availability_source": "https://artificialanalysis.ai/leaderboards/models"
     }
   ]
 }
