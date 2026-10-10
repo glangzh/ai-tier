@@ -1,0 +1,10 @@
+{
+  "id": "moonshot-moon-companion-plan",
+  "vendor": "moonshot",
+  "url": "https://www.kimi.ai/zh-hans/help/kimi-blackboard/moon-companion-plan",
+  "allowedHosts": [
+    "www.kimi.ai",
+    "kimi.ai",
+    "platform.kimi.com"
+  ]
+}

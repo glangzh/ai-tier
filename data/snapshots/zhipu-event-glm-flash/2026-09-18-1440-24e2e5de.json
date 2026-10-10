@@ -1,0 +1,8 @@
+{
+  "schemaVersion": 0,
+  "sourceId": "zhipu-event-glm-flash",
+  "fetchedAt": "2026-09-18T14:40:29.514Z",
+  "finalUrl": "https://docs.bigmodel.cn/cn/coding-plan/notice/event-glm-5.3-flash",
+  "sha256": "24e2e5deb58a5eb4d806966d490c9d69f48ce97092e2ff6ce4be9a37befe4f2a",
+  "normText": "Documentation Index\nFetch the complete documentation index at: /llms.txt\nUse this file to discover all available pages before exploring further.\nSkip to main content\n智谱AI开放文档 home page\nSearch...\n⌘ K\n控制台\n价格\n财务\nAPI Key\n个人中心\nNavigation\n公告\n夜间畅用活动\nModels\nCoding Plan\nManaged Agents (Beta)\nAPI 文档\n资源\n常见问题\nGLM Coding Plan\n套餐概览\n使用须知\n团队版权益\n接入指南\n快速开始\n一键安装助手\n接入工具\n如何切换模型\n接入专属 MCP\n老用户权益说明\n学习资源\nCoding Agent 工作原理\nAgentic 扩展组件\n记忆机制\n常用工作流\n最佳实践\n特别权益\nGLM in Excel（Beta）\nOn this page\n一、活动详情\n二、活动规则说明\nCopy page Copy page\n本文提及的所有时间均以北京时间（UTC+8）为准\n9 月 3 日至 9 月 20 日，GLM Coding Plan 推出夜间畅蹬活动，每晚 23 点至次日 9 点， 调用套餐中的 GLM-5.3-Flash，在 ZCode 中免费使用，在其他套餐支持的 Agent 中使用额度翻倍， 进入指定时间段自动生效，覆盖所有付费套餐用户。\nGLM-5.3-Flash 是 GLM-5 系列首个原生多模态模型，适合代码生成、代码理解、问题修复等代码任务，同时在 Office 与文档类任务，金融、法律等专业任务方面显著提升。\n​\n错峰时段（ 每日 23:00 至次日 09:00 ）内，通过 GLM Coding Plan 使用 GLM-5.3-Flash 模型的额度消耗规则如下：\n使用方式 额度消耗规则\n通过 ZCode 使用 额度消耗全部为 0 ，畅用爽蹬\n通过套餐支持的其他 Agent 使用 可用额度在您套餐标准规则的基础上全部 ×2 倍\n活动时间：2026 年 9 月 3 日至 2026 年 9 月 20 日 。\n时段以北京时间为准 ，错峰时段含周末及公共假日。\n该活动 仅支持 GLM-5.3-Flash 模型 ；错峰时段内选用 GLM-5.3，仍按套餐标准规则消耗额度。\n受系统功能限制，若您在错峰时段的使用已达到 5 小时/周 限额上限，将暂时无法参与本活动；您可在限额刷新重置后继续参与。\n活动仅在 ZCode 3.10 后的更新版本中生效，建议使用 最新版本 。\nWas this page helpful?\nYes No\n开源仓库 MCP\nPowered by This documentation is built and hosted on Mintlify, a developer documentation platform"
+}

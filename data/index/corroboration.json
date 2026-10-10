@@ -1,0 +1,297 @@
+{
+  "checked": 56,
+  "corroborated": 5,
+  "rate": 0.089,
+  "detail": [
+    {
+      "offerKey": "cc86de0abfd5744c",
+      "corroboratedBy": [],
+      "declared": 0
+    },
+    {
+      "offerKey": "d9694316b7a7ee49",
+      "corroboratedBy": [
+        "qoder-events-qwen-max"
+      ],
+      "declared": 1
+    },
+    {
+      "offerKey": "0db2ea055081bb08",
+      "corroboratedBy": [],
+      "declared": 0
+    },
+    {
+      "offerKey": "17526e1e278927a4",
+      "corroboratedBy": [],
+      "declared": 0
+    },
+    {
+      "offerKey": "1a65fe57c9b3b9ec",
+      "corroboratedBy": [],
+      "declared": 0
+    },
+    {
+      "offerKey": "1b74242b8b1386d7",
+      "corroboratedBy": [],
+      "declared": 0
+    },
+    {
+      "offerKey": "1da097432013ef2e",
+      "corroboratedBy": [],
+      "declared": 0
+    },
+    {
+      "offerKey": "1fc40e9b16705339",
+      "corroboratedBy": [],
+      "declared": 0
+    },
+    {
+      "offerKey": "25f5ed1a13f35eda",
+      "corroboratedBy": [],
+      "declared": 0
+    },
+    {
+      "offerKey": "277235aff098ba54",
+      "corroboratedBy": [],
+      "declared": 0
+    },
+    {
+      "offerKey": "2b1ebdc06d826c87",
+      "corroboratedBy": [],
+      "declared": 0
+    },
+    {
+      "offerKey": "2d2ec4102c74a560",
+      "corroboratedBy": [
+        "moonshot-kimi-membership-pricing"
+      ],
+      "declared": 1
+    },
+    {
+      "offerKey": "302b0998e67d0345",
+      "corroboratedBy": [],
+      "declared": 0
+    },
+    {
+      "offerKey": "321c2a899d6aa799",
+      "corroboratedBy": [],
+      "declared": 0
+    },
+    {
+      "offerKey": "34cd9d131f51a58b",
+      "corroboratedBy": [],
+      "declared": 0
+    },
+    {
+      "offerKey": "3812c3d2854743b3",
+      "corroboratedBy": [],
+      "declared": 0
+    },
+    {
+      "offerKey": "3dd0057c92aada6f",
+      "corroboratedBy": [],
+      "declared": 0
+    },
+    {
+      "offerKey": "3e4305a2f0f20fc2",
+      "corroboratedBy": [],
+      "declared": 0
+    },
+    {
+      "offerKey": "404b19e575f5a9a3",
+      "corroboratedBy": [],
+      "declared": 0
+    },
+    {
+      "offerKey": "446642bff10e4457",
+      "corroboratedBy": [],
+      "declared": 0
+    },
+    {
+      "offerKey": "4a4695f8e8aee6a5",
+      "corroboratedBy": [],
+      "declared": 0
+    },
+    {
+      "offerKey": "4ba40e6f3df08e21",
+      "corroboratedBy": [],
+      "declared": 0
+    },
+    {
+      "offerKey": "4c797df28322f989",
+      "corroboratedBy": [],
+      "declared": 0
+    },
+    {
+      "offerKey": "575df7b50fba5214",
+      "corroboratedBy": [],
+      "declared": 0
+    },
+    {
+      "offerKey": "63e7e35b4f43f98e",
+      "corroboratedBy": [],
+      "declared": 0
+    },
+    {
+      "offerKey": "640fd8d88c0c19fa",
+      "corroboratedBy": [],
+      "declared": 0
+    },
+    {
+      "offerKey": "6429fcb90669813d",
+      "corroboratedBy": [],
+      "declared": 0
+    },
+    {
+      "offerKey": "64cf70e68f3bd04d",
+      "corroboratedBy": [],
+      "declared": 0
+    },
+    {
+      "offerKey": "64d2e1a0ad2c724b",
+      "corroboratedBy": [],
+      "declared": 0
+    },
+    {
+      "offerKey": "660feea0e2bfae67",
+      "corroboratedBy": [
+        "trae-pricing"
+      ],
+      "declared": 0
+    },
+    {
+      "offerKey": "6fdb089779f2b243",
+      "corroboratedBy": [],
+      "declared": 0
+    },
+    {
+      "offerKey": "708674295ff0fa1e",
+      "corroboratedBy": [],
+      "declared": 0
+    },
+    {
+      "offerKey": "736ac6685ed36875",
+      "corroboratedBy": [],
+      "declared": 0
+    },
+    {
+      "offerKey": "76b6f7ad957ee4e3",
+      "corroboratedBy": [
+        "qianwen-token-plan-reset"
+      ],
+      "declared": 1
+    },
+    {
+      "offerKey": "7bdec826bb4bd7de",
+      "corroboratedBy": [],
+      "declared": 0
+    },
+    {
+      "offerKey": "83fb85b6d9431bbd",
+      "corroboratedBy": [],
+      "declared": 0
+    },
+    {
+      "offerKey": "88a66c9a5026bc84",
+      "corroboratedBy": [],
+      "declared": 0
+    },
+    {
+      "offerKey": "8e0188729b6bfd63",
+      "corroboratedBy": [],
+      "declared": 0
+    },
+    {
+      "offerKey": "8f6c20a232111813",
+      "corroboratedBy": [],
+      "declared": 0
+    },
+    {
+      "offerKey": "923b8b77cc75bd3d",
+      "corroboratedBy": [],
+      "declared": 0
+    },
+    {
+      "offerKey": "a540b31c8c9f3d0c",
+      "corroboratedBy": [],
+      "declared": 0
+    },
+    {
+      "offerKey": "a88c8b2627202077",
+      "corroboratedBy": [],
+      "declared": 0
+    },
+    {
+      "offerKey": "ad6b185485a0180a",
+      "corroboratedBy": [],
+      "declared": 0
+    },
+    {
+      "offerKey": "ad751a576a20a666",
+      "corroboratedBy": [],
+      "declared": 0
+    },
+    {
+      "offerKey": "b366b833d0c4df59",
+      "corroboratedBy": [],
+      "declared": 0
+    },
+    {
+      "offerKey": "b43edc15d8ead8d4",
+      "corroboratedBy": [],
+      "declared": 0
+    },
+    {
+      "offerKey": "bb9c6c6c18d72a28",
+      "corroboratedBy": [
+        "zhipu-usage-revision"
+      ],
+      "declared": 1
+    },
+    {
+      "offerKey": "bf785ca1d6f8e018",
+      "corroboratedBy": [],
+      "declared": 0
+    },
+    {
+      "offerKey": "c01a151447cb0ad2",
+      "corroboratedBy": [],
+      "declared": 0
+    },
+    {
+      "offerKey": "cd2ace6688ef48e8",
+      "corroboratedBy": [],
+      "declared": 0
+    },
+    {
+      "offerKey": "e6a805d8703434ab",
+      "corroboratedBy": [],
+      "declared": 0
+    },
+    {
+      "offerKey": "e8e4520c987df9c1",
+      "corroboratedBy": [],
+      "declared": 0
+    },
+    {
+      "offerKey": "f386c5a8d6f63a01",
+      "corroboratedBy": [],
+      "declared": 0
+    },
+    {
+      "offerKey": "f3b98e6cb9a8aa57",
+      "corroboratedBy": [],
+      "declared": 0
+    },
+    {
+      "offerKey": "f6ecd689fd9f44a7",
+      "corroboratedBy": [],
+      "declared": 0
+    },
+    {
+      "offerKey": "fb96add77c18a7c7",
+      "corroboratedBy": [],
+      "declared": 0
+    }
+  ]
+}

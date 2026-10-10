@@ -1,0 +1,9 @@
+{
+  "id": "qoder-events-efficientunlimited",
+  "vendor": "qoder",
+  "url": "https://docs.qoder.com/zh/events/efficientunlimited",
+  "allowedHosts": [
+    "docs.qoder.com",
+    "qoder.com"
+  ]
+}

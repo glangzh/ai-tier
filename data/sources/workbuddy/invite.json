@@ -1,0 +1,9 @@
+{
+  "id": "workbuddy-invite",
+  "vendor": "workbuddy",
+  "url": "https://www.workbuddy.cn/events/invite",
+  "allowedHosts": [
+    "workbuddy.cn",
+    "www.workbuddy.cn"
+  ]
+}

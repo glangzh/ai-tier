@@ -1,0 +1,680 @@
+{
+  "dimensions": [
+    {
+      "anchor_gens": 4,
+      "anchor_span_days": 96,
+      "key": "coding",
+      "label": "编码",
+      "timeline_ok": true
+    },
+    {
+      "anchor_gens": 6,
+      "anchor_span_days": 281,
+      "key": "science",
+      "label": "科学推理",
+      "timeline_ok": true
+    },
+    {
+      "anchor_gens": 2,
+      "anchor_span_days": 84,
+      "key": "general",
+      "label": "通用长文档",
+      "timeline_ok": false
+    },
+    {
+      "anchor_gens": 5,
+      "anchor_span_days": 281,
+      "key": "knowledge",
+      "label": "知识准确率",
+      "timeline_ok": false
+    },
+    {
+      "anchor_gens": 3,
+      "anchor_span_days": 185,
+      "key": "hallucination",
+      "label": "抗幻觉",
+      "timeline_ok": false
+    },
+    {
+      "anchor_gens": 3,
+      "anchor_span_days": 84,
+      "key": "agent",
+      "label": "Agent",
+      "timeline_ok": true
+    },
+    {
+      "anchor_gens": 5,
+      "anchor_span_days": 138,
+      "key": "analysis",
+      "label": "数据分析",
+      "timeline_ok": true
+    }
+  ],
+  "meta": {
+    "as_of": "2026-09-12",
+    "benchmark": "AAII v4.3",
+    "frontier": {
+      "date": "2026-09-01",
+      "name": "Claude Fable 5.1"
+    },
+    "note": "维度口径与主表 D 不同源，不可互相加减"
+  },
+  "vendors": [
+    {
+      "company_id": "anthropic",
+      "dims": {
+        "agent": {
+          "anchor_gens": 3,
+          "beyond_pool": false,
+          "gap_days": 0,
+          "score": 39.2,
+          "status": "estimated"
+        },
+        "analysis": {
+          "anchor_gens": 5,
+          "beyond_pool": false,
+          "gap_days": 0,
+          "score": 57.5,
+          "status": "measured"
+        },
+        "coding": {
+          "anchor_gens": 4,
+          "beyond_pool": false,
+          "gap_days": 0,
+          "score": 58,
+          "status": "measured"
+        },
+        "general": {
+          "anchor_gens": null,
+          "beyond_pool": false,
+          "gap_days": null,
+          "score": 44.7,
+          "status": "no_timeline"
+        },
+        "hallucination": {
+          "anchor_gens": null,
+          "beyond_pool": false,
+          "gap_days": null,
+          "score": 34.4,
+          "status": "no_timeline"
+        },
+        "knowledge": {
+          "anchor_gens": null,
+          "beyond_pool": false,
+          "gap_days": null,
+          "score": 67.2,
+          "status": "no_timeline"
+        },
+        "science": {
+          "anchor_gens": 6,
+          "beyond_pool": false,
+          "gap_days": 0,
+          "score": 44.9,
+          "status": "measured"
+        }
+      },
+      "model": "Claude Fable 5.1",
+      "name": "Anthropic"
+    },
+    {
+      "company_id": "openai",
+      "dims": {
+        "agent": {
+          "anchor_gens": 3,
+          "beyond_pool": false,
+          "gap_days": 41,
+          "score": 38.1,
+          "status": "estimated"
+        },
+        "analysis": {
+          "anchor_gens": 5,
+          "beyond_pool": false,
+          "gap_days": 62,
+          "score": 51.2,
+          "status": "measured"
+        },
+        "coding": {
+          "anchor_gens": 4,
+          "beyond_pool": false,
+          "gap_days": 2,
+          "score": 57.8,
+          "status": "measured"
+        },
+        "general": {
+          "anchor_gens": null,
+          "beyond_pool": false,
+          "gap_days": null,
+          "score": 45.8,
+          "status": "no_timeline"
+        },
+        "hallucination": {
+          "anchor_gens": null,
+          "beyond_pool": false,
+          "gap_days": null,
+          "score": 55.2,
+          "status": "no_timeline"
+        },
+        "knowledge": {
+          "anchor_gens": null,
+          "beyond_pool": false,
+          "gap_days": null,
+          "score": 62.6,
+          "status": "no_timeline"
+        },
+        "science": {
+          "anchor_gens": 6,
+          "beyond_pool": false,
+          "gap_days": 50,
+          "score": 43.2,
+          "status": "measured"
+        }
+      },
+      "model": "GPT-6 Astra (max)",
+      "name": "OpenAI"
+    },
+    {
+      "company_id": "spacexai",
+      "dims": {
+        "agent": {
+          "anchor_gens": 3,
+          "beyond_pool": false,
+          "gap_days": 50,
+          "score": 37.5,
+          "status": "estimated"
+        },
+        "analysis": {
+          "anchor_gens": 5,
+          "beyond_pool": false,
+          "gap_days": 222,
+          "score": 41.2,
+          "status": "measured"
+        },
+        "coding": {
+          "anchor_gens": 4,
+          "beyond_pool": false,
+          "gap_days": 96,
+          "score": 38.8,
+          "status": "measured"
+        },
+        "general": {
+          "anchor_gens": null,
+          "beyond_pool": false,
+          "gap_days": null,
+          "score": 34.3,
+          "status": "no_timeline"
+        },
+        "hallucination": {
+          "anchor_gens": null,
+          "beyond_pool": false,
+          "gap_days": null,
+          "score": 76,
+          "status": "no_timeline"
+        },
+        "knowledge": {
+          "anchor_gens": null,
+          "beyond_pool": false,
+          "gap_days": null,
+          "score": 48.2,
+          "status": "no_timeline"
+        },
+        "science": {
+          "anchor_gens": 6,
+          "beyond_pool": false,
+          "gap_days": 112,
+          "score": 31.9,
+          "status": "measured"
+        }
+      },
+      "model": "Grok 4.6 (high)",
+      "name": "SpaceXAI"
+    },
+    {
+      "company_id": "moonshot",
+      "dims": {
+        "agent": {
+          "anchor_gens": 3,
+          "beyond_pool": false,
+          "gap_days": 87,
+          "score": 34.7,
+          "status": "estimated"
+        },
+        "analysis": {
+          "anchor_gens": 5,
+          "beyond_pool": false,
+          "gap_days": 306,
+          "score": 38.8,
+          "status": "measured"
+        },
+        "coding": {
+          "anchor_gens": 4,
+          "beyond_pool": false,
+          "gap_days": 97,
+          "score": 36.1,
+          "status": "measured"
+        },
+        "general": {
+          "anchor_gens": null,
+          "beyond_pool": false,
+          "gap_days": null,
+          "score": 32,
+          "status": "no_timeline"
+        },
+        "hallucination": {
+          "anchor_gens": null,
+          "beyond_pool": false,
+          "gap_days": null,
+          "score": 46.8,
+          "status": "no_timeline"
+        },
+        "knowledge": {
+          "anchor_gens": null,
+          "beyond_pool": false,
+          "gap_days": null,
+          "score": 47.6,
+          "status": "no_timeline"
+        },
+        "science": {
+          "anchor_gens": 6,
+          "beyond_pool": false,
+          "gap_days": 96,
+          "score": 35.2,
+          "status": "measured"
+        }
+      },
+      "model": "Kimi K3 (max)",
+      "name": "月之暗面"
+    },
+    {
+      "company_id": "zhipu",
+      "dims": {
+        "agent": {
+          "anchor_gens": 3,
+          "beyond_pool": false,
+          "gap_days": 72,
+          "score": 35.8,
+          "status": "estimated"
+        },
+        "analysis": {
+          "anchor_gens": null,
+          "beyond_pool": false,
+          "gap_days": null,
+          "score": null,
+          "status": "unmeasured"
+        },
+        "coding": {
+          "anchor_gens": 4,
+          "beyond_pool": false,
+          "gap_days": 86,
+          "score": 50.5,
+          "status": "measured"
+        },
+        "general": {
+          "anchor_gens": null,
+          "beyond_pool": false,
+          "gap_days": null,
+          "score": 24.2,
+          "status": "no_timeline"
+        },
+        "hallucination": {
+          "anchor_gens": null,
+          "beyond_pool": false,
+          "gap_days": null,
+          "score": 70.4,
+          "status": "no_timeline"
+        },
+        "knowledge": {
+          "anchor_gens": null,
+          "beyond_pool": false,
+          "gap_days": null,
+          "score": 33.9,
+          "status": "no_timeline"
+        },
+        "science": {
+          "anchor_gens": 6,
+          "beyond_pool": false,
+          "gap_days": 119,
+          "score": 30.7,
+          "status": "measured"
+        }
+      },
+      "model": "GLM-5.3 (max)",
+      "name": "智谱"
+    },
+    {
+      "company_id": "google",
+      "dims": {
+        "agent": {
+          "anchor_gens": 3,
+          "beyond_pool": true,
+          "gap_days": 182,
+          "score": 27.7,
+          "status": "estimated"
+        },
+        "analysis": {
+          "anchor_gens": null,
+          "beyond_pool": false,
+          "gap_days": null,
+          "score": null,
+          "status": "unmeasured"
+        },
+        "coding": {
+          "anchor_gens": 4,
+          "beyond_pool": false,
+          "gap_days": 96,
+          "score": 38.1,
+          "status": "measured"
+        },
+        "general": {
+          "anchor_gens": null,
+          "beyond_pool": false,
+          "gap_days": null,
+          "score": 35.9,
+          "status": "no_timeline"
+        },
+        "hallucination": {
+          "anchor_gens": null,
+          "beyond_pool": false,
+          "gap_days": null,
+          "score": 48.1,
+          "status": "no_timeline"
+        },
+        "knowledge": {
+          "anchor_gens": null,
+          "beyond_pool": false,
+          "gap_days": null,
+          "score": 54.6,
+          "status": "no_timeline"
+        },
+        "science": {
+          "anchor_gens": 6,
+          "beyond_pool": false,
+          "gap_days": 106,
+          "score": 33.1,
+          "status": "measured"
+        }
+      },
+      "model": "Gemini 3.8 Flash (high)",
+      "name": "Google"
+    },
+    {
+      "company_id": "meta",
+      "dims": {
+        "agent": {
+          "anchor_gens": 3,
+          "beyond_pool": false,
+          "gap_days": 56,
+          "score": 37.1,
+          "status": "estimated"
+        },
+        "analysis": {
+          "anchor_gens": null,
+          "beyond_pool": false,
+          "gap_days": null,
+          "score": null,
+          "status": "unmeasured"
+        },
+        "coding": {
+          "anchor_gens": 4,
+          "beyond_pool": false,
+          "gap_days": 89,
+          "score": 46.1,
+          "status": "measured"
+        },
+        "general": {
+          "anchor_gens": null,
+          "beyond_pool": false,
+          "gap_days": null,
+          "score": 35.2,
+          "status": "no_timeline"
+        },
+        "hallucination": {
+          "anchor_gens": null,
+          "beyond_pool": false,
+          "gap_days": null,
+          "score": 68.5,
+          "status": "no_timeline"
+        },
+        "knowledge": {
+          "anchor_gens": null,
+          "beyond_pool": false,
+          "gap_days": null,
+          "score": 43.6,
+          "status": "no_timeline"
+        },
+        "science": {
+          "anchor_gens": 6,
+          "beyond_pool": false,
+          "gap_days": 93,
+          "score": 36.8,
+          "status": "measured"
+        }
+      },
+      "model": "Muse Spark 1.3",
+      "name": "Meta"
+    },
+    {
+      "company_id": "deepseek",
+      "dims": {
+        "agent": {
+          "anchor_gens": 3,
+          "beyond_pool": false,
+          "gap_days": 86,
+          "score": 34.8,
+          "status": "estimated"
+        },
+        "analysis": {
+          "anchor_gens": null,
+          "beyond_pool": false,
+          "gap_days": null,
+          "score": null,
+          "status": "unmeasured"
+        },
+        "coding": {
+          "anchor_gens": 4,
+          "beyond_pool": false,
+          "gap_days": 95,
+          "score": 39.3,
+          "status": "measured"
+        },
+        "general": {
+          "anchor_gens": null,
+          "beyond_pool": false,
+          "gap_days": null,
+          "score": 15.6,
+          "status": "no_timeline"
+        },
+        "hallucination": {
+          "anchor_gens": null,
+          "beyond_pool": false,
+          "gap_days": null,
+          "score": 3.5,
+          "status": "no_timeline"
+        },
+        "knowledge": {
+          "anchor_gens": null,
+          "beyond_pool": false,
+          "gap_days": null,
+          "score": 46.4,
+          "status": "no_timeline"
+        },
+        "science": {
+          "anchor_gens": 6,
+          "beyond_pool": false,
+          "gap_days": 169,
+          "score": 26.8,
+          "status": "measured"
+        }
+      },
+      "model": "V4.1 Flash",
+      "name": "DeepSeek"
+    },
+    {
+      "company_id": "minimax",
+      "dims": {
+        "agent": {
+          "anchor_gens": 3,
+          "beyond_pool": true,
+          "gap_days": 306,
+          "score": 18.6,
+          "status": "estimated"
+        },
+        "analysis": {
+          "anchor_gens": 5,
+          "beyond_pool": true,
+          "gap_days": 1272,
+          "score": 10,
+          "status": "measured"
+        },
+        "coding": {
+          "anchor_gens": 4,
+          "beyond_pool": false,
+          "gap_days": 107,
+          "score": 24.6,
+          "status": "measured"
+        },
+        "general": {
+          "anchor_gens": null,
+          "beyond_pool": false,
+          "gap_days": null,
+          "score": 17.8,
+          "status": "no_timeline"
+        },
+        "hallucination": {
+          "anchor_gens": null,
+          "beyond_pool": false,
+          "gap_days": null,
+          "score": 81.6,
+          "status": "no_timeline"
+        },
+        "knowledge": {
+          "anchor_gens": null,
+          "beyond_pool": false,
+          "gap_days": null,
+          "score": 16.7,
+          "status": "no_timeline"
+        },
+        "science": {
+          "anchor_gens": 6,
+          "beyond_pool": false,
+          "gap_days": 249,
+          "score": 21.3,
+          "status": "measured"
+        }
+      },
+      "model": "MiniMax M3",
+      "name": "MiniMax"
+    },
+    {
+      "company_id": "alibaba",
+      "dims": {
+        "agent": {
+          "anchor_gens": 3,
+          "beyond_pool": false,
+          "gap_days": 107,
+          "score": 33.2,
+          "status": "estimated"
+        },
+        "analysis": {
+          "anchor_gens": null,
+          "beyond_pool": false,
+          "gap_days": null,
+          "score": null,
+          "status": "unmeasured"
+        },
+        "coding": {
+          "anchor_gens": 4,
+          "beyond_pool": false,
+          "gap_days": 100,
+          "score": 32.6,
+          "status": "measured"
+        },
+        "general": {
+          "anchor_gens": null,
+          "beyond_pool": false,
+          "gap_days": null,
+          "score": 20.7,
+          "status": "no_timeline"
+        },
+        "hallucination": {
+          "anchor_gens": null,
+          "beyond_pool": false,
+          "gap_days": null,
+          "score": 60.8,
+          "status": "no_timeline"
+        },
+        "knowledge": {
+          "anchor_gens": null,
+          "beyond_pool": false,
+          "gap_days": null,
+          "score": 31.2,
+          "status": "no_timeline"
+        },
+        "science": {
+          "anchor_gens": 6,
+          "beyond_pool": false,
+          "gap_days": 116,
+          "score": 31.2,
+          "status": "measured"
+        }
+      },
+      "model": "Qwen3.8-Max-0902",
+      "name": "阿里巴巴"
+    },
+    {
+      "company_id": "xiaomi",
+      "dims": {
+        "agent": {
+          "anchor_gens": null,
+          "beyond_pool": false,
+          "gap_days": null,
+          "score": null,
+          "status": "unmeasured"
+        },
+        "analysis": {
+          "anchor_gens": 5,
+          "beyond_pool": true,
+          "gap_days": 936,
+          "score": 20,
+          "status": "measured"
+        },
+        "coding": {
+          "anchor_gens": 4,
+          "beyond_pool": false,
+          "gap_days": 107,
+          "score": 25.3,
+          "status": "measured"
+        },
+        "general": {
+          "anchor_gens": null,
+          "beyond_pool": false,
+          "gap_days": null,
+          "score": null,
+          "status": "unmeasured"
+        },
+        "hallucination": {
+          "anchor_gens": null,
+          "beyond_pool": false,
+          "gap_days": null,
+          "score": 75.3,
+          "status": "no_timeline"
+        },
+        "knowledge": {
+          "anchor_gens": null,
+          "beyond_pool": false,
+          "gap_days": null,
+          "score": 27.2,
+          "status": "no_timeline"
+        },
+        "science": {
+          "anchor_gens": 6,
+          "beyond_pool": false,
+          "gap_days": 261,
+          "score": 19.8,
+          "status": "measured"
+        }
+      },
+      "model": "MiMo-V2.5-Pro",
+      "name": "小米"
+    }
+  ]
+}

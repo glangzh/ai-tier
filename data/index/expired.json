@@ -1,0 +1,339 @@
+[
+  {
+    "schemaVersion": 0,
+    "occurredAt": "2026-09-18",
+    "publishedAt": "2026-09-18T14:22:00Z",
+    "verification": "auto_verified",
+    "category": "creditsPromotion",
+    "supersedes": null,
+    "startsAt": null,
+    "startsAtText": null,
+    "expiresAt": null,
+    "expiresAtText": null,
+    "region": null,
+    "offerKey": "119218f5bb88e465",
+    "promotionType": "referral",
+    "appliesTo": [
+      "agent"
+    ],
+    "vendor": "trae",
+    "entity": "traecode",
+    "amount": "最高得 3500 积分",
+    "eligibility": "仅限从未注册过 TraeCode 的新用户，同一台设备只能被邀请一次",
+    "howToClaim": "invite",
+    "validityText": "自发放日起 31 天有效，过期后未使用积分将自动清零",
+    "restrictions": "新用户登录 TraeCode 桌面端，双方各得 500 积分；邀满 3 人 / 5 人再加赠 500 积分，5 人封顶；好友以最早完成注册登录时所用的链接为准",
+    "claimUrl": "https://www.trae.cn/events/code-fission",
+    "sourceId": "trae-code-fission",
+    "facts": [
+      {
+        "quote": "邀好友体验 TraeCode 最高得 3500 积分",
+        "url": "https://www.trae.cn/events/code-fission",
+        "snapshot": "snapshots/trae-code-fission/2026-09-18-1422-3d7c448c.json"
+      },
+      {
+        "quote": "新用户登录 TraeCode 桌面端，双方各得 500 积分；邀满 3 人 / 5 人再加赠 500 积分，5 人封顶",
+        "url": "https://www.trae.cn/events/code-fission",
+        "snapshot": "snapshots/trae-code-fission/2026-09-18-1422-3d7c448c.json"
+      },
+      {
+        "quote": "A： 仅限从未注册过 TraeCode 的新用户，同一台设备只能被邀请一次。",
+        "url": "https://www.trae.cn/events/code-fission",
+        "snapshot": "snapshots/trae-code-fission/2026-09-18-1422-3d7c448c.json"
+      },
+      {
+        "quote": "A： 自发放日起 31 天有效，过期后未使用积分将自动清零。",
+        "url": "https://www.trae.cn/events/code-fission",
+        "snapshot": "snapshots/trae-code-fission/2026-09-18-1422-3d7c448c.json"
+      }
+    ],
+    "withdrawn": {
+      "reason": "规则页原文取代，新记录 f3b98e6cb9a8aa57",
+      "at": "2026-09-18"
+    },
+    "quantity": {
+      "value": 3500,
+      "unit": "points",
+      "raw": "最高得 3500 积分"
+    }
+  },
+  {
+    "schemaVersion": 0,
+    "offerKey": "17526e1e278927a4",
+    "occurredAt": "2026-09-18",
+    "publishedAt": "2026-09-18T11:33:00Z",
+    "verification": "auto_verified",
+    "category": "creditsPromotion",
+    "promotionType": "free",
+    "appliesTo": [
+      "model",
+      "subscription"
+    ],
+    "planKind": "toolPlan",
+    "vendor": "qoder",
+    "entity": "qoder-sota-models",
+    "amount": "累计最多可领取 7,500 Credits",
+    "eligibility": "Qoder 个人订阅 及 企业订阅 用户，在活动期间处于付费状态均可以领取",
+    "howToClaim": "console",
+    "startsAt": "2026-09-15T12:00:00+08:00",
+    "startsAtText": "2026 年 9 月 15 日 12:00 至 9 月 20 日 12:00",
+    "expiresAt": "2026-09-20T12:00:00+08:00",
+    "expiresAtText": "资源包于 9 月 20 日 12:00 失效，活动同时结束",
+    "restrictions": "连续 5 天每天 12:00 领一份，每份于次日 12:00 失效、剩余不累计；今日档 2,000 Credits，可用于 Sonus 模型。注意：qoder.com/activities 英文索引页写的是「9 月 15 日至 9 月 19 日、累计最多 4,500 Credits」，与规则页 docs.qoder.com/zh/events/sotafree 的逐日表（500+1,000+2,000+2,000+2,000=7,500，至 9 月 20 日 12:00）不一致；以逐日表可复算的规则页为准，索引页疑为旧文案",
+    "claimUrl": "https://docs.qoder.com/zh/events/sotafree",
+    "sourceId": "qoder-events-sotafree",
+    "facts": [
+      {
+        "quote": "2026 年 9 月 15 日至 9 月 19 日（SGT），个人版及企业版付费用户每天 12:00 可领取一份 SOTA 模型专属资源包 ，连续 5 天，累计最多可领取 7,500 Credits 。",
+        "url": "https://docs.qoder.com/zh/events/sotafree",
+        "snapshot": "snapshots/qoder-events-sotafree/2026-09-18-1133-bd953a40.json"
+      },
+      {
+        "quote": "适用用户 ：Qoder 个人订阅 及 企业订阅 用户，在活动期间处于付费状态均可以领取。",
+        "url": "https://docs.qoder.com/zh/events/sotafree",
+        "snapshot": "snapshots/qoder-events-sotafree/2026-09-18-1133-bd953a40.json"
+      },
+      {
+        "quote": "活动时间 ：2026 年 9 月 15 日 12:00 至 9 月 20 日 12:00。",
+        "url": "https://docs.qoder.com/zh/events/sotafree",
+        "snapshot": "snapshots/qoder-events-sotafree/2026-09-18-1133-bd953a40.json"
+      },
+      {
+        "quote": "活动内容 ：每天可领取一份 SOTA 模型专属资源包，可用于 Sonus 模型。",
+        "url": "https://docs.qoder.com/zh/events/sotafree",
+        "snapshot": "snapshots/qoder-events-sotafree/2026-09-18-1133-bd953a40.json"
+      },
+      {
+        "quote": "有效期限 ：每份资源包于领取开放后的次日 12:00 失效，未使用完的 Credits 不结转。请在当轮有效期内使用。",
+        "url": "https://docs.qoder.com/zh/events/sotafree",
+        "snapshot": "snapshots/qoder-events-sotafree/2026-09-18-1133-bd953a40.json"
+      },
+      {
+        "quote": "最后一轮于 9 月 19 日 12:00 开放领取，资源包于 9 月 20 日 12:00 失效，活动同时结束。",
+        "url": "https://docs.qoder.com/zh/events/sotafree",
+        "snapshot": "snapshots/qoder-events-sotafree/2026-09-18-1133-bd953a40.json"
+      }
+    ],
+    "supersedes": null,
+    "quantity": {
+      "value": 7500,
+      "unit": "credits",
+      "raw": "累计最多可领取 7,500 Credits"
+    }
+  },
+  {
+    "schemaVersion": 0,
+    "occurredAt": "2026-09-18",
+    "publishedAt": "2026-09-18T14:22:00Z",
+    "verification": "auto_verified",
+    "category": "creditsPromotion",
+    "supersedes": null,
+    "startsAt": null,
+    "startsAtText": null,
+    "expiresAt": null,
+    "expiresAtText": null,
+    "region": null,
+    "offerKey": "8627c9cd57741736",
+    "promotionType": "free",
+    "appliesTo": [
+      "model",
+      "agent",
+      "subscription"
+    ],
+    "planKind": "codingPlan",
+    "vendor": "zhipu",
+    "entity": "glm-coding-plan",
+    "amount": "GLM-5.3-Flash 无限畅蹬",
+    "eligibility": "套餐用户在 ZCode 端调用",
+    "howToClaim": "auto",
+    "restrictions": "每日 23:00～次日 09:00 生效；在其他 Agent 额度翻倍；活动结束时间来源未说明",
+    "claimUrl": "https://docs.bigmodel.cn/cn/coding-plan/overview",
+    "sourceId": "zhipu-coding-plan",
+    "facts": [
+      {
+        "quote": "夜间畅用活动 来袭：活动期间，每日 23:00～次日 09:00，套餐用户在 ZCode 端调用 GLM-5.3-Flash 无限畅蹬，在其他 Agent 额度翻倍！",
+        "url": "https://docs.bigmodel.cn/cn/coding-plan/overview",
+        "snapshot": "snapshots/zhipu-coding-plan/2026-09-18-1422-a94a0912.json"
+      },
+      {
+        "quote": "当前更有 限时深夜错峰活动 加持，实际可用额度远不止于此。",
+        "url": "https://docs.bigmodel.cn/cn/coding-plan/overview",
+        "snapshot": "snapshots/zhipu-coding-plan/2026-09-18-1422-a94a0912.json"
+      }
+    ],
+    "withdrawn": {
+      "reason": "同一活动的完整记录改由 a87c7a3823113d0f 承载：补上活动窗口（2026-09-03 至 2026-09-20）与规则出处（coding-plan/notice/event-glm-5.3-flash）",
+      "at": "2026-09-18"
+    },
+    "quantity": null
+  },
+  {
+    "schemaVersion": 0,
+    "occurredAt": "2026-09-18",
+    "publishedAt": "2026-09-18T14:40:00Z",
+    "verification": "auto_verified",
+    "category": "creditsPromotion",
+    "supersedes": "8627c9cd57741736",
+    "region": null,
+    "offerKey": "a87c7a3823113d0f",
+    "promotionType": "free",
+    "appliesTo": [
+      "model",
+      "agent",
+      "subscription"
+    ],
+    "planKind": "codingPlan",
+    "vendor": "zhipu",
+    "entity": "glm-coding-plan",
+    "amount": "在 ZCode 中免费使用",
+    "eligibility": "覆盖所有付费套餐用户",
+    "howToClaim": "auto",
+    "startsAt": "2026-09-03T00:00:00+08:00",
+    "startsAtText": "9 月 3 日至 9 月 20 日，GLM Coding Plan 推出夜间畅蹬活动",
+    "expiresAt": "2026-09-20T23:59:59+08:00",
+    "expiresAtText": "2026 年 9 月 3 日至 2026 年 9 月 20 日",
+    "restrictions": "每晚 23 点至次日 9 点自动生效；其他套餐支持的 Agent 额度翻倍；仅 GLM-5.3-Flash，选 GLM-5.3 仍按标准消耗；已达 5 小时/周 限额上限时暂时无法参与；需 ZCode 3.10 及以上版本",
+    "sourceId": "zhipu-event-glm-flash",
+    "claimUrl": "https://docs.bigmodel.cn/cn/coding-plan/notice/event-glm-5.3-flash",
+    "facts": [
+      {
+        "quote": "9 月 3 日至 9 月 20 日，GLM Coding Plan 推出夜间畅蹬活动，每晚 23 点至次日 9 点， 调用套餐中的 GLM-5.3-Flash，在 ZCode 中免费使用，在其他套餐支持的 Agent 中使用额度翻倍， 进入指定时间段自动生效，覆盖所有付费套餐用户。",
+        "url": "https://docs.bigmodel.cn/cn/coding-plan/notice/event-glm-5.3-flash",
+        "snapshot": "snapshots/zhipu-event-glm-flash/2026-09-18-1440-24e2e5de.json"
+      },
+      {
+        "quote": "活动时间：2026 年 9 月 3 日至 2026 年 9 月 20 日 。",
+        "url": "https://docs.bigmodel.cn/cn/coding-plan/notice/event-glm-5.3-flash",
+        "snapshot": "snapshots/zhipu-event-glm-flash/2026-09-18-1440-24e2e5de.json"
+      },
+      {
+        "quote": "通过 ZCode 使用 额度消耗全部为 0 ，畅用爽蹬",
+        "url": "https://docs.bigmodel.cn/cn/coding-plan/notice/event-glm-5.3-flash",
+        "snapshot": "snapshots/zhipu-event-glm-flash/2026-09-18-1440-24e2e5de.json"
+      },
+      {
+        "quote": "通过套餐支持的其他 Agent 使用 可用额度在您套餐标准规则的基础上全部 ×2 倍",
+        "url": "https://docs.bigmodel.cn/cn/coding-plan/notice/event-glm-5.3-flash",
+        "snapshot": "snapshots/zhipu-event-glm-flash/2026-09-18-1440-24e2e5de.json"
+      },
+      {
+        "quote": "该活动 仅支持 GLM-5.3-Flash 模型 ；错峰时段内选用 GLM-5.3，仍按套餐标准规则消耗额度。",
+        "url": "https://docs.bigmodel.cn/cn/coding-plan/notice/event-glm-5.3-flash",
+        "snapshot": "snapshots/zhipu-event-glm-flash/2026-09-18-1440-24e2e5de.json"
+      }
+    ],
+    "withdrawn": {
+      "reason": "原记录把「错峰时段套餐内额度消耗降为 0」写成「付费套餐用户免费使用」并挂 free，属同义反复且类型错误；由 3812c3d2854743b3 以 discount 重录",
+      "at": "2026-09-18"
+    },
+    "quantity": null
+  },
+  {
+    "schemaVersion": 0,
+    "occurredAt": "2026-09-18",
+    "publishedAt": "2026-09-18T14:40:00Z",
+    "verification": "auto_verified",
+    "category": "creditsPromotion",
+    "supersedes": null,
+    "region": null,
+    "offerKey": "b4c4a3aa8e3f92c5",
+    "promotionType": "discount",
+    "appliesTo": [
+      "model",
+      "subscription"
+    ],
+    "planKind": "toolPlan",
+    "vendor": "trae",
+    "entity": "traecode-lite",
+    "amount": "模型折扣：Seed-2.1 2.5 折，GLM、Deepseek-V4 5折",
+    "eligibility": "会员 Lite",
+    "howToClaim": "purchase",
+    "startsAt": null,
+    "startsAtText": null,
+    "expiresAt": null,
+    "expiresAtText": null,
+    "restrictions": "权益表另列 Seed-2.1-Turbo 5 折、Seed-Code 5 折、DeepSeek-Flash 闲时 5 折；GLM 5.2 / 5.3 在免费档无折扣",
+    "sourceId": "trae-pricing",
+    "claimUrl": "https://www.trae.cn/pricing",
+    "facts": [
+      {
+        "quote": "模型折扣：Seed-2.1 2.5 折，GLM、Deepseek-V4 5折",
+        "url": "https://www.trae.cn/pricing",
+        "snapshot": "snapshots/trae-pricing/2026-09-18-1440-697f8132.json"
+      },
+      {
+        "quote": "DeepSeek-Flash 闲时 5 折",
+        "url": "https://www.trae.cn/pricing",
+        "snapshot": "snapshots/trae-pricing/2026-09-18-1440-697f8132.json"
+      },
+      {
+        "quote": "Seed-2.1-Turbo 5 折",
+        "url": "https://www.trae.cn/pricing",
+        "snapshot": "snapshots/trae-pricing/2026-09-18-1440-697f8132.json"
+      }
+    ],
+    "withdrawn": {
+      "reason": "规则页原文取代，新记录 ad751a576a20a666",
+      "at": "2026-09-18"
+    },
+    "quantity": null
+  },
+  {
+    "schemaVersion": 0,
+    "offerKey": "ce72f73e73e630b1",
+    "occurredAt": "2026-09-18",
+    "publishedAt": "2026-09-18T14:34:00Z",
+    "verification": "auto_verified",
+    "category": "creditsPromotion",
+    "promotionType": "discount",
+    "appliesTo": [
+      "subscription",
+      "agent"
+    ],
+    "planKind": "toolPlan",
+    "vendor": "moonshot",
+    "entity": "kimi-membership",
+    "amount": "¥1,680",
+    "eligibility": "连续包年",
+    "howToClaim": "purchase",
+    "startsAt": null,
+    "startsAtText": null,
+    "expiresAt": null,
+    "expiresAtText": null,
+    "region": null,
+    "validityText": "会员权益有效期为自订阅生效之日起 30 天",
+    "restrictions": "四档会员 ¥49/¥99/¥199/¥699 每月，选择连续包年可享受更大折扣，最高立省 ¥1,680；具体到各档的年省金额来源未逐项列出",
+    "claimUrl": "https://www.kimi.com/help/membership/membership-pricing",
+    "sourceId": "moonshot-kimi-membership-pricing",
+    "facts": [
+      {
+        "quote": "选择连续包年可享受更大折扣，最高立省 ¥1,680。",
+        "url": "https://www.kimi.com/help/membership/membership-pricing",
+        "snapshot": "snapshots/moonshot-kimi-membership-pricing/2026-09-18-1434-535d126f.json"
+      },
+      {
+        "quote": "Kimi 提供四档会员计划，均支持连续包月和连续包年两种订阅方式。",
+        "url": "https://www.kimi.com/help/membership/membership-pricing",
+        "snapshot": "snapshots/moonshot-kimi-membership-pricing/2026-09-18-1434-535d126f.json"
+      },
+      {
+        "quote": "会员权益有效期为自订阅生效之日起 30 天。",
+        "url": "https://www.kimi.com/help/membership/membership-overview",
+        "snapshot": "snapshots/moonshot-kimi-membership-overview/2026-09-18-1434-b63c153f.json"
+      }
+    ],
+    "corroboration": [
+      {
+        "sourceId": "moonshot-kimi-membership-overview",
+        "quote": "选择连续包年订阅，最高可立省 ¥1,680 ，适合长期使用的用户。",
+        "snapshot": "snapshots/moonshot-kimi-membership-overview/2026-09-18-1434-b63c153f.json"
+      }
+    ],
+    "supersedes": null,
+    "withdrawn": {
+      "reason": "页面只给封顶口径「最高立省 ¥1,680」，未给出连续包年价与逐档原价，参照物不成立；原 revise 补丁以 baseline=连续包月 充当原价属硬凑。等会员页渲染数据到手后按具体档位重录",
+      "at": "2026-09-18"
+    },
+    "quantity": null
+  }
+]

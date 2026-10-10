@@ -1,0 +1,9 @@
+{
+  "id": "moonshot-kimi-membership-overview",
+  "vendor": "moonshot",
+  "url": "https://www.kimi.com/help/membership/membership-overview",
+  "allowedHosts": [
+    "www.kimi.com",
+    "kimi.com"
+  ]
+}

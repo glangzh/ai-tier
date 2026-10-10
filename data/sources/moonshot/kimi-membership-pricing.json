@@ -1,0 +1,9 @@
+{
+  "id": "kimi-membership-pricing",
+  "vendor": "moonshot",
+  "url": "https://www.kimi.com/membership/pricing",
+  "allowedHosts": [
+    "kimi.com",
+    "www.kimi.com"
+  ]
+}

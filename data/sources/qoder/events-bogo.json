@@ -1,0 +1,9 @@
+{
+  "id": "qoder-events-bogo",
+  "vendor": "qoder",
+  "url": "https://docs.qoder.com/zh/events/bogo",
+  "allowedHosts": [
+    "docs.qoder.com",
+    "qoder.com"
+  ]
+}

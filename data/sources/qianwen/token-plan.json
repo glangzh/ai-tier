@@ -1,0 +1,9 @@
+{
+  "id": "qianwen-token-plan",
+  "vendor": "qianwen",
+  "url": "https://platform.qianwenai.com/pricing/token-plan",
+  "allowedHosts": [
+    "platform.qianwenai.com",
+    "qianwenai.com"
+  ]
+}

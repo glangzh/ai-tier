@@ -1,0 +1,9 @@
+{
+  "id": "zhipu-special-area",
+  "vendor": "zhipu",
+  "url": "https://open.bigmodel.cn/special_area",
+  "allowedHosts": [
+    "open.bigmodel.cn",
+    "bigmodel.cn"
+  ]
+}

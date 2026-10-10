@@ -1,0 +1,9 @@
+{
+  "id": "volcengine-first-purchase-offer",
+  "vendor": "volcengine",
+  "url": "https://docs.volcengine.com/docs/87732/2275050?lang=zh",
+  "allowedHosts": [
+    "www.volcengine.com",
+    "docs.volcengine.com"
+  ]
+}

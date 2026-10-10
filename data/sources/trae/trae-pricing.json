@@ -1,0 +1,9 @@
+{
+  "id": "trae-pricing",
+  "vendor": "trae",
+  "url": "https://www.trae.cn/pricing",
+  "allowedHosts": [
+    "www.trae.cn",
+    "trae.cn"
+  ]
+}

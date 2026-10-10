@@ -1,0 +1,9 @@
+{
+  "id": "qoder-events-offpeakrate",
+  "vendor": "qoder",
+  "url": "https://docs.qoder.com/zh/events/offpeakrate",
+  "allowedHosts": [
+    "docs.qoder.com",
+    "qoder.com"
+  ]
+}

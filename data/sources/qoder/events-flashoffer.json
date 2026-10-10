@@ -1,0 +1,9 @@
+{
+  "id": "qoder-events-flashoffer",
+  "vendor": "qoder",
+  "url": "https://docs.qoder.com/zh/events/flashoffer",
+  "allowedHosts": [
+    "docs.qoder.com",
+    "qoder.com"
+  ]
+}

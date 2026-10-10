@@ -1,0 +1,11 @@
+{
+  "id": "moonshot-api-free-trial",
+  "vendor": "moonshot",
+  "url": "https://www.kimi.com/zh-cn/help/kimi-api/api-free-trial",
+  "allowedHosts": [
+    "www.kimi.com",
+    "kimi.com",
+    "platform.kimi.com",
+    "platform.moonshot.cn"
+  ]
+}

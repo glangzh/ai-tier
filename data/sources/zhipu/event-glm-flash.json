@@ -1,0 +1,9 @@
+{
+  "id": "zhipu-event-glm-flash",
+  "vendor": "zhipu",
+  "url": "https://docs.bigmodel.cn/cn/coding-plan/notice/event-glm-5.3-flash",
+  "allowedHosts": [
+    "docs.bigmodel.cn",
+    "bigmodel.cn"
+  ]
+}
