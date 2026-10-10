@@ -2,6 +2,7 @@ import Link from "next/link";
 import { ClaimButton } from "@/components/ClaimButton";
 import { SourceLink } from "@/components/SourceLink";
 import { t, type Lang } from "@/lib/i18n/site";
+import { INTERACTIONS_ENABLED } from "@/lib/deployment";
 import {
   claimLabelLang,
   countdownText,
@@ -64,9 +65,11 @@ export function DealCard({ o, lang }: { o: Offer; lang: Lang }) {
         <dt>{t(lang, "card.how")}</dt>
         <dd>{claimLabelLang(lang, o.howToClaim)}</dd>
       </dl>
-      <div className="card-actions">
-        <ClaimButton offerKey={o.offerKey} />
-      </div>
+      {INTERACTIONS_ENABLED && (
+        <div className="card-actions">
+          <ClaimButton offerKey={o.offerKey} />
+        </div>
+      )}
     </article>
   );
 }

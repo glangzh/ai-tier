@@ -1,5 +1,6 @@
 import { createHash } from "node:crypto";
 import { NextResponse } from "next/server";
+import { INTERACTIONS_ENABLED } from "./deployment";
 
 const hits = new Map<string, { n: number; t: number }>();
 
@@ -12,6 +13,8 @@ export const ipDayHash = (req: Request, day: string) =>
 
 /** 无鉴权接口共用的两道闸：请求体大小与按 IP 的频次。 */
 export function guard(req: Request, limit = 20): NextResponse | null {
+  if (!INTERACTIONS_ENABLED)
+    return NextResponse.json({ error: "互动暂未开放" }, { status: 503 });
   const ip = clientIp(req);
   const now = Date.now();
   const w = hits.get(ip) ?? { n: 0, t: now };

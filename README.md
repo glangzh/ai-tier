@@ -22,4 +22,6 @@ GitHub 目标为 [glangzh/ai-tier](https://github.com/glangzh/ai-tier)，remote 
 `vercel.json` 指定 Next.js、锁定依赖安装和 `.next` 产物，`package.json` 指定 Node.js 24。
 构建先校验公开数据、生成 RSS/sitemap/robots，再运行 Next.js 构建；feeds 使用 `SITE_URL` 或 Vercel 的生产域名。
 
-在线打卡、投喂与宠物状态沿用 Redis 存储，需要在 Vercel 项目配置可从云端访问的 `REDIS_URL` 和 `EVENT_SALT`；凭据只放环境变量，不进 Git。
+当前 Vercel 仅上线展示页面，构建时设置 `NEXT_PUBLIC_INTERACTIONS_ENABLED=0`，隐藏打卡、领取食物和投喂入口，互动 API 返回 503“互动暂未开放”。本地默认仍可运行互动功能。
+
+后续恢复线上互动前，需要配置可从云端访问的 `REDIS_URL` 和 `EVENT_SALT`，再移除展示模式构建开关；凭据只放环境变量，不进 Git。

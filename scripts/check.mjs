@@ -167,7 +167,8 @@ expect(
     && /\.control-icon\{[^}]*border-radius:50%/.test(baseCss),
 );
 expect("主题按钮只渲染图标", home.includes("theme-icon") && !home.includes("☀ 浅色") && !home.includes("☾ 深色"));
-expect("宠物入口使用简短计数", home.includes("pet-corner") && !home.includes("宠物池 · 今日") && /今日\d+次/.test(home));
+if (process.env.NEXT_PUBLIC_INTERACTIONS_ENABLED !== "0")
+  expect("宠物入口使用简短计数", home.includes("pet-corner") && !home.includes("宠物池 · 今日") && /今日\d+次/.test(home));
 expect("页面使用获取时间", !home.includes("抓取时间"));
 expect("热力图渲染一年格数", (home.match(/heat-cell/g) ?? []).length > 360);
 expect("热力图每格带日期与条数", /（UTC）：\d+ 条活动/.test(home));
@@ -255,6 +256,7 @@ for (const secret of ["cc86de0abfd5744c", "d9694316b7a7ee49"]) {
 expect("宠物状态未泄漏进数据产物", !/petFeeds|foodToken|pet\/state|fullness/.test(artifactText));
 expect("RSS 不含趣味层文案", !/宠物|投喂/.test(rss));
 
+if (process.env.NEXT_PUBLIC_INTERACTIONS_ENABLED !== "0") {
 // 趣味层挂在卡片上
 expect("每张卡片带打卡入口", (home.match(/我领到了/g) ?? []).length === deals.length);
 expect("打卡入口不冒充官方确认", home.includes("AIRadar 不代领"));
@@ -303,6 +305,16 @@ expect("池外 petId 被拒", badPet.status === 400);
 const state = await (await fetch(`${BASE}/api/pet/state`)).json();
 expect("宠物状态含 6 只且可聚合", state.pets?.length === 6 && state.pets.some((p) => p.feeds >= 1));
 expect("宠物状态不返回个体信息", !JSON.stringify(state).match(/[0-9a-f]{32,}|@/));
+
+} else {
+  expect("展示模式不显示打卡入口", !home.includes("我领到了"));
+  expect("展示模式不显示宠物角", !home.includes("pet-corner"));
+  for (const [path, method] of [["/api/visit", "POST"], ["/api/claim", "POST"], ["/api/feed", "POST"], ["/api/pet/state", "GET"]]) {
+    const response = await fetch(`${BASE}${path}`, { method });
+    const json = await response.json().catch(() => ({}));
+    expect(`展示模式 ${path} 不访问互动存储`, response.status === 503 && json.error === "互动暂未开放");
+  }
+}
 
 if (fails.length) {
   console.error("\n失败：\n" + fails.map((f) => "  ✗ " + f).join("\n"));

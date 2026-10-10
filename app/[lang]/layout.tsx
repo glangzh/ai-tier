@@ -7,6 +7,7 @@ import { LanguageToggle } from "@/components/LanguageToggle";
 import { ThemeToggle } from "@/components/ThemeToggle";
 import { LangProvider } from "@/components/LangProvider";
 import { LANGS, isLang, t, type Lang } from "@/lib/i18n/site";
+import { INTERACTIONS_ENABLED } from "@/lib/deployment";
 import "../globals.css";
 
 /**
@@ -73,8 +74,8 @@ export default async function RootLayout({
               <a href={`/${lang}/expired`}>{t(lang, "footer.links.expired")}</a>
             </p>
           </footer>
-          <VisitFood />
-          <PetCorner />
+          {INTERACTIONS_ENABLED && <VisitFood />}
+          {INTERACTIONS_ENABLED && <PetCorner />}
         </LangProvider>
       </body>
     </html>

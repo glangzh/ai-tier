@@ -8,6 +8,8 @@ permissions:
 jobs:
   verify:
     runs-on: ubuntu-latest
+    env:
+      NEXT_PUBLIC_INTERACTIONS_ENABLED: "0"
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4

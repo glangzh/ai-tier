@@ -2,6 +2,7 @@
 import { notFound } from "next/navigation";
 import { isLang, t, type Lang } from "@/lib/i18n/site";
 import { ClaimButton } from "@/components/ClaimButton";
+import { INTERACTIONS_ENABLED } from "@/lib/deployment";
 import {
   claimLabelLang,
   countdownText,
@@ -142,7 +143,7 @@ export default async function DealPage({ params }: { params: Promise<{ lang: str
         <a className="chip on" href={o.claimUrl ?? "#"} rel="noopener noreferrer nofollow" target="_blank">
           {t(lang, "claim.go")}
         </a>
-        {!o.withdrawn && <ClaimButton offerKey={o.offerKey} />}
+        {INTERACTIONS_ENABLED && !o.withdrawn && <ClaimButton offerKey={o.offerKey} />}
       </div>
     </>
   );

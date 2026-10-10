@@ -10,3 +10,4 @@
 - 唯一 GitHub 目标：`https://github.com/glangzh/ai-tier`。推送前核对 `origin`；等价 SSH 地址可用，其它目标禁止推送。
 - 用户已授权将当前前端合并为 `main` 并部署 Vercel；旧 Vite 版本保留在 `backup/vite-main-2026-10-10`。
 - 迁移完成后，校验通过的前端与公开数据推送 `main`，由既有 Vercel GitHub 集成部署；不得推送根项目。
+- 当前 Vercel 仅展示公开数据，保持 `NEXT_PUBLIC_INTERACTIONS_ENABLED=0`；未经用户要求，不恢复线上互动或开通 Redis。
