@@ -1,0 +1,10 @@
+{
+  "id": "qoder-activities-index",
+  "vendor": "qoder",
+  "url": "https://qoder.com/activities",
+  "allowedHosts": [
+    "qoder.com",
+    "www.qoder.com",
+    "docs.qoder.com"
+  ]
+}

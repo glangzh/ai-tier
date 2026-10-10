@@ -1,0 +1,9 @@
+{
+  "id": "qianwen-token-plan-reset",
+  "vendor": "qianwen",
+  "url": "https://help.aliyun.com/zh/model-studio/token-plan-personal-overview",
+  "allowedHosts": [
+    "help.aliyun.com",
+    "aliyun.com"
+  ]
+}

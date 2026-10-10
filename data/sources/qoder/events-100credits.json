@@ -1,0 +1,9 @@
+{
+  "id": "qoder-events-100credits",
+  "vendor": "qoder",
+  "url": "https://docs.qoder.com/zh/events/100credits",
+  "allowedHosts": [
+    "docs.qoder.com",
+    "qoder.com"
+  ]
+}

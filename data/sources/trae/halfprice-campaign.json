@@ -1,0 +1,10 @@
+{
+  "id": "trae-halfprice-campaign",
+  "vendor": "trae",
+  "url": "https://docs.trae.cn/enterprise_half-price-campaign-for-trae-built-in-models",
+  "allowedHosts": [
+    "docs.trae.cn",
+    "trae.cn",
+    "www.trae.cn"
+  ]
+}

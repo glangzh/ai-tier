@@ -1,0 +1,8 @@
+{
+  "id": "baidu-qianfan-docs",
+  "vendor": "baidu",
+  "url": "https://cloud.baidu.com/doc/qianfan/index.html",
+  "allowedHosts": [
+    "cloud.baidu.com"
+  ]
+}

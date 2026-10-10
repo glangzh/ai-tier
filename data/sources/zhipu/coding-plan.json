@@ -1,0 +1,9 @@
+{
+  "id": "zhipu-coding-plan",
+  "vendor": "zhipu",
+  "url": "https://docs.bigmodel.cn/cn/coding-plan/overview",
+  "allowedHosts": [
+    "bigmodel.cn",
+    "docs.bigmodel.cn"
+  ]
+}

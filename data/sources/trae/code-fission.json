@@ -1,0 +1,9 @@
+{
+  "id": "trae-code-fission",
+  "vendor": "trae",
+  "url": "https://www.trae.cn/events/code-fission",
+  "allowedHosts": [
+    "trae.cn",
+    "www.trae.cn"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "id": "moonshot-kimi-pricing",
+  "vendor": "moonshot",
+  "url": "https://platform.kimi.com/docs/pricing/chat",
+  "allowedHosts": [
+    "platform.kimi.com",
+    "platform.moonshot.cn"
+  ]
+}

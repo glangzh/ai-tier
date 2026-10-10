@@ -1,0 +1,9 @@
+{
+  "id": "zhipu-usage-revision",
+  "vendor": "zhipu",
+  "url": "https://docs.bigmodel.cn/cn/coding-plan/notice/usage-revision",
+  "allowedHosts": [
+    "docs.bigmodel.cn",
+    "bigmodel.cn"
+  ]
+}

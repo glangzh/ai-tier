@@ -1,0 +1,10 @@
+{
+  "id": "alibaba-bailian-newcomer-quota",
+  "vendor": "alibaba",
+  "url": "https://help.aliyun.com/document_detail/2793371.html",
+  "allowedHosts": [
+    "help.aliyun.com",
+    "developer.aliyun.com",
+    "bailian.console.aliyun.com"
+  ]
+}

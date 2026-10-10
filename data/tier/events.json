@@ -1,0 +1,960 @@
+{
+  "benchmark_moves": [
+    {
+      "company": "SpaceXAI",
+      "company_id": "spacexai",
+      "date": "2026-09-08",
+      "delta": -6.6,
+      "from_benchmark": "AAII v4.2",
+      "from_score": 50.6,
+      "model": "Grok 4.6",
+      "to_benchmark": "AAII v4.3",
+      "to_score": 44
+    },
+    {
+      "company": "小米",
+      "company_id": "xiaomi",
+      "date": "2026-09-08",
+      "delta": -6.6,
+      "from_benchmark": "AAII v4.2",
+      "from_score": 32.6,
+      "model": "MiMo-V2.5-Pro",
+      "to_benchmark": "AAII v4.3",
+      "to_score": 26
+    },
+    {
+      "company": "月之暗面",
+      "company_id": "moonshot",
+      "date": "2026-09-08",
+      "delta": -6.2,
+      "from_benchmark": "AAII v4.2",
+      "from_score": 50.2,
+      "model": "Kimi K3",
+      "to_benchmark": "AAII v4.3",
+      "to_score": 44
+    },
+    {
+      "company": "DeepSeek",
+      "company_id": "deepseek",
+      "date": "2026-09-08",
+      "delta": -6.1,
+      "from_benchmark": "AAII v4.2",
+      "from_score": 42.1,
+      "model": "DeepSeek V4 Pro 0813",
+      "to_benchmark": "AAII v4.3",
+      "to_score": 36
+    },
+    {
+      "company": "Google",
+      "company_id": "google",
+      "date": "2026-09-08",
+      "delta": -6.1,
+      "from_benchmark": "AAII v4.2",
+      "from_score": 47.1,
+      "model": "Gemini 3.8 Flash",
+      "to_benchmark": "AAII v4.3",
+      "to_score": 41
+    },
+    {
+      "company": "MiniMax",
+      "company_id": "minimax",
+      "date": "2026-09-08",
+      "delta": -5.8,
+      "from_benchmark": "AAII v4.2",
+      "from_score": 35.8,
+      "model": "MiniMax M3",
+      "to_benchmark": "AAII v4.3",
+      "to_score": 30
+    },
+    {
+      "company": "腾讯",
+      "company_id": "tencent",
+      "date": "2026-09-08",
+      "delta": -4.4,
+      "from_benchmark": "AAII v4.2",
+      "from_score": 47.8,
+      "model": "Hy4 preview",
+      "to_benchmark": "AAII v4.3",
+      "to_score": 43.4
+    },
+    {
+      "company": "Anthropic",
+      "company_id": "anthropic",
+      "date": "2026-09-08",
+      "delta": -3.8,
+      "from_benchmark": "AAII v4.2",
+      "from_score": 56.8,
+      "model": "Claude Fable 5.1",
+      "to_benchmark": "AAII v4.3",
+      "to_score": 53
+    },
+    {
+      "company": "Meta",
+      "company_id": "meta",
+      "date": "2026-09-08",
+      "delta": -3.6,
+      "from_benchmark": "AAII v4.2",
+      "from_score": 51.6,
+      "model": "Muse Spark 1.3",
+      "to_benchmark": "AAII v4.3",
+      "to_score": 48
+    },
+    {
+      "company": "智谱",
+      "company_id": "zhipu",
+      "date": "2026-09-08",
+      "delta": -3.6,
+      "from_benchmark": "AAII v4.2",
+      "from_score": 48.6,
+      "model": "GLM-5.3",
+      "to_benchmark": "AAII v4.3",
+      "to_score": 45
+    },
+    {
+      "company": "MiniMax",
+      "company_id": "minimax",
+      "date": "2026-09-27",
+      "delta": -1,
+      "from_benchmark": "AAII v4.3",
+      "from_score": 30,
+      "model": "MiniMax M3",
+      "to_benchmark": "AAII v4.3.2",
+      "to_score": 29
+    },
+    {
+      "company": "Google",
+      "company_id": "google",
+      "date": "2026-09-27",
+      "delta": 0,
+      "from_benchmark": "AAII v4.3",
+      "from_score": 41,
+      "model": "Gemini 3.8 Flash",
+      "to_benchmark": "AAII v4.3.2",
+      "to_score": 41
+    },
+    {
+      "company": "Meta",
+      "company_id": "meta",
+      "date": "2026-09-27",
+      "delta": 0,
+      "from_benchmark": "AAII v4.3",
+      "from_score": 48,
+      "model": "Muse Spark 1.3",
+      "to_benchmark": "AAII v4.3.2",
+      "to_score": 48
+    },
+    {
+      "company": "月之暗面",
+      "company_id": "moonshot",
+      "date": "2026-09-27",
+      "delta": 0,
+      "from_benchmark": "AAII v4.3",
+      "from_score": 44,
+      "model": "Kimi K3",
+      "to_benchmark": "AAII v4.3.2",
+      "to_score": 44
+    },
+    {
+      "company": "OpenAI",
+      "company_id": "openai",
+      "date": "2026-09-27",
+      "delta": 0,
+      "from_benchmark": "AAII v4.3",
+      "from_score": 53,
+      "model": "GPT-6 Astra",
+      "to_benchmark": "AAII v4.3.2",
+      "to_score": 53
+    },
+    {
+      "company": "腾讯",
+      "company_id": "tencent",
+      "date": "2026-09-27",
+      "delta": 0,
+      "from_benchmark": "AAII v4.3",
+      "from_score": 43.4,
+      "model": "Hy4 preview",
+      "to_benchmark": "AAII v4.3.2",
+      "to_score": 43.4
+    },
+    {
+      "company": "智谱",
+      "company_id": "zhipu",
+      "date": "2026-09-27",
+      "delta": 0,
+      "from_benchmark": "AAII v4.3",
+      "from_score": 45,
+      "model": "GLM-5.3",
+      "to_benchmark": "AAII v4.3.2",
+      "to_score": 45
+    }
+  ],
+  "counts_by_company": {
+    "alibaba": {
+      "availability_change": 0,
+      "benchmark_upgrade": 1,
+      "model_release": 3,
+      "score_revision": 0
+    },
+    "anthropic": {
+      "availability_change": 0,
+      "benchmark_upgrade": 2,
+      "model_release": 8,
+      "score_revision": 0
+    },
+    "deepseek": {
+      "availability_change": 0,
+      "benchmark_upgrade": 3,
+      "model_release": 4,
+      "score_revision": 0
+    },
+    "google": {
+      "availability_change": 0,
+      "benchmark_upgrade": 3,
+      "model_release": 3,
+      "score_revision": 0
+    },
+    "meta": {
+      "availability_change": 0,
+      "benchmark_upgrade": 3,
+      "model_release": 3,
+      "score_revision": 0
+    },
+    "minimax": {
+      "availability_change": 0,
+      "benchmark_upgrade": 3,
+      "model_release": 2,
+      "score_revision": 0
+    },
+    "moonshot": {
+      "availability_change": 0,
+      "benchmark_upgrade": 3,
+      "model_release": 2,
+      "score_revision": 0
+    },
+    "openai": {
+      "availability_change": 1,
+      "benchmark_upgrade": 2,
+      "model_release": 5,
+      "score_revision": 0
+    },
+    "spacexai": {
+      "availability_change": 0,
+      "benchmark_upgrade": 2,
+      "model_release": 3,
+      "score_revision": 0
+    },
+    "tencent": {
+      "availability_change": 1,
+      "benchmark_upgrade": 3,
+      "model_release": 2,
+      "score_revision": 0
+    },
+    "xiaomi": {
+      "availability_change": 0,
+      "benchmark_upgrade": 2,
+      "model_release": 3,
+      "score_revision": 0
+    },
+    "zhipu": {
+      "availability_change": 0,
+      "benchmark_upgrade": 3,
+      "model_release": 2,
+      "score_revision": 0
+    }
+  },
+  "events": [
+    {
+      "benchmark": "AAII v4.3.2",
+      "company_id": "minimax",
+      "date": "2025-10-26",
+      "id": "minimax:MiniMax-M2:release",
+      "model": "MiniMax-M2",
+      "score": 19,
+      "stage": "official",
+      "type": "model_release"
+    },
+    {
+      "benchmark": "AAII v4.3.2",
+      "company_id": "anthropic",
+      "date": "2025-11-24",
+      "id": "anthropic:Claude Opus 4.5:release",
+      "model": "Claude Opus 4.5",
+      "score": 40.8,
+      "stage": "official",
+      "type": "model_release"
+    },
+    {
+      "benchmark": "AAII v4.3.2",
+      "company_id": "xiaomi",
+      "date": "2025-12-16",
+      "id": "xiaomi:MiMo-V2-Flash (Feb 2026):release",
+      "model": "MiMo-V2-Flash (Feb 2026)",
+      "score": 22,
+      "stage": "official",
+      "type": "model_release"
+    },
+    {
+      "benchmark": "AAII v4.3.2",
+      "company_id": "moonshot",
+      "date": "2026-01-27",
+      "id": "moonshot:Kimi K2.5 (Reasoning):release",
+      "model": "Kimi K2.5 (Reasoning)",
+      "score": 23,
+      "stage": "official",
+      "type": "model_release"
+    },
+    {
+      "benchmark": "AAII v4.3.2",
+      "company_id": "anthropic",
+      "date": "2026-02-05",
+      "id": "anthropic:Claude Opus 4.6:release",
+      "model": "Claude Opus 4.6",
+      "score": 32,
+      "stage": "official",
+      "type": "model_release"
+    },
+    {
+      "benchmark": "AAII v4.3.2",
+      "company_id": "zhipu",
+      "date": "2026-04-07",
+      "id": "zhipu:GLM-5.1 (Reasoning):release",
+      "model": "GLM-5.1 (Reasoning)",
+      "score": 26,
+      "stage": "official",
+      "type": "model_release"
+    },
+    {
+      "benchmark": "AAII v4.3.2",
+      "company_id": "anthropic",
+      "date": "2026-04-16",
+      "id": "anthropic:Claude Opus 4.7:release",
+      "model": "Claude Opus 4.7",
+      "score": 41,
+      "stage": "official",
+      "type": "model_release"
+    },
+    {
+      "benchmark": "AAII v4.3.2",
+      "company_id": "xiaomi",
+      "date": "2026-04-22",
+      "id": "xiaomi:MiMo-V2.5-Pro:release",
+      "model": "MiMo-V2.5-Pro",
+      "score": 26,
+      "stage": "official",
+      "type": "model_release"
+    },
+    {
+      "benchmark": "AAII v4.3.2",
+      "company_id": "openai",
+      "date": "2026-04-23",
+      "id": "openai:GPT-5.5 (xhigh):release",
+      "model": "GPT-5.5 (xhigh)",
+      "score": 39,
+      "stage": "official",
+      "type": "model_release"
+    },
+    {
+      "benchmark": "AAII v4.3.2",
+      "company_id": "deepseek",
+      "date": "2026-04-24",
+      "id": "deepseek:DeepSeek V4 Pro (max):release",
+      "model": "DeepSeek V4 Pro (max)",
+      "score": 31,
+      "stage": "official",
+      "type": "model_release"
+    },
+    {
+      "benchmark": "AAII v4.3.2",
+      "company_id": "alibaba",
+      "date": "2026-05-19",
+      "id": "alibaba:Qwen3.7 Max:release",
+      "model": "Qwen3.7 Max",
+      "score": 30,
+      "stage": "official",
+      "type": "model_release"
+    },
+    {
+      "benchmark": "AAII v4.3.2",
+      "company_id": "google",
+      "date": "2026-05-19",
+      "id": "google:Gemini 3.5 Flash (medium):release",
+      "model": "Gemini 3.5 Flash (medium)",
+      "score": 34,
+      "stage": "official",
+      "type": "model_release"
+    },
+    {
+      "benchmark": "AAII v4.3.2",
+      "company_id": "anthropic",
+      "date": "2026-05-28",
+      "id": "anthropic:Claude Opus 4.8:release",
+      "model": "Claude Opus 4.8",
+      "score": 42,
+      "stage": "official",
+      "type": "model_release"
+    },
+    {
+      "benchmark": "AAII v4.3.2",
+      "company_id": "minimax",
+      "date": "2026-06-01",
+      "id": "minimax:MiniMax M3:release",
+      "model": "MiniMax M3",
+      "score": 29,
+      "stage": "official",
+      "type": "model_release"
+    },
+    {
+      "benchmark": "AAII v4.3.2",
+      "company_id": "anthropic",
+      "date": "2026-06-09",
+      "id": "anthropic:Claude Fable 5:release",
+      "model": "Claude Fable 5",
+      "score": 50,
+      "stage": "official",
+      "type": "model_release"
+    },
+    {
+      "benchmark": "AAII v4.3.2",
+      "company_id": "tencent",
+      "date": "2026-07-06",
+      "id": "tencent:Hy3:release",
+      "model": "Hy3",
+      "score": 26,
+      "stage": "official",
+      "type": "model_release"
+    },
+    {
+      "benchmark": "AAII v4.3.2",
+      "company_id": "spacexai",
+      "date": "2026-07-08",
+      "id": "spacexai:Grok 4.5 (high):release",
+      "model": "Grok 4.5 (high)",
+      "score": 39,
+      "stage": "official",
+      "type": "model_release"
+    },
+    {
+      "benchmark": "AAII v4.3.2",
+      "company_id": "meta",
+      "date": "2026-07-09",
+      "id": "meta:Muse Spark 1.1 (xhigh):release",
+      "model": "Muse Spark 1.1 (xhigh)",
+      "score": 34,
+      "stage": "official",
+      "type": "model_release"
+    },
+    {
+      "benchmark": "AAII v4.3.2",
+      "company_id": "openai",
+      "date": "2026-07-09",
+      "id": "openai:GPT-5.6 Sol (max):release",
+      "model": "GPT-5.6 Sol (max)",
+      "score": 47,
+      "stage": "official",
+      "type": "model_release"
+    },
+    {
+      "benchmark": "AAII v4.3.2",
+      "company_id": "moonshot",
+      "date": "2026-07-16",
+      "id": "moonshot:Kimi K3 (max):release",
+      "model": "Kimi K3 (max)",
+      "score": 44,
+      "stage": "official",
+      "type": "model_release"
+    },
+    {
+      "benchmark": "AAII v4.3.2",
+      "company_id": "anthropic",
+      "date": "2026-07-24",
+      "id": "anthropic:Claude Opus 5:release",
+      "model": "Claude Opus 5",
+      "score": 51,
+      "stage": "official",
+      "type": "model_release"
+    },
+    {
+      "benchmark": "AAII v4.3.2",
+      "company_id": "deepseek",
+      "date": "2026-07-31",
+      "id": "deepseek:DeepSeek V4 Flash 0731 (max):release",
+      "model": "DeepSeek V4 Flash 0731 (max)",
+      "score": 35,
+      "stage": "official",
+      "type": "model_release"
+    },
+    {
+      "benchmark": "AAII v4.3.2",
+      "company_id": "alibaba",
+      "date": "2026-08-03",
+      "id": "alibaba:Qwen3.8 Max:release",
+      "model": "Qwen3.8 Max",
+      "score": 40,
+      "stage": "official",
+      "type": "model_release"
+    },
+    {
+      "benchmark": "AAII v4.3.2",
+      "company_id": "meta",
+      "date": "2026-08-05",
+      "id": "meta:Muse Spark 1.2 (xhigh):release",
+      "model": "Muse Spark 1.2 (xhigh)",
+      "score": 40,
+      "stage": "official",
+      "type": "model_release"
+    },
+    {
+      "benchmark": "AAII v4.3.2",
+      "company_id": "spacexai",
+      "date": "2026-08-12",
+      "id": "spacexai:Grok 4.6 (high):release",
+      "model": "Grok 4.6 (high)",
+      "score": 44,
+      "stage": "official",
+      "type": "model_release"
+    },
+    {
+      "benchmark": "AAII v4.3.2",
+      "company_id": "deepseek",
+      "date": "2026-08-13",
+      "id": "deepseek:DeepSeek V4 Pro 0813 (max):release",
+      "model": "DeepSeek V4 Pro 0813 (max)",
+      "score": 36,
+      "stage": "official",
+      "type": "model_release"
+    },
+    {
+      "benchmark": "AAII v4.3.2",
+      "company_id": "google",
+      "date": "2026-08-13",
+      "id": "google:Gemini 3.7 Flash (high):release",
+      "model": "Gemini 3.7 Flash (high)",
+      "score": 39,
+      "stage": "official",
+      "type": "model_release"
+    },
+    {
+      "benchmark": "AAII v4.3.2",
+      "company_id": "zhipu",
+      "date": "2026-08-14",
+      "id": "zhipu:GLM-5.3 (max):release",
+      "model": "GLM-5.3 (max)",
+      "score": 45,
+      "stage": "official",
+      "type": "model_release"
+    },
+    {
+      "benchmark": "AAII v4.3",
+      "company_id": "tencent",
+      "date": "2026-08-28",
+      "id": "tencent:hy4-preview:stage",
+      "model": "Hy4 preview",
+      "stage": "preview",
+      "type": "availability_change"
+    },
+    {
+      "benchmark": "AAII v4.3.2",
+      "company_id": "tencent",
+      "date": "2026-08-28",
+      "id": "tencent:Hy4 preview:release",
+      "model": "Hy4 preview",
+      "score": 43.4,
+      "stage": "preview",
+      "type": "model_release"
+    },
+    {
+      "benchmark": "AAII v4.3.2",
+      "company_id": "anthropic",
+      "date": "2026-09-01",
+      "id": "anthropic:Claude Fable 5.1:release",
+      "model": "Claude Fable 5.1",
+      "score": 53,
+      "stage": "official",
+      "type": "model_release"
+    },
+    {
+      "benchmark": "AAII v4.3.2",
+      "company_id": "alibaba",
+      "date": "2026-09-02",
+      "id": "alibaba:Qwen3.8 Max (0902):release",
+      "model": "Qwen3.8 Max (0902)",
+      "score": 45,
+      "stage": "official",
+      "type": "model_release"
+    },
+    {
+      "benchmark": "AAII v4.3.2",
+      "company_id": "google",
+      "date": "2026-09-02",
+      "id": "google:Gemini 3.8 Flash (high):release",
+      "model": "Gemini 3.8 Flash (high)",
+      "score": 41,
+      "stage": "official",
+      "type": "model_release"
+    },
+    {
+      "benchmark": "AAII v4.3.2",
+      "company_id": "meta",
+      "date": "2026-09-02",
+      "id": "meta:Muse Spark 1.3 (max):release",
+      "model": "Muse Spark 1.3 (max)",
+      "score": 48,
+      "stage": "official",
+      "type": "model_release"
+    },
+    {
+      "benchmark": "AAII v4.3",
+      "company_id": "openai",
+      "date": "2026-09-03",
+      "id": "openai:gpt-6-astra:availability",
+      "model": "GPT-6 Astra (max)",
+      "stage": "api",
+      "type": "availability_change"
+    },
+    {
+      "benchmark": "AAII v4.3.2",
+      "company_id": "openai",
+      "date": "2026-09-03",
+      "id": "openai:GPT-6 Astra (max):release",
+      "model": "GPT-6 Astra (max)",
+      "score": 53,
+      "stage": "official",
+      "type": "model_release"
+    },
+    {
+      "benchmark": "AAII v4.2",
+      "company_id": "alibaba",
+      "date": "2026-09-04",
+      "id": "alibaba:Qwen3.8 Max:bench:AAII v4.2",
+      "model": "Qwen3.8 Max",
+      "score": 46.9,
+      "type": "benchmark_upgrade"
+    },
+    {
+      "benchmark": "AAII v4.2",
+      "company_id": "anthropic",
+      "date": "2026-09-04",
+      "id": "anthropic:Claude Fable 5.1:bench:AAII v4.2",
+      "model": "Claude Fable 5.1",
+      "score": 56.8,
+      "type": "benchmark_upgrade"
+    },
+    {
+      "benchmark": "AAII v4.2",
+      "company_id": "deepseek",
+      "date": "2026-09-04",
+      "id": "deepseek:DeepSeek V4 Pro 0813:bench:AAII v4.2",
+      "model": "DeepSeek V4 Pro 0813",
+      "score": 42.1,
+      "type": "benchmark_upgrade"
+    },
+    {
+      "benchmark": "AAII v4.2",
+      "company_id": "google",
+      "date": "2026-09-04",
+      "id": "google:Gemini 3.8 Flash:bench:AAII v4.2",
+      "model": "Gemini 3.8 Flash",
+      "score": 47.1,
+      "type": "benchmark_upgrade"
+    },
+    {
+      "benchmark": "AAII v4.2",
+      "company_id": "meta",
+      "date": "2026-09-04",
+      "id": "meta:Muse Spark 1.3:bench:AAII v4.2",
+      "model": "Muse Spark 1.3",
+      "score": 51.6,
+      "type": "benchmark_upgrade"
+    },
+    {
+      "benchmark": "AAII v4.2",
+      "company_id": "minimax",
+      "date": "2026-09-04",
+      "id": "minimax:MiniMax M3:bench:AAII v4.2",
+      "model": "MiniMax M3",
+      "score": 35.8,
+      "type": "benchmark_upgrade"
+    },
+    {
+      "benchmark": "AAII v4.2",
+      "company_id": "moonshot",
+      "date": "2026-09-04",
+      "id": "moonshot:Kimi K3:bench:AAII v4.2",
+      "model": "Kimi K3",
+      "score": 50.2,
+      "type": "benchmark_upgrade"
+    },
+    {
+      "benchmark": "AAII v4.2",
+      "company_id": "spacexai",
+      "date": "2026-09-04",
+      "id": "spacexai:Grok 4.6:bench:AAII v4.2",
+      "model": "Grok 4.6",
+      "score": 50.6,
+      "type": "benchmark_upgrade"
+    },
+    {
+      "benchmark": "AAII v4.2",
+      "company_id": "tencent",
+      "date": "2026-09-04",
+      "id": "tencent:Hy4 preview:bench:AAII v4.2",
+      "model": "Hy4 preview",
+      "score": 47.8,
+      "type": "benchmark_upgrade"
+    },
+    {
+      "benchmark": "AAII v4.2",
+      "company_id": "xiaomi",
+      "date": "2026-09-04",
+      "id": "xiaomi:MiMo-V2.5-Pro:bench:AAII v4.2",
+      "model": "MiMo-V2.5-Pro",
+      "score": 32.6,
+      "type": "benchmark_upgrade"
+    },
+    {
+      "benchmark": "AAII v4.2",
+      "company_id": "zhipu",
+      "date": "2026-09-04",
+      "id": "zhipu:GLM-5.3:bench:AAII v4.2",
+      "model": "GLM-5.3",
+      "score": 48.6,
+      "type": "benchmark_upgrade"
+    },
+    {
+      "benchmark": "AAII v4.3",
+      "company_id": "anthropic",
+      "date": "2026-09-08",
+      "id": "anthropic:Claude Fable 5.1:bench:AAII v4.3",
+      "model": "Claude Fable 5.1",
+      "score": 53,
+      "type": "benchmark_upgrade"
+    },
+    {
+      "benchmark": "AAII v4.3",
+      "company_id": "deepseek",
+      "date": "2026-09-08",
+      "id": "deepseek:DeepSeek V4 Pro 0813:bench:AAII v4.3",
+      "model": "DeepSeek V4 Pro 0813",
+      "score": 36,
+      "type": "benchmark_upgrade"
+    },
+    {
+      "benchmark": "AAII v4.3",
+      "company_id": "google",
+      "date": "2026-09-08",
+      "id": "google:Gemini 3.8 Flash:bench:AAII v4.3",
+      "model": "Gemini 3.8 Flash",
+      "score": 41,
+      "type": "benchmark_upgrade"
+    },
+    {
+      "benchmark": "AAII v4.3",
+      "company_id": "meta",
+      "date": "2026-09-08",
+      "id": "meta:Muse Spark 1.3:bench:AAII v4.3",
+      "model": "Muse Spark 1.3",
+      "score": 48,
+      "type": "benchmark_upgrade"
+    },
+    {
+      "benchmark": "AAII v4.3",
+      "company_id": "minimax",
+      "date": "2026-09-08",
+      "id": "minimax:MiniMax M3:bench:AAII v4.3",
+      "model": "MiniMax M3",
+      "score": 30,
+      "type": "benchmark_upgrade"
+    },
+    {
+      "benchmark": "AAII v4.3",
+      "company_id": "moonshot",
+      "date": "2026-09-08",
+      "id": "moonshot:Kimi K3:bench:AAII v4.3",
+      "model": "Kimi K3",
+      "score": 44,
+      "type": "benchmark_upgrade"
+    },
+    {
+      "benchmark": "AAII v4.3",
+      "company_id": "openai",
+      "date": "2026-09-08",
+      "id": "openai:GPT-6 Astra:bench:AAII v4.3",
+      "model": "GPT-6 Astra",
+      "score": 53,
+      "type": "benchmark_upgrade"
+    },
+    {
+      "benchmark": "AAII v4.3",
+      "company_id": "spacexai",
+      "date": "2026-09-08",
+      "id": "spacexai:Grok 4.6:bench:AAII v4.3",
+      "model": "Grok 4.6",
+      "score": 44,
+      "type": "benchmark_upgrade"
+    },
+    {
+      "benchmark": "AAII v4.3",
+      "company_id": "tencent",
+      "date": "2026-09-08",
+      "id": "tencent:Hy4 preview:bench:AAII v4.3",
+      "model": "Hy4 preview",
+      "score": 43.4,
+      "type": "benchmark_upgrade"
+    },
+    {
+      "benchmark": "AAII v4.3",
+      "company_id": "xiaomi",
+      "date": "2026-09-08",
+      "id": "xiaomi:MiMo-V2.5-Pro:bench:AAII v4.3",
+      "model": "MiMo-V2.5-Pro",
+      "score": 26,
+      "type": "benchmark_upgrade"
+    },
+    {
+      "benchmark": "AAII v4.3",
+      "company_id": "zhipu",
+      "date": "2026-09-08",
+      "id": "zhipu:GLM-5.3:bench:AAII v4.3",
+      "model": "GLM-5.3",
+      "score": 45,
+      "type": "benchmark_upgrade"
+    },
+    {
+      "benchmark": "AAII v4.3.2",
+      "company_id": "deepseek",
+      "date": "2026-09-10",
+      "id": "deepseek:DeepSeek V4.1 Flash (max):release",
+      "model": "DeepSeek V4.1 Flash (max)",
+      "score": 39,
+      "stage": "official",
+      "type": "model_release"
+    },
+    {
+      "benchmark": "AAII v4.3.2",
+      "company_id": "spacexai",
+      "date": "2026-09-21",
+      "id": "spacexai:Grok 4.7 (xhigh):release",
+      "model": "Grok 4.7 (xhigh)",
+      "score": 46,
+      "stage": "official",
+      "type": "model_release"
+    },
+    {
+      "benchmark": "AAII v4.3.2",
+      "company_id": "anthropic",
+      "date": "2026-09-22",
+      "id": "anthropic:Claude Opus 5.5:release",
+      "model": "Claude Opus 5.5",
+      "score": 58,
+      "stage": "official",
+      "type": "model_release"
+    },
+    {
+      "benchmark": "AAII v4.3.2",
+      "company_id": "openai",
+      "date": "2026-09-22",
+      "id": "openai:GPT-6 Luna (max):release",
+      "model": "GPT-6 Luna (max)",
+      "score": 37,
+      "stage": "official",
+      "type": "model_release"
+    },
+    {
+      "benchmark": "AAII v4.3.2",
+      "company_id": "openai",
+      "date": "2026-09-22",
+      "id": "openai:GPT-6 Sol (max):release",
+      "model": "GPT-6 Sol (max)",
+      "score": 48,
+      "stage": "official",
+      "type": "model_release"
+    },
+    {
+      "benchmark": "AAII v4.3.2",
+      "company_id": "xiaomi",
+      "date": "2026-09-22",
+      "id": "xiaomi:MiMo-V2.6-Pro:release",
+      "model": "MiMo-V2.6-Pro",
+      "score": 46,
+      "stage": "official",
+      "type": "model_release"
+    },
+    {
+      "benchmark": "AAII v4.3.2",
+      "company_id": "deepseek",
+      "date": "2026-09-27",
+      "id": "deepseek:DeepSeek V4.1 Flash:bench:AAII v4.3.2",
+      "model": "DeepSeek V4.1 Flash",
+      "score": 39,
+      "type": "benchmark_upgrade"
+    },
+    {
+      "benchmark": "AAII v4.3.2",
+      "company_id": "google",
+      "date": "2026-09-27",
+      "id": "google:Gemini 3.8 Flash:bench:AAII v4.3.2",
+      "model": "Gemini 3.8 Flash",
+      "score": 41,
+      "type": "benchmark_upgrade"
+    },
+    {
+      "benchmark": "AAII v4.3.2",
+      "company_id": "meta",
+      "date": "2026-09-27",
+      "id": "meta:Muse Spark 1.3:bench:AAII v4.3.2",
+      "model": "Muse Spark 1.3",
+      "score": 48,
+      "type": "benchmark_upgrade"
+    },
+    {
+      "benchmark": "AAII v4.3.2",
+      "company_id": "minimax",
+      "date": "2026-09-27",
+      "id": "minimax:MiniMax M3:bench:AAII v4.3.2",
+      "model": "MiniMax M3",
+      "score": 29,
+      "type": "benchmark_upgrade"
+    },
+    {
+      "benchmark": "AAII v4.3.2",
+      "company_id": "moonshot",
+      "date": "2026-09-27",
+      "id": "moonshot:Kimi K3:bench:AAII v4.3.2",
+      "model": "Kimi K3",
+      "score": 44,
+      "type": "benchmark_upgrade"
+    },
+    {
+      "benchmark": "AAII v4.3.2",
+      "company_id": "openai",
+      "date": "2026-09-27",
+      "id": "openai:GPT-6 Astra:bench:AAII v4.3.2",
+      "model": "GPT-6 Astra",
+      "score": 53,
+      "type": "benchmark_upgrade"
+    },
+    {
+      "benchmark": "AAII v4.3.2",
+      "company_id": "tencent",
+      "date": "2026-09-27",
+      "id": "tencent:Hy4 preview:bench:AAII v4.3.2",
+      "model": "Hy4 preview",
+      "score": 43.4,
+      "type": "benchmark_upgrade"
+    },
+    {
+      "benchmark": "AAII v4.3.2",
+      "company_id": "zhipu",
+      "date": "2026-09-27",
+      "id": "zhipu:GLM-5.3:bench:AAII v4.3.2",
+      "model": "GLM-5.3",
+      "score": 45,
+      "type": "benchmark_upgrade"
+    }
+  ],
+  "meta": {
+    "as_of": "2026-09-27",
+    "benchmark": "AAII v4.3.2",
+    "note": "事件流；benchmark_upgrade = 同一模型换了评测版本（口径变更，不是能力变化）"
+  }
+}

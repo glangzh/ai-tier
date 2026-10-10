@@ -1,0 +1,10 @@
+{
+  "id": "trae-plans-billing",
+  "vendor": "trae",
+  "url": "https://docs.trae.cn/ide_plans-and-billing",
+  "allowedHosts": [
+    "docs.trae.cn",
+    "trae.cn",
+    "www.trae.cn"
+  ]
+}

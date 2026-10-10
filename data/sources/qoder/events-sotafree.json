@@ -1,0 +1,9 @@
+{
+  "id": "qoder-events-sotafree",
+  "vendor": "qoder",
+  "url": "https://docs.qoder.com/zh/events/sotafree",
+  "allowedHosts": [
+    "docs.qoder.com",
+    "qoder.com"
+  ]
+}

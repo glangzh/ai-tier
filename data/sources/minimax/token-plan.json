@@ -1,0 +1,10 @@
+{
+  "id": "minimax-token-plan",
+  "vendor": "minimax",
+  "url": "https://platform.minimax.cn/subscribe/token-plan",
+  "allowedHosts": [
+    "platform.minimax.cn",
+    "minimax.cn",
+    "platform.minimaxi.com"
+  ]
+}

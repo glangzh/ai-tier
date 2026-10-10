@@ -1,0 +1,9 @@
+{
+  "id": "codex-resets",
+  "vendor": "openai",
+  "url": "https://codex-resets.com/zh-CN",
+  "allowedHosts": [
+    "codex-resets.com",
+    "www.codex-resets.com"
+  ]
+}

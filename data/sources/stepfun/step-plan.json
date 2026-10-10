@@ -1,0 +1,8 @@
+{
+  "id": "stepfun-step-plan",
+  "vendor": "stepfun",
+  "url": "https://platform.stepfun.com/step-plan",
+  "allowedHosts": [
+    "platform.stepfun.com"
+  ]
+}
