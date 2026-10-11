@@ -139,6 +139,14 @@ export const UI = {
   "reset.captured": ["获取时间", "Retrieved"],
 
   // ── 卡片与详情 ──
+  "allowance.price": ["订阅价格", "Subscription price"],
+  "allowance.models": ["模型月额度", "Monthly usage by model"],
+  "allowance.extra": ["常规模型额度", "Plan-model credits"],
+  "allowance.limits": ["用量窗口", "Usage windows"],
+  "allowance.basis": ["额度说明", "Allowance terms"],
+  "allowance.month": ["/月", "/month"],
+  "allowance.ongoing": ["持续供应", "Ongoing"],
+  "type.allowance": ["额度优惠", "Usage allowance"],
   "card.amount": ["能拿多少", "What you get"],
   "card.baseline": ["原价 / 标准", "List price / baseline"],
   "card.eligibility": ["谁能领", "Who qualifies"],

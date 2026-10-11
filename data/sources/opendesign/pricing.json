@@ -1,0 +1,8 @@
+{
+  "id": "opendesign-pricing",
+  "vendor": "opendesign",
+  "url": "https://open-design.ai/pricing/",
+  "allowedHosts": [
+    "open-design.ai"
+  ]
+}

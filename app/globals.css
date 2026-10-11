@@ -608,6 +608,59 @@ button.chip {
   font-family: var(--mono);
 }
 
+.rows .allowance-price {
+  font-size: 22px;
+  font-weight: 800;
+  color: var(--amber);
+}
+
+.rows .allowance-models {
+  display: grid;
+  gap: 4px;
+  min-width: 0;
+}
+
+.allowance-model {
+  display: flex;
+  justify-content: space-between;
+  gap: 12px;
+  border-bottom: 1px solid var(--hairline);
+  padding-bottom: 3px;
+}
+
+.allowance-model span {
+  overflow-wrap: anywhere;
+}
+
+.allowance-model b {
+  white-space: nowrap;
+}
+
+.rows .allowance-copy {
+  font-family: var(--font);
+  font-size: 13px;
+  color: var(--muted);
+}
+
+.card[data-type="allowance"] .rows {
+  row-gap: 8px;
+}
+
+@media (max-width: 520px) {
+  .card .allowance-rows {
+    grid-template-columns: minmax(0, 1fr);
+    row-gap: 2px;
+  }
+
+  .allowance-rows dt {
+    margin-top: 10px;
+  }
+
+  .allowance-rows dt:first-child {
+    margin-top: 0;
+  }
+}
+
 .flag {
   margin-left: auto;
   font-family: var(--mono);

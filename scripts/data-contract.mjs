@@ -7,6 +7,8 @@ import { existsSync } from "node:fs";
 import { readFile, readdir } from "node:fs/promises";
 import { join, relative, resolve } from "node:path";
 
+import { allowanceErrors } from "../lib/allowance-contract.js";
+
 const ROOT = resolve(import.meta.dirname, "..");
 const DATA = process.env.AIRADAR_DATA_DIR || join(ROOT, "data");
 const DATA_ROOT = resolve(DATA);
@@ -15,7 +17,7 @@ const fail = (message) => { throw new Error(message); };
 const norm = (value) => String(value).replace(/[\s　]/g, "").toLowerCase();
 const ENUM = {
   category: ["creditsPromotion", "pricingChange", "modelRetirement", "capabilityChange", "releaseNotable"],
-  promotionType: ["free", "reset", "discount", "trial", "newcomer", "referral", "bonus"],
+  promotionType: ["free", "reset", "discount", "trial", "newcomer", "referral", "bonus", "allowance"],
   appliesTo: ["model", "agent", "subscription", "apiCredit", "other"],
 };
 
@@ -78,6 +80,8 @@ const inspect = async (items, label, live) => {
       fail(`${offer.offerKey} 缺少 facts`);
     if (typeof offer.facts.find((fact) => typeof fact?.url === "string" && /^https?:\/\//i.test(fact.url))?.url !== "string")
       fail(`${offer.offerKey} 缺少可用的数据源链接`);
+
+    for (const error of allowanceErrors(offer)) fail(`${offer.offerKey}: ${error}`);
 
     const source = sources.get(offer.sourceId);
     for (const [i, fact] of offer.facts.entries()) {

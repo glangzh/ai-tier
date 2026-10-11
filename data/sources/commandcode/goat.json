@@ -1,0 +1,8 @@
+{
+  "id": "commandcode-goat",
+  "vendor": "commandcode",
+  "url": "https://commandcode.ai/docs/plans/goat",
+  "allowedHosts": [
+    "commandcode.ai"
+  ]
+}

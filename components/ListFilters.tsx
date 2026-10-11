@@ -45,6 +45,8 @@ export function ListFilters({ tabs, total }: { tabs: TypeTab[]; total: number })
   };
 
   const pick = (t: string | null, m: number) => {
+    // 美元计费用量不能沿用 Credits / Token 的数量阈值。
+    if (t === "allowance") m = 0;
     setType(t);
     setMin(m);
     apply(t, m);
@@ -69,7 +71,7 @@ export function ListFilters({ tabs, total }: { tabs: TypeTab[]; total: number })
         ))}
       </nav>
 
-      <nav className="filters" aria-label={tr("filters.qtyAria")}>
+      {type !== "allowance" && <nav className="filters" aria-label={tr("filters.qtyAria")}>
         <span className="filter-label">{tr("filters.qty")}</span>
         {THRESHOLDS.map((v) => (
           <button
@@ -82,7 +84,7 @@ export function ListFilters({ tabs, total }: { tabs: TypeTab[]; total: number })
           </button>
         ))}
         <span className="hint">{tr("filters.qtyHint")}</span>
-      </nav>
+      </nav>}
     </>
   );
 }

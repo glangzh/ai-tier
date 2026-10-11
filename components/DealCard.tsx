@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { ClaimButton } from "@/components/ClaimButton";
 import { SourceLink } from "@/components/SourceLink";
+import { AllowanceRows } from "@/components/AllowanceRows";
 import { t, type Lang } from "@/lib/i18n/site";
 import { INTERACTIONS_ENABLED } from "@/lib/deployment";
 import {
@@ -16,7 +17,7 @@ import {
 export function DealCard({ o, lang }: { o: Offer; lang: Lang }) {
   const left = countdownText(lang, o.expiresAt);
   const u = urgency(o.expiresAt);
-  const flag = left ?? t(lang, "urgency.unstated");
+  const flag = left ?? t(lang, o.allowance ? "allowance.ongoing" : "urgency.unstated");
   const resetAt = o.occurredAt.includes("T")
     ? `${o.occurredAt.slice(0, 16).replace("T", " ")} UTC`
     : o.occurredAt;
@@ -28,7 +29,7 @@ export function DealCard({ o, lang }: { o: Offer; lang: Lang }) {
     >
       <div className="card-head">
         <Link className="card-link vendor" href={`/${lang}/p/${o.offerKey}`}>
-          {o.vendor}
+          {o.planName ?? o.vendor}
         </Link>
         {o.promotionType && (
           <span className={`type ${o.promotionType}`}>{typeLabel(lang, o.promotionType)}</span>
@@ -37,8 +38,8 @@ export function DealCard({ o, lang }: { o: Offer; lang: Lang }) {
         <span className={`flag ${u}`}>{flag}</span>
         <SourceLink url={primarySourceUrl(o)} lang={lang} />
       </div>
-      <dl className="rows">
-        {o.promotionType === "reset" ? (
+      <dl className={`rows${o.allowance ? " allowance-rows" : ""}`}>
+        {o.allowance ? <AllowanceRows o={o} lang={lang} /> : o.promotionType === "reset" ? (
           <>
             <dt>{t(lang, "reset.rowTitle")}</dt>
             <dd>{resetAt} · {o.amount ?? t(lang, "card.unknownSource")}</dd>
@@ -55,8 +56,8 @@ export function DealCard({ o, lang }: { o: Offer; lang: Lang }) {
             ) : null}
           </>
         )}
-        <dt>{t(lang, "card.eligibility")}</dt>
-        <dd>{o.eligibility ?? t(lang, "card.unknownSource")}</dd>
+        {!o.allowance && <><dt>{t(lang, "card.eligibility")}</dt>
+        <dd>{o.eligibility ?? t(lang, "card.unknownSource")}</dd></>}
         <dt>{t(lang, "card.until")}</dt>
         <dd>
           {o.expiresAtText ??

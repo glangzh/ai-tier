@@ -266,6 +266,65 @@
   },
   {
     "schemaVersion": 0,
+    "offerKey": "0592505613f92022",
+    "occurredAt": "2026-10-11",
+    "publishedAt": "2026-10-11T00:00:00Z",
+    "verification": "auto_verified",
+    "category": "creditsPromotion",
+    "vendor": "opencode",
+    "entity": "step-5-preview-free",
+    "amount": "Step 5 Preview Free: 限时免费。",
+    "eligibility": "限时",
+    "promotionType": "free",
+    "appliesTo": [
+      "model"
+    ],
+    "baseline": null,
+    "startsAt": null,
+    "startsAtText": null,
+    "expiresAt": null,
+    "expiresAtText": null,
+    "howToClaim": "auto",
+    "restrictions": "来源未说明结束日期。",
+    "supersedes": null,
+    "sourceId": "opencode-go",
+    "claimUrl": "https://opencode.ai/docs/zh-cn/go/",
+    "facts": [
+      {
+        "quote": "LongCat 2.5 Preview Free （限时）",
+        "url": "https://opencode.ai/docs/zh-cn/go/",
+        "snapshot": "snapshots/opencode-go/2026-10-10-1135-338c7735.json"
+      },
+      {
+        "quote": "Step 5 Preview Free （限时）",
+        "url": "https://opencode.ai/docs/zh-cn/go/",
+        "snapshot": "snapshots/opencode-go/2026-10-10-1135-338c7735.json"
+      },
+      {
+        "quote": "限时",
+        "url": "https://opencode.ai/docs/zh-cn/go/",
+        "snapshot": "snapshots/opencode-go/2026-10-10-1135-338c7735.json"
+      },
+      {
+        "quote": "LongCat 2.5 Preview Free: 限时免费。",
+        "url": "https://opencode.ai/docs/zh-cn/go/",
+        "snapshot": "snapshots/opencode-go/2026-10-10-1135-338c7735.json"
+      },
+      {
+        "quote": "Step 5 Preview Free: 限时免费。",
+        "url": "https://opencode.ai/docs/zh-cn/go/",
+        "snapshot": "snapshots/opencode-go/2026-10-10-1135-338c7735.json"
+      },
+      {
+        "quote": "规则",
+        "url": "https://opencode.ai/docs/zh-cn/go/",
+        "snapshot": "snapshots/opencode-go/2026-10-10-1135-338c7735.json"
+      }
+    ],
+    "quantity": null
+  },
+  {
+    "schemaVersion": 0,
     "offerKey": "0db2ea055081bb08",
     "occurredAt": "2026-09-20",
     "publishedAt": "2026-09-20T07:11:48.866Z",
@@ -1051,6 +1110,46 @@
   },
   {
     "schemaVersion": 0,
+    "offerKey": "48ddcb72c9f88d8f",
+    "occurredAt": "2026-10-11",
+    "publishedAt": "2026-10-11T00:00:00Z",
+    "verification": "auto_verified",
+    "category": "pricingChange",
+    "vendor": "opencode",
+    "entity": "opencode-go-plus",
+    "amount": "$40/月",
+    "eligibility": "Go Plus",
+    "appliesTo": [
+      "subscription",
+      "apiCredit"
+    ],
+    "planKind": "tokenPlan",
+    "howToClaim": "purchase",
+    "startsAt": null,
+    "startsAtText": null,
+    "expiresAt": null,
+    "expiresAtText": null,
+    "baseline": null,
+    "claimUrl": "https://opencode.ai/docs/zh-cn/go/",
+    "sourceId": "opencode-go",
+    "restrictions": "新增 Go Plus 月度方案，官方列示比 Go 更高的模型用量；每个工作空间只能有一名成员订阅 Go 或 Go Plus。",
+    "facts": [
+      {
+        "quote": "Go Plus $40/月 下列模型均享有更高的用量限制",
+        "url": "https://opencode.ai/docs/zh-cn/go/",
+        "snapshot": "snapshots/opencode-go/2026-10-10-1135-338c7735.json"
+      },
+      {
+        "quote": "每个工作空间只能有一名成员订阅 OpenCode Go 或 Go Plus。",
+        "url": "https://opencode.ai/docs/zh-cn/go/",
+        "snapshot": "snapshots/opencode-go/2026-10-10-1135-338c7735.json"
+      }
+    ],
+    "supersedes": null,
+    "quantity": null
+  },
+  {
+    "schemaVersion": 0,
     "occurredAt": "2026-09-18",
     "publishedAt": "2026-09-18T14:40:00Z",
     "verification": "auto_verified",
@@ -1105,6 +1204,45 @@
     ],
     "baseline": "¥49",
     "quantity": null
+  },
+  {
+    "schemaVersion": 0,
+    "offerKey": "4a9147d4bb40aeed",
+    "occurredAt": "2026-10-11",
+    "publishedAt": "2026-10-11T00:00:00Z",
+    "verification": "auto_verified",
+    "category": "capabilityChange",
+    "vendor": "anthropic",
+    "entity": "claude-max-api-credits",
+    "amount": "$100 to $200/month in API credits to build on the Claude Platform †",
+    "eligibility": "Max",
+    "appliesTo": [
+      "subscription",
+      "apiCredit"
+    ],
+    "planKind": "toolPlan",
+    "howToClaim": "purchase",
+    "startsAt": null,
+    "startsAtText": null,
+    "expiresAt": null,
+    "expiresAtText": null,
+    "baseline": null,
+    "claimUrl": "https://claude.com/pricing",
+    "sourceId": "anthropic-claude-pricing",
+    "restrictions": "官方定价页新增月度 API credits 权益；具体额度随套餐而异，使用限制与官方条款适用。",
+    "facts": [
+      {
+        "quote": "Max\nFor people who work with Claude all day\nFrom $100\nPer month\nEverything in Pro, plus:\nChoose 5x or 20x more usage than Pro*\nHigher output limits for all tasks\nEarly access to advanced Claude features\nPriority access at high traffic times\n$100 to $200/month in API credits to build on the Claude Platform †",
+        "url": "https://claude.com/pricing",
+        "snapshot": "snapshots/anthropic-claude-pricing/2026-10-10-1206-d12ec00d.json"
+      }
+    ],
+    "supersedes": null,
+    "quantity": {
+      "value": 100,
+      "unit": "credits",
+      "raw": "$100 to $200/month in API credits to build on the Claude Platform †"
+    }
   },
   {
     "schemaVersion": 0,
@@ -1405,6 +1543,51 @@
   },
   {
     "schemaVersion": 0,
+    "offerKey": "6865e91341caf8f0",
+    "occurredAt": "2026-10-11",
+    "publishedAt": "2026-10-11T00:00:00Z",
+    "verification": "auto_verified",
+    "category": "creditsPromotion",
+    "vendor": "zhipu",
+    "entity": "glm-5.3-flash-api-discount",
+    "amount": "限时五折输入 0.4 元、缓存命中 0.115 元、输出 1.4 元",
+    "eligibility": "GLM-5.3-Flash",
+    "promotionType": "discount",
+    "appliesTo": [
+      "apiCredit",
+      "model"
+    ],
+    "baseline": "标准价输入 0.8 元、缓存命中 0.23 元、输出 2.8 元",
+    "startsAt": null,
+    "startsAtText": null,
+    "expiresAt": null,
+    "expiresAtText": null,
+    "howToClaim": "auto",
+    "restrictions": "来源未说明结束日期。",
+    "supersedes": null,
+    "sourceId": "zhipu-bigmodel-pricing",
+    "claimUrl": "https://open.bigmodel.cn/pricing",
+    "facts": [
+      {
+        "quote": "GLM-5.3-Flash",
+        "url": "https://open.bigmodel.cn/pricing",
+        "snapshot": "snapshots/zhipu-bigmodel-pricing/2026-10-10-1140-f0b61c8f.json"
+      },
+      {
+        "quote": "GLM-5.3-Flash：输入0.8元 / M，输出2.8元/M",
+        "url": "https://open.bigmodel.cn/pricing",
+        "snapshot": "snapshots/zhipu-bigmodel-pricing/2026-10-10-1140-f0b61c8f.json"
+      },
+      {
+        "quote": "GLM-5.3-Flash（原生多模态、1M 上下文）：限时五折输入 0.4 元、缓存命中 0.115 元、输出 1.4 元；标准价输入 0.8 元、缓存命中 0.23 元、输出 2.8 元",
+        "url": "https://open.bigmodel.cn/pricing",
+        "snapshot": "snapshots/zhipu-bigmodel-pricing/2026-10-10-1140-f0b61c8f.json"
+      }
+    ],
+    "quantity": null
+  },
+  {
+    "schemaVersion": 0,
     "offerKey": "708674295ff0fa1e",
     "occurredAt": "2026-09-27",
     "publishedAt": "2026-09-27T13:55:38.247Z",
@@ -1555,6 +1738,120 @@
   },
   {
     "schemaVersion": 0,
+    "offerKey": "7c1d3a4c7f728ad1",
+    "occurredAt": "2026-10-12",
+    "publishedAt": "2026-10-11T17:54:16.785Z",
+    "verification": "auto_verified",
+    "category": "creditsPromotion",
+    "promotionType": "allowance",
+    "vendor": "commandcode",
+    "entity": "commandcode-go",
+    "planName": "Command Code Go",
+    "appliesTo": [
+      "subscription"
+    ],
+    "planKind": "toolPlan",
+    "amount": "$1/month",
+    "eligibility": null,
+    "baseline": null,
+    "howToClaim": "purchase",
+    "startsAt": null,
+    "startsAtText": null,
+    "expiresAt": null,
+    "expiresAtText": null,
+    "claimUrl": "https://commandcode.ai/docs/plans/go",
+    "sourceId": "commandcode-go",
+    "facts": [
+      {
+        "quote": "The Go plan is the $1/month entry point to Command Code: open models, available globally, for the price of a coffee once a month. Your $1 buys $10 of credits. A 10x multiplier as one shared pool with a monthly usage on every model.",
+        "url": "https://commandcode.ai/docs/plans/go",
+        "snapshot": "snapshots/commandcode-go/2026-10-11-1754-b5eed048.json"
+      },
+      {
+        "quote": "DeepSeek V4.1 Flash $0.15 $0.60 $0.003 - $10",
+        "url": "https://commandcode.ai/docs/plans/go",
+        "snapshot": "snapshots/commandcode-go/2026-10-11-1754-b5eed048.json"
+      },
+      {
+        "quote": "GLM-5.2 $1.40 $4.40 $0.26 - $10",
+        "url": "https://commandcode.ai/docs/plans/go",
+        "snapshot": "snapshots/commandcode-go/2026-10-11-1754-b5eed048.json"
+      },
+      {
+        "quote": "MiMo V2.6 Pro $0.435 $0.87 $0.0036 - $6",
+        "url": "https://commandcode.ai/docs/plans/go",
+        "snapshot": "snapshots/commandcode-go/2026-10-11-1754-b5eed048.json"
+      },
+      {
+        "quote": "5-hour limit - $3 of usage\nWeekly limit - $6 of usage\nMonthly limit - $10 of usage",
+        "url": "https://commandcode.ai/docs/plans/go",
+        "snapshot": "snapshots/commandcode-go/2026-10-11-1754-b5eed048.json"
+      },
+      {
+        "quote": "Plan Your cost Monthly credits 5-hour limit Weekly limit\nGo $1 $10 of usage $2 $5",
+        "url": "https://commandcode.ai/docs/resources/pricing-limits",
+        "snapshot": "snapshots/commandcode-pricing-limits/2026-10-11-1754-a5b6e94b.json"
+      },
+      {
+        "quote": "These usage limits all come out of one shared $10 pool. A model&#x27;s monthly credits allocation is how much usage that pool is worth if you spend the whole month on that model. Mix models and the pool is spent in proportion: $1 of usage on a model with boosted credits takes a smaller share of the pool than $1 of usage on a model with standard credits. The usage limits below work the same way.",
+        "url": "https://commandcode.ai/docs/plans/go",
+        "snapshot": "snapshots/commandcode-go/2026-10-11-1754-b5eed048.json"
+      },
+      {
+        "quote": "Go is the only plan without API access",
+        "url": "https://commandcode.ai/docs/plans/go",
+        "snapshot": "snapshots/commandcode-go/2026-10-11-1754-b5eed048.json"
+      }
+    ],
+    "supersedes": null,
+    "allowance": {
+      "price": {
+        "value": 1,
+        "currency": "USD",
+        "period": "month",
+        "text": "$1/month",
+        "fact": 0
+      },
+      "models": [
+        {
+          "model": "DeepSeek V4.1 Flash",
+          "value": 10,
+          "currency": "USD",
+          "period": "month",
+          "text": "$10",
+          "fact": 1
+        },
+        {
+          "model": "GLM-5.2",
+          "value": 10,
+          "currency": "USD",
+          "period": "month",
+          "text": "$10",
+          "fact": 2
+        },
+        {
+          "model": "MiMo V2.6 Pro",
+          "value": 6,
+          "currency": "USD",
+          "period": "month",
+          "text": "$6",
+          "fact": 3
+        }
+      ],
+      "limits": {
+        "zh": "官方两页口径不同：Go 页为 5 小时 $3、每周 $6；价格规则页为 $2、$5。实际窗口以控制台为准。",
+        "en": "Official pages differ: Go lists $3 per 5 hours / $6 per week; Pricing & Limits lists $2 / $5. Check your console for the applied limits."
+      },
+      "notes": {
+        "zh": "示例模型按各自计价折算，共用一个套餐额度池，不可相加。Go 不支持 Provider API。",
+        "en": "Examples are model-specific usage equivalents from one shared plan pool; do not add them together. Go has no Provider API access."
+      }
+    },
+    "restrictions": "官方两页口径不同：Go 页为 5 小时 $3、每周 $6；价格规则页为 $2、$5。实际窗口以控制台为准。 示例模型按各自计价折算，共用一个套餐额度池，不可相加。Go 不支持 Provider API。",
+    "quantity": null
+  },
+  {
+    "schemaVersion": 0,
     "offerKey": "83fb85b6d9431bbd",
     "occurredAt": "2026-09-18",
     "publishedAt": "2026-09-18T17:38:00Z",
@@ -1604,6 +1901,45 @@
       "value": 20000000,
       "unit": "tokens",
       "raw": "2000万 免费Tokens资源包"
+    }
+  },
+  {
+    "schemaVersion": 0,
+    "offerKey": "85a440e868f17b6c",
+    "occurredAt": "2026-10-11",
+    "publishedAt": "2026-10-11T00:00:00Z",
+    "verification": "auto_verified",
+    "category": "capabilityChange",
+    "vendor": "anthropic",
+    "entity": "claude-team-api-credits",
+    "amount": "Up to $500 per month in pooled API credits †",
+    "eligibility": "Team",
+    "appliesTo": [
+      "subscription",
+      "apiCredit"
+    ],
+    "planKind": "toolPlan",
+    "howToClaim": "purchase",
+    "startsAt": null,
+    "startsAtText": null,
+    "expiresAt": null,
+    "expiresAtText": null,
+    "baseline": null,
+    "claimUrl": "https://claude.com/pricing",
+    "sourceId": "anthropic-claude-pricing",
+    "restrictions": "官方定价页新增月度 API credits 权益；具体额度随套餐而异，使用限制与官方条款适用。",
+    "facts": [
+      {
+        "quote": "Team\nFor teams of 2 to 150\nGet Team plan\nStandard seat\nAll Claude features, plus more usage than Pro*\n$20\nPer seat / month if billed annually. $25 if billed monthly.\nPremium seat\n5x more usage than standard seats*\n$100\nPer seat / month if billed annually. $125 if billed monthly.\nClaude Code and Claude Cowork\nClaude Design, Slides, and Docs\nClaude Motion and Dashboards (beta)\nMicrosoft 365, @Claude, and more\nEnterprise search across your organization\nSingle sign-on (SSO)\nNo model training on your content by default\nMix and match seat types\nUp to $500 per month in pooled API credits †",
+        "url": "https://claude.com/pricing",
+        "snapshot": "snapshots/anthropic-claude-pricing/2026-10-10-1206-d12ec00d.json"
+      }
+    ],
+    "supersedes": null,
+    "quantity": {
+      "value": 500,
+      "unit": "credits",
+      "raw": "Up to $500 per month in pooled API credits †"
     }
   },
   {
@@ -1856,6 +2192,225 @@
   },
   {
     "schemaVersion": 0,
+    "offerKey": "af54f1d4b724551a",
+    "occurredAt": "2026-10-12",
+    "publishedAt": "2026-10-11T17:54:16.895Z",
+    "verification": "auto_verified",
+    "category": "creditsPromotion",
+    "promotionType": "allowance",
+    "vendor": "commandcode",
+    "entity": "commandcode-goat",
+    "planName": "Command Code GOAT",
+    "appliesTo": [
+      "subscription",
+      "apiCredit"
+    ],
+    "planKind": "tokenPlan",
+    "amount": "$10/month",
+    "eligibility": null,
+    "baseline": null,
+    "howToClaim": "purchase",
+    "startsAt": null,
+    "startsAtText": null,
+    "expiresAt": null,
+    "expiresAtText": null,
+    "claimUrl": "https://commandcode.ai/docs/plans/goat",
+    "sourceId": "commandcode-goat",
+    "facts": [
+      {
+        "quote": "unlimited coding on 30+ top open and closed models for $10/month",
+        "url": "https://commandcode.ai/docs/plans/goat",
+        "snapshot": "snapshots/commandcode-goat/2026-10-11-1754-d15d4364.json"
+      },
+      {
+        "quote": "GLM-5.2 $1.40 $4.40 $0.26 - $70",
+        "url": "https://commandcode.ai/docs/plans/goat",
+        "snapshot": "snapshots/commandcode-goat/2026-10-11-1754-d15d4364.json"
+      },
+      {
+        "quote": "DeepSeek V4.1 Flash $0.15 $0.60 $0.003 - $60",
+        "url": "https://commandcode.ai/docs/plans/goat",
+        "snapshot": "snapshots/commandcode-goat/2026-10-11-1754-d15d4364.json"
+      },
+      {
+        "quote": "MiMo V2.5 Pro $0.435 $0.87 $0.0036 - $20",
+        "url": "https://commandcode.ai/docs/plans/goat",
+        "snapshot": "snapshots/commandcode-goat/2026-10-11-1754-d15d4364.json"
+      },
+      {
+        "quote": "5-hour limit - $14 of usage\nWeekly limit - $35 of usage\nMonthly limit - $70 of usage",
+        "url": "https://commandcode.ai/docs/plans/goat",
+        "snapshot": "snapshots/commandcode-goat/2026-10-11-1754-d15d4364.json"
+      },
+      {
+        "quote": "The GOAT plan has API access. You call the Provider API endpoints with your Command Code API key, and usage is metered against your GOAT credits and the models included above.",
+        "url": "https://commandcode.ai/docs/plans/goat",
+        "snapshot": "snapshots/commandcode-goat/2026-10-11-1754-d15d4364.json"
+      }
+    ],
+    "supersedes": null,
+    "allowance": {
+      "price": {
+        "value": 10,
+        "currency": "USD",
+        "period": "month",
+        "text": "$10/month",
+        "fact": 0
+      },
+      "models": [
+        {
+          "model": "GLM-5.2",
+          "value": 70,
+          "currency": "USD",
+          "period": "month",
+          "text": "$70",
+          "fact": 1
+        },
+        {
+          "model": "DeepSeek V4.1 Flash",
+          "value": 60,
+          "currency": "USD",
+          "period": "month",
+          "text": "$60",
+          "fact": 2
+        },
+        {
+          "model": "MiMo V2.5 Pro",
+          "value": 20,
+          "currency": "USD",
+          "period": "month",
+          "text": "$20",
+          "fact": 3
+        }
+      ],
+      "limits": {
+        "zh": "5 小时 $14、每周 $35、每月 $70 的窗口；实际可用量随模型计价不同。",
+        "en": "$14 per 5 hours, $35 per week, $70 per month; usable volume varies by model pricing."
+      },
+      "notes": {
+        "zh": "列出的是示例模型月用量，不是各模型独立余额；不可相加。CLI 与 API 使用套餐额度，额外购买的积分另计。",
+        "en": "These are example monthly usage equivalents, not separate balances per model. CLI and API use plan credits; purchased top-ups are separate."
+      }
+    },
+    "restrictions": "5 小时 $14、每周 $35、每月 $70 的窗口；实际可用量随模型计价不同。 列出的是示例模型月用量，不是各模型独立余额；不可相加。CLI 与 API 使用套餐额度，额外购买的积分另计。",
+    "quantity": null
+  },
+  {
+    "schemaVersion": 0,
+    "offerKey": "b35ae6733bf3be6d",
+    "occurredAt": "2026-10-12",
+    "publishedAt": "2026-10-11T17:54:16.885Z",
+    "verification": "auto_verified",
+    "category": "creditsPromotion",
+    "promotionType": "allowance",
+    "vendor": "opendesign",
+    "entity": "opendesign-plus",
+    "planName": "OpenDesign Plus",
+    "appliesTo": [
+      "subscription",
+      "apiCredit"
+    ],
+    "planKind": "tokenPlan",
+    "amount": "$20",
+    "eligibility": null,
+    "baseline": null,
+    "howToClaim": "purchase",
+    "startsAt": null,
+    "startsAtText": null,
+    "expiresAt": null,
+    "expiresAtText": null,
+    "claimUrl": "https://open-design.ai/pricing/",
+    "sourceId": "opendesign-pricing",
+    "facts": [
+      {
+        "quote": "Plus $20 $180 $20 $160 Bonus $20 No limit window",
+        "url": "https://open-design.ai/model-credits/",
+        "snapshot": "snapshots/opendesign-model-credits/2026-10-11-1754-a98fe380.json"
+      },
+      {
+        "quote": "Go Plus Pro Max\nModel Est. requests / 7 days Monthly usage",
+        "url": "https://open-design.ai/pricing/",
+        "snapshot": "snapshots/opendesign-pricing/2026-10-11-1754-976417b9.json"
+      },
+      {
+        "quote": "DeepSeek V4.1 Flash 145,600 194,200 436,800 728,000 $120 $160",
+        "url": "https://open-design.ai/pricing/",
+        "snapshot": "snapshots/opendesign-pricing/2026-10-11-1754-976417b9.json"
+      },
+      {
+        "quote": "MiMo V2.6 Pro 26,600 35,500 79,800 133,100 $60 $80",
+        "url": "https://open-design.ai/pricing/",
+        "snapshot": "snapshots/opendesign-pricing/2026-10-11-1754-976417b9.json"
+      },
+      {
+        "quote": "These models share one Design Plan allowance. The model list may change as new models are released. DeepSeek V4.1 Flash has twice the Design Plan usage allowance: up to $120 / $160 / $360 / $600 per month on Go / Plus / Pro / Max. Its estimated requests per 7 days are also doubled. This is a model-specific usage equivalent, not an increase in the shared plan credits.",
+        "url": "https://open-design.ai/model-credits/",
+        "snapshot": "snapshots/opendesign-model-credits/2026-10-11-1754-a98fe380.json"
+      },
+      {
+        "quote": "These windows apply only to Design Plan credits: Go has both 5-hour and 7-day windows; Plus, Pro, and Max have only a 7-day window. Plan model credits have neither window and are granted and reset per billing cycle.",
+        "url": "https://open-design.ai/model-credits/",
+        "snapshot": "snapshots/opendesign-model-credits/2026-10-11-1754-a98fe380.json"
+      },
+      {
+        "quote": "$ 16 / mo $20\nSave $4/mo First-month price\n$ 14 / mo $20\nSave $72 Billed $168/year",
+        "url": "https://open-design.ai/pricing/",
+        "snapshot": "snapshots/opendesign-pricing/2026-10-11-1754-976417b9.json"
+      },
+      {
+        "quote": "Standard · $20/month",
+        "url": "https://open-design.ai/pricing/",
+        "snapshot": "snapshots/opendesign-pricing/2026-10-11-1754-976417b9.json"
+      }
+    ],
+    "supersedes": null,
+    "allowance": {
+      "price": {
+        "value": 20,
+        "currency": "USD",
+        "period": "month",
+        "text": "$20",
+        "fact": 0
+      },
+      "models": [
+        {
+          "model": "DeepSeek V4.1 Flash",
+          "value": 160,
+          "currency": "USD",
+          "period": "month",
+          "text": "$160",
+          "fact": 2
+        },
+        {
+          "model": "MiMo V2.6 Pro",
+          "value": 80,
+          "currency": "USD",
+          "period": "month",
+          "text": "$80",
+          "fact": 3
+        }
+      ],
+      "limits": {
+        "zh": "Design Plan 有 7 天窗口；另含 $20 常规模型额度，不受 5 小时 / 7 天窗口限制。",
+        "en": "Design Plan has a 7-day window; the additional $20 in plan-model credits has no 5-hour or 7-day cap."
+      },
+      "notes": {
+        "zh": "Design Plan 共用额度，DeepSeek V4.1 Flash 为双倍用量折算，不增加共享余额。另含 $20 常规模型额度；平台与 API 共用。首月 $16，续费 $20/月；年付 $168。",
+        "en": "Design Plan shares one allowance; DeepSeek V4.1 Flash doubles the usage equivalent, not the pool. Includes $20 in plan-model credits; app and API share usage. First month $16, then $20/month; annual $168."
+      },
+      "extraCredit": {
+        "value": 20,
+        "currency": "USD",
+        "period": "month",
+        "text": "$20",
+        "fact": 7
+      }
+    },
+    "restrictions": "Design Plan 有 7 天窗口；另含 $20 常规模型额度，不受 5 小时 / 7 天窗口限制。 Design Plan 共用额度，DeepSeek V4.1 Flash 为双倍用量折算，不增加共享余额。另含 $20 常规模型额度；平台与 API 共用。首月 $16，续费 $20/月；年付 $168。",
+    "quantity": null
+  },
+  {
+    "schemaVersion": 0,
     "offerKey": "b366b833d0c4df59",
     "occurredAt": "2026-09-18",
     "publishedAt": "2026-09-18T12:02:00Z",
@@ -2096,6 +2651,116 @@
   },
   {
     "schemaVersion": 0,
+    "offerKey": "dec3c1e74e68b0db",
+    "occurredAt": "2026-10-12",
+    "publishedAt": "2026-10-11T00:01:50.782Z",
+    "verification": "auto_verified",
+    "category": "creditsPromotion",
+    "promotionType": "allowance",
+    "vendor": "opencode",
+    "entity": "opencode-go",
+    "planName": "OpenCode Go",
+    "appliesTo": [
+      "subscription",
+      "apiCredit"
+    ],
+    "planKind": "tokenPlan",
+    "amount": "$10/月",
+    "eligibility": null,
+    "baseline": null,
+    "howToClaim": "purchase",
+    "startsAt": null,
+    "startsAtText": null,
+    "expiresAt": null,
+    "expiresAtText": null,
+    "claimUrl": "https://opencode.ai/docs/zh-cn/go/",
+    "sourceId": "opencode-go",
+    "facts": [
+      {
+        "quote": "Go $10/月 以较低成本访问下列模型",
+        "url": "https://opencode.ai/docs/zh-cn/go/",
+        "snapshot": "snapshots/opencode-go/2026-10-11-0001-d946e65a.json"
+      },
+      {
+        "quote": "DeepSeek V4.1 Flash (Off-Peak) $0.15 $0.60 $0.003 - $60",
+        "url": "https://opencode.ai/docs/zh-cn/go/",
+        "snapshot": "snapshots/opencode-go/2026-10-11-0001-d946e65a.json"
+      },
+      {
+        "quote": "GLM-5.3 $1.40 $4.40 $0.26 - $15",
+        "url": "https://opencode.ai/docs/zh-cn/go/",
+        "snapshot": "snapshots/opencode-go/2026-10-11-0001-d946e65a.json"
+      },
+      {
+        "quote": "MiMo-V2.6-Pro $0.435 $0.87 $0.003625 - $15",
+        "url": "https://opencode.ai/docs/zh-cn/go/",
+        "snapshot": "snapshots/opencode-go/2026-10-11-0001-d946e65a.json"
+      },
+      {
+        "quote": "每个模型都有以下使用限制：5 小时 — 每月限制的 20%；每周 — 50%；每月 — 100%。",
+        "url": "https://opencode.ai/docs/zh-cn/go/",
+        "snapshot": "snapshots/opencode-go/2026-10-11-0001-d946e65a.json"
+      },
+      {
+        "quote": "OpenCode Go 适用于 OpenCode 以及其他会产生类似请求的编程 Agent。我们会监控流量，识别影响其他用户体验的滥用行为。",
+        "url": "https://opencode.ai/docs/zh-cn/go/",
+        "snapshot": "snapshots/opencode-go/2026-10-11-0001-d946e65a.json"
+      },
+      {
+        "quote": "每个工作空间只能有一名成员订阅 OpenCode Go 或 Go Plus。",
+        "url": "https://opencode.ai/docs/zh-cn/go/",
+        "snapshot": "snapshots/opencode-go/2026-10-11-0001-d946e65a.json"
+      }
+    ],
+    "supersedes": null,
+    "allowance": {
+      "price": {
+        "value": 10,
+        "currency": "USD",
+        "period": "month",
+        "text": "$10/月",
+        "fact": 0
+      },
+      "models": [
+        {
+          "model": "DeepSeek V4.1 Flash (Off-Peak)",
+          "value": 60,
+          "currency": "USD",
+          "period": "month",
+          "text": "$60",
+          "fact": 1
+        },
+        {
+          "model": "GLM-5.3",
+          "value": 15,
+          "currency": "USD",
+          "period": "month",
+          "text": "$15",
+          "fact": 2
+        },
+        {
+          "model": "MiMo-V2.6-Pro",
+          "value": 15,
+          "currency": "USD",
+          "period": "month",
+          "text": "$15",
+          "fact": 3
+        }
+      ],
+      "limits": {
+        "zh": "5 小时为对应月额度的 20%，每周为 50%；每个工作空间仅一名成员订阅。",
+        "en": "5-hour allowance: 20% of the model monthly limit; weekly: 50%. One subscriber per workspace."
+      },
+      "notes": {
+        "zh": "按官方 Go 模型表计价折算；不同模型额度不同，不能把表中额度相加，也不代表所有模型都享有 $60。可接入符合官方规则的编程 Agent。",
+        "en": "Usage equivalents follow the official Go model table. Limits vary by model and must not be added; $60 does not apply to every model. Compatible coding agents must meet the official client rules."
+      }
+    },
+    "restrictions": "5 小时为对应月额度的 20%，每周为 50%；每个工作空间仅一名成员订阅。 按官方 Go 模型表计价折算；不同模型额度不同，不能把表中额度相加，也不代表所有模型都享有 $60。可接入符合官方规则的编程 Agent。",
+    "quantity": null
+  },
+  {
+    "schemaVersion": 0,
     "offerKey": "e6a805d8703434ab",
     "occurredAt": "2026-09-27",
     "publishedAt": "2026-09-27T13:55:51.632Z",
@@ -2174,6 +2839,143 @@
   },
   {
     "schemaVersion": 0,
+    "offerKey": "eaef11d3e256954b",
+    "occurredAt": "2026-10-11",
+    "publishedAt": "2026-10-11T00:00:00Z",
+    "verification": "auto_verified",
+    "category": "creditsPromotion",
+    "promotionType": "discount",
+    "vendor": "trae",
+    "entity": "trae-deepseek-v4.1-flash-offpeak",
+    "amount": "空闲时段享 5 折，积分消耗从 0.15 倍降至 0.08 倍。",
+    "eligibility": "免费用户折扣表",
+    "appliesTo": [
+      "model",
+      "agent"
+    ],
+    "baseline": "忙时 0.15 倍",
+    "howToClaim": "auto",
+    "startsAt": null,
+    "startsAtText": null,
+    "expiresAt": null,
+    "expiresAtText": null,
+    "claimUrl": "https://docs.trae.cn/ide_limited-time-discount-for-builtin-models",
+    "sourceId": "trae-limited-discount",
+    "restrictions": "DeepSeek-V4.1-Flash 免费用户：每日 22:00 至次日 8:00 自动按闲时消耗速度计费；数值采用官方展示口径。",
+    "facts": [
+      {
+        "quote": "免费用户折扣表\n模型\n折扣前积分消耗速度\n限时折扣\nSeed-2.1-Pro-0915 & Seed-Evolving\n0.8 倍\n限时 1 折，积分消耗速度仅 0.08 倍。10 月 15 日前有效。\nDeepSeek-V4-Pro\n忙时 0.72 倍\n空闲时段享 5 折，积分消耗从 0.72 倍降至 0.36 倍。\nDeepSeek-V4-Flash\n忙时 0.20 倍\n空闲时段享 5 折，积分消耗从 0.20 倍降至 0.10 倍。\nDeepSeek-V4.1-Flash\n忙时 0.15 倍\n空闲时段享 5 折，积分消耗从 0.15 倍降至 0.08 倍。\n",
+        "url": "https://docs.trae.cn/ide_limited-time-discount-for-builtin-models",
+        "snapshot": "snapshots/trae-limited-discount/2026-10-11-0002-efa6c3e4.json"
+      }
+    ],
+    "supersedes": null,
+    "quantity": null
+  },
+  {
+    "schemaVersion": 0,
+    "offerKey": "f0d0d806950e949b",
+    "occurredAt": "2026-10-12",
+    "publishedAt": "2026-10-11T17:54:16.885Z",
+    "verification": "auto_verified",
+    "category": "creditsPromotion",
+    "promotionType": "allowance",
+    "vendor": "opendesign",
+    "entity": "opendesign-go",
+    "planName": "OpenDesign Go",
+    "appliesTo": [
+      "subscription",
+      "apiCredit"
+    ],
+    "planKind": "tokenPlan",
+    "amount": "$10",
+    "eligibility": null,
+    "baseline": null,
+    "howToClaim": "purchase",
+    "startsAt": null,
+    "startsAtText": null,
+    "expiresAt": null,
+    "expiresAtText": null,
+    "claimUrl": "https://open-design.ai/pricing/",
+    "sourceId": "opendesign-pricing",
+    "facts": [
+      {
+        "quote": "Go $10 $120 $0 $120 $15 $5",
+        "url": "https://open-design.ai/model-credits/",
+        "snapshot": "snapshots/opendesign-model-credits/2026-10-11-1754-a98fe380.json"
+      },
+      {
+        "quote": "Go Plus Pro Max\nModel Est. requests / 7 days Monthly usage",
+        "url": "https://open-design.ai/pricing/",
+        "snapshot": "snapshots/opendesign-pricing/2026-10-11-1754-976417b9.json"
+      },
+      {
+        "quote": "DeepSeek V4.1 Flash 145,600 194,200 436,800 728,000 $120",
+        "url": "https://open-design.ai/pricing/",
+        "snapshot": "snapshots/opendesign-pricing/2026-10-11-1754-976417b9.json"
+      },
+      {
+        "quote": "MiMo V2.6 Pro 26,600 35,500 79,800 133,100 $60",
+        "url": "https://open-design.ai/pricing/",
+        "snapshot": "snapshots/opendesign-pricing/2026-10-11-1754-976417b9.json"
+      },
+      {
+        "quote": "These models share one Design Plan allowance. The model list may change as new models are released. DeepSeek V4.1 Flash has twice the Design Plan usage allowance: up to $120 / $160 / $360 / $600 per month on Go / Plus / Pro / Max. Its estimated requests per 7 days are also doubled. This is a model-specific usage equivalent, not an increase in the shared plan credits.",
+        "url": "https://open-design.ai/model-credits/",
+        "snapshot": "snapshots/opendesign-model-credits/2026-10-11-1754-a98fe380.json"
+      },
+      {
+        "quote": "These windows apply only to Design Plan credits: Go has both 5-hour and 7-day windows; Plus, Pro, and Max have only a 7-day window. Plan model credits have neither window and are granted and reset per billing cycle.",
+        "url": "https://open-design.ai/model-credits/",
+        "snapshot": "snapshots/opendesign-model-credits/2026-10-11-1754-a98fe380.json"
+      },
+      {
+        "quote": "$ 8 / mo $10\nSave $2/mo First-month price\n$ 7 / mo $10\nSave $36 Billed $84/year",
+        "url": "https://open-design.ai/pricing/",
+        "snapshot": "snapshots/opendesign-pricing/2026-10-11-1754-976417b9.json"
+      }
+    ],
+    "supersedes": null,
+    "allowance": {
+      "price": {
+        "value": 10,
+        "currency": "USD",
+        "period": "month",
+        "text": "$10",
+        "fact": 0
+      },
+      "models": [
+        {
+          "model": "DeepSeek V4.1 Flash",
+          "value": 120,
+          "currency": "USD",
+          "period": "month",
+          "text": "$120",
+          "fact": 2
+        },
+        {
+          "model": "MiMo V2.6 Pro",
+          "value": 60,
+          "currency": "USD",
+          "period": "month",
+          "text": "$60",
+          "fact": 3
+        }
+      ],
+      "limits": {
+        "zh": "Design Plan 有 5 小时和 7 天窗口，达到限制需等待恢复。",
+        "en": "Design Plan has both 5-hour and 7-day windows; wait for the window reset when a limit is reached."
+      },
+      "notes": {
+        "zh": "Design Plan 共用额度，DeepSeek V4.1 Flash 为双倍用量折算，不增加共享余额。平台与 API 共用。首月 $8，续费 $10/月；年付 $84。",
+        "en": "Design Plan shares one allowance; DeepSeek V4.1 Flash doubles the usage equivalent, not the pool. App and API share usage. First month $8, then $10/month; annual $84."
+      }
+    },
+    "restrictions": "Design Plan 有 5 小时和 7 天窗口，达到限制需等待恢复。 Design Plan 共用额度，DeepSeek V4.1 Flash 为双倍用量折算，不增加共享余额。平台与 API 共用。首月 $8，续费 $10/月；年付 $84。",
+    "quantity": null
+  },
+  {
+    "schemaVersion": 0,
     "occurredAt": "2026-09-18",
     "publishedAt": "2026-09-18T17:38:00Z",
     "verification": "auto_verified",
@@ -2248,263 +3050,6 @@
         "snapshot": "snapshots/minimax-token-plan/2026-10-10-1134-6da13f8c.json"
       }
     ],
-    "quantity": null
-  },
-  {
-    "schemaVersion": 0,
-    "offerKey": "0592505613f92022",
-    "occurredAt": "2026-10-11",
-    "publishedAt": "2026-10-11T00:00:00Z",
-    "verification": "auto_verified",
-    "category": "creditsPromotion",
-    "vendor": "opencode",
-    "entity": "step-5-preview-free",
-    "amount": "Step 5 Preview Free: 限时免费。",
-    "eligibility": "限时",
-    "promotionType": "free",
-    "appliesTo": [
-      "model"
-    ],
-    "baseline": null,
-    "startsAt": null,
-    "startsAtText": null,
-    "expiresAt": null,
-    "expiresAtText": null,
-    "howToClaim": "auto",
-    "restrictions": "来源未说明结束日期。",
-    "supersedes": null,
-    "sourceId": "opencode-go",
-    "claimUrl": "https://opencode.ai/docs/zh-cn/go/",
-    "facts": [
-      {
-        "quote": "LongCat 2.5 Preview Free （限时）",
-        "url": "https://opencode.ai/docs/zh-cn/go/",
-        "snapshot": "snapshots/opencode-go/2026-10-10-1135-338c7735.json"
-      },
-      {
-        "quote": "Step 5 Preview Free （限时）",
-        "url": "https://opencode.ai/docs/zh-cn/go/",
-        "snapshot": "snapshots/opencode-go/2026-10-10-1135-338c7735.json"
-      },
-      {
-        "quote": "限时",
-        "url": "https://opencode.ai/docs/zh-cn/go/",
-        "snapshot": "snapshots/opencode-go/2026-10-10-1135-338c7735.json"
-      },
-      {
-        "quote": "LongCat 2.5 Preview Free: 限时免费。",
-        "url": "https://opencode.ai/docs/zh-cn/go/",
-        "snapshot": "snapshots/opencode-go/2026-10-10-1135-338c7735.json"
-      },
-      {
-        "quote": "Step 5 Preview Free: 限时免费。",
-        "url": "https://opencode.ai/docs/zh-cn/go/",
-        "snapshot": "snapshots/opencode-go/2026-10-10-1135-338c7735.json"
-      },
-      {
-        "quote": "规则",
-        "url": "https://opencode.ai/docs/zh-cn/go/",
-        "snapshot": "snapshots/opencode-go/2026-10-10-1135-338c7735.json"
-      }
-    ],
-    "quantity": null
-  },
-  {
-    "schemaVersion": 0,
-    "offerKey": "48ddcb72c9f88d8f",
-    "occurredAt": "2026-10-11",
-    "publishedAt": "2026-10-11T00:00:00Z",
-    "verification": "auto_verified",
-    "category": "pricingChange",
-    "vendor": "opencode",
-    "entity": "opencode-go-plus",
-    "amount": "$40/月",
-    "eligibility": "Go Plus",
-    "appliesTo": [
-      "subscription",
-      "apiCredit"
-    ],
-    "planKind": "tokenPlan",
-    "howToClaim": "purchase",
-    "startsAt": null,
-    "startsAtText": null,
-    "expiresAt": null,
-    "expiresAtText": null,
-    "baseline": null,
-    "claimUrl": "https://opencode.ai/docs/zh-cn/go/",
-    "sourceId": "opencode-go",
-    "restrictions": "新增 Go Plus 月度方案，官方列示比 Go 更高的模型用量；每个工作空间只能有一名成员订阅 Go 或 Go Plus。",
-    "facts": [
-      {
-        "quote": "Go Plus $40/月 下列模型均享有更高的用量限制",
-        "url": "https://opencode.ai/docs/zh-cn/go/",
-        "snapshot": "snapshots/opencode-go/2026-10-10-1135-338c7735.json"
-      },
-      {
-        "quote": "每个工作空间只能有一名成员订阅 OpenCode Go 或 Go Plus。",
-        "url": "https://opencode.ai/docs/zh-cn/go/",
-        "snapshot": "snapshots/opencode-go/2026-10-10-1135-338c7735.json"
-      }
-    ],
-    "supersedes": null,
-    "quantity": null
-  },
-  {
-    "schemaVersion": 0,
-    "offerKey": "4a9147d4bb40aeed",
-    "occurredAt": "2026-10-11",
-    "publishedAt": "2026-10-11T00:00:00Z",
-    "verification": "auto_verified",
-    "category": "capabilityChange",
-    "vendor": "anthropic",
-    "entity": "claude-max-api-credits",
-    "amount": "$100 to $200/month in API credits to build on the Claude Platform †",
-    "eligibility": "Max",
-    "appliesTo": [
-      "subscription",
-      "apiCredit"
-    ],
-    "planKind": "toolPlan",
-    "howToClaim": "purchase",
-    "startsAt": null,
-    "startsAtText": null,
-    "expiresAt": null,
-    "expiresAtText": null,
-    "baseline": null,
-    "claimUrl": "https://claude.com/pricing",
-    "sourceId": "anthropic-claude-pricing",
-    "restrictions": "官方定价页新增月度 API credits 权益；具体额度随套餐而异，使用限制与官方条款适用。",
-    "facts": [
-      {
-        "quote": "Max\nFor people who work with Claude all day\nFrom $100\nPer month\nEverything in Pro, plus:\nChoose 5x or 20x more usage than Pro*\nHigher output limits for all tasks\nEarly access to advanced Claude features\nPriority access at high traffic times\n$100 to $200/month in API credits to build on the Claude Platform †",
-        "url": "https://claude.com/pricing",
-        "snapshot": "snapshots/anthropic-claude-pricing/2026-10-10-1206-d12ec00d.json"
-      }
-    ],
-    "supersedes": null,
-    "quantity": {
-      "value": 100,
-      "unit": "credits",
-      "raw": "$100 to $200/month in API credits to build on the Claude Platform †"
-    }
-  },
-  {
-    "schemaVersion": 0,
-    "offerKey": "6865e91341caf8f0",
-    "occurredAt": "2026-10-11",
-    "publishedAt": "2026-10-11T00:00:00Z",
-    "verification": "auto_verified",
-    "category": "creditsPromotion",
-    "vendor": "zhipu",
-    "entity": "glm-5.3-flash-api-discount",
-    "amount": "限时五折输入 0.4 元、缓存命中 0.115 元、输出 1.4 元",
-    "eligibility": "GLM-5.3-Flash",
-    "promotionType": "discount",
-    "appliesTo": [
-      "apiCredit",
-      "model"
-    ],
-    "baseline": "标准价输入 0.8 元、缓存命中 0.23 元、输出 2.8 元",
-    "startsAt": null,
-    "startsAtText": null,
-    "expiresAt": null,
-    "expiresAtText": null,
-    "howToClaim": "auto",
-    "restrictions": "来源未说明结束日期。",
-    "supersedes": null,
-    "sourceId": "zhipu-bigmodel-pricing",
-    "claimUrl": "https://open.bigmodel.cn/pricing",
-    "facts": [
-      {
-        "quote": "GLM-5.3-Flash",
-        "url": "https://open.bigmodel.cn/pricing",
-        "snapshot": "snapshots/zhipu-bigmodel-pricing/2026-10-10-1140-f0b61c8f.json"
-      },
-      {
-        "quote": "GLM-5.3-Flash：输入0.8元 / M，输出2.8元/M",
-        "url": "https://open.bigmodel.cn/pricing",
-        "snapshot": "snapshots/zhipu-bigmodel-pricing/2026-10-10-1140-f0b61c8f.json"
-      },
-      {
-        "quote": "GLM-5.3-Flash（原生多模态、1M 上下文）：限时五折输入 0.4 元、缓存命中 0.115 元、输出 1.4 元；标准价输入 0.8 元、缓存命中 0.23 元、输出 2.8 元",
-        "url": "https://open.bigmodel.cn/pricing",
-        "snapshot": "snapshots/zhipu-bigmodel-pricing/2026-10-10-1140-f0b61c8f.json"
-      }
-    ],
-    "quantity": null
-  },
-  {
-    "schemaVersion": 0,
-    "offerKey": "85a440e868f17b6c",
-    "occurredAt": "2026-10-11",
-    "publishedAt": "2026-10-11T00:00:00Z",
-    "verification": "auto_verified",
-    "category": "capabilityChange",
-    "vendor": "anthropic",
-    "entity": "claude-team-api-credits",
-    "amount": "Up to $500 per month in pooled API credits †",
-    "eligibility": "Team",
-    "appliesTo": [
-      "subscription",
-      "apiCredit"
-    ],
-    "planKind": "toolPlan",
-    "howToClaim": "purchase",
-    "startsAt": null,
-    "startsAtText": null,
-    "expiresAt": null,
-    "expiresAtText": null,
-    "baseline": null,
-    "claimUrl": "https://claude.com/pricing",
-    "sourceId": "anthropic-claude-pricing",
-    "restrictions": "官方定价页新增月度 API credits 权益；具体额度随套餐而异，使用限制与官方条款适用。",
-    "facts": [
-      {
-        "quote": "Team\nFor teams of 2 to 150\nGet Team plan\nStandard seat\nAll Claude features, plus more usage than Pro*\n$20\nPer seat / month if billed annually. $25 if billed monthly.\nPremium seat\n5x more usage than standard seats*\n$100\nPer seat / month if billed annually. $125 if billed monthly.\nClaude Code and Claude Cowork\nClaude Design, Slides, and Docs\nClaude Motion and Dashboards (beta)\nMicrosoft 365, @Claude, and more\nEnterprise search across your organization\nSingle sign-on (SSO)\nNo model training on your content by default\nMix and match seat types\nUp to $500 per month in pooled API credits †",
-        "url": "https://claude.com/pricing",
-        "snapshot": "snapshots/anthropic-claude-pricing/2026-10-10-1206-d12ec00d.json"
-      }
-    ],
-    "supersedes": null,
-    "quantity": {
-      "value": 500,
-      "unit": "credits",
-      "raw": "Up to $500 per month in pooled API credits †"
-    }
-  },
-  {
-    "schemaVersion": 0,
-    "offerKey": "eaef11d3e256954b",
-    "occurredAt": "2026-10-11",
-    "publishedAt": "2026-10-11T00:00:00Z",
-    "verification": "auto_verified",
-    "category": "creditsPromotion",
-    "promotionType": "discount",
-    "vendor": "trae",
-    "entity": "trae-deepseek-v4.1-flash-offpeak",
-    "amount": "空闲时段享 5 折，积分消耗从 0.15 倍降至 0.08 倍。",
-    "eligibility": "免费用户折扣表",
-    "appliesTo": [
-      "model",
-      "agent"
-    ],
-    "baseline": "忙时 0.15 倍",
-    "howToClaim": "auto",
-    "startsAt": null,
-    "startsAtText": null,
-    "expiresAt": null,
-    "expiresAtText": null,
-    "claimUrl": "https://docs.trae.cn/ide_limited-time-discount-for-builtin-models",
-    "sourceId": "trae-limited-discount",
-    "restrictions": "DeepSeek-V4.1-Flash 免费用户：每日 22:00 至次日 8:00 自动按闲时消耗速度计费；数值采用官方展示口径。",
-    "facts": [
-      {
-        "quote": "免费用户折扣表\n模型\n折扣前积分消耗速度\n限时折扣\nSeed-2.1-Pro-0915 & Seed-Evolving\n0.8 倍\n限时 1 折，积分消耗速度仅 0.08 倍。10 月 15 日前有效。\nDeepSeek-V4-Pro\n忙时 0.72 倍\n空闲时段享 5 折，积分消耗从 0.72 倍降至 0.36 倍。\nDeepSeek-V4-Flash\n忙时 0.20 倍\n空闲时段享 5 折，积分消耗从 0.20 倍降至 0.10 倍。\nDeepSeek-V4.1-Flash\n忙时 0.15 倍\n空闲时段享 5 折，积分消耗从 0.15 倍降至 0.08 倍。\n",
-        "url": "https://docs.trae.cn/ide_limited-time-discount-for-builtin-models",
-        "snapshot": "snapshots/trae-limited-discount/2026-10-11-0002-efa6c3e4.json"
-      }
-    ],
-    "supersedes": null,
     "quantity": null
   }
 ]

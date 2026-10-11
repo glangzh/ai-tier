@@ -94,6 +94,7 @@ const TYPE_LABELS = {
   newcomer: "新人优惠",
   referral: "邀请返利",
   bonus: "充值返赠",
+  allowance: "额度优惠",
 };
 expect("一级标签行存在", home.includes('aria-label="一级：对象"'));
 expect("二级标签行存在", home.includes('aria-label="二级：优惠类型"'));

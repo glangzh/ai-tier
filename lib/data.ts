@@ -16,6 +16,14 @@ export interface Offer {
   quantity?: { value: number; unit: string; raw: string } | null;
   vendor: string;
   entity?: string;
+  planName?: string;
+  allowance?: {
+    price: { value: number; currency: string; period: string; text: string; fact: number };
+    models: { model: string; value: number; currency: string; period: string; text: string; fact: number }[];
+    extraCredit?: { value: number; currency: string; period: string; text: string; fact: number };
+    limits: { zh: string; en: string };
+    notes: { zh: string; en: string };
+  };
   amount?: string | null;
   eligibility?: string | null;
   baseline?: string | null;
@@ -76,7 +84,7 @@ export function resetIndex() {
 }
 
 /** 二级：优惠类型。顺序与卡片排序一致，reset 最优先。 */
-export const TYPE_ORDER = ["reset", "newcomer", "free", "discount", "bonus", "trial", "referral"];
+export const TYPE_ORDER = ["reset", "newcomer", "free", "discount", "allowance", "bonus", "trial", "referral"];
 
 /** 订阅子轴：判据是权益是否绑定厂商自家 Agent/harness。 */
 

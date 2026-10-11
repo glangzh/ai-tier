@@ -15,7 +15,7 @@ const read = async (rel: string) => JSON.parse(await readFile(join(DATA, rel), "
 const esc = (s: unknown) => String(s ?? "").replace(/[<>&]/g, (c) => ({ "<": "&lt;", ">": "&gt;", "&": "&amp;" }[c] ?? c));
 const TYPE_LABEL: Record<string, string> = {
   free: "免费", reset: "限额重置", discount: "折扣", trial: "试用",
-  newcomer: "新人优惠", referral: "邀请返利", bonus: "充值返赠",
+  newcomer: "新人优惠", referral: "邀请返利", bonus: "充值返赠", allowance: "额度优惠",
 };
 
 const deals = await read("index/deals.json");
@@ -29,12 +29,12 @@ const items = deals
   .map((o: any) => {
     const sourceUrl = o.facts?.find((f: any) => /^https?:\/\//i.test(f.url ?? ""))?.url;
     return `    <item>
-      <title>${esc(`${o.vendor} · ${o.amount || "优惠"} · ${TYPE_LABEL[o.promotionType] || "优惠"}`)}</title>
+      <title>${esc(`${o.planName || o.vendor} · ${o.amount || "优惠"} · ${TYPE_LABEL[o.promotionType] || "优惠"}`)}</title>
       <link>${SITE}/p/${o.offerKey}</link>
       <guid isPermaLink="false">${o.offerKey}</guid>
       <pubDate>${new Date(o.publishedAt).toUTCString()}</pubDate>
       <category>${esc(TYPE_LABEL[o.promotionType] || o.promotionType)}</category>
-      <description>${esc([o.eligibility, o.baseline && `原价/标准：${o.baseline}`, o.expiresAtText && `到什么时候：${o.expiresAtText}`, sourceUrl && `来源链接：${sourceUrl}`].filter(Boolean).join(" ｜ "))}</description>
+      <description>${esc([o.allowance && `模型月额度：${o.allowance.models.map((m: any) => `${m.model} $${m.value}/月`).join("；")}`, o.allowance?.notes.zh, o.eligibility, o.baseline && `原价/标准：${o.baseline}`, o.expiresAtText && `到什么时候：${o.expiresAtText}`, sourceUrl && `来源链接：${sourceUrl}`].filter(Boolean).join(" ｜ "))}</description>
     </item>`;
   })
   .join("\n");

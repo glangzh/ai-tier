@@ -2,6 +2,7 @@
 import { notFound } from "next/navigation";
 import { isLang, t, type Lang } from "@/lib/i18n/site";
 import { ClaimButton } from "@/components/ClaimButton";
+import { AllowanceRows } from "@/components/AllowanceRows";
 import { INTERACTIONS_ENABLED } from "@/lib/deployment";
 import {
   claimLabelLang,
@@ -28,7 +29,7 @@ export async function generateMetadata({ params }: { params: Promise<{ lang: str
   if (!o) return { title: "AIRadar" };
   const typeName = o.promotionType ? typeLabel(lang, o.promotionType) : lang === "en" ? "Deal" : "优惠";
   return {
-    title: `${o.vendor} ${o.amount ?? typeName} · ${typeName} · AIRadar`,
+    title: `${o.planName ?? o.vendor} ${o.amount ?? typeName} · ${typeName} · AIRadar`,
     description: [
       o.amount && `${t(lang, "card.amount")}：${o.amount}`,
       o.baseline && `${t(lang, "card.baseline")}：${o.baseline}`,
@@ -56,7 +57,7 @@ export default async function DealPage({ params }: { params: Promise<{ lang: str
       </p>
       <section className="hero">
         <p className="hero-kicker">
-          {o.vendor}
+          {o.planName ?? o.vendor}
         </p>
         <div className="hero-big">{o.amount ?? t(lang, "card.unknownSource")}</div>
         {o.baseline && <p className="was">{t(lang, "card.baseline")}：{o.baseline}</p>}
@@ -72,6 +73,8 @@ export default async function DealPage({ params }: { params: Promise<{ lang: str
         )}
       </section>
 
+      {o.allowance && <section className="card"><dl className="rows allowance-rows"><AllowanceRows o={o} lang={lang} /></dl></section>}
+
       {o.withdrawn && (
         <p className="note">
           {t(lang, "detail.withdrawn", {
@@ -81,7 +84,7 @@ export default async function DealPage({ params }: { params: Promise<{ lang: str
         </p>
       )}
 
-      <section className="stats">
+      {!o.allowance && <section className="stats">
         <div className="stat amber">
           <small>{t(lang, "card.eligibility")}</small>
           <b style={{ fontSize: 16 }}>{o.eligibility ?? t(lang, "card.unknownSource")}</b>
@@ -94,9 +97,9 @@ export default async function DealPage({ params }: { params: Promise<{ lang: str
           <small>{t(lang, "card.how")}</small>
           <b style={{ fontSize: 16 }}>{claimLabelLang(lang, o.howToClaim)}</b>
         </div>
-      </section>
+      </section>}
 
-      {o.restrictions && <p className="note">{t(lang, "detail.restrictions", { r: o.restrictions })}</p>}
+      {o.restrictions && !o.allowance && <p className="note">{t(lang, "detail.restrictions", { r: o.restrictions })}</p>}
 
       <h2>{t(lang, "detail.quote")}</h2>
       {lang === "en" && <p className="note">{t(lang, "detail.quoteNote")}</p>}
