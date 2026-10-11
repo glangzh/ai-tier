@@ -17,7 +17,7 @@
     "eligibility": "免费用户折扣表",
     "howToClaim": "auto",
     "validityText": null,
-    "restrictions": "适用 Seed-2.1-Pro & Seed-Evolving；无需领取，按消耗速度自动生效",
+    "restrictions": "免费用户调用 Seed-2.1-Pro-0915 或 Seed-Evolving，10 月 15 日前按 0.08 倍积分消耗。",
     "startsAt": null,
     "startsAtText": null,
     "expiresAt": "2026-10-15T00:00:00+08:00",
@@ -27,19 +27,9 @@
     "supersedes": null,
     "facts": [
       {
-        "quote": "Seed-2.1-Pro & Seed-Evolving",
+        "quote": "免费用户折扣表\n模型\n折扣前积分消耗速度\n限时折扣\nSeed-2.1-Pro-0915 & Seed-Evolving\n0.8 倍\n限时 1 折，积分消耗速度仅 0.08 倍。10 月 15 日前有效。\nDeepSeek-V4-Pro\n忙时 0.72 倍\n空闲时段享 5 折，积分消耗从 0.72 倍降至 0.36 倍。\nDeepSeek-V4-Flash\n忙时 0.20 倍\n空闲时段享 5 折，积分消耗从 0.20 倍降至 0.10 倍。\nDeepSeek-V4.1-Flash\n忙时 0.15 倍\n空闲时段享 5 折，积分消耗从 0.15 倍降至 0.08 倍。\n",
         "url": "https://docs.trae.cn/ide_limited-time-discount-for-builtin-models",
-        "snapshot": "snapshots/trae-limited-discount/2026-09-18-1500-43664dd9.json"
-      },
-      {
-        "quote": "免费用户折扣表",
-        "url": "https://docs.trae.cn/ide_limited-time-discount-for-builtin-models",
-        "snapshot": "snapshots/trae-limited-discount/2026-09-18-1500-43664dd9.json"
-      },
-      {
-        "quote": "限时 1 折，积分消耗速度仅 0.08 倍。10 月 15 日前有效。",
-        "url": "https://docs.trae.cn/ide_limited-time-discount-for-builtin-models",
-        "snapshot": "snapshots/trae-limited-discount/2026-09-27-1356-53ab37ea.json"
+        "snapshot": "snapshots/trae-limited-discount/2026-10-11-0002-efa6c3e4.json"
       }
     ],
     "baseline": "0.8 倍",
@@ -195,55 +185,142 @@
   },
   {
     "schemaVersion": 0,
-    "offerKey": "b366b833d0c4df59",
     "occurredAt": "2026-09-18",
-    "publishedAt": "2026-09-18T12:02:00Z",
+    "publishedAt": "2026-09-18T15:00:00Z",
     "verification": "auto_verified",
     "category": "creditsPromotion",
+    "region": null,
+    "offerKey": "f3b98e6cb9a8aa57",
     "promotionType": "referral",
     "appliesTo": [
+      "agent",
       "subscription"
     ],
     "planKind": "toolPlan",
-    "vendor": "moonshot",
-    "entity": "kimi-moon-companion-plan",
-    "amount": "Kimi Andante 等级的会员等值额度",
-    "eligibility": "面向 Kimi 用户推出的好友邀请活动",
+    "vendor": "trae",
+    "entity": "traecode",
+    "amount": "邀请人与被邀请人双方各获得 500 通用积分",
+    "eligibility": "活动期间已注册并登录 TRAE 的用户",
     "howToClaim": "invite",
-    "startsAt": null,
+    "validityText": "自积分发放之日起 31 天 内有效，逾期未使用自动失效",
+    "restrictions": "新用户通过邀请链接注册并登录 TRAE；双方各获 500 通用积分，邀请人累计上限 3500；积分发放起 31 天有效，通用积分可在 TRAE 和 TraeWork 使用。",
+    "startsAt": "2026-09-07T00:00:00+08:00",
+    "startsAtText": "2026 年 09 月 07 日 00:00:00",
     "expiresAt": "2026-12-31T23:59:59+08:00",
-    "expiresAtText": "本次活动额度有效期至 2026 年 12 月 31 日",
-    "restrictions": "「邀请好友订阅 Kimi 会员」任务暂时关闭，仅注册任务可参与；好友须在注册绑定后 3 小时内登录 App 或 PC 客户端；奖品仅限获奖账号本人使用，不支持转让、出售、提现、折现",
-    "claimUrl": "https://www.kimi.ai/zh-hans/help/kimi-blackboard/moon-companion-plan",
-    "sourceId": "moonshot-moon-companion-plan",
+    "expiresAtText": "2026 年 12 月 31 日 23:59:59",
+    "claimUrl": "https://docs.trae.cn/ide_ide_invite-new-users-to-earn-credits-for-traecode",
+    "sourceId": "trae-invite-credits",
+    "supersedes": "119218f5bb88e465",
     "facts": [
       {
-        "quote": "Kimi 登月同行计划是面向 Kimi 用户推出的好友邀请活动。邀请好友完成指定任务后，邀请人和好友均可获得抽奖机会，抽取 Kimi 会员等值额度。",
-        "url": "https://www.kimi.ai/zh-hans/help/kimi-blackboard/moon-companion-plan",
-        "snapshot": "snapshots/moonshot-moon-companion-plan/2026-09-18-1202-199d72cd.json"
+        "quote": "2026 年 09 月 07 日 00:00:00 - 2026 年 12 月 31 日 23:59:59（本活动所有时间均以 北京时间 为准）",
+        "url": "https://docs.trae.cn/ide_ide_invite-new-users-to-earn-credits-for-traecode",
+        "snapshot": "snapshots/trae-invite-credits/2026-10-10-1136-05480701.json"
       },
       {
-        "quote": "目前「邀请好友订阅 Kimi 会员」任务暂时关闭，「邀请好友注册 Kimi」任务可正常参与。",
-        "url": "https://www.kimi.ai/zh-hans/help/kimi-blackboard/moon-companion-plan",
-        "snapshot": "snapshots/moonshot-moon-companion-plan/2026-09-18-1202-199d72cd.json"
+        "quote": "邀请人 ：活动期间已注册并登录 TRAE 的用户；",
+        "url": "https://docs.trae.cn/ide_ide_invite-new-users-to-earn-credits-for-traecode",
+        "snapshot": "snapshots/trae-invite-credits/2026-10-10-1136-05480701.json"
       },
       {
-        "quote": "任务完成后，双方各获得一次抽奖机会。",
-        "url": "https://www.kimi.ai/zh-hans/help/kimi-blackboard/moon-companion-plan",
-        "snapshot": "snapshots/moonshot-moon-companion-plan/2026-09-18-1202-199d72cd.json"
+        "quote": "奖励内容 ：每完成一次有效邀请， 邀请人与被邀请人双方各获得 500 通用积分 。",
+        "url": "https://docs.trae.cn/ide_ide_invite-new-users-to-earn-credits-for-traecode",
+        "snapshot": "snapshots/trae-invite-credits/2026-10-10-1136-05480701.json"
       },
       {
-        "quote": "活动奖品为 Kimi Andante 等级的会员等值额度，包括：",
-        "url": "https://www.kimi.ai/zh-hans/help/kimi-blackboard/moon-companion-plan",
-        "snapshot": "snapshots/moonshot-moon-companion-plan/2026-09-18-1202-199d72cd.json"
+        "quote": "参与行为不得违反国家法律法规、政策规章、平台规范及公序良俗，不得侵犯任何第三方合法权益，不得存在其他违反《TRAE 用户协议》《TRAE 隐私政策》等相关平台规则的行为；不得通过不正当地解读活动规则、故意刷量等行为获取活动奖励。上述行为一经发现，TRAE 有权采取取消活动奖励、收回已发放积分、撤销活动资格、限制登录、封禁账号、限制再次注册使用等措施，并保留追究该用户责任的权利。",
+        "url": "https://docs.trae.cn/ide_ide_invite-new-users-to-earn-credits-for-traecode",
+        "snapshot": "snapshots/trae-invite-credits/2026-10-10-1136-05480701.json"
       },
       {
-        "quote": "本次活动额度有效期至 2026 年 12 月 31 日，最终有效期请以「我的奖品」或额度页面的实际展示为准。",
-        "url": "https://www.kimi.ai/zh-hans/help/kimi-blackboard/moon-companion-plan",
-        "snapshot": "snapshots/moonshot-moon-companion-plan/2026-09-18-1202-199d72cd.json"
+        "quote": "活动奖励规则",
+        "url": "https://docs.trae.cn/ide_ide_invite-new-users-to-earn-credits-for-traecode",
+        "snapshot": "snapshots/trae-invite-credits/2026-10-10-1136-05480701.json"
+      },
+      {
+        "quote": "如你为未成年人用户，请务必在监护人的陪同及指导下认真阅读并充分理解活动规则，并在监护人明示同意下参与活动，否则请勿参与本活动；",
+        "url": "https://docs.trae.cn/ide_ide_invite-new-users-to-earn-credits-for-traecode",
+        "snapshot": "snapshots/trae-invite-credits/2026-10-10-1136-05480701.json"
+      },
+      {
+        "quote": "同一用户认定 ：同一个登录账号、同一个手机号或同一设备等与用户身份相关的信息，其中任意一项或数项存在相同、相似、通过特定标记形成批量信息、或其他非真实有效等情形的，都视为同一个用户，在本活动规则中按同一用户处理；",
+        "url": "https://docs.trae.cn/ide_ide_invite-new-users-to-earn-credits-for-traecode",
+        "snapshot": "snapshots/trae-invite-credits/2026-10-10-1136-05480701.json"
+      },
+      {
+        "quote": "主办方依法运营此次活动，如因不可抗力、情势变更、相关政策变动、政府机关指令、活动参与人数不足、第三方原因等非主办方原因导致本次活动调整、暂停、无法进行的，主办方有权随时决定修改、暂停、取消或终止本活动，并无需为此承担任何法律责任。用户可在本页面随时查看修改后的活动规则，若有异议请停止参与，继续参加视为同意修改。",
+        "url": "https://docs.trae.cn/ide_ide_invite-new-users-to-earn-credits-for-traecode",
+        "snapshot": "snapshots/trae-invite-credits/2026-10-10-1136-05480701.json"
+      },
+      {
+        "quote": "《 TRAE 用户协议 》《 TRAE 隐私政策 》同样适用于本次活动，本次活动规则及相关条款与《 TRAE 用户协议 》《 TRAE 隐私政策 》相冲突的，以本次活动规则及相关条款为准。本次活动规则及相关条款未约定的内容，仍以《 TRAE 用户协议 》《 TRAE 隐私政策 》为准。",
+        "url": "https://docs.trae.cn/ide_ide_invite-new-users-to-earn-credits-for-traecode",
+        "snapshot": "snapshots/trae-invite-credits/2026-10-10-1136-05480701.json"
       }
     ],
+    "quantity": {
+      "value": 500,
+      "unit": "points",
+      "raw": "邀请人与被邀请人双方各获得 500 通用积分"
+    }
+  },
+  {
+    "schemaVersion": 0,
+    "offerKey": "0592505613f92022",
+    "occurredAt": "2026-10-11",
+    "publishedAt": "2026-10-11T00:00:00Z",
+    "verification": "auto_verified",
+    "category": "creditsPromotion",
+    "vendor": "opencode",
+    "entity": "step-5-preview-free",
+    "amount": "Step 5 Preview Free: 限时免费。",
+    "eligibility": "限时",
+    "promotionType": "free",
+    "appliesTo": [
+      "model"
+    ],
+    "baseline": null,
+    "startsAt": null,
+    "startsAtText": null,
+    "expiresAt": null,
+    "expiresAtText": null,
+    "howToClaim": "auto",
+    "restrictions": "来源未说明结束日期。",
     "supersedes": null,
+    "sourceId": "opencode-go",
+    "claimUrl": "https://opencode.ai/docs/zh-cn/go/",
+    "facts": [
+      {
+        "quote": "LongCat 2.5 Preview Free （限时）",
+        "url": "https://opencode.ai/docs/zh-cn/go/",
+        "snapshot": "snapshots/opencode-go/2026-10-10-1135-338c7735.json"
+      },
+      {
+        "quote": "Step 5 Preview Free （限时）",
+        "url": "https://opencode.ai/docs/zh-cn/go/",
+        "snapshot": "snapshots/opencode-go/2026-10-10-1135-338c7735.json"
+      },
+      {
+        "quote": "限时",
+        "url": "https://opencode.ai/docs/zh-cn/go/",
+        "snapshot": "snapshots/opencode-go/2026-10-10-1135-338c7735.json"
+      },
+      {
+        "quote": "LongCat 2.5 Preview Free: 限时免费。",
+        "url": "https://opencode.ai/docs/zh-cn/go/",
+        "snapshot": "snapshots/opencode-go/2026-10-10-1135-338c7735.json"
+      },
+      {
+        "quote": "Step 5 Preview Free: 限时免费。",
+        "url": "https://opencode.ai/docs/zh-cn/go/",
+        "snapshot": "snapshots/opencode-go/2026-10-10-1135-338c7735.json"
+      },
+      {
+        "quote": "规则",
+        "url": "https://opencode.ai/docs/zh-cn/go/",
+        "snapshot": "snapshots/opencode-go/2026-10-10-1135-338c7735.json"
+      }
+    ],
     "quantity": null
   },
   {
@@ -438,24 +515,14 @@
     "eligibility": "新用户注册福利",
     "baseline": null,
     "howToClaim": "signup",
-    "restrictions": "属「免费用户获得积分途径」表中的新用户注册福利一栏，与每月登录赠送 500 积分、每日签到每天 150 积分、邀请新用户双方各 500 积分同表；本轮该页把积分类型由「通用积分 / Work 专属积分」合并为「会员积分 / 奖励积分」，同一行的原口径为一次性赠送 2000 通用积分和 2000 Work 专属积分；赠送积分的有效期与是否需要完成特定注册动作，来源未说明",
+    "restrictions": "免费用户新注册一次性赠送 4000 积分；常规积分机制另列每月登录 500、每日签到 100、有效邀请双方各 500。赠送积分有效期及额外领取条件未说明。",
     "claimUrl": "https://docs.trae.cn/ide_plans-and-billing",
     "sourceId": "trae-plans-billing",
     "facts": [
       {
-        "quote": "新用户注册福利 一次性赠送 4000 积分。",
+        "quote": "免费用户\n免费用户可以通过以下途径获得积分。\n途径\n积分数量\n每月登录赠送\n500 积分。\n当前自然月\n新用户注册福利\n一次性赠送 4000 积分。\n老用户升级福利\n升级到新计费模式后，一次性赠送 4000 积分。\n每日签到\n每天 100 积分。\n邀请新用户\n每成功邀请一人，邀请人和被邀请人各获得 500 积分。\n",
         "url": "https://docs.trae.cn/ide_plans-and-billing",
-        "snapshot": "snapshots/trae-plans-billing/2026-09-27-1356-abb0b377.json"
-      },
-      {
-        "quote": "免费用户可以通过以下途径获得积分。",
-        "url": "https://docs.trae.cn/ide_plans-and-billing",
-        "snapshot": "snapshots/trae-plans-billing/2026-09-27-1356-abb0b377.json"
-      },
-      {
-        "quote": "奖励积分 ：通过参与官方活动获得。",
-        "url": "https://docs.trae.cn/ide_plans-and-billing",
-        "snapshot": "snapshots/trae-plans-billing/2026-09-27-1356-abb0b377.json"
+        "snapshot": "snapshots/trae-plans-billing/2026-10-11-0002-f384558d.json"
       }
     ],
     "quantity": {
@@ -646,31 +713,26 @@
     "eligibility": "连续包年",
     "baseline": "¥699",
     "howToClaim": "purchase",
-    "restrictions": "Allegro 档月原价 ¥699，按年计费 ¥6,708；四档年费分别为 ¥468 / ¥948 / ¥1,908 / ¥6,708",
+    "restrictions": "Max 档月原价 ¥699，按年计费 ¥6,708；Go / Plus / Pro / Max 年费分别为 ¥468 / ¥948 / ¥1,908 / ¥6,708。",
     "claimUrl": "https://www.kimi.com/membership/pricing",
     "sourceId": "kimi-membership-pricing",
     "facts": [
       {
         "quote": "连续包月 连续包年 最高立省 ¥1,680",
         "url": "https://www.kimi.com/membership/pricing",
-        "snapshot": "snapshots/kimi-membership-pricing/2026-09-18-1737-081814ae.json"
+        "snapshot": "snapshots/kimi-membership-pricing/2026-10-10-1134-081814ae.json"
       },
       {
         "quote": "¥ 559 / 月 ¥699",
         "url": "https://www.kimi.com/membership/pricing",
-        "snapshot": "snapshots/kimi-membership-pricing/2026-09-18-1737-081814ae.json"
-      },
-      {
-        "quote": "按年计费 ¥6,708",
-        "url": "https://www.kimi.com/membership/pricing",
-        "snapshot": "snapshots/kimi-membership-pricing/2026-09-18-1737-081814ae.json"
+        "snapshot": "snapshots/kimi-membership-pricing/2026-10-10-1134-081814ae.json"
       }
     ],
     "corroboration": [
       {
         "sourceId": "moonshot-kimi-membership-pricing",
-        "quote": "选择连续包年可享受更大折扣，最高立省 ¥1,680。",
-        "snapshot": "snapshots/moonshot-kimi-membership-pricing/2026-09-18-1434-535d126f.json"
+        "quote": "产品 产品 产品\nKimi Kimi Work Kimi Code Kimi 浏览器扩展 Kimi Office 扩展 下载\n全部产品\n功能\n构建应用 AI 应用与网站生成器 PPT AI 演示文稿生成工具 文档 AI 文档 Agent 表格 AI 表格 Agent 深度研究 AI 研究 Agent\n全部功能\n模型\nKimi K3 新 Kimi K2.7 Code Kimi K2.6 Kimi K2.5\n全部模型\nAPI API\n使用场景 使用场景 精选使用场景\n搭建 MVP 网站 创建作品集网站 搭建博客网站 开展学术研究 开展市场调研 制作简历 制作宣传册\n全部使用场景\n精选工具\nAI 落地页生成器 图片生成网站 AI 文档生成器 PDF 转 PPT 工具 PDF 翻译器 AI Python 代码生成器 AI C++ 代码生成器\n全部 AI 能力\n案例展示\n网站 Agent 集群 深度研究 PPT 表格 文档 设计\n全部案例\n企业服务 企业服务 Kimi 企业版 金融行业解决方案 企业版定价 联系销售\n研究 研究 Kimi K3 PerceptionBench Kimi K2.6 Agent Swarm WorldVQA Kimi K2.5 Kimi Vendor Verifier Kimi K2 Thinking Kimi K2\n全部研究\n资源 资源 支持与文档\n帮助中心 Kimi Code 文档\n学院\nKimi Work 入门指南 Kimi Code 入门指南\n全部教程\n文章\nAI Agent 详解 多智能体系统 并行智能体 什么是 Vibe Coding 搭建落地页 制作海报 撰写商业提案\n全部文章\n定价 定价\n下载 在线体验 Kimi\n新手入门\nAgent模式\nKimi Work\n插件和技能\nKimi 浏览器扩展\n表格和文档\nPPT\n深度研究\n构建应用\n会员订阅 会员订阅服务权益介绍\n会员额度更新与使用规则\n会员是怎么收费的/套餐包括什么？\n会员权益到账与查询\n套餐升级与降级\n加油包：额外用量购买\n取消自动续费\n支付相关问题\n用户如何自助开发票\n会员问题联系方式\nKimi Code\nKimi API与企业合作\nKimi Business\nKimi Claw\nKimi 黑板报\n常见问题\n帮助中心 会员订阅 会员是怎么收费的/套餐包括什么？\n会员收费与套餐介绍\nKimi 提供四档会员计划，均支持连续包月和连续包年两种订阅方式。所有 Kimi 会员功能共享一个额度池，额度可自由分配使用。\n订阅方式与价格\n套餐 定位 连续包月 连续包年\nAndante 日常使用 ¥49/月 年付更优惠\nModerato 效率升级 ¥99/月 年付更优惠\nAllegretto 专业优选 ¥199/月 年付更优惠\nAllegro 全能尊享 ¥699/月 年付更优惠\n选择连续包年可享受更大折扣，最高立省 ¥1,680。\n各套餐权益详情\nAndante — ¥49/月\nAgent 用量约 30 个\nAgent 优先生成队列（4 倍速）\nOffice 文件处理、深度研究、网站部署\nKimi Code 可调用\n定制化看板，含小组件任务（6 个）、定时任务（6 个）\n精选插件（15+ 种可调用）\n专业数据库 1000 次调用\n制作并发布带数据库的网站\n项目数 20 个，项目存储空间 20GB\nModerato — ¥99/月\n在 Andante 基础上：\nAgent 用量约 60 个\nAgent 任务并行 2 个\nAgent 集群可用 25 次（2 个子任务并行）\n梦境记忆、自进化技能\n定时任务、小组件任务各 10 个\n专业数据库 2000 次调用\nAllegretto — ¥199/月\nAgent 用量约 150 个\nAgent 集群可用 50 次（4 个子任务并行）\n目标模式，Agent 自主推进完成\n专属 Kimi Claw，支持 10 个 Kimi Claw 群聊\n定时任务、小组件任务各 15 个\n专业数据库 5000 次调用\nAllegro — ¥699/月\nAgent 用量约 360 个\nAgent 任务并行 4 个\nAgent 集群可用 120 次（8 个子任务并行）\n支持百万 Tokens 超长对话容量\n定时任务、小组件任务各 20 个，项目数 100 个，项目存储空间 50GB\n专业数据库 12000 次调用\n以上 Agent 用量数值基于常见任务 token 消耗估算，将月额度用于同一功能时的参考值。Agent 额度可用于 Office 文件处理、深度研究、网站部署等 Agent 功能。\n额度说明\n所有 Kimi 会员功能共享一个额度池，按实际 token 消耗计算，无需单独管理各功能用量；会话入口的 K2.6 同样按额度计费。Kimi Code 另有 5 小时 / 周使用限额，仅作用于 Kimi Code，不影响其他会员功能。高档套餐提供更多额度，可支撑更频繁和更复杂的使用场景。\n额度池 ：所有会员功能（网站部署、深度研究、PPT、Kimi Code、Kimi Work、Kimi Claw、K3 和 K3 集群 等）共享一个额度池，按实际 token 消耗扣除。任一功能用尽额度都会影响其他功能的使用。\nKimi Code 限额 ：Kimi Code 另有 5 小时 / 周使用限额，仅作用于 Kimi Code，不影响其他会员功能。\n按月刷新 ：额度在每个计费周期自动刷新，未使用的额度到期清零。\n频次限制 5小时及周频控请以页面提示为准。\n更多权益详情与套餐对比，请参阅 会员订阅服务权益介绍 。\n额度常见问题\n如何查看额度使用情况？\nWeb 端 ：点击左下角头像 → 设置 → 订阅\nAPP 端 ：我的 → 会员计划 → 订阅\n可查看当前额度余额（百分比）、下次刷新时间，以及最近 1000 条使用明细（使用时间、功能、消耗比例）。\n使用明细数据可能存在短暂延迟，请以当前额度显示为准。\n额度用完了怎么办？\n当前正在进行的任务可以正常完成，新任务将提示额度不足。你可以：\n等待额度按月自动刷新（Kimi Code 的 5 小时 / 周使用限额到期后也会自动解除，仅影响 Kimi Code）\n升级至更高等级会员获取更多额度\n购买 加油包 ：开启后按实际用量付费，无需等待额度刷新即可继续使用\n参与官方活动获取赠送额度\n可以把额度都用在一个功能上吗？\n可以。所有会员功能共享一个额度池，你可以自由支配。但请注意：某个功能把额度用完，会影响其他功能的使用；此外 Kimi Code 另有 5 小时 / 周限额，仅作用于 Kimi Code。\n每天下午 4 点「Claw-云主机」扣除的 0.6% 是什么费用？\n这是 Kimi Claw 云主机的沙箱运行费用。Kimi Claw 是部署在云端的 OpenClaw：每次调用 Claw，系统都会在云端启动一个隔离沙箱来执行代码、操作浏览器或调用工具。沙箱不是\"免费待机\"的，而是按运行时长和资源消耗持续计费——即使你没有主动发起任务，已部署的云主机仍会保留运行环境和数据，因此每天会产生约会员额度 0.6% 的费用，于每天下午 4 点结算。\n如果近期不打算使用 Kimi Claw，建议先将 memory、soul、workspace 等重要文件保存到本地，再删除云主机；删除后即不再产生该费用，需要时可重新部署。\n「Agent Website - Cloud Service」扣除的 0.08% 是什么费用？\n这是你通过 Agent 发布网站后产生的云服务费用。网站发布后会持续占用云端资源以保持在线可访问，因此会产生约会员额度 0.08% 的扣费。如果不再需要该网站在线，点击「取消发布」后即可停止计费。\n相关协议\nKimi 付费服务协议\nKimi 用户服务协议\nKimi 隐私政策\n本文是否对你有帮助\n是 否\n上一篇 会员额度更新与使用规则 下一篇 会员权益到账与查询\n各套餐权益详情 Andante — ¥49/月\n额度常见问题 如何查看额度使用情况？\n跟随系统\n简体中文\n产品\nKimi Kimi Work Kimi Code Kimi 浏览器扩展 Kimi 开放平台 下载 全部产品\n定价\n个人版 企业版 API\n企业服务\nKimi 企业版 金融行业解决方案 联系销售\n构建应用 PPT 文档 表格 深度研究 Kimi Claw 全部功能\n研究\nKimi K3 技术博客 Kimi K2.6 技术博客 Kimi K2.5 技术博客 PerceptionBench Agent Swarm WorldVQA 全部研究\n使用场景\n搭建 MVP 网站 创建作品集网站 搭建博客网站 开展学术研究 制作宣传册 案例展示 全部使用场景\nKimi Work 入门指南 Kimi Code 入门指南 全部教程\n支持与文档\nAI 落地页生成器 图片生成网站 AI 文档生成器 PDF 转 PPT 工具 PDF 翻译器 AI Python 代码生成器 AI C++ 代码生成器 全部 AI 能力\n资源\n帮助中心 AI Agent 详解 多智能体系统 什么是 Vibe Coding 搭建落地页 制作海报 全部文章\nKimi K3 Kimi K2.7 Code Kimi K2.6 Kimi K2.5 全部模型\n公司\n关于我们 Moonshot AI 品牌指南 新闻 招聘 服务条款 隐私政策\n© 2026 北京月之暗面科技有限公司 | 京ICP备2023011302号-14 | 京B2-20240852 | 京公网安备11010802043150号",
+        "snapshot": "snapshots/moonshot-kimi-membership-pricing/2026-10-10-1134-0c1b17f0.json"
       }
     ],
     "quantity": null
@@ -904,6 +966,190 @@
   },
   {
     "schemaVersion": 0,
+    "offerKey": "404b19e575f5a9a3",
+    "occurredAt": "2026-09-18",
+    "publishedAt": "2026-09-18T11:19:00Z",
+    "verification": "auto_verified",
+    "category": "creditsPromotion",
+    "promotionType": "bonus",
+    "appliesTo": [
+      "subscription"
+    ],
+    "planKind": "toolPlan",
+    "vendor": "qoder",
+    "entity": "qoder-pro",
+    "amount": "加赠 1,000 Credits",
+    "eligibility": "仅限个人版",
+    "howToClaim": "purchase",
+    "startsAt": "2026-09-01T02:00:00Z",
+    "startsAtText": "2026 年 9 月 1 日 10:00",
+    "expiresAt": null,
+    "expiresAtText": null,
+    "region": null,
+    "restrictions": "活动已延长，10 月 1 日起下单同样享受加赠；结束时间提前在本页公告。仅个人月付，Teams、企业版不适用；加赠到账后 30 天内有效。",
+    "claimUrl": "https://docs.qoder.com/zh/events/bogo",
+    "sourceId": "qoder-events-bogo",
+    "facts": [
+      {
+        "quote": "续费、升级加赠 ：活动期内续费或升级加赠 1,000 Credits，适用于 Pro、Pro+、Ultra",
+        "url": "https://docs.qoder.com/zh/events/bogo",
+        "snapshot": "snapshots/qoder-events-bogo/2026-10-10-1136-8b813fa7.json"
+      },
+      {
+        "quote": "续费、升级：加赠 1,000 Credits",
+        "url": "https://docs.qoder.com/zh/events/bogo",
+        "snapshot": "snapshots/qoder-events-bogo/2026-10-10-1136-8b813fa7.json"
+      },
+      {
+        "quote": "限时 ：活动期内续费、升级，或订阅过期后再次开通，加赠 1,000 Credits。Pro、Pro+、Ultra 相同。仅限个人版。",
+        "url": "https://docs.qoder.com/zh/events/bogo",
+        "snapshot": "snapshots/qoder-events-bogo/2026-10-10-1136-8b813fa7.json"
+      },
+      {
+        "quote": "有。活动期内续费或升级，加赠 1,000 Credits。",
+        "url": "https://docs.qoder.com/zh/events/bogo",
+        "snapshot": "snapshots/qoder-events-bogo/2026-10-10-1136-8b813fa7.json"
+      },
+      {
+        "quote": "首次付费不加赠。活动期内续费或升级，加赠 1,000 Credits。",
+        "url": "https://docs.qoder.com/zh/events/bogo",
+        "snapshot": "snapshots/qoder-events-bogo/2026-10-10-1136-8b813fa7.json"
+      },
+      {
+        "quote": "活动时间 ：自 2026 年 9 月 1 日 10:00（UTC+8）开始，结束时间将提前在本页公告。加赠是否发放，以订单支付成功时间是否落在活动期内为准。活动期外支付的订单不参与。",
+        "url": "https://docs.qoder.com/zh/events/bogo",
+        "snapshot": "snapshots/qoder-events-bogo/2026-10-10-1136-8b813fa7.json"
+      },
+      {
+        "quote": "适用范围 ：Credits 加赠仅适用于个人月付。首次付费加赠仅适用于 Pro、Pro+。Ultra 首次付费不加赠；活动期内续费、升级或过期后重新开通，Pro、Pro+、Ultra 均加赠 1,000 Credits。加赠为通用 Credits。Teams、企业版及其他非个人月付订阅不在加赠范围内。",
+        "url": "https://docs.qoder.com/zh/events/bogo",
+        "snapshot": "snapshots/qoder-events-bogo/2026-10-10-1136-8b813fa7.json"
+      },
+      {
+        "quote": "可以。活动已延长，10 月 1 日起下单同样享受加赠。结束时间将提前在本页公告。",
+        "url": "https://docs.qoder.com/zh/events/bogo",
+        "snapshot": "snapshots/qoder-events-bogo/2026-10-10-1136-8b813fa7.json"
+      },
+      {
+        "quote": "本说明适用于 qoder.com（国际站）。qoder.cn（中国站）规则见 中国站活动页 。",
+        "url": "https://docs.qoder.com/zh/events/bogo",
+        "snapshot": "snapshots/qoder-events-bogo/2026-10-10-1136-8b813fa7.json"
+      },
+      {
+        "quote": "税费 ：价格不含适用税费。Credits 消耗规则与模型计费方式，以帮助中心及购买页说明为准。",
+        "url": "https://docs.qoder.com/zh/events/bogo",
+        "snapshot": "snapshots/qoder-events-bogo/2026-10-10-1136-8b813fa7.json"
+      }
+    ],
+    "supersedes": null,
+    "quantity": {
+      "value": 1000,
+      "unit": "credits",
+      "raw": "加赠 1,000 Credits"
+    }
+  },
+  {
+    "schemaVersion": 0,
+    "offerKey": "446642bff10e4457",
+    "occurredAt": "2026-09-18",
+    "publishedAt": "2026-09-18T11:19:00Z",
+    "verification": "auto_verified",
+    "category": "creditsPromotion",
+    "promotionType": "bonus",
+    "appliesTo": [
+      "subscription"
+    ],
+    "planKind": "toolPlan",
+    "vendor": "qoder",
+    "entity": "qoder-pro",
+    "amount": "Pro 首月 4,000 / Pro+ 12,000",
+    "eligibility": "个人版首次下单",
+    "howToClaim": "purchase",
+    "startsAt": "2026-09-01T02:00:00Z",
+    "startsAtText": "2026 年 9 月 1 日 10:00",
+    "expiresAt": null,
+    "expiresAtText": null,
+    "region": null,
+    "restrictions": "活动已延长，10 月 1 日起下单同样享受加赠；结束时间提前在本页公告。仅个人月付，Teams、企业版不适用；加赠到账后 30 天内有效。",
+    "claimUrl": "https://docs.qoder.com/zh/events/bogo",
+    "sourceId": "qoder-events-bogo",
+    "facts": [
+      {
+        "quote": "限时 ：个人版首次下单，Pro、Pro+ 加赠等额 Credits。",
+        "url": "https://docs.qoder.com/zh/events/bogo",
+        "snapshot": "snapshots/qoder-events-bogo/2026-10-10-1136-8b813fa7.json"
+      },
+      {
+        "quote": "首次下单，Pro / Pro+ 加赠等额 Credits ：Pro 首月 4,000 / Pro+ 12,000。",
+        "url": "https://docs.qoder.com/zh/events/bogo",
+        "snapshot": "snapshots/qoder-events-bogo/2026-10-10-1136-8b813fa7.json"
+      },
+      {
+        "quote": "活动时间 ：自 2026 年 9 月 1 日 10:00（UTC+8）开始，结束时间将提前在本页公告。加赠是否发放，以订单支付成功时间是否落在活动期内为准。活动期外支付的订单不参与。",
+        "url": "https://docs.qoder.com/zh/events/bogo",
+        "snapshot": "snapshots/qoder-events-bogo/2026-10-10-1136-8b813fa7.json"
+      },
+      {
+        "quote": "可以。活动已延长，10 月 1 日起下单同样享受加赠。结束时间将提前在本页公告。",
+        "url": "https://docs.qoder.com/zh/events/bogo",
+        "snapshot": "snapshots/qoder-events-bogo/2026-10-10-1136-8b813fa7.json"
+      },
+      {
+        "quote": "本说明适用于 qoder.com（国际站）。qoder.cn（中国站）规则见 中国站活动页 。",
+        "url": "https://docs.qoder.com/zh/events/bogo",
+        "snapshot": "snapshots/qoder-events-bogo/2026-10-10-1136-8b813fa7.json"
+      },
+      {
+        "quote": "税费 ：价格不含适用税费。Credits 消耗规则与模型计费方式，以帮助中心及购买页说明为准。",
+        "url": "https://docs.qoder.com/zh/events/bogo",
+        "snapshot": "snapshots/qoder-events-bogo/2026-10-10-1136-8b813fa7.json"
+      }
+    ],
+    "supersedes": null,
+    "quantity": null
+  },
+  {
+    "schemaVersion": 0,
+    "offerKey": "48ddcb72c9f88d8f",
+    "occurredAt": "2026-10-11",
+    "publishedAt": "2026-10-11T00:00:00Z",
+    "verification": "auto_verified",
+    "category": "pricingChange",
+    "vendor": "opencode",
+    "entity": "opencode-go-plus",
+    "amount": "$40/月",
+    "eligibility": "Go Plus",
+    "appliesTo": [
+      "subscription",
+      "apiCredit"
+    ],
+    "planKind": "tokenPlan",
+    "howToClaim": "purchase",
+    "startsAt": null,
+    "startsAtText": null,
+    "expiresAt": null,
+    "expiresAtText": null,
+    "baseline": null,
+    "claimUrl": "https://opencode.ai/docs/zh-cn/go/",
+    "sourceId": "opencode-go",
+    "restrictions": "新增 Go Plus 月度方案，官方列示比 Go 更高的模型用量；每个工作空间只能有一名成员订阅 Go 或 Go Plus。",
+    "facts": [
+      {
+        "quote": "Go Plus $40/月 下列模型均享有更高的用量限制",
+        "url": "https://opencode.ai/docs/zh-cn/go/",
+        "snapshot": "snapshots/opencode-go/2026-10-10-1135-338c7735.json"
+      },
+      {
+        "quote": "每个工作空间只能有一名成员订阅 OpenCode Go 或 Go Plus。",
+        "url": "https://opencode.ai/docs/zh-cn/go/",
+        "snapshot": "snapshots/opencode-go/2026-10-10-1135-338c7735.json"
+      }
+    ],
+    "supersedes": null,
+    "quantity": null
+  },
+  {
+    "schemaVersion": 0,
     "occurredAt": "2026-09-18",
     "publishedAt": "2026-09-18T14:40:00Z",
     "verification": "auto_verified",
@@ -958,6 +1204,45 @@
     ],
     "baseline": "¥49",
     "quantity": null
+  },
+  {
+    "schemaVersion": 0,
+    "offerKey": "4a9147d4bb40aeed",
+    "occurredAt": "2026-10-11",
+    "publishedAt": "2026-10-11T00:00:00Z",
+    "verification": "auto_verified",
+    "category": "capabilityChange",
+    "vendor": "anthropic",
+    "entity": "claude-max-api-credits",
+    "amount": "$100 to $200/month in API credits to build on the Claude Platform †",
+    "eligibility": "Max",
+    "appliesTo": [
+      "subscription",
+      "apiCredit"
+    ],
+    "planKind": "toolPlan",
+    "howToClaim": "purchase",
+    "startsAt": null,
+    "startsAtText": null,
+    "expiresAt": null,
+    "expiresAtText": null,
+    "baseline": null,
+    "claimUrl": "https://claude.com/pricing",
+    "sourceId": "anthropic-claude-pricing",
+    "restrictions": "官方定价页新增月度 API credits 权益；具体额度随套餐而异，使用限制与官方条款适用。",
+    "facts": [
+      {
+        "quote": "Max\nFor people who work with Claude all day\nFrom $100\nPer month\nEverything in Pro, plus:\nChoose 5x or 20x more usage than Pro*\nHigher output limits for all tasks\nEarly access to advanced Claude features\nPriority access at high traffic times\n$100 to $200/month in API credits to build on the Claude Platform †",
+        "url": "https://claude.com/pricing",
+        "snapshot": "snapshots/anthropic-claude-pricing/2026-10-10-1206-d12ec00d.json"
+      }
+    ],
+    "supersedes": null,
+    "quantity": {
+      "value": 100,
+      "unit": "credits",
+      "raw": "$100 to $200/month in API credits to build on the Claude Platform †"
+    }
   },
   {
     "schemaVersion": 0,
@@ -1050,12 +1335,19 @@
       {
         "quote": "邀好友实名注册得Tokens",
         "url": "https://open.bigmodel.cn/special_area",
-        "snapshot": "snapshots/zhipu-special-area/2026-09-18-1737-897a8c24.json"
+        "snapshot": "snapshots/zhipu-special-area/2026-10-10-1138-f48d9be1.json"
       },
       {
         "quote": "最高可领取总计 2亿Tokens 资源包",
         "url": "https://open.bigmodel.cn/special_area",
-        "snapshot": "snapshots/zhipu-special-area/2026-09-18-1737-897a8c24.json"
+        "snapshot": "snapshots/zhipu-special-area/2026-10-10-1138-f48d9be1.json"
+      }
+    ],
+    "corroboration": [
+      {
+        "sourceId": "zhipu-bigmodel-pricing",
+        "quote": "研究\n技术报告\nGLM-5.3\nGLM-5.3-Flash\nGLM-5.2\nGLM-5.1\n产品\n模型\n全部模型\nCoding Plan\n个人版套餐\n团队版套餐\n功能\nManaged Agents (Beta)\nMCP 服务\n模型微调\n知识库\n文档\nAPI\n快速开始\nAPI文档\n模型概览\n更新日志\n套餐概览\n使用须知\n常见问题\n体验\n体验中心\n模型体验\n应用体验\n官方Agent工具\nZCode 编程软件\nAutoClaw 工作软件\n定价\n产品价格\nAPI价格\n最新活动\n特惠专区\n支持\n错误码\n编程套餐\n账号问题\nAPI调用\n财务问题\nFAQ\n其他\n提交工单\n工单记录\n条款与协议\n控制台\n新用户注册专享\n2000万 免费Tokens资源包\n120次 图像和视频资源包\nGLM模型全面升级\n邀好友实名注册得Tokens\n最高可领取总计 2亿Tokens 资源包\n邀你体验\n智谱GLM-5.3新旗舰\n注册即享卓越模型体验\nCoding、智能体、数理推理、PPT生成等样样精通\n新用户注册得 2000万 Tokens ，新模型免费玩到爽！\n扫码注册\n模型 API 价格\n按量计费，简单灵活，提供满足不同业务规模的产品方案\n详细价格 联系销售\n旗舰模型\n汇集最新一代旗舰模型，涵盖高性能文本与多模态模型，全面升级推理、创作与理解能力\n最新旗舰\n最新旗舰模型，编程体验提升 50%，部分网络安全能力持平 Mythos 5\n上下文\n1M\n输入单价\n8元 / M\n输出单价\n28元 / M\n缓存命中\n2元 / M\n缓存存储\n限时免费\n输入模态\n文本\n原生多模态模型，部分能力对齐 Claude Opus 4.8，价格仅 1/40，让前沿智能真正普惠\n0.8元 / M\n2.8元 / M\n0.23元 / M\n图片、视频、文件、文本\n其它模型和服务\n模型 搜索 知识库\n文本模型\n8元\n28元\n2元\nGLM-OCR\n轻量级的专业 OCR 模型\n32K\nPDF、图片\n输入价格\n0.2元/百万Tokens\n输出价格\nBatch API定价\n不支持\nGLM-TTS\n语音生成模型\n特点\n超拟人情感化表达\n输出模态\n音频\n单价\n2元/万字符\n详细价格\n有什么不清楚的，随时问我\n智谱大模型的API怎么计费？\n智谱开放平台API采用按量计费模式。以下所有价格均为API调用价格：文本与视觉模型均按“元/百万tokens”计费，区分输入（Input）单价和输出（Output）单价；当输入或输出长度超过一定阈值（如32K tokens）时会进入更高档单价。此外提供上下文缓存能力：缓存存储按“元/百万tokens/小时”计费（多数模型目前限时免费），缓存命中读取按“元/百万tokens”计费，通常为输入单价的较低比例。价格表中长度档位（如[0,32)、[32,+)）单位为千tokens，即32代表32K tokens。\n智谱有哪些视觉理解（多模态）模型？API价格分别是多少？\n智谱视觉理解模型支持图片、视频、文件、文本多模态输入，API调用价格（元/百万tokens，输入/输出）如下：\nGLM-5.3-Flash：输入0.8元 / M，输出2.8元/M\nGLM-5V-Turbo：输入[0,32K)5元/M·[32K+)7元/M，输出[0,32K)22元/M·[32K+)26元/M\nGLM-4.6V：输入[0,32K)1元/M·[32K,128K)2元/M，输出[0,32K)3元/M·[32K,128K)6元/M\nGLM-4.6V-FlashX：输入[0,32K)0.15元/M·[32K,128K)0.3元/M，输出[0,32K)1.5元/M·[32K,128K)3元/M\nGLM-4.6V-Flash：免费\nGLM-4.5V：输入[0,32K)2元/M·[32K,64K)4元/M，输出[0,32K)6元/M·[32K,64K)12元/M\n以上均为API按量计费价格，缓存存储限时免费。\n智谱API的缓存存储和缓存命中是什么意思？价格多少？\n智谱API提供上下文缓存（Context Cache）能力，可降低重复上下文的费用：\n缓存存储：将上下文缓存起来，按“元/百万tokens/小时”计费，目前多数模型为限时免费。\n缓存命中：命中已缓存上下文的读取，按“元/百万tokens”计费，价格通常为该模型输入单价的较低比例（如GLM-5.2为2元）。\n免费模型（GLM-4.7-Flash、GLM-4.6V-Flash）的缓存也全部免费。以上为API调用价格。\n智谱云端私有化套餐价格是多少？\n智谱云端私有化年套餐面向长期稳定使用的客户，提供专属私有实例（区别于公共池标准API按量计费）：\nGLM-4.5套餐：5840个算力单元 + 10亿tokens训练语料额度（LoRA微调5亿 + 全参微调5亿）+ 用户权益升级V3，单价110万元/年\nGLM-4.5-Air套餐：5840个算力单元 + 10亿tokens训练语料额度 + 用户权益升级V2，单价50万元/年\n该价格为云端私有化部署方案报价，非API按量计费价格。\n智谱有免费的API模型吗？\n有的。智谱开放平台提供以下免费API模型：\n文本模型 GLM-4.7-Flash（200K上下文）：输入免费、输出免费、缓存免费\n视觉模型 GLM-4.6V-Flash：输入免费、输出免费、缓存免费\n此外，多数付费模型的“缓存存储”目前为限时免费。以上均为API调用价格政策。\n智谱最新的旗舰模型价格是多少？最新旗舰系列价格（元/百万tokens）如下：\nGLM-5.3（最新旗舰，1M 上下文）：输入 8 元、缓存命中 2 元、输出 28 元\nGLM-5.3-Flash（原生多模态、1M 上下文）：限时五折输入 0.4 元、缓存命中 0.115 元、输出 1.4 元；标准价输入 0.8 元、缓存命中 0.23 元、输出 2.8 元\nGLM-5.2：输入 8 元、缓存命中 2 元、输出 28 元\nGLM-5.1：输入 [0,32K) 6 元 / [32K+) 8 元，输出 [0,32K) 24 元 / [32K+) 28 元，缓存命中 1.3 元 / 2 元\n批量调用有价格优惠吗？\n有。Batch API 面向大规模离线数据处理任务，按标准 API 价格的五折计费，适合批量分析、数据清洗等非实时场景。\n模型广场\n智能体\nMCP服务\n开发指南\n场景示例\n价格\n公司\n公司简介\n新闻动态\n加入我们\n售前咨询\nBigModel 公众号\n联系方式\n售前电话：400-6883-991\n商务合作： 立即预约咨询\n京ICP备20011824号-14 网信算备110108105858001230019号\n网信算备110108105858001230043号\n网信算备110108105858001240071号\n网信算备110108105858004240011号\n网信算备110115120322101240023号\nBeijing-ChatGLM-20230821\nBeijing-QingYingAI-202412100045\nCopyright © 2026 北京智谱华章科技股份有限公司\n遇到问题了？说说看\nAskZ\n咨询\n咨询电话 预约咨询\n免费试用\n了解更多",
+        "snapshot": "snapshots/zhipu-bigmodel-pricing/2026-10-10-1140-f0b61c8f.json"
       }
     ],
     "quantity": {
@@ -1084,27 +1376,32 @@
     "vendor": "trae",
     "entity": "traecode",
     "amount": "新用户一次性获得 5,000 积分",
-    "eligibility": "仅限从未注册过 TraeCode 的新用户",
+    "eligibility": "仅限从未注册过 TRAE 的新用户",
     "howToClaim": "signup",
     "validityText": "自发放日起 31 天有效，过期后未使用积分将自动清零",
-    "restrictions": "需通过邀请链接注册并登录 TraeCode 桌面端；同一台设备只能被邀请一次",
+    "restrictions": "通过邀请链接注册并登录 TRAE 桌面端；同一台设备只能被邀请一次；积分自发放日起 31 天有效。",
     "claimUrl": "https://www.trae.cn/events/code-fission",
     "sourceId": "trae-code-fission",
     "facts": [
       {
-        "quote": "我在用 TraeCode AI 编程工具，搞定各类任务，通过我的分享链接注册并登录桌面端，新用户一次性获得 5,000 积分！",
+        "quote": "我在用 TRAE AI 编程工具，搞定各类任务，通过我的分享链接注册并登录桌面端，新用户一次性获得 5,000 积分！",
         "url": "https://www.trae.cn/events/code-fission",
-        "snapshot": "snapshots/trae-code-fission/2026-09-18-1422-3d7c448c.json"
+        "snapshot": "snapshots/trae-code-fission/2026-10-10-1136-540f5d35.json"
       },
       {
-        "quote": "A： 好友完成注册并登录 TraeCode 桌面端后，双方积分会自动发放。",
+        "quote": "A： 仅限从未注册过 TRAE 的新用户，同一台设备只能被邀请一次。",
         "url": "https://www.trae.cn/events/code-fission",
-        "snapshot": "snapshots/trae-code-fission/2026-09-18-1422-3d7c448c.json"
+        "snapshot": "snapshots/trae-code-fission/2026-10-10-1136-540f5d35.json"
       },
       {
-        "quote": "A： 自发放日起 31 天有效，过期后未使用积分将自动清零。",
+        "quote": "Q： 详细活动规则在哪里查看？",
         "url": "https://www.trae.cn/events/code-fission",
-        "snapshot": "snapshots/trae-code-fission/2026-09-18-1422-3d7c448c.json"
+        "snapshot": "snapshots/trae-code-fission/2026-10-10-1136-540f5d35.json"
+      },
+      {
+        "quote": "A： 请查看 详细活动规则 。",
+        "url": "https://www.trae.cn/events/code-fission",
+        "snapshot": "snapshots/trae-code-fission/2026-10-10-1136-540f5d35.json"
       }
     ],
     "quantity": {
@@ -1131,7 +1428,7 @@
     "eligibility": "免费用户折扣表",
     "howToClaim": "auto",
     "validityText": null,
-    "restrictions": "每日 22:00 至次日 8:00 自动按闲时消耗速度计费，无需手动切换；DeepSeek-V4-Pro 由 0.72 倍降至 0.36 倍，DeepSeek-V4-Flash 由 0.16 倍降至 0.08 倍",
+    "restrictions": "免费用户，每日 22:00 至次日 8:00 自动享闲时优惠。DeepSeek-V4-Pro 从 0.72 倍降至 0.36 倍，V4-Flash 从 0.20 倍降至 0.10 倍；V4.1-Flash 从 0.15 倍降至 0.08 倍。",
     "startsAt": null,
     "startsAtText": null,
     "expiresAt": null,
@@ -1141,19 +1438,9 @@
     "supersedes": null,
     "facts": [
       {
-        "quote": "空闲时段享 5 折，积分消耗从 0.72 倍降至 0.36 倍。",
+        "quote": "免费用户折扣表\n模型\n折扣前积分消耗速度\n限时折扣\nSeed-2.1-Pro-0915 & Seed-Evolving\n0.8 倍\n限时 1 折，积分消耗速度仅 0.08 倍。10 月 15 日前有效。\nDeepSeek-V4-Pro\n忙时 0.72 倍\n空闲时段享 5 折，积分消耗从 0.72 倍降至 0.36 倍。\nDeepSeek-V4-Flash\n忙时 0.20 倍\n空闲时段享 5 折，积分消耗从 0.20 倍降至 0.10 倍。\nDeepSeek-V4.1-Flash\n忙时 0.15 倍\n空闲时段享 5 折，积分消耗从 0.15 倍降至 0.08 倍。\n",
         "url": "https://docs.trae.cn/ide_limited-time-discount-for-builtin-models",
-        "snapshot": "snapshots/trae-limited-discount/2026-09-18-1500-43664dd9.json"
-      },
-      {
-        "quote": "空闲时段享 5 折，积分消耗从 0.16 倍降至 0.08 倍。",
-        "url": "https://docs.trae.cn/ide_limited-time-discount-for-builtin-models",
-        "snapshot": "snapshots/trae-limited-discount/2026-09-18-1500-43664dd9.json"
-      },
-      {
-        "quote": "空闲时段 ：每日 22:00 至次日 8:00",
-        "url": "https://docs.trae.cn/ide_limited-time-discount-for-builtin-models",
-        "snapshot": "snapshots/trae-limited-discount/2026-09-18-1500-43664dd9.json"
+        "snapshot": "snapshots/trae-limited-discount/2026-10-11-0002-efa6c3e4.json"
       }
     ],
     "baseline": "忙时 0.72 倍",
@@ -1234,27 +1521,67 @@
     "vendor": "moonshot",
     "entity": "kimi-membership",
     "amount": "¥ 39 / 月",
-    "eligibility": "连续包月",
+    "eligibility": "Go",
     "baseline": "¥49",
     "howToClaim": "purchase",
-    "restrictions": "Andante 档连续包月价 ¥39/月，非包月原价 ¥49；会员权益自订阅生效起 30 天",
+    "restrictions": "Go 档连续包月 ¥39，原价 ¥49；新会员方案购买资格以页面展示为准。",
     "claimUrl": "https://www.kimi.com/membership/pricing",
     "sourceId": "kimi-membership-pricing",
     "facts": [
       {
-        "quote": "连续包月 连续包年 最高立省 ¥1,680",
+        "quote": "Go",
         "url": "https://www.kimi.com/membership/pricing",
-        "snapshot": "snapshots/kimi-membership-pricing/2026-09-18-1737-081814ae.json"
+        "snapshot": "snapshots/kimi-membership-pricing/2026-10-10-1134-081814ae.json"
       },
       {
         "quote": "¥ 39 / 月 ¥49",
         "url": "https://www.kimi.com/membership/pricing",
-        "snapshot": "snapshots/kimi-membership-pricing/2026-09-18-1737-081814ae.json"
+        "snapshot": "snapshots/kimi-membership-pricing/2026-10-10-1134-081814ae.json"
+      }
+    ],
+    "quantity": null
+  },
+  {
+    "schemaVersion": 0,
+    "offerKey": "6865e91341caf8f0",
+    "occurredAt": "2026-10-11",
+    "publishedAt": "2026-10-11T00:00:00Z",
+    "verification": "auto_verified",
+    "category": "creditsPromotion",
+    "vendor": "zhipu",
+    "entity": "glm-5.3-flash-api-discount",
+    "amount": "限时五折输入 0.4 元、缓存命中 0.115 元、输出 1.4 元",
+    "eligibility": "GLM-5.3-Flash",
+    "promotionType": "discount",
+    "appliesTo": [
+      "apiCredit",
+      "model"
+    ],
+    "baseline": "标准价输入 0.8 元、缓存命中 0.23 元、输出 2.8 元",
+    "startsAt": null,
+    "startsAtText": null,
+    "expiresAt": null,
+    "expiresAtText": null,
+    "howToClaim": "auto",
+    "restrictions": "来源未说明结束日期。",
+    "supersedes": null,
+    "sourceId": "zhipu-bigmodel-pricing",
+    "claimUrl": "https://open.bigmodel.cn/pricing",
+    "facts": [
+      {
+        "quote": "GLM-5.3-Flash",
+        "url": "https://open.bigmodel.cn/pricing",
+        "snapshot": "snapshots/zhipu-bigmodel-pricing/2026-10-10-1140-f0b61c8f.json"
       },
       {
-        "quote": "升级 Kimi 会员，解锁更快模型、更高并发与更强研究能力",
-        "url": "https://www.kimi.com/membership/pricing",
-        "snapshot": "snapshots/kimi-membership-pricing/2026-09-18-1737-081814ae.json"
+        "quote": "GLM-5.3-Flash：输入0.8元 / M，输出2.8元/M",
+        "url": "https://open.bigmodel.cn/pricing",
+        "snapshot": "snapshots/zhipu-bigmodel-pricing/2026-10-10-1140-f0b61c8f.json"
+      },
+      {
+        "quote": "GLM-5.3-Flash（原生多模态、1M 上下文）：限时五折输入 0.4 元、缓存命中 0.115 元、输出 1.4 元；标准价输入 0.8 元、缓存命中 0.23 元、输出 2.8 元",
+        "url": "https://open.bigmodel.cn/pricing",
+        "snapshot": "snapshots/zhipu-bigmodel-pricing/2026-10-10-1140-f0b61c8f.json"
       }
     ],
     "quantity": null
@@ -1441,38 +1768,64 @@
       {
         "quote": "新用户注册专享",
         "url": "https://open.bigmodel.cn/special_area",
-        "snapshot": "snapshots/zhipu-special-area/2026-09-18-1737-897a8c24.json"
+        "snapshot": "snapshots/zhipu-special-area/2026-10-10-1138-f48d9be1.json"
       },
       {
         "quote": "2000万 免费Tokens资源包",
         "url": "https://open.bigmodel.cn/special_area",
-        "snapshot": "snapshots/zhipu-special-area/2026-09-18-1737-897a8c24.json"
-      },
+        "snapshot": "snapshots/zhipu-special-area/2026-10-10-1138-f48d9be1.json"
+      }
+    ],
+    "corroboration": [
       {
-        "quote": "新用户注册得 2000万 Tokens ，新模型免费玩到爽！",
-        "url": "https://open.bigmodel.cn/special_area",
-        "snapshot": "snapshots/zhipu-special-area/2026-09-18-1737-897a8c24.json"
-      },
-      {
-        "quote": "规格 2000万tokens",
-        "url": "https://open.bigmodel.cn/special_area",
-        "snapshot": "snapshots/zhipu-special-area/2026-09-18-1737-897a8c24.json"
-      },
-      {
-        "quote": "有效期 3个月",
-        "url": "https://open.bigmodel.cn/special_area",
-        "snapshot": "snapshots/zhipu-special-area/2026-09-18-1737-897a8c24.json"
-      },
-      {
-        "quote": "限购 1 次",
-        "url": "https://open.bigmodel.cn/special_area",
-        "snapshot": "snapshots/zhipu-special-area/2026-09-18-1737-897a8c24.json"
+        "sourceId": "zhipu-bigmodel-pricing",
+        "quote": "研究\n技术报告\nGLM-5.3\nGLM-5.3-Flash\nGLM-5.2\nGLM-5.1\n产品\n模型\n全部模型\nCoding Plan\n个人版套餐\n团队版套餐\n功能\nManaged Agents (Beta)\nMCP 服务\n模型微调\n知识库\n文档\nAPI\n快速开始\nAPI文档\n模型概览\n更新日志\n套餐概览\n使用须知\n常见问题\n体验\n体验中心\n模型体验\n应用体验\n官方Agent工具\nZCode 编程软件\nAutoClaw 工作软件\n定价\n产品价格\nAPI价格\n最新活动\n特惠专区\n支持\n错误码\n编程套餐\n账号问题\nAPI调用\n财务问题\nFAQ\n其他\n提交工单\n工单记录\n条款与协议\n控制台\n新用户注册专享\n2000万 免费Tokens资源包\n120次 图像和视频资源包\nGLM模型全面升级\n邀好友实名注册得Tokens\n最高可领取总计 2亿Tokens 资源包\n邀你体验\n智谱GLM-5.3新旗舰\n注册即享卓越模型体验\nCoding、智能体、数理推理、PPT生成等样样精通\n新用户注册得 2000万 Tokens ，新模型免费玩到爽！\n扫码注册\n模型 API 价格\n按量计费，简单灵活，提供满足不同业务规模的产品方案\n详细价格 联系销售\n旗舰模型\n汇集最新一代旗舰模型，涵盖高性能文本与多模态模型，全面升级推理、创作与理解能力\n最新旗舰\n最新旗舰模型，编程体验提升 50%，部分网络安全能力持平 Mythos 5\n上下文\n1M\n输入单价\n8元 / M\n输出单价\n28元 / M\n缓存命中\n2元 / M\n缓存存储\n限时免费\n输入模态\n文本\n原生多模态模型，部分能力对齐 Claude Opus 4.8，价格仅 1/40，让前沿智能真正普惠\n0.8元 / M\n2.8元 / M\n0.23元 / M\n图片、视频、文件、文本\n其它模型和服务\n模型 搜索 知识库\n文本模型\n8元\n28元\n2元\nGLM-OCR\n轻量级的专业 OCR 模型\n32K\nPDF、图片\n输入价格\n0.2元/百万Tokens\n输出价格\nBatch API定价\n不支持\nGLM-TTS\n语音生成模型\n特点\n超拟人情感化表达\n输出模态\n音频\n单价\n2元/万字符\n详细价格\n有什么不清楚的，随时问我\n智谱大模型的API怎么计费？\n智谱开放平台API采用按量计费模式。以下所有价格均为API调用价格：文本与视觉模型均按“元/百万tokens”计费，区分输入（Input）单价和输出（Output）单价；当输入或输出长度超过一定阈值（如32K tokens）时会进入更高档单价。此外提供上下文缓存能力：缓存存储按“元/百万tokens/小时”计费（多数模型目前限时免费），缓存命中读取按“元/百万tokens”计费，通常为输入单价的较低比例。价格表中长度档位（如[0,32)、[32,+)）单位为千tokens，即32代表32K tokens。\n智谱有哪些视觉理解（多模态）模型？API价格分别是多少？\n智谱视觉理解模型支持图片、视频、文件、文本多模态输入，API调用价格（元/百万tokens，输入/输出）如下：\nGLM-5.3-Flash：输入0.8元 / M，输出2.8元/M\nGLM-5V-Turbo：输入[0,32K)5元/M·[32K+)7元/M，输出[0,32K)22元/M·[32K+)26元/M\nGLM-4.6V：输入[0,32K)1元/M·[32K,128K)2元/M，输出[0,32K)3元/M·[32K,128K)6元/M\nGLM-4.6V-FlashX：输入[0,32K)0.15元/M·[32K,128K)0.3元/M，输出[0,32K)1.5元/M·[32K,128K)3元/M\nGLM-4.6V-Flash：免费\nGLM-4.5V：输入[0,32K)2元/M·[32K,64K)4元/M，输出[0,32K)6元/M·[32K,64K)12元/M\n以上均为API按量计费价格，缓存存储限时免费。\n智谱API的缓存存储和缓存命中是什么意思？价格多少？\n智谱API提供上下文缓存（Context Cache）能力，可降低重复上下文的费用：\n缓存存储：将上下文缓存起来，按“元/百万tokens/小时”计费，目前多数模型为限时免费。\n缓存命中：命中已缓存上下文的读取，按“元/百万tokens”计费，价格通常为该模型输入单价的较低比例（如GLM-5.2为2元）。\n免费模型（GLM-4.7-Flash、GLM-4.6V-Flash）的缓存也全部免费。以上为API调用价格。\n智谱云端私有化套餐价格是多少？\n智谱云端私有化年套餐面向长期稳定使用的客户，提供专属私有实例（区别于公共池标准API按量计费）：\nGLM-4.5套餐：5840个算力单元 + 10亿tokens训练语料额度（LoRA微调5亿 + 全参微调5亿）+ 用户权益升级V3，单价110万元/年\nGLM-4.5-Air套餐：5840个算力单元 + 10亿tokens训练语料额度 + 用户权益升级V2，单价50万元/年\n该价格为云端私有化部署方案报价，非API按量计费价格。\n智谱有免费的API模型吗？\n有的。智谱开放平台提供以下免费API模型：\n文本模型 GLM-4.7-Flash（200K上下文）：输入免费、输出免费、缓存免费\n视觉模型 GLM-4.6V-Flash：输入免费、输出免费、缓存免费\n此外，多数付费模型的“缓存存储”目前为限时免费。以上均为API调用价格政策。\n智谱最新的旗舰模型价格是多少？最新旗舰系列价格（元/百万tokens）如下：\nGLM-5.3（最新旗舰，1M 上下文）：输入 8 元、缓存命中 2 元、输出 28 元\nGLM-5.3-Flash（原生多模态、1M 上下文）：限时五折输入 0.4 元、缓存命中 0.115 元、输出 1.4 元；标准价输入 0.8 元、缓存命中 0.23 元、输出 2.8 元\nGLM-5.2：输入 8 元、缓存命中 2 元、输出 28 元\nGLM-5.1：输入 [0,32K) 6 元 / [32K+) 8 元，输出 [0,32K) 24 元 / [32K+) 28 元，缓存命中 1.3 元 / 2 元\n批量调用有价格优惠吗？\n有。Batch API 面向大规模离线数据处理任务，按标准 API 价格的五折计费，适合批量分析、数据清洗等非实时场景。\n模型广场\n智能体\nMCP服务\n开发指南\n场景示例\n价格\n公司\n公司简介\n新闻动态\n加入我们\n售前咨询\nBigModel 公众号\n联系方式\n售前电话：400-6883-991\n商务合作： 立即预约咨询\n京ICP备20011824号-14 网信算备110108105858001230019号\n网信算备110108105858001230043号\n网信算备110108105858001240071号\n网信算备110108105858004240011号\n网信算备110115120322101240023号\nBeijing-ChatGLM-20230821\nBeijing-QingYingAI-202412100045\nCopyright © 2026 北京智谱华章科技股份有限公司\n遇到问题了？说说看\nAskZ\n咨询\n咨询电话 预约咨询\n免费试用\n了解更多",
+        "snapshot": "snapshots/zhipu-bigmodel-pricing/2026-10-10-1140-f0b61c8f.json"
       }
     ],
     "quantity": {
       "value": 20000000,
       "unit": "tokens",
       "raw": "2000万 免费Tokens资源包"
+    }
+  },
+  {
+    "schemaVersion": 0,
+    "offerKey": "85a440e868f17b6c",
+    "occurredAt": "2026-10-11",
+    "publishedAt": "2026-10-11T00:00:00Z",
+    "verification": "auto_verified",
+    "category": "capabilityChange",
+    "vendor": "anthropic",
+    "entity": "claude-team-api-credits",
+    "amount": "Up to $500 per month in pooled API credits †",
+    "eligibility": "Team",
+    "appliesTo": [
+      "subscription",
+      "apiCredit"
+    ],
+    "planKind": "toolPlan",
+    "howToClaim": "purchase",
+    "startsAt": null,
+    "startsAtText": null,
+    "expiresAt": null,
+    "expiresAtText": null,
+    "baseline": null,
+    "claimUrl": "https://claude.com/pricing",
+    "sourceId": "anthropic-claude-pricing",
+    "restrictions": "官方定价页新增月度 API credits 权益；具体额度随套餐而异，使用限制与官方条款适用。",
+    "facts": [
+      {
+        "quote": "Team\nFor teams of 2 to 150\nGet Team plan\nStandard seat\nAll Claude features, plus more usage than Pro*\n$20\nPer seat / month if billed annually. $25 if billed monthly.\nPremium seat\n5x more usage than standard seats*\n$100\nPer seat / month if billed annually. $125 if billed monthly.\nClaude Code and Claude Cowork\nClaude Design, Slides, and Docs\nClaude Motion and Dashboards (beta)\nMicrosoft 365, @Claude, and more\nEnterprise search across your organization\nSingle sign-on (SSO)\nNo model training on your content by default\nMix and match seat types\nUp to $500 per month in pooled API credits †",
+        "url": "https://claude.com/pricing",
+        "snapshot": "snapshots/anthropic-claude-pricing/2026-10-10-1206-d12ec00d.json"
+      }
+    ],
+    "supersedes": null,
+    "quantity": {
+      "value": 500,
+      "unit": "credits",
+      "raw": "Up to $500 per month in pooled API credits †"
     }
   },
   {
@@ -1671,6 +2024,65 @@
   },
   {
     "schemaVersion": 0,
+    "offerKey": "ad6b185485a0180a",
+    "occurredAt": "2026-09-18",
+    "publishedAt": "2026-09-18T11:33:00Z",
+    "verification": "auto_verified",
+    "category": "creditsPromotion",
+    "promotionType": "free",
+    "appliesTo": [
+      "model"
+    ],
+    "vendor": "qoder",
+    "entity": "qwen3.8-flash",
+    "amount": "计费系数由 0.1× 降至 0.0×",
+    "eligibility": "Qoder 国际版新老个人用户",
+    "howToClaim": "auto",
+    "startsAt": "2026-09-18T02:00:00Z",
+    "startsAtText": "2026 年 9 月 18 日 10:00",
+    "expiresAt": null,
+    "expiresAtText": null,
+    "region": null,
+    "restrictions": "免费期已延长，10 月 1 日起继续免费，结束时间提前在官方页面公告；团队版及企业版不适用；免费个人账号及 Credits 余额为 0 的账号也可参与。",
+    "claimUrl": "https://docs.qoder.com/zh/events/flashoffer",
+    "sourceId": "qoder-events-flashoffer",
+    "facts": [
+      {
+        "quote": "2026 年 9 月 18 日 10:00 起，Qoder 国际版面向所有新老个人用户开放 Qwen3.8-Flash 限时免费使用 。活动期间，调用该模型不消耗 Credits，计费系数由 0.1× 降至 0.0× 。无需领取，选择该模型即可免费使用， 免费账号及 Credits 余额为 0 的账号也可参与 。",
+        "url": "https://docs.qoder.com/zh/events/flashoffer",
+        "snapshot": "snapshots/qoder-events-flashoffer/2026-10-10-1136-cb2c915b.json"
+      },
+      {
+        "quote": "活动时间 ：2026 年 9 月 18 日 10:00 起。原定 9 月 30 日 23:59:59 结束，现已延长，10 月 1 日起继续免费，结束时间将提前在本页公告。",
+        "url": "https://docs.qoder.com/zh/events/flashoffer",
+        "snapshot": "snapshots/qoder-events-flashoffer/2026-10-10-1136-cb2c915b.json"
+      },
+      {
+        "quote": "适用用户 ：Qoder 国际版新老个人用户，包括体验版（免费）、Pro 试用期、Pro、Pro+ 和 Ultra 用户。团队版（Teams）及企业版（Enterprise）订阅用户不适用。",
+        "url": "https://docs.qoder.com/zh/events/flashoffer",
+        "snapshot": "snapshots/qoder-events-flashoffer/2026-10-10-1136-cb2c915b.json"
+      },
+      {
+        "quote": "优惠内容 ：指定模型计费系数由 0.1× 降至 0.0×，调用该模型不消耗 Credits。",
+        "url": "https://docs.qoder.com/zh/events/flashoffer",
+        "snapshot": "snapshots/qoder-events-flashoffer/2026-10-10-1136-cb2c915b.json"
+      },
+      {
+        "quote": "活动延期 ：原定 9 月 30 日结束的免费期现已延长， 10 月 1 日起继续免费 。无需任何操作，照常选择 Qwen3.8-Flash 即可。结束时间将提前在本页公告。",
+        "url": "https://docs.qoder.com/zh/events/flashoffer",
+        "snapshot": "snapshots/qoder-events-flashoffer/2026-10-10-1136-cb2c915b.json"
+      },
+      {
+        "quote": "本次优惠仅适用于 Qwen3.8-Flash。其他模型或档位按照各自的计费及优惠规则执行。",
+        "url": "https://docs.qoder.com/zh/events/flashoffer",
+        "snapshot": "snapshots/qoder-events-flashoffer/2026-10-10-1136-cb2c915b.json"
+      }
+    ],
+    "supersedes": null,
+    "quantity": null
+  },
+  {
+    "schemaVersion": 0,
     "occurredAt": "2026-09-18",
     "publishedAt": "2026-09-18T15:00:00Z",
     "verification": "auto_verified",
@@ -1715,6 +2127,54 @@
       }
     ],
     "baseline": "0.78 倍",
+    "quantity": null
+  },
+  {
+    "schemaVersion": 0,
+    "offerKey": "b366b833d0c4df59",
+    "occurredAt": "2026-09-18",
+    "publishedAt": "2026-09-18T12:02:00Z",
+    "verification": "auto_verified",
+    "category": "creditsPromotion",
+    "promotionType": "referral",
+    "appliesTo": [
+      "subscription"
+    ],
+    "planKind": "toolPlan",
+    "vendor": "moonshot",
+    "entity": "kimi-moon-companion-plan",
+    "amount": "Kimi Go 等级的会员等值额度",
+    "eligibility": "好友须通过邀请链接或海报二维码确定绑定关系，并在绑定后 24 小时内完成 Kimi 会员订阅且支付成功",
+    "howToClaim": "invite",
+    "startsAt": null,
+    "expiresAt": null,
+    "expiresAtText": null,
+    "restrictions": "邀请注册任务已停止；当前邀请好友订阅会员，绑定后 24 小时内支付成功，双方各获 1 次抽奖机会；同一好友仅首次助力有效，个人版用户参与。",
+    "claimUrl": "https://www.kimi.ai/zh-hans/help/kimi-blackboard/moon-companion-plan",
+    "sourceId": "moonshot-moon-companion-plan",
+    "facts": [
+      {
+        "quote": "好友须通过邀请链接或海报二维码确定绑定关系，并在绑定后 24 小时内完成 Kimi 会员订阅且支付成功；超时则该次邀请失效。",
+        "url": "https://www.kimi.ai/zh-hans/help/kimi-blackboard/moon-companion-plan",
+        "snapshot": "snapshots/moonshot-moon-companion-plan/2026-10-10-1134-5309627e.json"
+      },
+      {
+        "quote": "活动奖品为 Kimi Go 等级的会员等值额度，包括：",
+        "url": "https://www.kimi.ai/zh-hans/help/kimi-blackboard/moon-companion-plan",
+        "snapshot": "snapshots/moonshot-moon-companion-plan/2026-10-10-1134-5309627e.json"
+      },
+      {
+        "quote": "本说明依据 2026 年 9 月 20 日起执行的活动规则。此前已取得的抽奖机会及奖品，仍可按此前活动规则继续使用和兑换。",
+        "url": "https://www.kimi.ai/zh-hans/help/kimi-blackboard/moon-companion-plan",
+        "snapshot": "snapshots/moonshot-moon-companion-plan/2026-10-10-1134-5309627e.json"
+      },
+      {
+        "quote": "活动规则可在活动页面右上角查看。具体任务、奖品和活动周期均以活动页面的最新展示为准。",
+        "url": "https://www.kimi.ai/zh-hans/help/kimi-blackboard/moon-companion-plan",
+        "snapshot": "snapshots/moonshot-moon-companion-plan/2026-10-10-1134-5309627e.json"
+      }
+    ],
+    "supersedes": null,
     "quantity": null
   },
   {
@@ -1989,6 +2449,41 @@
   },
   {
     "schemaVersion": 0,
+    "offerKey": "eaef11d3e256954b",
+    "occurredAt": "2026-10-11",
+    "publishedAt": "2026-10-11T00:00:00Z",
+    "verification": "auto_verified",
+    "category": "creditsPromotion",
+    "promotionType": "discount",
+    "vendor": "trae",
+    "entity": "trae-deepseek-v4.1-flash-offpeak",
+    "amount": "空闲时段享 5 折，积分消耗从 0.15 倍降至 0.08 倍。",
+    "eligibility": "免费用户折扣表",
+    "appliesTo": [
+      "model",
+      "agent"
+    ],
+    "baseline": "忙时 0.15 倍",
+    "howToClaim": "auto",
+    "startsAt": null,
+    "startsAtText": null,
+    "expiresAt": null,
+    "expiresAtText": null,
+    "claimUrl": "https://docs.trae.cn/ide_limited-time-discount-for-builtin-models",
+    "sourceId": "trae-limited-discount",
+    "restrictions": "DeepSeek-V4.1-Flash 免费用户：每日 22:00 至次日 8:00 自动按闲时消耗速度计费；数值采用官方展示口径。",
+    "facts": [
+      {
+        "quote": "免费用户折扣表\n模型\n折扣前积分消耗速度\n限时折扣\nSeed-2.1-Pro-0915 & Seed-Evolving\n0.8 倍\n限时 1 折，积分消耗速度仅 0.08 倍。10 月 15 日前有效。\nDeepSeek-V4-Pro\n忙时 0.72 倍\n空闲时段享 5 折，积分消耗从 0.72 倍降至 0.36 倍。\nDeepSeek-V4-Flash\n忙时 0.20 倍\n空闲时段享 5 折，积分消耗从 0.20 倍降至 0.10 倍。\nDeepSeek-V4.1-Flash\n忙时 0.15 倍\n空闲时段享 5 折，积分消耗从 0.15 倍降至 0.08 倍。\n",
+        "url": "https://docs.trae.cn/ide_limited-time-discount-for-builtin-models",
+        "snapshot": "snapshots/trae-limited-discount/2026-10-11-0002-efa6c3e4.json"
+      }
+    ],
+    "supersedes": null,
+    "quantity": null
+  },
+  {
+    "schemaVersion": 0,
     "occurredAt": "2026-09-18",
     "publishedAt": "2026-09-18T17:38:00Z",
     "verification": "auto_verified",
@@ -2009,28 +2504,58 @@
     "planKind": "tokenPlan",
     "vendor": "minimax",
     "entity": "minimax-token-plan",
-    "amount": "立省 ￥938",
+    "amount": "￥ 4,690",
     "eligibility": "连续包年",
-    "baseline": "¥469 / 月",
+    "baseline": "￥5,628",
     "howToClaim": "purchase",
-    "restrictions": "高级档按年订阅 ￥4,690、立省 ￥938；三档月费 ¥49 / ¥119 / ¥469，年付相对月付省约两个月",
+    "restrictions": "M Plan Build 连续包年：原价 ￥5,628，年订阅 ￥4,690；Go 的 12 倍用量，含 M3.1 Flash Preview、图像和声音及 H3 视频模型。",
     "claimUrl": "https://platform.minimax.cn/subscribe/token-plan",
     "sourceId": "minimax-token-plan",
     "facts": [
       {
-        "quote": "连续包年 立省2月",
+        "quote": "连续包月 连续包年 立省2月",
         "url": "https://platform.minimax.cn/subscribe/token-plan",
-        "snapshot": "snapshots/minimax-token-plan/2026-09-18-1737-c28e4b7c.json"
+        "snapshot": "snapshots/minimax-token-plan/2026-10-10-1134-6da13f8c.json"
       },
       {
-        "quote": "立省 ￥938",
+        "quote": "￥5,628",
         "url": "https://platform.minimax.cn/subscribe/token-plan",
-        "snapshot": "snapshots/minimax-token-plan/2026-09-18-1737-c28e4b7c.json"
+        "snapshot": "snapshots/minimax-token-plan/2026-10-10-1134-6da13f8c.json"
       },
       {
-        "quote": "¥469 / 月",
+        "quote": "￥ 4,690",
         "url": "https://platform.minimax.cn/subscribe/token-plan",
-        "snapshot": "snapshots/minimax-token-plan/2026-09-18-1737-c28e4b7c.json"
+        "snapshot": "snapshots/minimax-token-plan/2026-10-10-1134-6da13f8c.json"
+      },
+      {
+        "quote": "Build",
+        "url": "https://platform.minimax.cn/subscribe/token-plan",
+        "snapshot": "snapshots/minimax-token-plan/2026-10-10-1134-6da13f8c.json"
+      },
+      {
+        "quote": "Go 的 12 倍用量",
+        "url": "https://platform.minimax.cn/subscribe/token-plan",
+        "snapshot": "snapshots/minimax-token-plan/2026-10-10-1134-6da13f8c.json"
+      },
+      {
+        "quote": "获取 Explore Build",
+        "url": "https://platform.minimax.cn/subscribe/token-plan",
+        "snapshot": "snapshots/minimax-token-plan/2026-10-10-1134-6da13f8c.json"
+      },
+      {
+        "quote": "获取 Build",
+        "url": "https://platform.minimax.cn/subscribe/token-plan",
+        "snapshot": "snapshots/minimax-token-plan/2026-10-10-1134-6da13f8c.json"
+      },
+      {
+        "quote": "重要提示： 有关发票、税费及管理您使用我们服务的其他关键条款的信息，请查看我们的 MiniMax开放平台付费服务条款 | 自动续费服务规则",
+        "url": "https://platform.minimax.cn/subscribe/token-plan",
+        "snapshot": "snapshots/minimax-token-plan/2026-10-10-1134-6da13f8c.json"
+      },
+      {
+        "quote": "M Plan 包含哪些模型？如何切换模型？ 三个档位都包含 M3.1 Flash Preview 文本模型，以及图像与音频生成、网络搜索和多模态理解能力；Explore 和 Build 还包含 H3 视频模型，Go 不包含视频模型。如需切换模型，在 API 请求或工具配置中填写对应的模型 ID 即可。",
+        "url": "https://platform.minimax.cn/subscribe/token-plan",
+        "snapshot": "snapshots/minimax-token-plan/2026-10-10-1134-6da13f8c.json"
       }
     ],
     "quantity": null

@@ -1,0 +1,8 @@
+{
+  "id": "zhipu-bigmodel-pricing",
+  "vendor": "zhipu",
+  "url": "https://open.bigmodel.cn/pricing",
+  "allowedHosts": [
+    "open.bigmodel.cn"
+  ]
+}

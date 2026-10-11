@@ -1,7 +1,7 @@
 {
-  "checked": 56,
-  "corroborated": 5,
-  "rate": 0.089,
+  "checked": 62,
+  "corroborated": 6,
+  "rate": 0.097,
   "detail": [
     {
       "offerKey": "cc86de0abfd5744c",
@@ -129,8 +129,10 @@
     },
     {
       "offerKey": "63e7e35b4f43f98e",
-      "corroboratedBy": [],
-      "declared": 0
+      "corroboratedBy": [
+        "zhipu-bigmodel-pricing"
+      ],
+      "declared": 1
     },
     {
       "offerKey": "640fd8d88c0c19fa",
@@ -154,9 +156,7 @@
     },
     {
       "offerKey": "660feea0e2bfae67",
-      "corroboratedBy": [
-        "trae-pricing"
-      ],
+      "corroboratedBy": [],
       "declared": 0
     },
     {
@@ -188,8 +188,10 @@
     },
     {
       "offerKey": "83fb85b6d9431bbd",
-      "corroboratedBy": [],
-      "declared": 0
+      "corroboratedBy": [
+        "zhipu-bigmodel-pricing"
+      ],
+      "declared": 1
     },
     {
       "offerKey": "88a66c9a5026bc84",
@@ -290,6 +292,36 @@
     },
     {
       "offerKey": "fb96add77c18a7c7",
+      "corroboratedBy": [],
+      "declared": 0
+    },
+    {
+      "offerKey": "0592505613f92022",
+      "corroboratedBy": [],
+      "declared": 0
+    },
+    {
+      "offerKey": "6865e91341caf8f0",
+      "corroboratedBy": [],
+      "declared": 0
+    },
+    {
+      "offerKey": "48ddcb72c9f88d8f",
+      "corroboratedBy": [],
+      "declared": 0
+    },
+    {
+      "offerKey": "4a9147d4bb40aeed",
+      "corroboratedBy": [],
+      "declared": 0
+    },
+    {
+      "offerKey": "85a440e868f17b6c",
+      "corroboratedBy": [],
+      "declared": 0
+    },
+    {
+      "offerKey": "eaef11d3e256954b",
       "corroboratedBy": [],
       "declared": 0
     }

@@ -1,0 +1,10 @@
+{
+  "id": "anthropic-claude-pricing",
+  "vendor": "anthropic",
+  "url": "https://claude.com/pricing",
+  "allowedHosts": [
+    "claude.com",
+    "www.anthropic.com",
+    "docs.anthropic.com"
+  ]
+}

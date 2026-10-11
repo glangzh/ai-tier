@@ -1,1 +1,120 @@
-[]
+[
+  {
+    "schemaVersion": 0,
+    "offerKey": "48ddcb72c9f88d8f",
+    "occurredAt": "2026-10-11",
+    "publishedAt": "2026-10-11T00:00:00Z",
+    "verification": "auto_verified",
+    "category": "pricingChange",
+    "vendor": "opencode",
+    "entity": "opencode-go-plus",
+    "amount": "$40/月",
+    "eligibility": "Go Plus",
+    "appliesTo": [
+      "subscription",
+      "apiCredit"
+    ],
+    "planKind": "tokenPlan",
+    "howToClaim": "purchase",
+    "startsAt": null,
+    "startsAtText": null,
+    "expiresAt": null,
+    "expiresAtText": null,
+    "baseline": null,
+    "claimUrl": "https://opencode.ai/docs/zh-cn/go/",
+    "sourceId": "opencode-go",
+    "restrictions": "新增 Go Plus 月度方案，官方列示比 Go 更高的模型用量；每个工作空间只能有一名成员订阅 Go 或 Go Plus。",
+    "facts": [
+      {
+        "quote": "Go Plus $40/月 下列模型均享有更高的用量限制",
+        "url": "https://opencode.ai/docs/zh-cn/go/",
+        "snapshot": "snapshots/opencode-go/2026-10-10-1135-338c7735.json"
+      },
+      {
+        "quote": "每个工作空间只能有一名成员订阅 OpenCode Go 或 Go Plus。",
+        "url": "https://opencode.ai/docs/zh-cn/go/",
+        "snapshot": "snapshots/opencode-go/2026-10-10-1135-338c7735.json"
+      }
+    ],
+    "supersedes": null,
+    "quantity": null
+  },
+  {
+    "schemaVersion": 0,
+    "offerKey": "4a9147d4bb40aeed",
+    "occurredAt": "2026-10-11",
+    "publishedAt": "2026-10-11T00:00:00Z",
+    "verification": "auto_verified",
+    "category": "capabilityChange",
+    "vendor": "anthropic",
+    "entity": "claude-max-api-credits",
+    "amount": "$100 to $200/month in API credits to build on the Claude Platform †",
+    "eligibility": "Max",
+    "appliesTo": [
+      "subscription",
+      "apiCredit"
+    ],
+    "planKind": "toolPlan",
+    "howToClaim": "purchase",
+    "startsAt": null,
+    "startsAtText": null,
+    "expiresAt": null,
+    "expiresAtText": null,
+    "baseline": null,
+    "claimUrl": "https://claude.com/pricing",
+    "sourceId": "anthropic-claude-pricing",
+    "restrictions": "官方定价页新增月度 API credits 权益；具体额度随套餐而异，使用限制与官方条款适用。",
+    "facts": [
+      {
+        "quote": "Max\nFor people who work with Claude all day\nFrom $100\nPer month\nEverything in Pro, plus:\nChoose 5x or 20x more usage than Pro*\nHigher output limits for all tasks\nEarly access to advanced Claude features\nPriority access at high traffic times\n$100 to $200/month in API credits to build on the Claude Platform †",
+        "url": "https://claude.com/pricing",
+        "snapshot": "snapshots/anthropic-claude-pricing/2026-10-10-1206-d12ec00d.json"
+      }
+    ],
+    "supersedes": null,
+    "quantity": {
+      "value": 100,
+      "unit": "credits",
+      "raw": "$100 to $200/month in API credits to build on the Claude Platform †"
+    }
+  },
+  {
+    "schemaVersion": 0,
+    "offerKey": "85a440e868f17b6c",
+    "occurredAt": "2026-10-11",
+    "publishedAt": "2026-10-11T00:00:00Z",
+    "verification": "auto_verified",
+    "category": "capabilityChange",
+    "vendor": "anthropic",
+    "entity": "claude-team-api-credits",
+    "amount": "Up to $500 per month in pooled API credits †",
+    "eligibility": "Team",
+    "appliesTo": [
+      "subscription",
+      "apiCredit"
+    ],
+    "planKind": "toolPlan",
+    "howToClaim": "purchase",
+    "startsAt": null,
+    "startsAtText": null,
+    "expiresAt": null,
+    "expiresAtText": null,
+    "baseline": null,
+    "claimUrl": "https://claude.com/pricing",
+    "sourceId": "anthropic-claude-pricing",
+    "restrictions": "官方定价页新增月度 API credits 权益；具体额度随套餐而异，使用限制与官方条款适用。",
+    "facts": [
+      {
+        "quote": "Team\nFor teams of 2 to 150\nGet Team plan\nStandard seat\nAll Claude features, plus more usage than Pro*\n$20\nPer seat / month if billed annually. $25 if billed monthly.\nPremium seat\n5x more usage than standard seats*\n$100\nPer seat / month if billed annually. $125 if billed monthly.\nClaude Code and Claude Cowork\nClaude Design, Slides, and Docs\nClaude Motion and Dashboards (beta)\nMicrosoft 365, @Claude, and more\nEnterprise search across your organization\nSingle sign-on (SSO)\nNo model training on your content by default\nMix and match seat types\nUp to $500 per month in pooled API credits †",
+        "url": "https://claude.com/pricing",
+        "snapshot": "snapshots/anthropic-claude-pricing/2026-10-10-1206-d12ec00d.json"
+      }
+    ],
+    "supersedes": null,
+    "quantity": {
+      "value": 500,
+      "unit": "credits",
+      "raw": "Up to $500 per month in pooled API credits †"
+    }
+  }
+]
