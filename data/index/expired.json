@@ -1,6 +1,48 @@
 [
   {
     "schemaVersion": 0,
+    "offerKey": "0db2ea055081bb08",
+    "occurredAt": "2026-09-20",
+    "publishedAt": "2026-09-20T07:11:48.866Z",
+    "verification": "auto_verified",
+    "category": "creditsPromotion",
+    "region": null,
+    "startsAt": null,
+    "startsAtText": null,
+    "expiresAt": null,
+    "expiresAtText": null,
+    "validityText": null,
+    "supersedes": null,
+    "promotionType": "newcomer",
+    "appliesTo": [
+      "apiCredit",
+      "subscription"
+    ],
+    "planKind": "accountPlan",
+    "vendor": "stepfun",
+    "entity": "step-plan",
+    "amount": "15 天 Step Plan",
+    "eligibility": "新用户注册",
+    "baseline": null,
+    "howToClaim": "signup",
+    "restrictions": null,
+    "claimUrl": "https://platform.stepfun.com/step-plan",
+    "sourceId": "stepfun-step-plan",
+    "facts": [
+      {
+        "quote": "海量 Token 限时放送！新用户注册即享 15 天 Step Plan 免费体验",
+        "url": "https://platform.stepfun.com/step-plan",
+        "snapshot": "snapshots/stepfun-step-plan/2026-09-20-0711-1ca0d014.json"
+      }
+    ],
+    "quantity": null,
+    "withdrawn": {
+      "reason": "连续 6 次失效复查未出现原免费体验文案；官方 Playwright 快照明确关闭新增免费体验领取通道。",
+      "at": "2026-10-12"
+    }
+  },
+  {
+    "schemaVersion": 0,
     "occurredAt": "2026-09-18",
     "publishedAt": "2026-09-18T14:22:00Z",
     "verification": "auto_verified",
@@ -119,6 +161,48 @@
       "value": 7500,
       "unit": "credits",
       "raw": "累计最多可领取 7,500 Credits"
+    }
+  },
+  {
+    "schemaVersion": 0,
+    "offerKey": "302b0998e67d0345",
+    "occurredAt": "2026-09-20",
+    "publishedAt": "2026-09-20T07:11:48.866Z",
+    "verification": "auto_verified",
+    "category": "creditsPromotion",
+    "region": null,
+    "startsAt": null,
+    "startsAtText": null,
+    "expiresAt": null,
+    "expiresAtText": null,
+    "validityText": null,
+    "supersedes": null,
+    "promotionType": "newcomer",
+    "appliesTo": [
+      "apiCredit",
+      "subscription"
+    ],
+    "planKind": "accountPlan",
+    "vendor": "stepfun",
+    "entity": "step-plan",
+    "amount": "再得 15 天 Step Plan",
+    "eligibility": "完成首次调用",
+    "baseline": null,
+    "howToClaim": "unknown",
+    "restrictions": null,
+    "claimUrl": "https://platform.stepfun.com/step-plan",
+    "sourceId": "stepfun-step-plan",
+    "facts": [
+      {
+        "quote": "完成首次调用\n再得 15 天 Step Plan",
+        "url": "https://platform.stepfun.com/step-plan",
+        "snapshot": "snapshots/stepfun-step-plan/2026-09-20-0711-1ca0d014.json"
+      }
+    ],
+    "quantity": null,
+    "withdrawn": {
+      "reason": "连续 6 次失效复查未出现原免费体验文案；官方 Playwright 快照明确关闭新增免费体验领取通道。",
+      "at": "2026-10-12"
     }
   },
   {
@@ -462,6 +546,53 @@
       }
     ],
     "quantity": null
+  },
+  {
+    "schemaVersion": 0,
+    "offerKey": "cd2ace6688ef48e8",
+    "occurredAt": "2026-09-20",
+    "publishedAt": "2026-09-20T07:11:48.866Z",
+    "verification": "auto_verified",
+    "category": "creditsPromotion",
+    "region": null,
+    "startsAt": null,
+    "startsAtText": null,
+    "expiresAt": null,
+    "expiresAtText": null,
+    "validityText": null,
+    "supersedes": null,
+    "promotionType": "referral",
+    "appliesTo": [
+      "apiCredit",
+      "subscription"
+    ],
+    "planKind": "accountPlan",
+    "vendor": "stepfun",
+    "entity": "step-plan",
+    "amount": "每邀请 1 位好友注册，再获 15 天",
+    "eligibility": "邀请新构建者完成注册",
+    "baseline": null,
+    "howToClaim": "invite",
+    "restrictions": "累计最高 45 天，总福利可达 75 天",
+    "claimUrl": "https://platform.stepfun.com/step-plan",
+    "sourceId": "stepfun-step-plan",
+    "facts": [
+      {
+        "quote": "每邀请 1 位好友注册，再获 15 天，累计最高 45 天，总福利可达 75 天！",
+        "url": "https://platform.stepfun.com/step-plan",
+        "snapshot": "snapshots/stepfun-step-plan/2026-09-20-0711-1ca0d014.json"
+      },
+      {
+        "quote": "邀请构建者加入，每位完成注册，邀请人再得 15 天 Step Plan",
+        "url": "https://platform.stepfun.com/step-plan",
+        "snapshot": "snapshots/stepfun-step-plan/2026-09-20-0711-1ca0d014.json"
+      }
+    ],
+    "quantity": null,
+    "withdrawn": {
+      "reason": "连续 6 次失效复查未出现原免费体验文案；官方 Playwright 快照明确关闭新增免费体验领取通道。",
+      "at": "2026-10-12"
+    }
   },
   {
     "schemaVersion": 0,
