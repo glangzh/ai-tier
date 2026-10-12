@@ -116,5 +116,50 @@
       "unit": "credits",
       "raw": "Up to $500 per month in pooled API credits †"
     }
+  },
+  {
+    "schemaVersion": 0,
+    "occurredAt": "2026-10-12",
+    "publishedAt": "2026-10-12T12:15:54.239357+00:00",
+    "verification": "auto_verified",
+    "category": "capabilityChange",
+    "region": null,
+    "startsAt": null,
+    "startsAtText": null,
+    "expiresAt": null,
+    "expiresAtText": null,
+    "validityText": null,
+    "supersedes": null,
+    "offerKey": "cd3420e6114db2d3",
+    "appliesTo": [
+      "subscription",
+      "agent"
+    ],
+    "planKind": "toolPlan",
+    "vendor": "moonshot",
+    "entity": "kimi-code-new-plan-weekly-limit",
+    "amount": "取消周限额",
+    "eligibility": "Plus 及以上",
+    "baseline": null,
+    "howToClaim": "purchase",
+    "restrictions": "新会员 Plus 及以上 Kimi Code 取消周限额，保留滚动 5 小时限额和月度共享额度池限制；新 Go 不包含 Kimi Code。旧套餐 Andante 及以上保留滚动 5 小时及周限额，不要求切换套餐。",
+    "claimUrl": "https://www.kimi.com/help/membership/membership-overview",
+    "sourceId": "moonshot-kimi-membership-overview",
+    "facts": [
+      {
+        "quote": "旧套餐 Andante 及以上仍可使用 Kimi Code，保留滚动 5 小时限额和周限额。新套餐 Go 不包含 Kimi Code，Plus 及以上可使用，取消周限额，保留滚动 5 小时限额。新老套餐均受月度共享额度池限制。",
+        "url": "https://www.kimi.com/help/membership/membership-overview",
+        "snapshot": "snapshots/moonshot-kimi-membership-overview/2026-10-12-1207-7a0296de.json"
+      }
+    ],
+    "quantity": null,
+    "corroboration": [
+      {
+        "sourceId": "moonshot-kimi-membership-pricing",
+        "quote": "旧套餐 Andante 及以上仍可使用 Kimi Code，保留滚动 5 小时限额和周限额。新套餐 Go 不包含 Kimi Code，Plus 及以上可使用，取消周限额，保留滚动 5 小时限额。新老套餐均受月度共享额度池限制。",
+        "url": "https://www.kimi.com/help/membership/membership-pricing",
+        "snapshot": "snapshots/moonshot-kimi-membership-pricing/2026-10-12-1207-d5c3296b.json"
+      }
+    ]
   }
 ]

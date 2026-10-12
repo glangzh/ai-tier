@@ -55,34 +55,44 @@
     ],
     "vendor": "workbuddy",
     "entity": "workbuddy",
-    "amount": "邀请好友首次使用，即得 50 积分",
-    "eligibility": "将专属邀请链接或海报分享给好友",
+    "amount": "你得 50 积分",
+    "eligibility": "每邀请一位新注册 好友 完成一次对话/任务",
     "baseline": null,
     "howToClaim": "invite",
-    "restrictions": "活跃奖：好友7日内累计使用3天，额外得 100 积分；好友30天内首次付费升级个人版，双方各得 500 积分",
+    "restrictions": "受邀好友首次注册后须完成一次对话或任务，邀请人得 50 积分；首次注册后 7 天内累计活跃满 3 天另得 100，3 天不要求连续；30 天内首次付费升级，双方各得 500。",
     "claimUrl": "https://www.workbuddy.cn/events/invite",
     "sourceId": "workbuddy-invite",
     "facts": [
       {
-        "quote": "基础奖：邀请好友首次使用，即得 50 积分 活跃奖：好友7日内累计使用3天，额外得 100 积分",
+        "quote": "基础奖：每邀请一位新注册 好友 完成一次对话/任务 ， 你得 50 积分 活跃奖： 好友 首次注册后 7 天内累计活跃满 3 天， 你得 100 积分",
         "url": "https://www.workbuddy.cn/events/invite",
-        "snapshot": "snapshots/workbuddy-invite/2026-10-10-1138-f5bebec1.json"
+        "snapshot": "snapshots/workbuddy-invite/2026-10-12-1209-6c801133.json"
+      },
+      {
+        "quote": "注：「活跃」= 当天有任意有效使用行为（发起对话、调用工具、执行任务等）即算 1 天；3 天不要求连续。",
+        "url": "https://www.workbuddy.cn/events/invite",
+        "snapshot": "snapshots/workbuddy-invite/2026-10-12-1209-6c801133.json"
+      },
+      {
+        "quote": "受邀新人 30 天内首次 付费升级个人版 ， 你 和 好友 各得 500 积分",
+        "url": "https://www.workbuddy.cn/events/invite",
+        "snapshot": "snapshots/workbuddy-invite/2026-10-12-1209-6c801133.json"
       },
       {
         "quote": "即日起至2026年10月31日期间，推荐好友使用，一起拿积分",
         "url": "https://www.workbuddy.cn/events/invite",
-        "snapshot": "snapshots/workbuddy-invite/2026-10-10-1138-f5bebec1.json"
+        "snapshot": "snapshots/workbuddy-invite/2026-10-12-1209-6c801133.json"
       },
       {
         "quote": "分享专属链接 将专属邀请链接或海报分享给好友",
         "url": "https://www.workbuddy.cn/events/invite",
-        "snapshot": "snapshots/workbuddy-invite/2026-10-10-1138-f5bebec1.json"
+        "snapshot": "snapshots/workbuddy-invite/2026-10-12-1209-6c801133.json"
       }
     ],
     "quantity": {
       "value": 50,
       "unit": "points",
-      "raw": "邀请好友首次使用，即得 50 积分"
+      "raw": "你得 50 积分"
     }
   },
   {
@@ -105,29 +115,34 @@
     ],
     "vendor": "workbuddy",
     "entity": "workbuddy",
-    "amount": "好友注册即享 2,000 积分",
-    "eligibility": "新用户福利（截止日期：2026年10月31日）",
+    "amount": "即得 2,000 积分",
+    "eligibility": "好友 首次注册并 完成一次对话/任务",
     "baseline": null,
     "howToClaim": "signup",
-    "restrictions": "通过邀请链接注册的新用户可得 2,000 积分；积分用途与有效期见活动页折叠项",
+    "restrictions": "通过邀请链接首次注册后，还须完成一次对话或任务，方可获得 2,000 积分；截止 2026 年 10 月 31 日。",
     "claimUrl": "https://www.workbuddy.cn/events/invite",
     "sourceId": "workbuddy-invite",
     "facts": [
       {
-        "quote": "好友注册即享 2,000 积分 新用户福利（截止日期：2026年10月31日）",
+        "quote": "好友 首次注册并 完成一次对话/任务 ，即得 2,000 积分 新用户礼包（截止日期：2026年10月31日）",
         "url": "https://www.workbuddy.cn/events/invite",
-        "snapshot": "snapshots/workbuddy-invite/2026-10-10-1138-f5bebec1.json"
+        "snapshot": "snapshots/workbuddy-invite/2026-10-12-1209-6c801133.json"
       },
       {
         "quote": "即日起至2026年10月31日期间，推荐好友使用，一起拿积分",
         "url": "https://www.workbuddy.cn/events/invite",
-        "snapshot": "snapshots/workbuddy-invite/2026-10-10-1138-f5bebec1.json"
+        "snapshot": "snapshots/workbuddy-invite/2026-10-12-1209-6c801133.json"
+      },
+      {
+        "quote": "分享专属链接 将专属邀请链接或海报分享给好友",
+        "url": "https://www.workbuddy.cn/events/invite",
+        "snapshot": "snapshots/workbuddy-invite/2026-10-12-1209-6c801133.json"
       }
     ],
     "quantity": {
       "value": 2000,
       "unit": "points",
-      "raw": "好友注册即享 2,000 积分"
+      "raw": "即得 2,000 积分"
     }
   },
   {
@@ -517,26 +532,31 @@
     "entity": "traecode-pro",
     "amount": "首月 ¥69",
     "eligibility": "仅限付费新用户",
-    "baseline": "第 2 个月恢复 ¥89",
+    "baseline": "¥89",
     "howToClaim": "purchase",
-    "restrictions": "限时首月优惠，来源未给出结束时间；首月 ¥69 对应连续包月口径，第 2 个月恢复 ¥89，单月目录价为 ¥99；同页会员 Pro+（低至 ¥ 219 /月 ¥239）与会员 Ultra（低至 ¥ 629 /月 ¥699）未标首月优惠，只有 Lite 与 Pro 有首月优惠字样；定价页本轮新增会员 Pro 的首月优惠标记",
+    "restrictions": "会员 Pro 连续包月仅限付费新用户首月 ¥69，第 2 个月恢复 ¥89；单月价格 ¥99，每月 4000 积分。优惠结束时间来源未说明。",
     "claimUrl": "https://docs.trae.cn/ide_plans-and-billing",
     "sourceId": "trae-plans-billing",
     "facts": [
       {
+        "quote": "会员 Pro",
+        "url": "https://docs.trae.cn/ide_plans-and-billing",
+        "snapshot": "snapshots/trae-plans-billing/2026-10-12-1208-8a6ebda6.json"
+      },
+      {
         "quote": "限时首月优惠：首月 ¥69，第 2 个月恢复 ¥89。仅限付费新用户。",
         "url": "https://docs.trae.cn/ide_plans-and-billing",
-        "snapshot": "snapshots/trae-plans-billing/2026-09-27-1356-abb0b377.json"
+        "snapshot": "snapshots/trae-plans-billing/2026-10-12-1208-8a6ebda6.json"
       },
       {
-        "quote": "TRAE 提供多档付费会员套餐。各档套餐的价格和权益如下，你可以根据实际需求选择。",
+        "quote": "¥99",
         "url": "https://docs.trae.cn/ide_plans-and-billing",
-        "snapshot": "snapshots/trae-plans-billing/2026-09-27-1356-abb0b377.json"
+        "snapshot": "snapshots/trae-plans-billing/2026-10-12-1208-8a6ebda6.json"
       },
       {
-        "quote": "首月优惠 低至 ¥ 69 /月 ¥99",
-        "url": "https://www.trae.cn/pricing",
-        "snapshot": "snapshots/trae-pricing/2026-09-27-1356-8397a6dd.json"
+        "quote": "4000 积分",
+        "url": "https://docs.trae.cn/ide_plans-and-billing",
+        "snapshot": "snapshots/trae-plans-billing/2026-10-12-1208-8a6ebda6.json"
       }
     ],
     "quantity": null
@@ -1056,34 +1076,39 @@
     "startsAtText": null,
     "expiresAt": null,
     "expiresAtText": null,
-    "restrictions": "会员 Lite 原价 ¥49/月，首月低至 ¥39（2026-09-27 页面由 ¥29.9 上调为 ¥39）；结束时间来源未说明",
+    "restrictions": "会员 Lite 单月价格 ¥49；连续包月仅限付费新用户首月 ¥39，第 2 个月恢复 ¥45。每月 2000 积分；首月优惠结束时间来源未说明。",
     "sourceId": "trae-pricing",
     "claimUrl": "https://www.trae.cn/pricing",
     "facts": [
       {
         "quote": "会员 Lite",
         "url": "https://www.trae.cn/pricing",
-        "snapshot": "snapshots/trae-pricing/2026-09-18-1440-697f8132.json"
+        "snapshot": "snapshots/trae-pricing/2026-10-12-1208-98ce72ce.json"
       },
       {
         "quote": "首月优惠",
         "url": "https://www.trae.cn/pricing",
-        "snapshot": "snapshots/trae-pricing/2026-09-18-1440-697f8132.json"
-      },
-      {
-        "quote": "会员签到多得 1550 积分",
-        "url": "https://www.trae.cn/pricing",
-        "snapshot": "snapshots/trae-pricing/2026-09-18-1440-697f8132.json"
+        "snapshot": "snapshots/trae-pricing/2026-10-12-1208-98ce72ce.json"
       },
       {
         "quote": "低至 ¥ 39",
         "url": "https://www.trae.cn/pricing",
-        "snapshot": "snapshots/trae-pricing/2026-09-27-1356-8397a6dd.json"
+        "snapshot": "snapshots/trae-pricing/2026-10-12-1208-98ce72ce.json"
       },
       {
         "quote": "/月 ¥49",
         "url": "https://www.trae.cn/pricing",
-        "snapshot": "snapshots/trae-pricing/2026-09-27-1356-8397a6dd.json"
+        "snapshot": "snapshots/trae-pricing/2026-10-12-1208-98ce72ce.json"
+      },
+      {
+        "quote": "限时首月优惠：首月 ¥39，第 2 个月恢复 ¥45。仅限付费新用户。",
+        "url": "https://docs.trae.cn/ide_plans-and-billing",
+        "snapshot": "snapshots/trae-plans-billing/2026-10-12-1208-8a6ebda6.json"
+      },
+      {
+        "quote": "2000 积分",
+        "url": "https://docs.trae.cn/ide_plans-and-billing",
+        "snapshot": "snapshots/trae-plans-billing/2026-10-12-1208-8a6ebda6.json"
       }
     ],
     "baseline": "¥49",
@@ -1365,26 +1390,39 @@
     "planKind": "toolPlan",
     "vendor": "moonshot",
     "entity": "kimi-membership",
-    "amount": "¥ 39 / 月",
-    "eligibility": "Go",
-    "baseline": "¥49",
+    "amount": "¥39/月",
+    "eligibility": "连续包年",
+    "baseline": "¥49/月",
     "howToClaim": "purchase",
-    "restrictions": "Go 档连续包月 ¥39，原价 ¥49；新会员方案购买资格以页面展示为准。",
-    "claimUrl": "https://www.kimi.com/membership/pricing",
-    "sourceId": "kimi-membership-pricing",
+    "restrictions": "Go 连续包月 ¥49/月；连续包年一次支付 ¥468/年，年付折合 ¥39/月，并非按月扣费；新 Go 不包含 Kimi Code。",
+    "claimUrl": "https://www.kimi.com/help/membership/membership-pricing",
+    "sourceId": "moonshot-kimi-membership-pricing",
     "facts": [
       {
-        "quote": "Go",
-        "url": "https://www.kimi.com/membership/pricing",
-        "snapshot": "snapshots/kimi-membership-pricing/2026-10-10-1134-081814ae.json"
+        "quote": "Go ¥49/月 ¥468/年 ¥39/月",
+        "url": "https://www.kimi.com/help/membership/membership-pricing",
+        "snapshot": "snapshots/moonshot-kimi-membership-pricing/2026-10-12-1207-d5c3296b.json"
       },
       {
-        "quote": "¥ 39 / 月 ¥49",
-        "url": "https://www.kimi.com/membership/pricing",
-        "snapshot": "snapshots/kimi-membership-pricing/2026-10-10-1134-081814ae.json"
+        "quote": "年付价格为一次支付的全年总额，折合每月价格仅用于比较，并非按月扣费。",
+        "url": "https://www.kimi.com/help/membership/membership-pricing",
+        "snapshot": "snapshots/moonshot-kimi-membership-pricing/2026-10-12-1207-d5c3296b.json"
+      },
+      {
+        "quote": "Go ：日常文档、PPT、深度研究和网站部署，不包含 Kimi Code。",
+        "url": "https://www.kimi.com/help/membership/membership-pricing",
+        "snapshot": "snapshots/moonshot-kimi-membership-pricing/2026-10-12-1207-d5c3296b.json"
       }
     ],
-    "quantity": null
+    "quantity": null,
+    "corroboration": [
+      {
+        "sourceId": "moonshot-kimi-membership-overview",
+        "quote": "Go ¥49/月 ¥468/年 ¥39/月",
+        "url": "https://www.kimi.com/help/membership/membership-overview",
+        "snapshot": "snapshots/moonshot-kimi-membership-overview/2026-10-12-1207-7a0296de.json"
+      }
+    ]
   },
   {
     "schemaVersion": 0,
@@ -2129,44 +2167,44 @@
     "sourceId": "opendesign-pricing",
     "facts": [
       {
-        "quote": "Plus $20 $180 $20 $160 Bonus $20 No limit window",
+        "quote": "Plus $20 $180 $20 $160 Bonus $40 No limit window",
         "url": "https://open-design.ai/model-credits/",
-        "snapshot": "snapshots/opendesign-model-credits/2026-10-11-1754-a98fe380.json"
+        "snapshot": "snapshots/opendesign-model-credits/2026-10-12-1207-8e84e253.json"
       },
       {
         "quote": "Go Plus Pro Max\nModel Est. requests / 7 days Monthly usage",
         "url": "https://open-design.ai/pricing/",
-        "snapshot": "snapshots/opendesign-pricing/2026-10-11-1754-976417b9.json"
+        "snapshot": "snapshots/opendesign-pricing/2026-10-12-1207-11de330c.json"
       },
       {
         "quote": "DeepSeek V4.1 Flash 145,600 194,200 436,800 728,000 $120 $160",
         "url": "https://open-design.ai/pricing/",
-        "snapshot": "snapshots/opendesign-pricing/2026-10-11-1754-976417b9.json"
+        "snapshot": "snapshots/opendesign-pricing/2026-10-12-1207-11de330c.json"
       },
       {
         "quote": "MiMo V2.6 Pro 26,600 35,500 79,800 133,100 $60 $80",
         "url": "https://open-design.ai/pricing/",
-        "snapshot": "snapshots/opendesign-pricing/2026-10-11-1754-976417b9.json"
+        "snapshot": "snapshots/opendesign-pricing/2026-10-12-1207-11de330c.json"
       },
       {
         "quote": "These models share one Design Plan allowance. The model list may change as new models are released. DeepSeek V4.1 Flash has twice the Design Plan usage allowance: up to $120 / $160 / $360 / $600 per month on Go / Plus / Pro / Max. Its estimated requests per 7 days are also doubled. This is a model-specific usage equivalent, not an increase in the shared plan credits.",
         "url": "https://open-design.ai/model-credits/",
-        "snapshot": "snapshots/opendesign-model-credits/2026-10-11-1754-a98fe380.json"
+        "snapshot": "snapshots/opendesign-model-credits/2026-10-12-1207-8e84e253.json"
       },
       {
         "quote": "These windows apply only to Design Plan credits: Go has both 5-hour and 7-day windows; Plus, Pro, and Max have only a 7-day window. Plan model credits have neither window and are granted and reset per billing cycle.",
         "url": "https://open-design.ai/model-credits/",
-        "snapshot": "snapshots/opendesign-model-credits/2026-10-11-1754-a98fe380.json"
+        "snapshot": "snapshots/opendesign-model-credits/2026-10-12-1207-8e84e253.json"
       },
       {
         "quote": "$ 16 / mo $20\nSave $4/mo First-month price\n$ 14 / mo $20\nSave $72 Billed $168/year",
         "url": "https://open-design.ai/pricing/",
-        "snapshot": "snapshots/opendesign-pricing/2026-10-11-1754-976417b9.json"
+        "snapshot": "snapshots/opendesign-pricing/2026-10-12-1207-11de330c.json"
       },
       {
         "quote": "Standard · $20/month",
         "url": "https://open-design.ai/pricing/",
-        "snapshot": "snapshots/opendesign-pricing/2026-10-11-1754-976417b9.json"
+        "snapshot": "snapshots/opendesign-pricing/2026-10-12-1207-11de330c.json"
       }
     ],
     "supersedes": null,
@@ -2197,8 +2235,8 @@
         }
       ],
       "limits": {
-        "zh": "Design Plan 有 7 天窗口；另含 $20 常规模型额度，不受 5 小时 / 7 天窗口限制。",
-        "en": "Design Plan has a 7-day window; the additional $20 in plan-model credits has no 5-hour or 7-day cap."
+        "zh": "Design Plan 每 7 天窗口最高 $40，无 5 小时窗口限制；另含 $20 常规模型额度，不受上述窗口限制。",
+        "en": "Design Plan allows up to $40 per 7-day window, with no 5-hour cap; the additional $20 in plan-model credits is outside these windows."
       },
       "notes": {
         "zh": "Design Plan 共用额度，DeepSeek V4.1 Flash 为双倍用量折算，不增加共享余额。另含 $20 常规模型额度；平台与 API 共用。首月 $16，续费 $20/月；年付 $168。",
@@ -2212,7 +2250,7 @@
         "fact": 7
       }
     },
-    "restrictions": "Design Plan 有 7 天窗口；另含 $20 常规模型额度，不受 5 小时 / 7 天窗口限制。 Design Plan 共用额度，DeepSeek V4.1 Flash 为双倍用量折算，不增加共享余额。另含 $20 常规模型额度；平台与 API 共用。首月 $16，续费 $20/月；年付 $168。",
+    "restrictions": "Design Plan 每 7 天窗口最高 $40，无 5 小时窗口限制；另含 $20 常规模型额度，不受上述窗口限制。 Design Plan 共用额度，DeepSeek V4.1 Flash 为双倍用量折算，不增加共享余额。另含 $20 常规模型额度；平台与 API 共用。首月 $16，续费 $20/月；年付 $168。",
     "quantity": null
   },
   {
@@ -2663,39 +2701,39 @@
     "sourceId": "opendesign-pricing",
     "facts": [
       {
-        "quote": "Go $10 $120 $0 $120 $15 $5",
+        "quote": "Go $10 $120 $0 $120 $30 $5",
         "url": "https://open-design.ai/model-credits/",
-        "snapshot": "snapshots/opendesign-model-credits/2026-10-11-1754-a98fe380.json"
+        "snapshot": "snapshots/opendesign-model-credits/2026-10-12-1207-8e84e253.json"
       },
       {
         "quote": "Go Plus Pro Max\nModel Est. requests / 7 days Monthly usage",
         "url": "https://open-design.ai/pricing/",
-        "snapshot": "snapshots/opendesign-pricing/2026-10-11-1754-976417b9.json"
+        "snapshot": "snapshots/opendesign-pricing/2026-10-12-1207-11de330c.json"
       },
       {
         "quote": "DeepSeek V4.1 Flash 145,600 194,200 436,800 728,000 $120",
         "url": "https://open-design.ai/pricing/",
-        "snapshot": "snapshots/opendesign-pricing/2026-10-11-1754-976417b9.json"
+        "snapshot": "snapshots/opendesign-pricing/2026-10-12-1207-11de330c.json"
       },
       {
         "quote": "MiMo V2.6 Pro 26,600 35,500 79,800 133,100 $60",
         "url": "https://open-design.ai/pricing/",
-        "snapshot": "snapshots/opendesign-pricing/2026-10-11-1754-976417b9.json"
+        "snapshot": "snapshots/opendesign-pricing/2026-10-12-1207-11de330c.json"
       },
       {
         "quote": "These models share one Design Plan allowance. The model list may change as new models are released. DeepSeek V4.1 Flash has twice the Design Plan usage allowance: up to $120 / $160 / $360 / $600 per month on Go / Plus / Pro / Max. Its estimated requests per 7 days are also doubled. This is a model-specific usage equivalent, not an increase in the shared plan credits.",
         "url": "https://open-design.ai/model-credits/",
-        "snapshot": "snapshots/opendesign-model-credits/2026-10-11-1754-a98fe380.json"
+        "snapshot": "snapshots/opendesign-model-credits/2026-10-12-1207-8e84e253.json"
       },
       {
         "quote": "These windows apply only to Design Plan credits: Go has both 5-hour and 7-day windows; Plus, Pro, and Max have only a 7-day window. Plan model credits have neither window and are granted and reset per billing cycle.",
         "url": "https://open-design.ai/model-credits/",
-        "snapshot": "snapshots/opendesign-model-credits/2026-10-11-1754-a98fe380.json"
+        "snapshot": "snapshots/opendesign-model-credits/2026-10-12-1207-8e84e253.json"
       },
       {
         "quote": "$ 8 / mo $10\nSave $2/mo First-month price\n$ 7 / mo $10\nSave $36 Billed $84/year",
         "url": "https://open-design.ai/pricing/",
-        "snapshot": "snapshots/opendesign-pricing/2026-10-11-1754-976417b9.json"
+        "snapshot": "snapshots/opendesign-pricing/2026-10-12-1207-11de330c.json"
       }
     ],
     "supersedes": null,
@@ -2726,15 +2764,15 @@
         }
       ],
       "limits": {
-        "zh": "Design Plan 有 5 小时和 7 天窗口，达到限制需等待恢复。",
-        "en": "Design Plan has both 5-hour and 7-day windows; wait for the window reset when a limit is reached."
+        "zh": "Design Plan 每 7 天窗口最高 $30、每 5 小时最高 $5；达到限制需等待对应窗口恢复。",
+        "en": "Design Plan allows up to $30 per 7-day window and $5 per 5-hour window; wait for the corresponding reset when a cap is reached."
       },
       "notes": {
         "zh": "Design Plan 共用额度，DeepSeek V4.1 Flash 为双倍用量折算，不增加共享余额。平台与 API 共用。首月 $8，续费 $10/月；年付 $84。",
         "en": "Design Plan shares one allowance; DeepSeek V4.1 Flash doubles the usage equivalent, not the pool. App and API share usage. First month $8, then $10/month; annual $84."
       }
     },
-    "restrictions": "Design Plan 有 5 小时和 7 天窗口，达到限制需等待恢复。 Design Plan 共用额度，DeepSeek V4.1 Flash 为双倍用量折算，不增加共享余额。平台与 API 共用。首月 $8，续费 $10/月；年付 $84。",
+    "restrictions": "Design Plan 每 7 天窗口最高 $30、每 5 小时最高 $5；达到限制需等待对应窗口恢复。 Design Plan 共用额度，DeepSeek V4.1 Flash 为双倍用量折算，不增加共享余额。平台与 API 共用。首月 $8，续费 $10/月；年付 $84。",
     "quantity": null
   },
   {

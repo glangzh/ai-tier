@@ -1,7 +1,7 @@
 {
-  "checked": 67,
-  "corroborated": 6,
-  "rate": 0.09,
+  "checked": 68,
+  "corroborated": 8,
+  "rate": 0.118,
   "detail": [
     {
       "offerKey": "cc86de0abfd5744c",
@@ -156,8 +156,11 @@
     },
     {
       "offerKey": "660feea0e2bfae67",
-      "corroboratedBy": [],
-      "declared": 0
+      "corroboratedBy": [
+        "kimi-membership-pricing",
+        "moonshot-kimi-membership-overview"
+      ],
+      "declared": 1
     },
     {
       "offerKey": "6fdb089779f2b243",
@@ -349,6 +352,13 @@
       "offerKey": "f0d0d806950e949b",
       "corroboratedBy": [],
       "declared": 0
+    },
+    {
+      "offerKey": "cd3420e6114db2d3",
+      "corroboratedBy": [
+        "moonshot-kimi-membership-pricing"
+      ],
+      "declared": 1
     }
   ]
 }
