@@ -1,7 +1,7 @@
 {
-  "checked": 68,
+  "checked": 69,
   "corroborated": 8,
-  "rate": 0.118,
+  "rate": 0.116,
   "detail": [
     {
       "offerKey": "cc86de0abfd5744c",
@@ -359,6 +359,11 @@
         "moonshot-kimi-membership-pricing"
       ],
       "declared": 1
+    },
+    {
+      "offerKey": "1c352787511d2b23",
+      "corroboratedBy": [],
+      "declared": 0
     }
   ]
 }

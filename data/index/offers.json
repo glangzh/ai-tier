@@ -37,6 +37,75 @@
   },
   {
     "schemaVersion": 0,
+    "offerKey": "1c352787511d2b23",
+    "occurredAt": "2026-10-13",
+    "publishedAt": "2026-10-13T16:13:54.940503+00:00",
+    "verification": "auto_verified",
+    "category": "creditsPromotion",
+    "promotionType": "discount",
+    "vendor": "commandcode",
+    "entity": "commandcode-deepseek-v4.1-flash",
+    "planName": "Command Code GOAT / Pro",
+    "appliesTo": [
+      "model",
+      "subscription"
+    ],
+    "planKind": "tokenPlan",
+    "amount": "$100 on GOAT and Pro",
+    "eligibility": "pick deepseek-v4.1-flash from /model",
+    "baseline": "$60 and $70",
+    "howToClaim": "auto",
+    "startsAt": "2026-10-13T07:00:00-07:00",
+    "startsAtText": "October 13 at 7 AM PT",
+    "expiresAt": "2026-10-16T07:00:00-07:00",
+    "expiresAtText": "October 16 at 7 AM PT",
+    "claimUrl": "https://commandcode.ai/docs/resources/pricing-limits",
+    "sourceId": "commandcode-pricing-limits",
+    "region": null,
+    "supersedes": null,
+    "quantity": null,
+    "validityText": "through October 16, 2026",
+    "restrictions": "DeepSeek V4.1 Flash 月用量等值临时提高至 $100，适用 $10/月 GOAT 与 $20/月 Pro；Token 单价不变，CLI 选择该模型自动生效。官方指定 10 月 13 日至 16 日均为太平洋时间早上 7 点；结束后 GOAT 保持 $80、Pro 保持 $90，不是额外充值余额。",
+    "facts": [
+      {
+        "quote": "DEAL deepseek-v4.1-flash usage: $100 on GOAT and Pro. through Oct 16th",
+        "url": "https://commandcode.ai/docs/resources/pricing-limits",
+        "snapshot": "snapshots/commandcode-pricing-limits/2026-10-13-1608-0cd5303e.json"
+      },
+      {
+        "quote": "DeepSeek V4.1 Flash gets $100 of monthly credits for three days, through October 16, 2026.",
+        "url": "https://commandcode.ai/docs/resources/pricing-limits",
+        "snapshot": "snapshots/commandcode-pricing-limits/2026-10-13-1608-0cd5303e.json"
+      },
+      {
+        "quote": "From October 13 at 7 AM PT until October 16 at 7 AM PT, DeepSeek V4.1 Flash&#x27;s per-model allowance is $100 on the $10 GOAT plan and $100 on the $20 Pro plan , up from $60 and $70. Per-token rates stay the same.",
+        "url": "https://commandcode.ai/docs/resources/pricing-limits",
+        "snapshot": "snapshots/commandcode-pricing-limits/2026-10-13-1608-0cd5303e.json"
+      },
+      {
+        "quote": "Applied automatically : pick deepseek-v4.1-flash from /model in the CLI and the bigger allowance is there. Nothing to turn on.",
+        "url": "https://commandcode.ai/docs/resources/pricing-limits",
+        "snapshot": "snapshots/commandcode-pricing-limits/2026-10-13-1608-0cd5303e.json"
+      },
+      {
+        "quote": "After the three days : the allowance stays raised, at $80 on GOAT and $90 on Pro.",
+        "url": "https://commandcode.ai/docs/resources/pricing-limits",
+        "snapshot": "snapshots/commandcode-pricing-limits/2026-10-13-1608-0cd5303e.json"
+      },
+      {
+        "quote": "GOAT ($10/mo) $60 $100 $80",
+        "url": "https://commandcode.ai/docs/resources/pricing-limits",
+        "snapshot": "snapshots/commandcode-pricing-limits/2026-10-13-1608-0cd5303e.json"
+      },
+      {
+        "quote": "Pro ($20/mo) $70 $100 $90",
+        "url": "https://commandcode.ai/docs/resources/pricing-limits",
+        "snapshot": "snapshots/commandcode-pricing-limits/2026-10-13-1608-0cd5303e.json"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 0,
     "occurredAt": "2026-09-18",
     "publishedAt": "2026-09-18T17:38:00Z",
     "verification": "auto_verified",
@@ -2232,32 +2301,42 @@
       {
         "quote": "unlimited coding on 30+ top open and closed models for $10/month",
         "url": "https://commandcode.ai/docs/plans/goat",
-        "snapshot": "snapshots/commandcode-goat/2026-10-11-1754-d15d4364.json"
+        "snapshot": "snapshots/commandcode-goat/2026-10-13-1608-62f1962b.json"
       },
       {
         "quote": "GLM-5.2 $1.40 $4.40 $0.26 - $70",
         "url": "https://commandcode.ai/docs/plans/goat",
-        "snapshot": "snapshots/commandcode-goat/2026-10-11-1754-d15d4364.json"
+        "snapshot": "snapshots/commandcode-goat/2026-10-13-1608-62f1962b.json"
       },
       {
-        "quote": "DeepSeek V4.1 Flash $0.15 $0.60 $0.003 - $60",
+        "quote": "DeepSeek V4.1 Flash $0.15 $0.60 $0.003 - $80 $100 through Oct 16th",
         "url": "https://commandcode.ai/docs/plans/goat",
-        "snapshot": "snapshots/commandcode-goat/2026-10-11-1754-d15d4364.json"
+        "snapshot": "snapshots/commandcode-goat/2026-10-13-1608-62f1962b.json"
       },
       {
         "quote": "MiMo V2.5 Pro $0.435 $0.87 $0.0036 - $20",
         "url": "https://commandcode.ai/docs/plans/goat",
-        "snapshot": "snapshots/commandcode-goat/2026-10-11-1754-d15d4364.json"
+        "snapshot": "snapshots/commandcode-goat/2026-10-13-1608-62f1962b.json"
       },
       {
         "quote": "5-hour limit - $14 of usage\nWeekly limit - $35 of usage\nMonthly limit - $70 of usage",
         "url": "https://commandcode.ai/docs/plans/goat",
-        "snapshot": "snapshots/commandcode-goat/2026-10-11-1754-d15d4364.json"
+        "snapshot": "snapshots/commandcode-goat/2026-10-13-1608-62f1962b.json"
       },
       {
         "quote": "The GOAT plan has API access. You call the Provider API endpoints with your Command Code API key, and usage is metered against your GOAT credits and the models included above.",
         "url": "https://commandcode.ai/docs/plans/goat",
-        "snapshot": "snapshots/commandcode-goat/2026-10-11-1754-d15d4364.json"
+        "snapshot": "snapshots/commandcode-goat/2026-10-13-1608-62f1962b.json"
+      },
+      {
+        "quote": "After the three days : the allowance stays raised, at $80 on GOAT and $90 on Pro.",
+        "url": "https://commandcode.ai/docs/resources/pricing-limits",
+        "snapshot": "snapshots/commandcode-pricing-limits/2026-10-13-1608-0cd5303e.json"
+      },
+      {
+        "quote": "From October 13 at 7 AM PT until October 16 at 7 AM PT, DeepSeek V4.1 Flash&#x27;s per-model allowance is $100 on the $10 GOAT plan and $100 on the $20 Pro plan , up from $60 and $70. Per-token rates stay the same.",
+        "url": "https://commandcode.ai/docs/resources/pricing-limits",
+        "snapshot": "snapshots/commandcode-pricing-limits/2026-10-13-1608-0cd5303e.json"
       }
     ],
     "supersedes": null,
@@ -2280,10 +2359,10 @@
         },
         {
           "model": "DeepSeek V4.1 Flash",
-          "value": 60,
+          "value": 100,
           "currency": "USD",
           "period": "month",
-          "text": "$60",
+          "text": "$100",
           "fact": 2
         },
         {
@@ -2300,11 +2379,11 @@
         "en": "$14 per 5 hours, $35 per week, $70 per month; usable volume varies by model pricing."
       },
       "notes": {
-        "zh": "列出的是示例模型月用量，不是各模型独立余额；不可相加。CLI 与 API 使用套餐额度，额外购买的积分另计。",
-        "en": "These are example monthly usage equivalents, not separate balances per model. CLI and API use plan credits; purchased top-ups are separate."
+        "zh": "列出的是示例模型月用量，不是各模型独立余额；不可相加。CLI 与 API 使用套餐额度，额外购买的积分另计。 DeepSeek V4.1 Flash 当前临时月用量等值 $100，官方标注“$100 through Oct 16th”；结束后为 $80。官方 Pricing & Limits 指定结束时间为 October 16 at 7 AM PT。",
+        "en": "These are example monthly usage equivalents, not separate balances per model. CLI and API use plan credits; purchased top-ups are separate. DeepSeek V4.1 Flash currently has \"$100 through Oct 16th\", then $80. Pricing & Limits specifies October 16 at 7 AM PT."
       }
     },
-    "restrictions": "5 小时 $14、每周 $35、每月 $70 的窗口；实际可用量随模型计价不同。 列出的是示例模型月用量，不是各模型独立余额；不可相加。CLI 与 API 使用套餐额度，额外购买的积分另计。",
+    "restrictions": "5 小时 $14、每周 $35、每月 $70 的窗口；实际可用量随模型计价不同。 列出的是示例模型月用量，不是各模型独立余额；不可相加。CLI 与 API 使用套餐额度，额外购买的积分另计。 DeepSeek V4.1 Flash 当前临时月用量等值 $100，官方标注“$100 through Oct 16th”；结束后为 $80。官方 Pricing & Limits 指定结束时间为 October 16 at 7 AM PT。",
     "quantity": null
   },
   {
@@ -2914,9 +2993,9 @@
     "sourceId": "opendesign-pricing",
     "facts": [
       {
-        "quote": "Go $10 $120 $0 $120 $30 $5",
+        "quote": "Go $10 $120 $0 $120 $30 $10",
         "url": "https://open-design.ai/model-credits/",
-        "snapshot": "snapshots/opendesign-model-credits/2026-10-12-1207-8e84e253.json"
+        "snapshot": "snapshots/opendesign-model-credits/2026-10-13-1608-09779bd6.json"
       },
       {
         "quote": "Go Plus Pro Max\nModel Est. requests / 7 days Monthly usage",
@@ -2936,12 +3015,12 @@
       {
         "quote": "These models share one Design Plan allowance. The model list may change as new models are released. DeepSeek V4.1 Flash has twice the Design Plan usage allowance: up to $120 / $160 / $360 / $600 per month on Go / Plus / Pro / Max. Its estimated requests per 7 days are also doubled. This is a model-specific usage equivalent, not an increase in the shared plan credits.",
         "url": "https://open-design.ai/model-credits/",
-        "snapshot": "snapshots/opendesign-model-credits/2026-10-12-1207-8e84e253.json"
+        "snapshot": "snapshots/opendesign-model-credits/2026-10-13-1608-09779bd6.json"
       },
       {
         "quote": "These windows apply only to Design Plan credits: Go has both 5-hour and 7-day windows; Plus, Pro, and Max have only a 7-day window. Plan model credits have neither window and are granted and reset per billing cycle.",
         "url": "https://open-design.ai/model-credits/",
-        "snapshot": "snapshots/opendesign-model-credits/2026-10-12-1207-8e84e253.json"
+        "snapshot": "snapshots/opendesign-model-credits/2026-10-13-1608-09779bd6.json"
       },
       {
         "quote": "$ 8 / mo $10\nSave $2/mo First-month price\n$ 7 / mo $10\nSave $36 Billed $84/year",
@@ -2977,15 +3056,15 @@
         }
       ],
       "limits": {
-        "zh": "Design Plan 每 7 天窗口最高 $30、每 5 小时最高 $5；达到限制需等待对应窗口恢复。",
-        "en": "Design Plan allows up to $30 per 7-day window and $5 per 5-hour window; wait for the corresponding reset when a cap is reached."
+        "zh": "Design Plan 每 7 天窗口最高 $30、每 5 小时最高 $10；达到限制需等待对应窗口恢复。",
+        "en": "Design Plan allows up to $30 per 7-day window and $10 per 5-hour window; wait for the corresponding reset when a cap is reached."
       },
       "notes": {
         "zh": "Design Plan 共用额度，DeepSeek V4.1 Flash 为双倍用量折算，不增加共享余额。平台与 API 共用。首月 $8，续费 $10/月；年付 $84。",
         "en": "Design Plan shares one allowance; DeepSeek V4.1 Flash doubles the usage equivalent, not the pool. App and API share usage. First month $8, then $10/month; annual $84."
       }
     },
-    "restrictions": "Design Plan 每 7 天窗口最高 $30、每 5 小时最高 $5；达到限制需等待对应窗口恢复。 Design Plan 共用额度，DeepSeek V4.1 Flash 为双倍用量折算，不增加共享余额。平台与 API 共用。首月 $8，续费 $10/月；年付 $84。",
+    "restrictions": "Design Plan 每 7 天窗口最高 $30、每 5 小时最高 $10；达到限制需等待对应窗口恢复。 Design Plan 共用额度，DeepSeek V4.1 Flash 为双倍用量折算，不增加共享余额。平台与 API 共用。首月 $8，续费 $10/月；年付 $84。",
     "quantity": null
   },
   {

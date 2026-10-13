@@ -1,0 +1,8 @@
+{
+  "id": "commandcode-pricing-limits",
+  "vendor": "commandcode",
+  "url": "https://commandcode.ai/docs/resources/pricing-limits",
+  "allowedHosts": [
+    "commandcode.ai"
+  ]
+}
