@@ -288,8 +288,8 @@
     "category": "creditsPromotion",
     "vendor": "opencode",
     "entity": "step-5-preview-free",
-    "amount": "Step 5 Preview Free: 限时免费。",
-    "eligibility": "限时",
+    "amount": "Step 5 Preview Free: Free for a limited time.",
+    "eligibility": "limited time",
     "promotionType": "free",
     "appliesTo": [
       "model"
@@ -300,40 +300,25 @@
     "expiresAt": null,
     "expiresAtText": null,
     "howToClaim": "auto",
-    "restrictions": "来源未说明结束日期。",
+    "restrictions": "官方标注限时免费，模型价格表显示 Free、月限制 Unlimited；未说明结束日期。",
     "supersedes": null,
     "sourceId": "opencode-go",
-    "claimUrl": "https://opencode.ai/docs/zh-cn/go/",
+    "claimUrl": "https://opencode.ai/v2/docs/console/go/",
     "facts": [
       {
-        "quote": "LongCat 2.5 Preview Free （限时）",
-        "url": "https://opencode.ai/docs/zh-cn/go/",
-        "snapshot": "snapshots/opencode-go/2026-10-10-1135-338c7735.json"
+        "quote": "Step 5 Preview Free: Free for a limited time.",
+        "url": "https://opencode.ai/v2/docs/console/go/",
+        "snapshot": "snapshots/opencode-go/2026-10-13-0432-c9faae56.json"
       },
       {
-        "quote": "Step 5 Preview Free （限时）",
-        "url": "https://opencode.ai/docs/zh-cn/go/",
-        "snapshot": "snapshots/opencode-go/2026-10-10-1135-338c7735.json"
+        "quote": "Step 5 Preview Free Free Free Free - Unlimited",
+        "url": "https://opencode.ai/v2/docs/console/go/",
+        "snapshot": "snapshots/opencode-go/2026-10-13-0432-c9faae56.json"
       },
       {
-        "quote": "限时",
-        "url": "https://opencode.ai/docs/zh-cn/go/",
-        "snapshot": "snapshots/opencode-go/2026-10-10-1135-338c7735.json"
-      },
-      {
-        "quote": "LongCat 2.5 Preview Free: 限时免费。",
-        "url": "https://opencode.ai/docs/zh-cn/go/",
-        "snapshot": "snapshots/opencode-go/2026-10-10-1135-338c7735.json"
-      },
-      {
-        "quote": "Step 5 Preview Free: 限时免费。",
-        "url": "https://opencode.ai/docs/zh-cn/go/",
-        "snapshot": "snapshots/opencode-go/2026-10-10-1135-338c7735.json"
-      },
-      {
-        "quote": "规则",
-        "url": "https://opencode.ai/docs/zh-cn/go/",
-        "snapshot": "snapshots/opencode-go/2026-10-10-1135-338c7735.json"
+        "quote": "Step 5 Preview Free Unlimited Unlimited Unlimited",
+        "url": "https://opencode.ai/v2/docs/console/go/",
+        "snapshot": "snapshots/opencode-go/2026-10-13-0432-c9faae56.json"
       }
     ],
     "quantity": null
@@ -1050,6 +1035,116 @@
       }
     ],
     "supersedes": null,
+    "quantity": null
+  },
+  {
+    "schemaVersion": 0,
+    "offerKey": "48ddcb72c9f88d8f",
+    "occurredAt": "2026-10-11",
+    "publishedAt": "2026-10-11T00:00:00Z",
+    "verification": "auto_verified",
+    "category": "creditsPromotion",
+    "vendor": "opencode",
+    "entity": "opencode-go-plus",
+    "amount": "$40/month",
+    "eligibility": "single member",
+    "appliesTo": [
+      "subscription",
+      "apiCredit"
+    ],
+    "planKind": "tokenPlan",
+    "howToClaim": "purchase",
+    "startsAt": null,
+    "startsAtText": null,
+    "expiresAt": null,
+    "expiresAtText": null,
+    "baseline": null,
+    "claimUrl": "https://opencode.ai/v2/docs/console/go/",
+    "sourceId": "opencode-go",
+    "restrictions": "5 小时为对应月额度的 20%，每周为 50%；仅单成员工作空间，订阅后不能邀请成员。 按官方 Go Plus 模型表展示月度用量等值；不同模型额度不能相加。可接入符合官方规则的编程 Agent。",
+    "facts": [
+      {
+        "quote": "Go Plus $40/month Higher usage limits across the models below",
+        "url": "https://opencode.ai/v2/docs/console/go/",
+        "snapshot": "snapshots/opencode-go/2026-10-13-0432-c9faae56.json"
+      },
+      {
+        "quote": "DeepSeek V4.1 Flash (Off-Peak) $0.15 $0.60 $0.003 - $160",
+        "url": "https://opencode.ai/v2/docs/console/go/",
+        "snapshot": "snapshots/opencode-go/2026-10-13-0432-c9faae56.json"
+      },
+      {
+        "quote": "GLM-5.3 $1.40 $4.40 $0.26 - $120",
+        "url": "https://opencode.ai/v2/docs/console/go/",
+        "snapshot": "snapshots/opencode-go/2026-10-13-0432-c9faae56.json"
+      },
+      {
+        "quote": "MiMo-V2.6-Pro $0.435 $0.87 $0.003625 - $60",
+        "url": "https://opencode.ai/v2/docs/console/go/",
+        "snapshot": "snapshots/opencode-go/2026-10-13-0432-c9faae56.json"
+      },
+      {
+        "quote": "Each model has the following usage limits: 5-hour — 20% of the monthly limit;\nweekly — 50%; and monthly — 100%.",
+        "url": "https://opencode.ai/v2/docs/console/go/",
+        "snapshot": "snapshots/opencode-go/2026-10-13-0432-c9faae56.json"
+      },
+      {
+        "quote": "Go and Go Plus are for workspaces with a single member",
+        "url": "https://opencode.ai/v2/docs/console/go/",
+        "snapshot": "snapshots/opencode-go/2026-10-13-0432-c9faae56.json"
+      },
+      {
+        "quote": "workspace with a Go subscription cannot invite members.",
+        "url": "https://opencode.ai/v2/docs/console/go/",
+        "snapshot": "snapshots/opencode-go/2026-10-13-0432-c9faae56.json"
+      }
+    ],
+    "supersedes": null,
+    "promotionType": "allowance",
+    "planName": "OpenCode Go Plus",
+    "allowance": {
+      "price": {
+        "value": 40,
+        "currency": "USD",
+        "period": "month",
+        "text": "$40/month",
+        "fact": 0
+      },
+      "models": [
+        {
+          "model": "DeepSeek V4.1 Flash (Off-Peak)",
+          "value": 160,
+          "currency": "USD",
+          "period": "month",
+          "text": "$160",
+          "fact": 1
+        },
+        {
+          "model": "GLM-5.3",
+          "value": 120,
+          "currency": "USD",
+          "period": "month",
+          "text": "$120",
+          "fact": 2
+        },
+        {
+          "model": "MiMo-V2.6-Pro",
+          "value": 60,
+          "currency": "USD",
+          "period": "month",
+          "text": "$60",
+          "fact": 3
+        }
+      ],
+      "limits": {
+        "zh": "5 小时为对应月额度的 20%，每周为 50%；仅单成员工作空间，订阅后不能邀请成员。",
+        "en": "5-hour allowance: 20% of the model monthly limit; weekly: 50%. Only single-member workspaces; Go workspaces cannot invite members."
+      },
+      "notes": {
+        "zh": "按官方 Go Plus 模型表展示月度用量等值；不同模型额度不能相加。可接入符合官方规则的编程 Agent。",
+        "en": "Monthly usage equivalents follow the official Go Plus model table. Model allowances must not be added. Coding agents must follow the official client rules."
+      }
+    },
     "quantity": null
   },
   {
@@ -1896,33 +1991,28 @@
     "planKind": "codingPlan",
     "vendor": "opencode",
     "entity": "longcat-2.5-preview-free",
-    "amount": "LongCat 2.5 Preview Free: 限时免费。",
-    "eligibility": "限时",
+    "amount": "LongCat 2.5 Preview Free: Free for a limited time.",
+    "eligibility": "limited time",
     "baseline": null,
     "howToClaim": "unknown",
-    "restrictions": "OpenCode Go 套餐模型列表中标注为「LongCat 2.5 Preview Free (限时)」；价格表内该模型输入/输出/缓存读写均列为 Free、每月限制列为无限制，请求数预估表为「无限制 无限制 无限制」；套餐标准规则是「每个模型都有以下使用限制：5 小时 — 每月限制的 20%；每周 — 50%；每月 — 100%」；页面只写「限时」，未给出具体开始与结束日期，也未说明领取方式与地区限制",
-    "claimUrl": "https://opencode.ai/docs/zh-cn/go/",
+    "restrictions": "官方标注限时免费，模型价格表显示 Free、月限制 Unlimited；未说明结束日期。",
+    "claimUrl": "https://opencode.ai/v2/docs/console/go/",
     "sourceId": "opencode-go",
     "facts": [
       {
-        "quote": "LongCat 2.5 Preview Free (限时)",
-        "url": "https://opencode.ai/docs/zh-cn/go/",
-        "snapshot": "snapshots/opencode-go/2026-09-27-1355-2b4c101d.json"
+        "quote": "LongCat 2.5 Preview Free: Free for a limited time.",
+        "url": "https://opencode.ai/v2/docs/console/go/",
+        "snapshot": "snapshots/opencode-go/2026-10-13-0432-c9faae56.json"
       },
       {
-        "quote": "LongCat 2.5 Preview Free: 限时免费。",
-        "url": "https://opencode.ai/docs/zh-cn/go/",
-        "snapshot": "snapshots/opencode-go/2026-09-27-1355-2b4c101d.json"
+        "quote": "LongCat 2.5 Preview Free Free Free Free - Unlimited",
+        "url": "https://opencode.ai/v2/docs/console/go/",
+        "snapshot": "snapshots/opencode-go/2026-10-13-0432-c9faae56.json"
       },
       {
-        "quote": "LongCat 2.5 Preview Free Free Free Free - 无限制",
-        "url": "https://opencode.ai/docs/zh-cn/go/",
-        "snapshot": "snapshots/opencode-go/2026-09-27-1355-2b4c101d.json"
-      },
-      {
-        "quote": "LongCat 2.5 Preview Free 无限制 无限制 无限制",
-        "url": "https://opencode.ai/docs/zh-cn/go/",
-        "snapshot": "snapshots/opencode-go/2026-09-27-1355-2b4c101d.json"
+        "quote": "LongCat 2.5 Preview Free Unlimited Unlimited Unlimited",
+        "url": "https://opencode.ai/v2/docs/console/go/",
+        "snapshot": "snapshots/opencode-go/2026-10-13-0432-c9faae56.json"
       }
     ],
     "quantity": null
@@ -2466,51 +2556,51 @@
       "apiCredit"
     ],
     "planKind": "tokenPlan",
-    "amount": "$10/月",
-    "eligibility": null,
+    "amount": "$10/month",
+    "eligibility": "single member",
     "baseline": null,
     "howToClaim": "purchase",
     "startsAt": null,
     "startsAtText": null,
     "expiresAt": null,
     "expiresAtText": null,
-    "claimUrl": "https://opencode.ai/docs/zh-cn/go/",
+    "claimUrl": "https://opencode.ai/v2/docs/console/go/",
     "sourceId": "opencode-go",
     "facts": [
       {
-        "quote": "Go $10/月 以较低成本访问下列模型",
-        "url": "https://opencode.ai/docs/zh-cn/go/",
-        "snapshot": "snapshots/opencode-go/2026-10-11-0001-d946e65a.json"
+        "quote": "Go $10/month Lower-cost access to the models below",
+        "url": "https://opencode.ai/v2/docs/console/go/",
+        "snapshot": "snapshots/opencode-go/2026-10-13-0432-c9faae56.json"
       },
       {
-        "quote": "DeepSeek V4.1 Flash (Off-Peak) $0.15 $0.60 $0.003 - $60",
-        "url": "https://opencode.ai/docs/zh-cn/go/",
-        "snapshot": "snapshots/opencode-go/2026-10-11-0001-d946e65a.json"
+        "quote": "DeepSeek V4.1 Flash (Off-Peak) $0.15 $0.60 $0.003 - $80",
+        "url": "https://opencode.ai/v2/docs/console/go/",
+        "snapshot": "snapshots/opencode-go/2026-10-13-0432-c9faae56.json"
       },
       {
         "quote": "GLM-5.3 $1.40 $4.40 $0.26 - $15",
-        "url": "https://opencode.ai/docs/zh-cn/go/",
-        "snapshot": "snapshots/opencode-go/2026-10-11-0001-d946e65a.json"
+        "url": "https://opencode.ai/v2/docs/console/go/",
+        "snapshot": "snapshots/opencode-go/2026-10-13-0432-c9faae56.json"
       },
       {
         "quote": "MiMo-V2.6-Pro $0.435 $0.87 $0.003625 - $15",
-        "url": "https://opencode.ai/docs/zh-cn/go/",
-        "snapshot": "snapshots/opencode-go/2026-10-11-0001-d946e65a.json"
+        "url": "https://opencode.ai/v2/docs/console/go/",
+        "snapshot": "snapshots/opencode-go/2026-10-13-0432-c9faae56.json"
       },
       {
-        "quote": "每个模型都有以下使用限制：5 小时 — 每月限制的 20%；每周 — 50%；每月 — 100%。",
-        "url": "https://opencode.ai/docs/zh-cn/go/",
-        "snapshot": "snapshots/opencode-go/2026-10-11-0001-d946e65a.json"
+        "quote": "Each model has the following usage limits: 5-hour — 20% of the monthly limit;\nweekly — 50%; and monthly — 100%.",
+        "url": "https://opencode.ai/v2/docs/console/go/",
+        "snapshot": "snapshots/opencode-go/2026-10-13-0432-c9faae56.json"
       },
       {
-        "quote": "OpenCode Go 适用于 OpenCode 以及其他会产生类似请求的编程 Agent。我们会监控流量，识别影响其他用户体验的滥用行为。",
-        "url": "https://opencode.ai/docs/zh-cn/go/",
-        "snapshot": "snapshots/opencode-go/2026-10-11-0001-d946e65a.json"
+        "quote": "Go and Go Plus are for workspaces with a single member",
+        "url": "https://opencode.ai/v2/docs/console/go/",
+        "snapshot": "snapshots/opencode-go/2026-10-13-0432-c9faae56.json"
       },
       {
-        "quote": "每个工作空间只能有一名成员订阅 OpenCode Go 或 Go Plus。",
-        "url": "https://opencode.ai/docs/zh-cn/go/",
-        "snapshot": "snapshots/opencode-go/2026-10-11-0001-d946e65a.json"
+        "quote": "workspace with a Go subscription cannot invite members.",
+        "url": "https://opencode.ai/v2/docs/console/go/",
+        "snapshot": "snapshots/opencode-go/2026-10-13-0432-c9faae56.json"
       }
     ],
     "supersedes": null,
@@ -2519,16 +2609,16 @@
         "value": 10,
         "currency": "USD",
         "period": "month",
-        "text": "$10/月",
+        "text": "$10/month",
         "fact": 0
       },
       "models": [
         {
           "model": "DeepSeek V4.1 Flash (Off-Peak)",
-          "value": 60,
+          "value": 80,
           "currency": "USD",
           "period": "month",
-          "text": "$60",
+          "text": "$80",
           "fact": 1
         },
         {
@@ -2549,15 +2639,15 @@
         }
       ],
       "limits": {
-        "zh": "5 小时为对应月额度的 20%，每周为 50%；每个工作空间仅一名成员订阅。",
-        "en": "5-hour allowance: 20% of the model monthly limit; weekly: 50%. One subscriber per workspace."
+        "zh": "5 小时为对应月额度的 20%，每周为 50%；仅单成员工作空间，订阅后不能邀请成员。",
+        "en": "5-hour allowance: 20% of the model monthly limit; weekly: 50%. Only single-member workspaces; Go workspaces cannot invite members."
       },
       "notes": {
-        "zh": "按官方 Go 模型表计价折算；不同模型额度不同，不能把表中额度相加，也不代表所有模型都享有 $60。可接入符合官方规则的编程 Agent。",
-        "en": "Usage equivalents follow the official Go model table. Limits vary by model and must not be added; $60 does not apply to every model. Compatible coding agents must meet the official client rules."
+        "zh": "按官方 Go 模型表展示月度用量等值；不同模型额度不能相加。可接入符合官方规则的编程 Agent。",
+        "en": "Monthly usage equivalents follow the official Go model table. Model allowances must not be added. Coding agents must follow the official client rules."
       }
     },
-    "restrictions": "5 小时为对应月额度的 20%，每周为 50%；每个工作空间仅一名成员订阅。 按官方 Go 模型表计价折算；不同模型额度不同，不能把表中额度相加，也不代表所有模型都享有 $60。可接入符合官方规则的编程 Agent。",
+    "restrictions": "5 小时为对应月额度的 20%，每周为 50%；仅单成员工作空间，订阅后不能邀请成员。 按官方 Go 模型表展示月度用量等值；不同模型额度不能相加。可接入符合官方规则的编程 Agent。",
     "quantity": null
   },
   {

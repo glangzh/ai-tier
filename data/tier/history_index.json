@@ -1,11 +1,38 @@
 {
   "snapshots": [
     {
+      "as_of": "2026-10-13",
+      "benchmark": "AAII v4.3.2",
+      "file": "history/2026-10-13.json",
+      "generated_at": "2026-10-13T12:28:09",
+      "latest": true,
+      "rows": 12,
+      "verified": true
+    },
+    {
+      "as_of": "2026-10-12",
+      "benchmark": "AAII v4.3.2",
+      "file": "history/2026-10-12.json",
+      "generated_at": "2026-10-12T08:04:10",
+      "latest": false,
+      "rows": 12,
+      "verified": true
+    },
+    {
+      "as_of": "2026-10-11",
+      "benchmark": "AAII v4.3.2",
+      "file": "history/2026-10-11.json",
+      "generated_at": "2026-10-11T07:59:08",
+      "latest": false,
+      "rows": 12,
+      "verified": true
+    },
+    {
       "as_of": "2026-10-10",
       "benchmark": "AAII v4.3.2",
       "file": "history/2026-10-10.json",
       "generated_at": "2026-10-10T19:33:05",
-      "latest": true,
+      "latest": false,
       "rows": 12,
       "verified": true
     },

@@ -1,9 +1,12 @@
-import snapshot0 from "@data/tier/history/2026-10-10.json";
-import snapshot1 from "@data/tier/history/2026-09-27.json";
-import snapshot2 from "@data/tier/history/2026-09-12.json";
-import snapshot3 from "@data/tier/history/2026-09-08.json";
-import snapshot4 from "@data/tier/history/2026-09-04.json";
-import snapshot5 from "@data/tier/history/2026-09-03.json";
+import snapshot0 from "@data/tier/history/2026-10-13.json";
+import snapshot1 from "@data/tier/history/2026-10-12.json";
+import snapshot2 from "@data/tier/history/2026-10-11.json";
+import snapshot3 from "@data/tier/history/2026-10-10.json";
+import snapshot4 from "@data/tier/history/2026-09-27.json";
+import snapshot5 from "@data/tier/history/2026-09-12.json";
+import snapshot6 from "@data/tier/history/2026-09-08.json";
+import snapshot7 from "@data/tier/history/2026-09-04.json";
+import snapshot8 from "@data/tier/history/2026-09-03.json";
 import type { Dimensions, EventStream, Index, Snapshot, TierChange } from "@/lib/tier/types";
 import historyIndex from "@data/tier/history_index.json";
 import dimensionPack from "@data/tier/dimensions.json";
@@ -14,12 +17,15 @@ import eventPack from "@data/tier/events.json";
  * history_index.json 是公开数据协议；快照在构建期静态打包，避免运行时请求。
  */
 const SNAPSHOTS: Record<string, Snapshot> = {
-  "history/2026-10-10.json": snapshot0 as unknown as Snapshot,
-  "history/2026-09-27.json": snapshot1 as unknown as Snapshot,
-  "history/2026-09-12.json": snapshot2 as unknown as Snapshot,
-  "history/2026-09-08.json": snapshot3 as unknown as Snapshot,
-  "history/2026-09-04.json": snapshot4 as unknown as Snapshot,
-  "history/2026-09-03.json": snapshot5 as unknown as Snapshot,
+  "history/2026-10-13.json": snapshot0 as unknown as Snapshot,
+  "history/2026-10-12.json": snapshot1 as unknown as Snapshot,
+  "history/2026-10-11.json": snapshot2 as unknown as Snapshot,
+  "history/2026-10-10.json": snapshot3 as unknown as Snapshot,
+  "history/2026-09-27.json": snapshot4 as unknown as Snapshot,
+  "history/2026-09-12.json": snapshot5 as unknown as Snapshot,
+  "history/2026-09-08.json": snapshot6 as unknown as Snapshot,
+  "history/2026-09-04.json": snapshot7 as unknown as Snapshot,
+  "history/2026-09-03.json": snapshot8 as unknown as Snapshot,
 };
 
 export async function loadIndex(): Promise<Index> {

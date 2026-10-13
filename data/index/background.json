@@ -1,46 +1,6 @@
 [
   {
     "schemaVersion": 0,
-    "offerKey": "48ddcb72c9f88d8f",
-    "occurredAt": "2026-10-11",
-    "publishedAt": "2026-10-11T00:00:00Z",
-    "verification": "auto_verified",
-    "category": "pricingChange",
-    "vendor": "opencode",
-    "entity": "opencode-go-plus",
-    "amount": "$40/月",
-    "eligibility": "Go Plus",
-    "appliesTo": [
-      "subscription",
-      "apiCredit"
-    ],
-    "planKind": "tokenPlan",
-    "howToClaim": "purchase",
-    "startsAt": null,
-    "startsAtText": null,
-    "expiresAt": null,
-    "expiresAtText": null,
-    "baseline": null,
-    "claimUrl": "https://opencode.ai/docs/zh-cn/go/",
-    "sourceId": "opencode-go",
-    "restrictions": "新增 Go Plus 月度方案，官方列示比 Go 更高的模型用量；每个工作空间只能有一名成员订阅 Go 或 Go Plus。",
-    "facts": [
-      {
-        "quote": "Go Plus $40/月 下列模型均享有更高的用量限制",
-        "url": "https://opencode.ai/docs/zh-cn/go/",
-        "snapshot": "snapshots/opencode-go/2026-10-10-1135-338c7735.json"
-      },
-      {
-        "quote": "每个工作空间只能有一名成员订阅 OpenCode Go 或 Go Plus。",
-        "url": "https://opencode.ai/docs/zh-cn/go/",
-        "snapshot": "snapshots/opencode-go/2026-10-10-1135-338c7735.json"
-      }
-    ],
-    "supersedes": null,
-    "quantity": null
-  },
-  {
-    "schemaVersion": 0,
     "offerKey": "4a9147d4bb40aeed",
     "occurredAt": "2026-10-11",
     "publishedAt": "2026-10-11T00:00:00Z",

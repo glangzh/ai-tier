@@ -1,7 +1,7 @@
 {
   "id": "opencode-go",
   "vendor": "opencode",
-  "url": "https://opencode.ai/docs/zh-cn/go/",
+  "url": "https://opencode.ai/v2/docs/console/go/",
   "allowedHosts": [
     "opencode.ai",
     "www.opencode.ai"

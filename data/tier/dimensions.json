@@ -51,7 +51,7 @@
     }
   ],
   "meta": {
-    "as_of": "2026-10-10",
+    "as_of": "2026-10-13",
     "benchmark": "AAII v4.3.2",
     "frontier": {
       "date": "2026-09-22",
@@ -402,8 +402,8 @@
         "agent": {
           "anchor_gens": 4,
           "beyond_pool": false,
-          "gap_days": 84,
-          "score": 36.9,
+          "gap_days": 7,
+          "score": 42.8,
           "status": "estimated"
         },
         "analysis": {
@@ -416,40 +416,40 @@
         "coding": {
           "anchor_gens": 5,
           "beyond_pool": false,
-          "gap_days": 110,
-          "score": 46.1,
+          "gap_days": 14,
+          "score": 59.8,
           "status": "measured"
         },
         "general": {
           "anchor_gens": null,
           "beyond_pool": false,
           "gap_days": null,
-          "score": 35.2,
+          "score": 39.9,
           "status": "no_timeline"
         },
         "hallucination": {
           "anchor_gens": null,
           "beyond_pool": false,
           "gap_days": null,
-          "score": 68.5,
+          "score": 77,
           "status": "no_timeline"
         },
         "knowledge": {
           "anchor_gens": null,
           "beyond_pool": false,
           "gap_days": null,
-          "score": 43.6,
+          "score": 43.2,
           "status": "no_timeline"
         },
         "science": {
           "anchor_gens": 6,
           "beyond_pool": false,
-          "gap_days": 114,
-          "score": 36.8,
+          "gap_days": 70,
+          "score": 43.2,
           "status": "measured"
         }
       },
-      "model": "Muse Spark 1.3",
+      "model": "Muse Wonder Full (Max)",
       "name": "Meta"
     },
     {

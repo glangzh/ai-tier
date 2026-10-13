@@ -1,7 +1,7 @@
 {
-  "as_of": "2026-10-10",
+  "as_of": "2026-10-13",
   "benchmark": "AAII v4.3.2",
-  "score_source": "data/tier/history/2026-10-10.json",
+  "score_source": "data/tier/history/2026-10-13.json",
   "models": [
     {
       "id": "claude-fable-5",
