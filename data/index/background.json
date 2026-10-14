@@ -31,12 +31,7 @@
         "snapshot": "snapshots/anthropic-claude-pricing/2026-10-10-1206-d12ec00d.json"
       }
     ],
-    "supersedes": null,
-    "quantity": {
-      "value": 100,
-      "unit": "credits",
-      "raw": "$100 to $200/month in API credits to build on the Claude Platform †"
-    }
+    "supersedes": null
   },
   {
     "schemaVersion": 0,
@@ -70,12 +65,7 @@
         "snapshot": "snapshots/anthropic-claude-pricing/2026-10-10-1206-d12ec00d.json"
       }
     ],
-    "supersedes": null,
-    "quantity": {
-      "value": 500,
-      "unit": "credits",
-      "raw": "Up to $500 per month in pooled API credits †"
-    }
+    "supersedes": null
   },
   {
     "schemaVersion": 0,

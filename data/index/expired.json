@@ -35,11 +35,11 @@
         "snapshot": "snapshots/stepfun-step-plan/2026-09-20-0711-1ca0d014.json"
       }
     ],
-    "quantity": null,
     "withdrawn": {
       "reason": "连续 6 次失效复查未出现原免费体验文案；官方 Playwright 快照明确关闭新增免费体验领取通道。",
       "at": "2026-10-12"
-    }
+    },
+    "quantity": null
   },
   {
     "schemaVersion": 0,
@@ -199,11 +199,11 @@
         "snapshot": "snapshots/stepfun-step-plan/2026-09-20-0711-1ca0d014.json"
       }
     ],
-    "quantity": null,
     "withdrawn": {
       "reason": "连续 6 次失效复查未出现原免费体验文案；官方 Playwright 快照明确关闭新增免费体验领取通道。",
       "at": "2026-10-12"
-    }
+    },
+    "quantity": null
   },
   {
     "schemaVersion": 0,
@@ -588,11 +588,11 @@
         "snapshot": "snapshots/stepfun-step-plan/2026-09-20-0711-1ca0d014.json"
       }
     ],
-    "quantity": null,
     "withdrawn": {
       "reason": "连续 6 次失效复查未出现原免费体验文案；官方 Playwright 快照明确关闭新增免费体验领取通道。",
       "at": "2026-10-12"
-    }
+    },
+    "quantity": null
   },
   {
     "schemaVersion": 0,
