@@ -1,42 +1,6 @@
 [
   {
     "schemaVersion": 0,
-    "occurredAt": "2026-09-18",
-    "publishedAt": "2026-09-18T15:00:00Z",
-    "verification": "auto_verified",
-    "category": "creditsPromotion",
-    "region": null,
-    "offerKey": "4ba40e6f3df08e21",
-    "promotionType": "discount",
-    "appliesTo": [
-      "model"
-    ],
-    "vendor": "trae",
-    "entity": "traecode-free",
-    "amount": "限时 1 折，积分消耗速度仅 0.08 倍",
-    "eligibility": "免费用户折扣表",
-    "howToClaim": "auto",
-    "validityText": null,
-    "restrictions": "免费用户调用 Seed-2.1-Pro-0915 或 Seed-Evolving，10 月 15 日前按 0.08 倍积分消耗。",
-    "startsAt": null,
-    "startsAtText": null,
-    "expiresAt": "2026-10-15T00:00:00+08:00",
-    "expiresAtText": "10 月 15 日前有效",
-    "claimUrl": "https://docs.trae.cn/ide_limited-time-discount-for-builtin-models",
-    "sourceId": "trae-limited-discount",
-    "supersedes": null,
-    "facts": [
-      {
-        "quote": "免费用户折扣表\n模型\n折扣前积分消耗速度\n限时折扣\nSeed-2.1-Pro-0915 & Seed-Evolving\n0.8 倍\n限时 1 折，积分消耗速度仅 0.08 倍。10 月 15 日前有效。\nDeepSeek-V4-Pro\n忙时 0.72 倍\n空闲时段享 5 折，积分消耗从 0.72 倍降至 0.36 倍。\nDeepSeek-V4-Flash\n忙时 0.20 倍\n空闲时段享 5 折，积分消耗从 0.20 倍降至 0.10 倍。\nDeepSeek-V4.1-Flash\n忙时 0.15 倍\n空闲时段享 5 折，积分消耗从 0.15 倍降至 0.08 倍。\n",
-        "url": "https://docs.trae.cn/ide_limited-time-discount-for-builtin-models",
-        "snapshot": "snapshots/trae-limited-discount/2026-10-11-0002-efa6c3e4.json"
-      }
-    ],
-    "baseline": "0.8 倍",
-    "quantity": null
-  },
-  {
-    "schemaVersion": 0,
     "offerKey": "1c352787511d2b23",
     "occurredAt": "2026-10-13",
     "publishedAt": "2026-10-13T16:13:54.940503+00:00",
@@ -101,6 +65,60 @@
         "quote": "Pro ($20/mo) $70 $100 $90",
         "url": "https://commandcode.ai/docs/resources/pricing-limits",
         "snapshot": "snapshots/commandcode-pricing-limits/2026-10-13-1608-0cd5303e.json"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 0,
+    "offerKey": "500ad25f1d6821d4",
+    "occurredAt": "2026-10-14",
+    "publishedAt": "2026-10-15T00:01:36.332066+00:00",
+    "verification": "auto_verified",
+    "category": "creditsPromotion",
+    "promotionType": "discount",
+    "vendor": "commandcode",
+    "entity": "commandcode-glm-5.3-flash",
+    "planName": "Command Code GOAT / Pro",
+    "appliesTo": [
+      "model",
+      "subscription"
+    ],
+    "planKind": "tokenPlan",
+    "amount": "$100 on GOAT and Pro",
+    "eligibility": "pick glm-5.3-flash from /model",
+    "baseline": "$60 and $70",
+    "howToClaim": "auto",
+    "startsAt": "2026-10-14T05:30:00-07:00",
+    "startsAtText": "October 14 at 5:30 AM PT",
+    "expiresAt": "2026-10-17T05:30:00-07:00",
+    "expiresAtText": "October 17 at 5:30 AM PT",
+    "claimUrl": "https://commandcode.ai/docs/resources/pricing-limits",
+    "sourceId": "commandcode-pricing-limits",
+    "region": null,
+    "supersedes": null,
+    "quantity": null,
+    "validityText": "through October 17, 2026",
+    "restrictions": "GLM-5.3 Flash 月用量等值临时提高至 $100，适用 $10/月 GOAT 与 $20/月 Pro，原额度分别 $60、$70；Token 单价不变，CLI 选择该模型自动生效。活动时间为太平洋时间 10 月 14 日 05:30 至 17 日 05:30，不是额外充值余额。",
+    "facts": [
+      {
+        "quote": "DEAL glm-5.3-flash usage: $100 on GOAT and Pro. through Oct 17th",
+        "url": "https://commandcode.ai/docs/resources/pricing-limits",
+        "snapshot": "snapshots/commandcode-pricing-limits/2026-10-14-2359-a7982284.json"
+      },
+      {
+        "quote": "GLM-5.3 Flash gets $100 of monthly credits for three days, through October 17, 2026.",
+        "url": "https://commandcode.ai/docs/resources/pricing-limits",
+        "snapshot": "snapshots/commandcode-pricing-limits/2026-10-14-2359-a7982284.json"
+      },
+      {
+        "quote": "From October 14 at 5:30 AM PT until October 17 at 5:30 AM PT, GLM-5.3 Flash&#x27;s per-model allowance is $100 on the $10 GOAT plan and $100 on the $20 Pro plan , up from $60 and $70. Per-token rates stay the same.",
+        "url": "https://commandcode.ai/docs/resources/pricing-limits",
+        "snapshot": "snapshots/commandcode-pricing-limits/2026-10-14-2359-a7982284.json"
+      },
+      {
+        "quote": "Applied automatically : pick glm-5.3-flash from /model in the CLI and the bigger allowance is there. Nothing to turn on.",
+        "url": "https://commandcode.ai/docs/resources/pricing-limits",
+        "snapshot": "snapshots/commandcode-pricing-limits/2026-10-14-2359-a7982284.json"
       }
     ]
   },
@@ -2662,32 +2680,32 @@
       {
         "quote": "unlimited coding on 30+ top open and closed models for $10/month",
         "url": "https://commandcode.ai/docs/plans/goat",
-        "snapshot": "snapshots/commandcode-goat/2026-10-14-0004-f2cf5a5a.json"
+        "snapshot": "snapshots/commandcode-goat/2026-10-14-2359-6e2c4c45.json"
       },
       {
         "quote": "GLM-5.2 $1.40 $4.40 $0.26 - $70",
         "url": "https://commandcode.ai/docs/plans/goat",
-        "snapshot": "snapshots/commandcode-goat/2026-10-14-0004-f2cf5a5a.json"
+        "snapshot": "snapshots/commandcode-goat/2026-10-14-2359-6e2c4c45.json"
       },
       {
         "quote": "DeepSeek V4.1 Flash $0.15 $0.60 $0.003 - $80 $100 through Oct 16th",
         "url": "https://commandcode.ai/docs/plans/goat",
-        "snapshot": "snapshots/commandcode-goat/2026-10-14-0004-f2cf5a5a.json"
+        "snapshot": "snapshots/commandcode-goat/2026-10-14-2359-6e2c4c45.json"
       },
       {
         "quote": "MiMo V2.5 Pro $0.435 $0.87 $0.0036 - $20",
         "url": "https://commandcode.ai/docs/plans/goat",
-        "snapshot": "snapshots/commandcode-goat/2026-10-14-0004-f2cf5a5a.json"
+        "snapshot": "snapshots/commandcode-goat/2026-10-14-2359-6e2c4c45.json"
       },
       {
         "quote": "5-hour limit - $14 of usage\nWeekly limit - $35 of usage\nMonthly limit - $70 of usage",
         "url": "https://commandcode.ai/docs/plans/goat",
-        "snapshot": "snapshots/commandcode-goat/2026-10-14-0004-f2cf5a5a.json"
+        "snapshot": "snapshots/commandcode-goat/2026-10-14-2359-6e2c4c45.json"
       },
       {
         "quote": "The GOAT plan has API access. You call the Provider API endpoints with your Command Code API key, and usage is metered against your GOAT credits and the models included above.",
         "url": "https://commandcode.ai/docs/plans/goat",
-        "snapshot": "snapshots/commandcode-goat/2026-10-14-0004-f2cf5a5a.json"
+        "snapshot": "snapshots/commandcode-goat/2026-10-14-2359-6e2c4c45.json"
       },
       {
         "quote": "After the three days : the allowance stays raised, at $80 on GOAT and $90 on Pro.",
@@ -2702,7 +2720,17 @@
       {
         "quote": "Your $10 buys $80 of credits - an 8x multiplier",
         "url": "https://commandcode.ai/docs/plans/goat",
-        "snapshot": "snapshots/commandcode-goat/2026-10-14-0004-f2cf5a5a.json"
+        "snapshot": "snapshots/commandcode-goat/2026-10-14-2359-6e2c4c45.json"
+      },
+      {
+        "quote": "GLM-5.3 Flash $0.15 $0.50 $0.03 - $80 $100 through Oct 17th",
+        "url": "https://commandcode.ai/docs/plans/goat",
+        "snapshot": "snapshots/commandcode-goat/2026-10-14-2359-6e2c4c45.json"
+      },
+      {
+        "quote": "From October 14 at 5:30 AM PT until October 17 at 5:30 AM PT, GLM-5.3 Flash&#x27;s per-model allowance is $100 on the $10 GOAT plan and $100 on the $20 Pro plan , up from $60 and $70. Per-token rates stay the same.",
+        "url": "https://commandcode.ai/docs/resources/pricing-limits",
+        "snapshot": "snapshots/commandcode-pricing-limits/2026-10-14-2359-a7982284.json"
       }
     ],
     "supersedes": null,
@@ -2738,6 +2766,14 @@
           "period": "month",
           "text": "$20",
           "fact": 3
+        },
+        {
+          "model": "GLM-5.3 Flash",
+          "value": 100,
+          "currency": "USD",
+          "period": "month",
+          "text": "$100",
+          "fact": 9
         }
       ],
       "limits": {
@@ -2745,11 +2781,11 @@
         "en": "$14 per 5 hours, $35 per week, $70 per month; usable volume varies by model pricing."
       },
       "notes": {
-        "zh": "列出的是示例模型月用量，不是各模型独立余额；不可相加。CLI 与 API 使用套餐额度，额外购买的积分另计。 DeepSeek V4.1 Flash 当前临时月用量等值 $100，官方标注“$100 through Oct 16th”；结束后为 $80。官方 Pricing & Limits 指定结束时间为 October 16 at 7 AM PT。 套餐宣传现标注 $10 对应 $80 credits；官方窗口仍列 $14/$35/$70，以窗口限制为准，不能将宣传额度替代窗口限制。",
-        "en": "These are example monthly usage equivalents, not separate balances per model. CLI and API use plan credits; purchased top-ups are separate. DeepSeek V4.1 Flash currently has \"$100 through Oct 16th\", then $80. Pricing & Limits specifies October 16 at 7 AM PT. The plan now advertises $80 credits for $10, while its listed usage windows remain $14/$35/$70; the advertised credits do not replace window caps."
+        "zh": "列出的是示例模型月用量，不是各模型独立余额；不可相加。CLI 与 API 使用套餐额度，额外购买的积分另计。 DeepSeek V4.1 Flash 当前临时月用量等值 $100，官方标注“$100 through Oct 16th”；结束后为 $80。官方 Pricing & Limits 指定结束时间为 October 16 at 7 AM PT。 套餐宣传现标注 $10 对应 $80 credits；官方窗口仍列 $14/$35/$70，以窗口限制为准，不能将宣传额度替代窗口限制。 GLM-5.3 Flash 当前限时月用量等值 $100，官方标注“$100 through Oct 17th”；活动页指定截至 October 17 at 5:30 AM PT。",
+        "en": "These are example monthly usage equivalents, not separate balances per model. CLI and API use plan credits; purchased top-ups are separate. DeepSeek V4.1 Flash currently has \"$100 through Oct 16th\", then $80. Pricing & Limits specifies October 16 at 7 AM PT. The plan now advertises $80 credits for $10, while its listed usage windows remain $14/$35/$70; the advertised credits do not replace window caps. GLM-5.3 Flash currently lists \"$100 through Oct 17th\"; the deal page ends at October 17 at 5:30 AM PT."
       }
     },
-    "restrictions": "5 小时 $14、每周 $35、每月 $70 的窗口；实际可用量随模型计价不同。 列出的是示例模型月用量，不是各模型独立余额；不可相加。CLI 与 API 使用套餐额度，额外购买的积分另计。 DeepSeek V4.1 Flash 当前临时月用量等值 $100，官方标注“$100 through Oct 16th”；结束后为 $80。官方 Pricing & Limits 指定结束时间为 October 16 at 7 AM PT。 套餐宣传现标注 $10 对应 $80 credits；官方窗口仍列 $14/$35/$70，以窗口限制为准，不能将宣传额度替代窗口限制。",
+    "restrictions": "5 小时 $14、每周 $35、每月 $70 的窗口；实际可用量随模型计价不同。 列出的是示例模型月用量，不是各模型独立余额；不可相加。CLI 与 API 使用套餐额度，额外购买的积分另计。 DeepSeek V4.1 Flash 当前临时月用量等值 $100，官方标注“$100 through Oct 16th”；结束后为 $80。官方 Pricing & Limits 指定结束时间为 October 16 at 7 AM PT。 套餐宣传现标注 $10 对应 $80 credits；官方窗口仍列 $14/$35/$70，以窗口限制为准，不能将宣传额度替代窗口限制。 GLM-5.3 Flash 当前限时月用量等值 $100，官方标注“$100 through Oct 17th”；活动页指定截至 October 17 at 5:30 AM PT。",
     "quantity": null
   },
   {
@@ -2876,7 +2912,7 @@
     "vendor": "opencode",
     "entity": "cat-jam-free",
     "amount": "Cat Jam Free: Free for a limited time.",
-    "eligibility": "limited time",
+    "eligibility": "Not available in Angola, Belarus, Cambodia, China (including Hong Kong and Macau), Cuba, the Democratic Republic of the Congo, Equatorial Guinea, Iran, Iraq, Laos, Libya, Nigeria, North Korea, Russia, Syria, Turkmenistan, Uzbekistan, Venezuela, or the Crimea, Donetsk, and Luhansk regions of Ukraine.",
     "promotionType": "free",
     "appliesTo": [
       "model"
@@ -2887,7 +2923,7 @@
     "expiresAt": null,
     "expiresAtText": null,
     "howToClaim": "auto",
-    "restrictions": "官方标注限时免费，模型价格表显示 Free，5 小时、每周及每月用量列为 Unlimited；未说明结束日期。免费期间收集的数据可能用于改进模型，官方标注 Not ZDR（非零数据留存）。",
+    "restrictions": "限时免费，结束日期未说明；不支持中国（包括香港、澳门）等官方列明地区，完整限制名单见原文。官方当前表格列明不用于模型训练，数据留存 30 天。",
     "supersedes": null,
     "sourceId": "opencode-go",
     "claimUrl": "https://opencode.ai/v2/docs/console/go/",
@@ -2895,30 +2931,36 @@
       {
         "quote": "Cat Jam Free: Free for a limited time.",
         "url": "https://opencode.ai/v2/docs/console/go/",
-        "snapshot": "snapshots/opencode-go/2026-10-14-0004-4499e2ef.json"
+        "snapshot": "snapshots/opencode-go/2026-10-15-0000-285cc47a.json"
       },
       {
         "quote": "Cat Jam Free Free Free Free - Unlimited",
         "url": "https://opencode.ai/v2/docs/console/go/",
-        "snapshot": "snapshots/opencode-go/2026-10-14-0004-4499e2ef.json"
+        "snapshot": "snapshots/opencode-go/2026-10-15-0000-285cc47a.json"
       },
       {
         "quote": "Cat Jam Free Unlimited Unlimited Unlimited",
         "url": "https://opencode.ai/v2/docs/console/go/",
-        "snapshot": "snapshots/opencode-go/2026-10-14-0004-4499e2ef.json"
+        "snapshot": "snapshots/opencode-go/2026-10-15-0000-285cc47a.json"
       },
       {
-        "quote": "Cat Jam Free Yes Not ZDR",
+        "quote": "Model Model training Data retention",
         "url": "https://opencode.ai/v2/docs/console/go/",
-        "snapshot": "snapshots/opencode-go/2026-10-14-0004-4499e2ef.json"
+        "snapshot": "snapshots/opencode-go/2026-10-15-0000-285cc47a.json"
       },
       {
-        "quote": "Cat Jam Free: During its free period, collected data may be used to improve the model.",
+        "quote": "Cat Jam Free Not used 30 days",
         "url": "https://opencode.ai/v2/docs/console/go/",
-        "snapshot": "snapshots/opencode-go/2026-10-14-0004-4499e2ef.json"
+        "snapshot": "snapshots/opencode-go/2026-10-15-0000-285cc47a.json"
+      },
+      {
+        "quote": "Cat Jam Free: Free for a limited time. Not available in Angola, Belarus, Cambodia, China (including Hong Kong and Macau), Cuba, the Democratic Republic of the Congo, Equatorial Guinea, Iran, Iraq, Laos, Libya, Nigeria, North Korea, Russia, Syria, Turkmenistan, Uzbekistan, Venezuela, or the Crimea, Donetsk, and Luhansk regions of Ukraine.",
+        "url": "https://opencode.ai/v2/docs/console/go/",
+        "snapshot": "snapshots/opencode-go/2026-10-15-0000-285cc47a.json"
       }
     ],
-    "quantity": null
+    "quantity": null,
+    "region": "不支持中国（含香港、澳门）等地区，完整名单见官方原文"
   },
   {
     "schemaVersion": 0,

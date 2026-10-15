@@ -35,6 +35,56 @@
   },
   {
     "schemaVersion": 0,
+    "offerKey": "7a89750772a8189b",
+    "occurredAt": "2026-10-15",
+    "publishedAt": "2026-10-15T00:02:38.045499+00:00",
+    "verification": "auto_verified",
+    "category": "pricingChange",
+    "vendor": "anthropic",
+    "entity": "claude-enterprise",
+    "planName": "Claude Enterprise",
+    "appliesTo": [
+      "subscription"
+    ],
+    "planKind": "accountPlan",
+    "amount": "US$20/seat/month",
+    "eligibility": "20 seat minimum",
+    "howToClaim": "purchase",
+    "startsAt": null,
+    "startsAtText": null,
+    "expiresAt": null,
+    "expiresAtText": null,
+    "region": null,
+    "supersedes": null,
+    "quantity": null,
+    "claimUrl": "https://claude.com/pricing",
+    "sourceId": "anthropic-claude-pricing",
+    "restrictions": "官方定价页新增最低 20 席要求。席位价 US$20/席/月、按年付费；API 用量按 API 费率另计，实际用量费用随模型和任务变化，不能将席位价视为总费用。",
+    "facts": [
+      {
+        "quote": "For large businesses operating at scale",
+        "url": "https://claude.com/pricing",
+        "snapshot": "snapshots/anthropic-claude-pricing/2026-10-14-2359-4c32b385.json"
+      },
+      {
+        "quote": "Get Enterprise plan Chat with buying specialist",
+        "url": "https://claude.com/pricing",
+        "snapshot": "snapshots/anthropic-claude-pricing/2026-10-14-2359-4c32b385.json"
+      },
+      {
+        "quote": "Seat price + usage at API rates",
+        "url": "https://claude.com/pricing",
+        "snapshot": "snapshots/anthropic-claude-pricing/2026-10-14-2359-4c32b385.json"
+      },
+      {
+        "quote": "US$20/seat/month, billed annually, 20 seat minimum. Usage cost scales with model and task.",
+        "url": "https://claude.com/pricing",
+        "snapshot": "snapshots/anthropic-claude-pricing/2026-10-14-2359-4c32b385.json"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 0,
     "offerKey": "85a440e868f17b6c",
     "occurredAt": "2026-10-11",
     "publishedAt": "2026-10-11T00:00:00Z",
