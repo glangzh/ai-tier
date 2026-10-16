@@ -1567,46 +1567,51 @@
     "eligibility": "面向个人开发者",
     "howToClaim": "purchase",
     "validityText": null,
-    "restrictions": "Lite 档原价 60 元/月、限时 39 元/月；个人版四档设订阅月 Credits 限额（原为每 7 天限额，2026-09-27 页面已改为按月）；一份订阅可在 Claude Code、Cursor、Qwen Code、Codex、Qoder 等工具中使用",
+    "restrictions": "Lite 档原价 60 元/月、限时 39 元/月；个人版四档设订阅月 Credits 限额（原为每 7 天限额，2026-09-27 页面已改为按月）；一份订阅可在 Claude Code、Cursor、Qwen Code、Codex、Qoder 等工具中使用；个人版允许将同一个 API Key 配置于本人的多台设备，仅限本人使用，禁止共享给他人。订阅到期后 API Key 不可用，重新购买成功后原 Key 恢复可用，无需重新配置。",
     "startsAt": null,
     "startsAtText": null,
     "expiresAt": null,
     "expiresAtText": null,
-    "claimUrl": "https://platform.qianwenai.com/docs/token-plan/overview",
-    "sourceId": "qianwen-token-plan-overview",
+    "claimUrl": "https://help.aliyun.com/zh/model-studio/token-plan-personal-overview",
+    "sourceId": "qianwen-token-plan-reset",
     "supersedes": null,
     "facts": [
       {
+        "quote": "Token Plan 个人版 是面向个人开发者的 AI 大模型订阅服务",
+        "url": "https://help.aliyun.com/zh/model-studio/token-plan-personal-overview",
+        "snapshot": "snapshots/qianwen-token-plan-reset/2026-10-16-1222-60b2549d.json"
+      },
+      {
         "quote": "原价 60 元/月\n限时 39 元/月",
-        "url": "https://platform.qianwenai.com/docs/token-plan/overview",
-        "snapshot": "snapshots/qianwen-token-plan-overview/2026-09-18-1500-de61dae7.json"
+        "url": "https://help.aliyun.com/zh/model-studio/token-plan-personal-overview",
+        "snapshot": "snapshots/qianwen-token-plan-reset/2026-10-16-1222-60b2549d.json"
       },
       {
-        "quote": "个人版 ：面向个人开发者，提供 Lite、Essential、Standard、Pro 四档套餐，设有 7 天的 Credits 限额，档位越高额度越大。",
-        "url": "https://platform.qianwenai.com/docs/token-plan/overview",
-        "snapshot": "snapshots/qianwen-token-plan-overview/2026-09-18-1500-de61dae7.json"
+        "quote": "每月限额 ：额度按订阅月计算，订阅周期内累计消耗达到套餐额度后暂停服务，需等待下一个订阅月后额度恢复。月额度用满后，可购买用量包作为补充，或等待下一个订阅月开始后重置。",
+        "url": "https://help.aliyun.com/zh/model-studio/token-plan-personal-overview",
+        "snapshot": "snapshots/qianwen-token-plan-reset/2026-10-16-1222-60b2549d.json"
       },
       {
-        "quote": "Token Plan 采用 Credits 统一抵扣机制，一份订阅即可在 Claude Code、Cursor、Qwen Code、Codex、Qoder、Qoder CN、OpenClaw 等主流 AI 编程和智能体工具中使用。",
-        "url": "https://platform.qianwenai.com/docs/token-plan/overview",
-        "snapshot": "snapshots/qianwen-token-plan-overview/2026-09-18-1500-de61dae7.json"
+        "quote": "兼容多种工具 ：适配 Claude Code、Cursor、Qwen Code、Qoder、Qoder CN、OpenClaw 等主流 AI 编程和智能体工具。",
+        "url": "https://help.aliyun.com/zh/model-studio/token-plan-personal-overview",
+        "snapshot": "snapshots/qianwen-token-plan-reset/2026-10-16-1222-60b2549d.json"
       },
       {
-        "quote": "个人版 ：面向个人开发者，提供 Lite、Essential、Standard、Pro 四档套餐，设有订阅月 Credits 限额，档位越高额度越大。",
-        "url": "https://platform.qianwenai.com/docs/token-plan/overview",
-        "snapshot": "snapshots/qianwen-token-plan-overview/2026-09-27-1355-7929ba4d.json"
+        "quote": "订阅到期后 API Key 变为不可用；重新购买成功后，原 API Key 恢复可用，无需在工具中重新配置。",
+        "url": "https://help.aliyun.com/zh/model-studio/token-plan-personal-overview",
+        "snapshot": "snapshots/qianwen-token-plan-reset/2026-10-16-1222-60b2549d.json"
       },
       {
-        "quote": "每月限额 11,500 Credits 25,500 Credits 45,000 Credits 180,000 Credits 无限制",
-        "url": "https://platform.qianwenai.com/docs/token-plan/overview",
-        "snapshot": "snapshots/qianwen-token-plan-overview/2026-09-27-1355-7929ba4d.json"
+        "quote": "设备使用说明 ：Token Plan 个人版可将同一个 API Key 配置到本人的多台设备（如家庭电脑和公司电脑）上使用，但仅限本人使用。将 API Key 共享给他人使用可能被判定为违规并导致封禁。",
+        "url": "https://help.aliyun.com/zh/model-studio/token-plan-personal-overview",
+        "snapshot": "snapshots/qianwen-token-plan-reset/2026-10-16-1222-60b2549d.json"
       }
     ],
     "corroboration": [
       {
-        "sourceId": "qianwen-token-plan-reset",
-        "quote": "Token Plan 个人版 是面向个人开发者的 AI 大模型订阅服务",
-        "snapshot": "snapshots/qianwen-token-plan-reset/2026-09-20-1212-6ddd3444.json"
+        "sourceId": "qianwen-token-plan-overview",
+        "quote": "原价 60 元/月\n限时 39 元/月",
+        "snapshot": "snapshots/qianwen-token-plan-overview/2026-09-18-1500-de61dae7.json"
       }
     ],
     "baseline": "原价 60 元/月",
@@ -1633,7 +1638,7 @@
     "expiresAt": null,
     "validityText": "免费额度的有效期为 90 天，从开通阿里云百炼、模型发布或模型申请通过之日起计算（以较晚者为准）。",
     "region": "华北 2（北京）",
-    "restrictions": "仅抵扣模型实时推理费用；额度过期自动失效，不支持补发、延期或重置；不可跨模型合并或转移",
+    "restrictions": "仅抵扣模型实时推理费用；额度过期自动失效，不支持补发、延期或重置；不可跨模型合并或转移；欠费限制按商品 Code 隔离：欠费商品对应服务不可用，即使该模型仍有免费额度；结清后恢复，其他商品 Code 对应的服务不受影响。",
     "claimUrl": "https://help.aliyun.com/document_detail/2793371.html",
     "sourceId": "alibaba-bailian-newcomer-quota",
     "facts": [
@@ -1651,6 +1656,11 @@
         "quote": "仅华北 2（北京）地域模型享有免费额度，其他地域无免费额度。",
         "url": "https://help.aliyun.com/document_detail/2793371.html",
         "snapshot": "snapshots/alibaba-bailian-newcomer-quota/2026-09-18-1119-bc9e5548.json"
+      },
+      {
+        "quote": "欠费限制按商品 Code 隔离。某个商品 Code 产生欠费时，该商品 Code 对应的服务不可用，即使模型仍有免费额度也无法调用，结清欠费后恢复；其他商品 Code 对应的服务不受影响。您可以在账单中 查询商品 Code 。",
+        "url": "https://help.aliyun.com/zh/model-studio/new-free-quota",
+        "snapshot": "snapshots/alibaba-bailian-newcomer-quota/2026-10-16-1220-20ba349f.json"
       }
     ],
     "supersedes": null,
