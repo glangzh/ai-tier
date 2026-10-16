@@ -216,7 +216,7 @@
     "meta": {
       "availability_change": 0,
       "benchmark_upgrade": 3,
-      "model_release": 5,
+      "model_release": 6,
       "score_revision": 0
     },
     "minimax": {
@@ -1130,10 +1130,20 @@
       "score": 56,
       "stage": "official",
       "type": "model_release"
+    },
+    {
+      "benchmark": "AAII v4.3.2",
+      "company_id": "meta",
+      "date": "2026-10-15",
+      "id": "meta:Muse Spark Open (Xhigh):release",
+      "model": "Muse Spark Open (Xhigh)",
+      "score": 39,
+      "stage": "official",
+      "type": "model_release"
     }
   ],
   "meta": {
-    "as_of": "2026-10-13",
+    "as_of": "2026-10-16",
     "benchmark": "AAII v4.3.2",
     "note": "事件流；benchmark_upgrade = 同一模型换了评测版本（口径变更，不是能力变化）"
   }

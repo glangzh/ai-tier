@@ -777,30 +777,30 @@
     "planKind": "toolPlan",
     "vendor": "moonshot",
     "entity": "kimi-membership",
-    "amount": "最高立省 ¥1,680",
+    "amount": "最高立省 ¥3,360",
     "eligibility": "连续包年",
-    "baseline": "¥699",
+    "baseline": "¥1,399",
     "howToClaim": "purchase",
-    "restrictions": "Max 档月原价 ¥699，按年计费 ¥6,708；Go / Plus / Pro / Max 年费分别为 ¥468 / ¥948 / ¥1,908 / ¥6,708。",
+    "restrictions": "Ultra 档月原价 ¥1,399；包年折算 ¥1,119/月，按年计费 ¥13,428。Go / Plus / Pro / Max / Ultra 年费分别为 ¥468 / ¥948 / ¥1,908 / ¥6,708 / ¥13,428。最高节省对应 Ultra 包年档，不代表所有档位同额优惠。",
     "claimUrl": "https://www.kimi.com/membership/pricing",
     "sourceId": "kimi-membership-pricing",
     "facts": [
       {
-        "quote": "连续包月 连续包年 最高立省 ¥1,680",
+        "quote": "连续包月 连续包年 最高立省 ¥3,360",
         "url": "https://www.kimi.com/membership/pricing",
-        "snapshot": "snapshots/kimi-membership-pricing/2026-10-10-1134-081814ae.json"
+        "snapshot": "snapshots/kimi-membership-pricing/2026-10-16-0008-5b0f9f90.json"
       },
       {
-        "quote": "¥ 559 / 月 ¥699",
+        "quote": "Ultra\n极致赋能\n¥ 1,119 / 月 ¥1,399\n按年计费 ¥13,428\n28 倍 Agent 额度",
         "url": "https://www.kimi.com/membership/pricing",
-        "snapshot": "snapshots/kimi-membership-pricing/2026-10-10-1134-081814ae.json"
+        "snapshot": "snapshots/kimi-membership-pricing/2026-10-16-0008-5b0f9f90.json"
       }
     ],
     "corroboration": [
       {
         "sourceId": "moonshot-kimi-membership-pricing",
-        "quote": "产品 产品 产品\nKimi Kimi Work Kimi Code Kimi 浏览器扩展 Kimi Office 扩展 下载\n全部产品\n功能\n构建应用 AI 应用与网站生成器 PPT AI 演示文稿生成工具 文档 AI 文档 Agent 表格 AI 表格 Agent 深度研究 AI 研究 Agent\n全部功能\n模型\nKimi K3 新 Kimi K2.7 Code Kimi K2.6 Kimi K2.5\n全部模型\nAPI API\n使用场景 使用场景 精选使用场景\n搭建 MVP 网站 创建作品集网站 搭建博客网站 开展学术研究 开展市场调研 制作简历 制作宣传册\n全部使用场景\n精选工具\nAI 落地页生成器 图片生成网站 AI 文档生成器 PDF 转 PPT 工具 PDF 翻译器 AI Python 代码生成器 AI C++ 代码生成器\n全部 AI 能力\n案例展示\n网站 Agent 集群 深度研究 PPT 表格 文档 设计\n全部案例\n企业服务 企业服务 Kimi 企业版 金融行业解决方案 企业版定价 联系销售\n研究 研究 Kimi K3 PerceptionBench Kimi K2.6 Agent Swarm WorldVQA Kimi K2.5 Kimi Vendor Verifier Kimi K2 Thinking Kimi K2\n全部研究\n资源 资源 支持与文档\n帮助中心 Kimi Code 文档\n学院\nKimi Work 入门指南 Kimi Code 入门指南\n全部教程\n文章\nAI Agent 详解 多智能体系统 并行智能体 什么是 Vibe Coding 搭建落地页 制作海报 撰写商业提案\n全部文章\n定价 定价\n下载 在线体验 Kimi\n新手入门\nAgent模式\nKimi Work\n插件和技能\nKimi 浏览器扩展\n表格和文档\nPPT\n深度研究\n构建应用\n会员订阅 会员订阅服务权益介绍\n会员额度更新与使用规则\n会员是怎么收费的/套餐包括什么？\n会员权益到账与查询\n套餐升级与降级\n加油包：额外用量购买\n取消自动续费\n支付相关问题\n用户如何自助开发票\n会员问题联系方式\nKimi Code\nKimi API与企业合作\nKimi Business\nKimi Claw\nKimi 黑板报\n常见问题\n帮助中心 会员订阅 会员是怎么收费的/套餐包括什么？\n会员收费与套餐介绍\nKimi 提供四档会员计划，均支持连续包月和连续包年两种订阅方式。所有 Kimi 会员功能共享一个额度池，额度可自由分配使用。\n订阅方式与价格\n套餐 定位 连续包月 连续包年\nAndante 日常使用 ¥49/月 年付更优惠\nModerato 效率升级 ¥99/月 年付更优惠\nAllegretto 专业优选 ¥199/月 年付更优惠\nAllegro 全能尊享 ¥699/月 年付更优惠\n选择连续包年可享受更大折扣，最高立省 ¥1,680。\n各套餐权益详情\nAndante — ¥49/月\nAgent 用量约 30 个\nAgent 优先生成队列（4 倍速）\nOffice 文件处理、深度研究、网站部署\nKimi Code 可调用\n定制化看板，含小组件任务（6 个）、定时任务（6 个）\n精选插件（15+ 种可调用）\n专业数据库 1000 次调用\n制作并发布带数据库的网站\n项目数 20 个，项目存储空间 20GB\nModerato — ¥99/月\n在 Andante 基础上：\nAgent 用量约 60 个\nAgent 任务并行 2 个\nAgent 集群可用 25 次（2 个子任务并行）\n梦境记忆、自进化技能\n定时任务、小组件任务各 10 个\n专业数据库 2000 次调用\nAllegretto — ¥199/月\nAgent 用量约 150 个\nAgent 集群可用 50 次（4 个子任务并行）\n目标模式，Agent 自主推进完成\n专属 Kimi Claw，支持 10 个 Kimi Claw 群聊\n定时任务、小组件任务各 15 个\n专业数据库 5000 次调用\nAllegro — ¥699/月\nAgent 用量约 360 个\nAgent 任务并行 4 个\nAgent 集群可用 120 次（8 个子任务并行）\n支持百万 Tokens 超长对话容量\n定时任务、小组件任务各 20 个，项目数 100 个，项目存储空间 50GB\n专业数据库 12000 次调用\n以上 Agent 用量数值基于常见任务 token 消耗估算，将月额度用于同一功能时的参考值。Agent 额度可用于 Office 文件处理、深度研究、网站部署等 Agent 功能。\n额度说明\n所有 Kimi 会员功能共享一个额度池，按实际 token 消耗计算，无需单独管理各功能用量；会话入口的 K2.6 同样按额度计费。Kimi Code 另有 5 小时 / 周使用限额，仅作用于 Kimi Code，不影响其他会员功能。高档套餐提供更多额度，可支撑更频繁和更复杂的使用场景。\n额度池 ：所有会员功能（网站部署、深度研究、PPT、Kimi Code、Kimi Work、Kimi Claw、K3 和 K3 集群 等）共享一个额度池，按实际 token 消耗扣除。任一功能用尽额度都会影响其他功能的使用。\nKimi Code 限额 ：Kimi Code 另有 5 小时 / 周使用限额，仅作用于 Kimi Code，不影响其他会员功能。\n按月刷新 ：额度在每个计费周期自动刷新，未使用的额度到期清零。\n频次限制 5小时及周频控请以页面提示为准。\n更多权益详情与套餐对比，请参阅 会员订阅服务权益介绍 。\n额度常见问题\n如何查看额度使用情况？\nWeb 端 ：点击左下角头像 → 设置 → 订阅\nAPP 端 ：我的 → 会员计划 → 订阅\n可查看当前额度余额（百分比）、下次刷新时间，以及最近 1000 条使用明细（使用时间、功能、消耗比例）。\n使用明细数据可能存在短暂延迟，请以当前额度显示为准。\n额度用完了怎么办？\n当前正在进行的任务可以正常完成，新任务将提示额度不足。你可以：\n等待额度按月自动刷新（Kimi Code 的 5 小时 / 周使用限额到期后也会自动解除，仅影响 Kimi Code）\n升级至更高等级会员获取更多额度\n购买 加油包 ：开启后按实际用量付费，无需等待额度刷新即可继续使用\n参与官方活动获取赠送额度\n可以把额度都用在一个功能上吗？\n可以。所有会员功能共享一个额度池，你可以自由支配。但请注意：某个功能把额度用完，会影响其他功能的使用；此外 Kimi Code 另有 5 小时 / 周限额，仅作用于 Kimi Code。\n每天下午 4 点「Claw-云主机」扣除的 0.6% 是什么费用？\n这是 Kimi Claw 云主机的沙箱运行费用。Kimi Claw 是部署在云端的 OpenClaw：每次调用 Claw，系统都会在云端启动一个隔离沙箱来执行代码、操作浏览器或调用工具。沙箱不是\"免费待机\"的，而是按运行时长和资源消耗持续计费——即使你没有主动发起任务，已部署的云主机仍会保留运行环境和数据，因此每天会产生约会员额度 0.6% 的费用，于每天下午 4 点结算。\n如果近期不打算使用 Kimi Claw，建议先将 memory、soul、workspace 等重要文件保存到本地，再删除云主机；删除后即不再产生该费用，需要时可重新部署。\n「Agent Website - Cloud Service」扣除的 0.08% 是什么费用？\n这是你通过 Agent 发布网站后产生的云服务费用。网站发布后会持续占用云端资源以保持在线可访问，因此会产生约会员额度 0.08% 的扣费。如果不再需要该网站在线，点击「取消发布」后即可停止计费。\n相关协议\nKimi 付费服务协议\nKimi 用户服务协议\nKimi 隐私政策\n本文是否对你有帮助\n是 否\n上一篇 会员额度更新与使用规则 下一篇 会员权益到账与查询\n各套餐权益详情 Andante — ¥49/月\n额度常见问题 如何查看额度使用情况？\n跟随系统\n简体中文\n产品\nKimi Kimi Work Kimi Code Kimi 浏览器扩展 Kimi 开放平台 下载 全部产品\n定价\n个人版 企业版 API\n企业服务\nKimi 企业版 金融行业解决方案 联系销售\n构建应用 PPT 文档 表格 深度研究 Kimi Claw 全部功能\n研究\nKimi K3 技术博客 Kimi K2.6 技术博客 Kimi K2.5 技术博客 PerceptionBench Agent Swarm WorldVQA 全部研究\n使用场景\n搭建 MVP 网站 创建作品集网站 搭建博客网站 开展学术研究 制作宣传册 案例展示 全部使用场景\nKimi Work 入门指南 Kimi Code 入门指南 全部教程\n支持与文档\nAI 落地页生成器 图片生成网站 AI 文档生成器 PDF 转 PPT 工具 PDF 翻译器 AI Python 代码生成器 AI C++ 代码生成器 全部 AI 能力\n资源\n帮助中心 AI Agent 详解 多智能体系统 什么是 Vibe Coding 搭建落地页 制作海报 全部文章\nKimi K3 Kimi K2.7 Code Kimi K2.6 Kimi K2.5 全部模型\n公司\n关于我们 Moonshot AI 品牌指南 新闻 招聘 服务条款 隐私政策\n© 2026 北京月之暗面科技有限公司 | 京ICP备2023011302号-14 | 京B2-20240852 | 京公网安备11010802043150号",
-        "snapshot": "snapshots/moonshot-kimi-membership-pricing/2026-10-10-1134-0c1b17f0.json"
+        "quote": "选择连续包年可享受更大折扣，最高立省 ¥1,680。",
+        "snapshot": "snapshots/moonshot-kimi-membership-pricing/2026-09-18-1434-535d126f.json"
       }
     ],
     "quantity": null
@@ -2377,62 +2377,72 @@
     "baseline": null,
     "claimUrl": "https://opencode.ai/v2/docs/console/go/",
     "sourceId": "opencode-go",
-    "restrictions": "5 小时为对应月额度的 20%，每周为 50%；仅单成员工作空间，订阅后不能邀请成员。 按官方 Go Plus 模型表展示月度用量等值；不同模型额度不能相加。可接入符合官方规则的编程 Agent。 Gemini 4 Argon Contributor 月用量等值限时翻倍（$120 → $240），结束日期未说明。输入与输出可能用于训练 Google 后续模型，非零数据留存（Not ZDR）。",
+    "restrictions": "5 小时为对应月额度的 20%，每周为 50%；仅单成员工作空间，订阅后不能邀请成员。 按官方 Go Plus 模型表展示月度用量等值；不同模型额度不能相加。可接入符合官方规则的编程 Agent。 Gemini 4 Argon Contributor 月用量等值限时翻倍（$120 → $240），结束日期未说明。输入与输出可能用于训练 Google 后续模型，非零数据留存（Not ZDR）。 Step 5 Preview 当前月用量等值 $240，来源标注限时 4 倍额度，未说明结束日期。",
     "facts": [
       {
         "quote": "Go Plus $40/month Higher usage limits across the models below",
         "url": "https://opencode.ai/v2/docs/console/go/",
-        "snapshot": "snapshots/opencode-go/2026-10-14-1209-4b060c16.json"
+        "snapshot": "snapshots/opencode-go/2026-10-16-0008-233d74c8.json"
       },
       {
         "quote": "DeepSeek V4.1 Flash (Off-Peak) $0.15 $0.60 $0.003 - $160",
         "url": "https://opencode.ai/v2/docs/console/go/",
-        "snapshot": "snapshots/opencode-go/2026-10-14-1209-4b060c16.json"
+        "snapshot": "snapshots/opencode-go/2026-10-16-0008-233d74c8.json"
       },
       {
         "quote": "GLM-5.3 $1.40 $4.40 $0.26 - $120",
         "url": "https://opencode.ai/v2/docs/console/go/",
-        "snapshot": "snapshots/opencode-go/2026-10-14-1209-4b060c16.json"
+        "snapshot": "snapshots/opencode-go/2026-10-16-0008-233d74c8.json"
       },
       {
         "quote": "MiMo-V2.6-Pro $0.435 $0.87 $0.003625 - $60",
         "url": "https://opencode.ai/v2/docs/console/go/",
-        "snapshot": "snapshots/opencode-go/2026-10-14-1209-4b060c16.json"
+        "snapshot": "snapshots/opencode-go/2026-10-16-0008-233d74c8.json"
       },
       {
         "quote": "Each model has the following usage limits: 5-hour — 20% of the monthly limit;\nweekly — 50%; and monthly — 100%.",
         "url": "https://opencode.ai/v2/docs/console/go/",
-        "snapshot": "snapshots/opencode-go/2026-10-14-1209-4b060c16.json"
+        "snapshot": "snapshots/opencode-go/2026-10-16-0008-233d74c8.json"
       },
       {
         "quote": "Go and Go Plus are for workspaces with a single member",
         "url": "https://opencode.ai/v2/docs/console/go/",
-        "snapshot": "snapshots/opencode-go/2026-10-14-1209-4b060c16.json"
+        "snapshot": "snapshots/opencode-go/2026-10-16-0008-233d74c8.json"
       },
       {
         "quote": "workspace with a Go subscription cannot invite members.",
         "url": "https://opencode.ai/v2/docs/console/go/",
-        "snapshot": "snapshots/opencode-go/2026-10-14-1209-4b060c16.json"
+        "snapshot": "snapshots/opencode-go/2026-10-16-0008-233d74c8.json"
       },
       {
         "quote": "Gemini 4 Argon Contributor $4.00 $20.00 $0.20 - $120 $240",
         "url": "https://opencode.ai/v2/docs/console/go/",
-        "snapshot": "snapshots/opencode-go/2026-10-14-1209-4b060c16.json"
+        "snapshot": "snapshots/opencode-go/2026-10-16-0008-233d74c8.json"
       },
       {
         "quote": "2x · Limited time",
         "url": "https://opencode.ai/v2/docs/console/go/",
-        "snapshot": "snapshots/opencode-go/2026-10-14-1209-4b060c16.json"
+        "snapshot": "snapshots/opencode-go/2026-10-16-0008-233d74c8.json"
       },
       {
         "quote": "Gemini 4 Argon Contributor Yes Not ZDR",
         "url": "https://opencode.ai/v2/docs/console/go/",
-        "snapshot": "snapshots/opencode-go/2026-10-14-1209-4b060c16.json"
+        "snapshot": "snapshots/opencode-go/2026-10-16-0008-233d74c8.json"
       },
       {
         "quote": "Gemini 4 Argon Contributor: Your prompts and completions may be used to train future Google models.",
         "url": "https://opencode.ai/v2/docs/console/go/",
-        "snapshot": "snapshots/opencode-go/2026-10-14-1209-4b060c16.json"
+        "snapshot": "snapshots/opencode-go/2026-10-16-0008-233d74c8.json"
+      },
+      {
+        "quote": "Step 5 Preview $1.00 $2.70 $0.10 - $60 $240",
+        "url": "https://opencode.ai/v2/docs/console/go/",
+        "snapshot": "snapshots/opencode-go/2026-10-16-0008-233d74c8.json"
+      },
+      {
+        "quote": "4x · Limited time",
+        "url": "https://opencode.ai/v2/docs/console/go/",
+        "snapshot": "snapshots/opencode-go/2026-10-16-0008-233d74c8.json"
       }
     ],
     "supersedes": null,
@@ -2478,6 +2488,14 @@
           "period": "month",
           "text": "$240",
           "fact": 7
+        },
+        {
+          "model": "Step 5 Preview",
+          "value": 240,
+          "currency": "USD",
+          "period": "month",
+          "text": "$240",
+          "fact": 11
         }
       ],
       "limits": {
@@ -2485,8 +2503,8 @@
         "en": "5-hour allowance: 20% of the model monthly limit; weekly: 50%. Only single-member workspaces; Go workspaces cannot invite members."
       },
       "notes": {
-        "zh": "按官方 Go Plus 模型表展示月度用量等值；不同模型额度不能相加。可接入符合官方规则的编程 Agent。 Gemini 4 Argon Contributor 月用量等值限时翻倍（$120 → $240），结束日期未说明。输入与输出可能用于训练 Google 后续模型，非零数据留存（Not ZDR）。",
-        "en": "Monthly usage equivalents follow the official Go Plus model table. Model allowances must not be added. Coding agents must follow the official client rules. Gemini 4 Argon Contributor has a limited-time 2x monthly usage equivalent ($120 to $240); no end date is stated. Prompts and completions may train future Google models; Not ZDR."
+        "zh": "按官方 Go Plus 模型表展示月度用量等值；不同模型额度不能相加。可接入符合官方规则的编程 Agent。 Gemini 4 Argon Contributor 月用量等值限时翻倍（$120 → $240），结束日期未说明。输入与输出可能用于训练 Google 后续模型，非零数据留存（Not ZDR）。 Step 5 Preview 当前月用量等值 $240，来源标注限时 4 倍额度，未说明结束日期。",
+        "en": "Monthly usage equivalents follow the official Go Plus model table. Model allowances must not be added. Coding agents must follow the official client rules. Gemini 4 Argon Contributor has a limited-time 2x monthly usage equivalent ($120 to $240); no end date is stated. Prompts and completions may train future Google models; Not ZDR. Step 5 Preview currently has $240 monthly usage equivalent, a limited-time 4x allowance with no stated end date."
       }
     },
     "quantity": null
@@ -2652,6 +2670,114 @@
   },
   {
     "schemaVersion": 0,
+    "offerKey": "86005e88dff38638",
+    "occurredAt": "2026-10-16",
+    "publishedAt": "2026-10-16T00:13:48.247750+00:00",
+    "verification": "auto_verified",
+    "category": "creditsPromotion",
+    "vendor": "commandcode",
+    "entity": "cat-jam-free",
+    "amount": "Cat Jam is a free stealth preview.",
+    "eligibility": "while the stealth preview lasts",
+    "promotionType": "free",
+    "appliesTo": [
+      "model"
+    ],
+    "baseline": null,
+    "startsAt": null,
+    "startsAtText": null,
+    "expiresAt": null,
+    "expiresAtText": null,
+    "howToClaim": "auto",
+    "restrictions": "Command Code 的 Cat Jam 隐身预览期免费，无每日请求限制，不消耗 credits。提供方可能保留输入输出并用于训练；CMD_ZDR=1 会话不可用。结束日期未说明。",
+    "supersedes": null,
+    "sourceId": "commandcode-pricing-limits",
+    "claimUrl": "https://commandcode.ai/docs/resources/pricing-limits",
+    "facts": [
+      {
+        "quote": "DEAL cat-jam-free Cat Jam Free while the stealth preview lasts\nauto-applied when you pick cat-jam:free\nModel Cat Jam\nCat Jam is a free stealth preview.\nCat Jam is a reasoning model for coding and agentic work, with a 1M token context and low, medium, high, xhigh, and max reasoning effort. Its maker has chosen to stay anonymous for the preview.\nNo daily request limit : use it as much as you like while the preview lasts.\nKeep sensitive work elsewhere : the provider may keep your prompts and outputs and train on them, so Cat Jam won&#x27;t run in a CMD_ZDR=1 session.",
+        "url": "https://commandcode.ai/docs/resources/pricing-limits",
+        "snapshot": "snapshots/commandcode-pricing-limits/2026-10-16-0008-452ca750.json"
+      },
+      {
+        "quote": "DEAL cat-jam:free is free, with no daily request limit. Requests on this model cost no credits. while the stealth preview lasts",
+        "url": "https://commandcode.ai/docs/resources/pricing-limits",
+        "snapshot": "snapshots/commandcode-pricing-limits/2026-10-16-0008-452ca750.json"
+      }
+    ],
+    "quantity": null
+  },
+  {
+    "schemaVersion": 0,
+    "offerKey": "a98799dd15c30b28",
+    "occurredAt": "2026-10-16",
+    "publishedAt": "2026-10-16T00:13:48.247027+00:00",
+    "verification": "auto_verified",
+    "category": "creditsPromotion",
+    "promotionType": "allowance",
+    "vendor": "commandcode",
+    "entity": "commandcode-pro",
+    "planName": "Command Code Pro",
+    "appliesTo": [
+      "subscription",
+      "apiCredit"
+    ],
+    "planKind": "tokenPlan",
+    "amount": "$20/mo",
+    "eligibility": null,
+    "baseline": null,
+    "howToClaim": "purchase",
+    "startsAt": null,
+    "startsAtText": null,
+    "expiresAt": null,
+    "expiresAtText": null,
+    "claimUrl": "https://commandcode.ai/docs/resources/pricing-limits",
+    "sourceId": "commandcode-pricing-limits",
+    "facts": [
+      {
+        "quote": "Pro ($20/mo) $110",
+        "url": "https://commandcode.ai/docs/resources/pricing-limits",
+        "snapshot": "snapshots/commandcode-pricing-limits/2026-10-16-0008-452ca750.json"
+      },
+      {
+        "quote": "DEAL ling-3.1-flash-boosted-credits Ling 3.1 Flash Boosted credits\n$100 on GOAT\n$110 on Pro\nRates unchanged · auto-applied when you pick ling-3.1-flash\nModel Ling 3.1 Flash\nCredits $100 GOAT · $110 Pro\nLing 3.1 Flash comes with bigger monthly credits.\nYou get $100 of Ling 3.1 Flash on the $10 GOAT plan and $110 on the $20 Pro plan . Per-token prices stay the same, so your plan just buys a lot more Ling 3.1 Flash.\nAlready on : pick ling-3.1-flash from /model in the CLI and the bigger allowance is there. Nothing to turn on.\nGOAT and Pro : these are the plans with per-model allowances. Top-up credits bill at Ling 3.1 Flash&#x27;s regular rate, as always.\nPlan Boosted usage\nGOAT ($10/mo) $100\nPro ($20/mo) $110",
+        "url": "https://commandcode.ai/docs/resources/pricing-limits",
+        "snapshot": "snapshots/commandcode-pricing-limits/2026-10-16-0008-452ca750.json"
+      }
+    ],
+    "supersedes": null,
+    "allowance": {
+      "price": {
+        "value": 20,
+        "currency": "USD",
+        "period": "month",
+        "text": "$20/mo",
+        "fact": 0
+      },
+      "models": [
+        {
+          "model": "Ling 3.1 Flash",
+          "value": 110,
+          "currency": "USD",
+          "period": "month",
+          "text": "$110",
+          "fact": 1
+        }
+      ],
+      "limits": {
+        "zh": "套餐另有滚动 5 小时及周窗口，具体额度以官方计划窗口为准。",
+        "en": "Rolling 5-hour and weekly plan windows also apply; consult official plan caps."
+      },
+      "notes": {
+        "zh": "Ling 3.1 Flash 模型月用量等值 $110；选择该模型自动适用，单价不变，额外充值按常规费率另计。不是额外发放可累加余额；来源未说明结束时间。",
+        "en": "Ling 3.1 Flash monthly usage equivalent is $110, applied automatically at unchanged per-token rates. Top-ups use regular rates. This is not an additional balance; no end date is stated."
+      }
+    },
+    "restrictions": "套餐另有滚动 5 小时及周窗口，具体额度以官方计划窗口为准。 Ling 3.1 Flash 模型月用量等值 $110；选择该模型自动适用，单价不变，额外充值按常规费率另计。不是额外发放可累加余额；来源未说明结束时间。",
+    "quantity": null
+  },
+  {
+    "schemaVersion": 0,
     "offerKey": "af54f1d4b724551a",
     "occurredAt": "2026-10-12",
     "publishedAt": "2026-10-11T17:54:16.895Z",
@@ -2680,57 +2806,77 @@
       {
         "quote": "unlimited coding on 30+ top open and closed models for $10/month",
         "url": "https://commandcode.ai/docs/plans/goat",
-        "snapshot": "snapshots/commandcode-goat/2026-10-14-2359-6e2c4c45.json"
+        "snapshot": "snapshots/commandcode-goat/2026-10-16-0008-d2b38ddf.json"
       },
       {
         "quote": "GLM-5.2 $1.40 $4.40 $0.26 - $70",
         "url": "https://commandcode.ai/docs/plans/goat",
-        "snapshot": "snapshots/commandcode-goat/2026-10-14-2359-6e2c4c45.json"
+        "snapshot": "snapshots/commandcode-goat/2026-10-16-0008-d2b38ddf.json"
       },
       {
         "quote": "DeepSeek V4.1 Flash $0.15 $0.60 $0.003 - $80 $100 through Oct 16th",
         "url": "https://commandcode.ai/docs/plans/goat",
-        "snapshot": "snapshots/commandcode-goat/2026-10-14-2359-6e2c4c45.json"
+        "snapshot": "snapshots/commandcode-goat/2026-10-16-0008-d2b38ddf.json"
       },
       {
         "quote": "MiMo V2.5 Pro $0.435 $0.87 $0.0036 - $20",
         "url": "https://commandcode.ai/docs/plans/goat",
-        "snapshot": "snapshots/commandcode-goat/2026-10-14-2359-6e2c4c45.json"
+        "snapshot": "snapshots/commandcode-goat/2026-10-16-0008-d2b38ddf.json"
       },
       {
         "quote": "5-hour limit - $14 of usage\nWeekly limit - $35 of usage\nMonthly limit - $70 of usage",
         "url": "https://commandcode.ai/docs/plans/goat",
-        "snapshot": "snapshots/commandcode-goat/2026-10-14-2359-6e2c4c45.json"
+        "snapshot": "snapshots/commandcode-goat/2026-10-16-0008-d2b38ddf.json"
       },
       {
         "quote": "The GOAT plan has API access. You call the Provider API endpoints with your Command Code API key, and usage is metered against your GOAT credits and the models included above.",
         "url": "https://commandcode.ai/docs/plans/goat",
-        "snapshot": "snapshots/commandcode-goat/2026-10-14-2359-6e2c4c45.json"
+        "snapshot": "snapshots/commandcode-goat/2026-10-16-0008-d2b38ddf.json"
       },
       {
         "quote": "After the three days : the allowance stays raised, at $80 on GOAT and $90 on Pro.",
         "url": "https://commandcode.ai/docs/resources/pricing-limits",
-        "snapshot": "snapshots/commandcode-pricing-limits/2026-10-13-1608-0cd5303e.json"
+        "snapshot": "snapshots/commandcode-pricing-limits/2026-10-16-0008-452ca750.json"
       },
       {
         "quote": "From October 13 at 7 AM PT until October 16 at 7 AM PT, DeepSeek V4.1 Flash&#x27;s per-model allowance is $100 on the $10 GOAT plan and $100 on the $20 Pro plan , up from $60 and $70. Per-token rates stay the same.",
         "url": "https://commandcode.ai/docs/resources/pricing-limits",
-        "snapshot": "snapshots/commandcode-pricing-limits/2026-10-13-1608-0cd5303e.json"
+        "snapshot": "snapshots/commandcode-pricing-limits/2026-10-16-0008-452ca750.json"
       },
       {
         "quote": "Your $10 buys $80 of credits - an 8x multiplier",
         "url": "https://commandcode.ai/docs/plans/goat",
-        "snapshot": "snapshots/commandcode-goat/2026-10-14-2359-6e2c4c45.json"
+        "snapshot": "snapshots/commandcode-goat/2026-10-16-0008-d2b38ddf.json"
       },
       {
         "quote": "GLM-5.3 Flash $0.15 $0.50 $0.03 - $80 $100 through Oct 17th",
         "url": "https://commandcode.ai/docs/plans/goat",
-        "snapshot": "snapshots/commandcode-goat/2026-10-14-2359-6e2c4c45.json"
+        "snapshot": "snapshots/commandcode-goat/2026-10-16-0008-d2b38ddf.json"
       },
       {
         "quote": "From October 14 at 5:30 AM PT until October 17 at 5:30 AM PT, GLM-5.3 Flash&#x27;s per-model allowance is $100 on the $10 GOAT plan and $100 on the $20 Pro plan , up from $60 and $70. Per-token rates stay the same.",
         "url": "https://commandcode.ai/docs/resources/pricing-limits",
-        "snapshot": "snapshots/commandcode-pricing-limits/2026-10-14-2359-a7982284.json"
+        "snapshot": "snapshots/commandcode-pricing-limits/2026-10-16-0008-452ca750.json"
+      },
+      {
+        "quote": "Ling 3.1 Flash $0.30 $0.90 $0.06 - $100",
+        "url": "https://commandcode.ai/docs/plans/goat",
+        "snapshot": "snapshots/commandcode-goat/2026-10-16-0008-d2b38ddf.json"
+      },
+      {
+        "quote": "GPT-5.6 Sol $5.00 $30.00 $0.50 $6.25 $20",
+        "url": "https://commandcode.ai/docs/plans/goat",
+        "snapshot": "snapshots/commandcode-goat/2026-10-16-0008-d2b38ddf.json"
+      },
+      {
+        "quote": "Muse Spark Open $1.25 $4.25 $0.15 - $20",
+        "url": "https://commandcode.ai/docs/plans/goat",
+        "snapshot": "snapshots/commandcode-goat/2026-10-16-0008-d2b38ddf.json"
+      },
+      {
+        "quote": "Nemotron 3.5 Super VL $0.20 $0.50 $0.04 - $20",
+        "url": "https://commandcode.ai/docs/plans/goat",
+        "snapshot": "snapshots/commandcode-goat/2026-10-16-0008-d2b38ddf.json"
       }
     ],
     "supersedes": null,
@@ -2774,6 +2920,38 @@
           "period": "month",
           "text": "$100",
           "fact": 9
+        },
+        {
+          "model": "Ling 3.1 Flash",
+          "value": 100,
+          "currency": "USD",
+          "period": "month",
+          "text": "$100",
+          "fact": 11
+        },
+        {
+          "model": "GPT-5.6 Sol",
+          "value": 20,
+          "currency": "USD",
+          "period": "month",
+          "text": "$20",
+          "fact": 12
+        },
+        {
+          "model": "Muse Spark Open",
+          "value": 20,
+          "currency": "USD",
+          "period": "month",
+          "text": "$20",
+          "fact": 13
+        },
+        {
+          "model": "Nemotron 3.5 Super VL",
+          "value": 20,
+          "currency": "USD",
+          "period": "month",
+          "text": "$20",
+          "fact": 14
         }
       ],
       "limits": {
@@ -2781,11 +2959,11 @@
         "en": "$14 per 5 hours, $35 per week, $70 per month; usable volume varies by model pricing."
       },
       "notes": {
-        "zh": "列出的是示例模型月用量，不是各模型独立余额；不可相加。CLI 与 API 使用套餐额度，额外购买的积分另计。 DeepSeek V4.1 Flash 当前临时月用量等值 $100，官方标注“$100 through Oct 16th”；结束后为 $80。官方 Pricing & Limits 指定结束时间为 October 16 at 7 AM PT。 套餐宣传现标注 $10 对应 $80 credits；官方窗口仍列 $14/$35/$70，以窗口限制为准，不能将宣传额度替代窗口限制。 GLM-5.3 Flash 当前限时月用量等值 $100，官方标注“$100 through Oct 17th”；活动页指定截至 October 17 at 5:30 AM PT。",
-        "en": "These are example monthly usage equivalents, not separate balances per model. CLI and API use plan credits; purchased top-ups are separate. DeepSeek V4.1 Flash currently has \"$100 through Oct 16th\", then $80. Pricing & Limits specifies October 16 at 7 AM PT. The plan now advertises $80 credits for $10, while its listed usage windows remain $14/$35/$70; the advertised credits do not replace window caps. GLM-5.3 Flash currently lists \"$100 through Oct 17th\"; the deal page ends at October 17 at 5:30 AM PT."
+        "zh": "列出的是示例模型月用量，不是各模型独立余额；不可相加。CLI 与 API 使用套餐额度，额外购买的积分另计。 DeepSeek V4.1 Flash 当前临时月用量等值 $100，官方标注“$100 through Oct 16th”；结束后为 $80。官方 Pricing & Limits 指定结束时间为 October 16 at 7 AM PT。 套餐宣传现标注 $10 对应 $80 credits；官方窗口仍列 $14/$35/$70，以窗口限制为准，不能将宣传额度替代窗口限制。 GLM-5.3 Flash 当前限时月用量等值 $100，官方标注“$100 through Oct 17th”；活动页指定截至 October 17 at 5:30 AM PT。 本轮官方表新增展示 Ling 3.1 Flash $100、GPT-5.6 Sol $20、Muse Spark Open $20 及 Nemotron 3.5 Super VL $20 月用量等值；各模型额度不可相加。",
+        "en": "These are example monthly usage equivalents, not separate balances per model. CLI and API use plan credits; purchased top-ups are separate. DeepSeek V4.1 Flash currently has \"$100 through Oct 16th\", then $80. Pricing & Limits specifies October 16 at 7 AM PT. The plan now advertises $80 credits for $10, while its listed usage windows remain $14/$35/$70; the advertised credits do not replace window caps. GLM-5.3 Flash currently lists \"$100 through Oct 17th\"; the deal page ends at October 17 at 5:30 AM PT. Current rows show Ling 3.1 Flash $100, GPT-5.6 Sol $20, Muse Spark Open $20 and Nemotron 3.5 Super VL $20 monthly usage equivalents; do not add model allowances."
       }
     },
-    "restrictions": "5 小时 $14、每周 $35、每月 $70 的窗口；实际可用量随模型计价不同。 列出的是示例模型月用量，不是各模型独立余额；不可相加。CLI 与 API 使用套餐额度，额外购买的积分另计。 DeepSeek V4.1 Flash 当前临时月用量等值 $100，官方标注“$100 through Oct 16th”；结束后为 $80。官方 Pricing & Limits 指定结束时间为 October 16 at 7 AM PT。 套餐宣传现标注 $10 对应 $80 credits；官方窗口仍列 $14/$35/$70，以窗口限制为准，不能将宣传额度替代窗口限制。 GLM-5.3 Flash 当前限时月用量等值 $100，官方标注“$100 through Oct 17th”；活动页指定截至 October 17 at 5:30 AM PT。",
+    "restrictions": "5 小时 $14、每周 $35、每月 $70 的窗口；实际可用量随模型计价不同。 列出的是示例模型月用量，不是各模型独立余额；不可相加。CLI 与 API 使用套餐额度，额外购买的积分另计。 DeepSeek V4.1 Flash 当前临时月用量等值 $100，官方标注“$100 through Oct 16th”；结束后为 $80。官方 Pricing & Limits 指定结束时间为 October 16 at 7 AM PT。 套餐宣传现标注 $10 对应 $80 credits；官方窗口仍列 $14/$35/$70，以窗口限制为准，不能将宣传额度替代窗口限制。 GLM-5.3 Flash 当前限时月用量等值 $100，官方标注“$100 through Oct 17th”；活动页指定截至 October 17 at 5:30 AM PT。 本轮官方表新增展示 Ling 3.1 Flash $100、GPT-5.6 Sol $20、Muse Spark Open $20 及 Nemotron 3.5 Super VL $20 月用量等值；各模型额度不可相加。",
     "quantity": null
   },
   {
@@ -2992,57 +3170,67 @@
       {
         "quote": "Go $10/month Lower-cost access to the models below",
         "url": "https://opencode.ai/v2/docs/console/go/",
-        "snapshot": "snapshots/opencode-go/2026-10-14-1209-4b060c16.json"
+        "snapshot": "snapshots/opencode-go/2026-10-16-0008-233d74c8.json"
       },
       {
         "quote": "DeepSeek V4.1 Flash (Off-Peak) $0.15 $0.60 $0.003 - $80",
         "url": "https://opencode.ai/v2/docs/console/go/",
-        "snapshot": "snapshots/opencode-go/2026-10-14-1209-4b060c16.json"
+        "snapshot": "snapshots/opencode-go/2026-10-16-0008-233d74c8.json"
       },
       {
         "quote": "GLM-5.3 $1.40 $4.40 $0.26 - $15",
         "url": "https://opencode.ai/v2/docs/console/go/",
-        "snapshot": "snapshots/opencode-go/2026-10-14-1209-4b060c16.json"
+        "snapshot": "snapshots/opencode-go/2026-10-16-0008-233d74c8.json"
       },
       {
         "quote": "MiMo-V2.6-Pro $0.435 $0.87 $0.003625 - $15",
         "url": "https://opencode.ai/v2/docs/console/go/",
-        "snapshot": "snapshots/opencode-go/2026-10-14-1209-4b060c16.json"
+        "snapshot": "snapshots/opencode-go/2026-10-16-0008-233d74c8.json"
       },
       {
         "quote": "Each model has the following usage limits: 5-hour — 20% of the monthly limit;\nweekly — 50%; and monthly — 100%.",
         "url": "https://opencode.ai/v2/docs/console/go/",
-        "snapshot": "snapshots/opencode-go/2026-10-14-1209-4b060c16.json"
+        "snapshot": "snapshots/opencode-go/2026-10-16-0008-233d74c8.json"
       },
       {
         "quote": "Go and Go Plus are for workspaces with a single member",
         "url": "https://opencode.ai/v2/docs/console/go/",
-        "snapshot": "snapshots/opencode-go/2026-10-14-1209-4b060c16.json"
+        "snapshot": "snapshots/opencode-go/2026-10-16-0008-233d74c8.json"
       },
       {
         "quote": "workspace with a Go subscription cannot invite members.",
         "url": "https://opencode.ai/v2/docs/console/go/",
-        "snapshot": "snapshots/opencode-go/2026-10-14-1209-4b060c16.json"
+        "snapshot": "snapshots/opencode-go/2026-10-16-0008-233d74c8.json"
       },
       {
         "quote": "Gemini 4 Argon Contributor $4.00 $20.00 $0.20 - $30 $60",
         "url": "https://opencode.ai/v2/docs/console/go/",
-        "snapshot": "snapshots/opencode-go/2026-10-14-1209-4b060c16.json"
+        "snapshot": "snapshots/opencode-go/2026-10-16-0008-233d74c8.json"
       },
       {
         "quote": "2x · Limited time",
         "url": "https://opencode.ai/v2/docs/console/go/",
-        "snapshot": "snapshots/opencode-go/2026-10-14-1209-4b060c16.json"
+        "snapshot": "snapshots/opencode-go/2026-10-16-0008-233d74c8.json"
       },
       {
         "quote": "Gemini 4 Argon Contributor Yes Not ZDR",
         "url": "https://opencode.ai/v2/docs/console/go/",
-        "snapshot": "snapshots/opencode-go/2026-10-14-1209-4b060c16.json"
+        "snapshot": "snapshots/opencode-go/2026-10-16-0008-233d74c8.json"
       },
       {
         "quote": "Gemini 4 Argon Contributor: Your prompts and completions may be used to train future Google models.",
         "url": "https://opencode.ai/v2/docs/console/go/",
-        "snapshot": "snapshots/opencode-go/2026-10-14-1209-4b060c16.json"
+        "snapshot": "snapshots/opencode-go/2026-10-16-0008-233d74c8.json"
+      },
+      {
+        "quote": "Step 5 Preview $1.00 $2.70 $0.10 - $15 $60",
+        "url": "https://opencode.ai/v2/docs/console/go/",
+        "snapshot": "snapshots/opencode-go/2026-10-16-0008-233d74c8.json"
+      },
+      {
+        "quote": "4x · Limited time",
+        "url": "https://opencode.ai/v2/docs/console/go/",
+        "snapshot": "snapshots/opencode-go/2026-10-16-0008-233d74c8.json"
       }
     ],
     "supersedes": null,
@@ -3086,6 +3274,14 @@
           "period": "month",
           "text": "$60",
           "fact": 7
+        },
+        {
+          "model": "Step 5 Preview",
+          "value": 60,
+          "currency": "USD",
+          "period": "month",
+          "text": "$60",
+          "fact": 11
         }
       ],
       "limits": {
@@ -3093,11 +3289,11 @@
         "en": "5-hour allowance: 20% of the model monthly limit; weekly: 50%. Only single-member workspaces; Go workspaces cannot invite members."
       },
       "notes": {
-        "zh": "按官方 Go 模型表展示月度用量等值；不同模型额度不能相加。可接入符合官方规则的编程 Agent。 Gemini 4 Argon Contributor 月用量等值限时翻倍（$30 → $60），结束日期未说明。输入与输出可能用于训练 Google 后续模型，非零数据留存（Not ZDR）。",
-        "en": "Monthly usage equivalents follow the official Go model table. Model allowances must not be added. Coding agents must follow the official client rules. Gemini 4 Argon Contributor has a limited-time 2x monthly usage equivalent ($30 to $60); no end date is stated. Prompts and completions may train future Google models; Not ZDR."
+        "zh": "按官方 Go 模型表展示月度用量等值；不同模型额度不能相加。可接入符合官方规则的编程 Agent。 Gemini 4 Argon Contributor 月用量等值限时翻倍（$30 → $60），结束日期未说明。输入与输出可能用于训练 Google 后续模型，非零数据留存（Not ZDR）。 Step 5 Preview 当前月用量等值 $60，来源标注限时 4 倍额度，未说明结束日期。",
+        "en": "Monthly usage equivalents follow the official Go model table. Model allowances must not be added. Coding agents must follow the official client rules. Gemini 4 Argon Contributor has a limited-time 2x monthly usage equivalent ($30 to $60); no end date is stated. Prompts and completions may train future Google models; Not ZDR. Step 5 Preview currently has $60 monthly usage equivalent, a limited-time 4x allowance with no stated end date."
       }
     },
-    "restrictions": "5 小时为对应月额度的 20%，每周为 50%；仅单成员工作空间，订阅后不能邀请成员。 按官方 Go 模型表展示月度用量等值；不同模型额度不能相加。可接入符合官方规则的编程 Agent。 Gemini 4 Argon Contributor 月用量等值限时翻倍（$30 → $60），结束日期未说明。输入与输出可能用于训练 Google 后续模型，非零数据留存（Not ZDR）。",
+    "restrictions": "5 小时为对应月额度的 20%，每周为 50%；仅单成员工作空间，订阅后不能邀请成员。 按官方 Go 模型表展示月度用量等值；不同模型额度不能相加。可接入符合官方规则的编程 Agent。 Gemini 4 Argon Contributor 月用量等值限时翻倍（$30 → $60），结束日期未说明。输入与输出可能用于训练 Google 后续模型，非零数据留存（Not ZDR）。 Step 5 Preview 当前月用量等值 $60，来源标注限时 4 倍额度，未说明结束日期。",
     "quantity": null
   },
   {
