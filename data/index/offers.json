@@ -1,75 +1,6 @@
 [
   {
     "schemaVersion": 0,
-    "offerKey": "1c352787511d2b23",
-    "occurredAt": "2026-10-13",
-    "publishedAt": "2026-10-13T16:13:54.940503+00:00",
-    "verification": "auto_verified",
-    "category": "creditsPromotion",
-    "promotionType": "discount",
-    "vendor": "commandcode",
-    "entity": "commandcode-deepseek-v4.1-flash",
-    "planName": "Command Code GOAT / Pro",
-    "appliesTo": [
-      "model",
-      "subscription"
-    ],
-    "planKind": "tokenPlan",
-    "amount": "$100 on GOAT and Pro",
-    "eligibility": "pick deepseek-v4.1-flash from /model",
-    "baseline": "$60 and $70",
-    "howToClaim": "auto",
-    "startsAt": "2026-10-13T07:00:00-07:00",
-    "startsAtText": "October 13 at 7 AM PT",
-    "expiresAt": "2026-10-16T07:00:00-07:00",
-    "expiresAtText": "October 16 at 7 AM PT",
-    "claimUrl": "https://commandcode.ai/docs/resources/pricing-limits",
-    "sourceId": "commandcode-pricing-limits",
-    "region": null,
-    "supersedes": null,
-    "quantity": null,
-    "validityText": "through October 16, 2026",
-    "restrictions": "DeepSeek V4.1 Flash 月用量等值临时提高至 $100，适用 $10/月 GOAT 与 $20/月 Pro；Token 单价不变，CLI 选择该模型自动生效。官方指定 10 月 13 日至 16 日均为太平洋时间早上 7 点；结束后 GOAT 保持 $80、Pro 保持 $90，不是额外充值余额。",
-    "facts": [
-      {
-        "quote": "DEAL deepseek-v4.1-flash usage: $100 on GOAT and Pro. through Oct 16th",
-        "url": "https://commandcode.ai/docs/resources/pricing-limits",
-        "snapshot": "snapshots/commandcode-pricing-limits/2026-10-13-1608-0cd5303e.json"
-      },
-      {
-        "quote": "DeepSeek V4.1 Flash gets $100 of monthly credits for three days, through October 16, 2026.",
-        "url": "https://commandcode.ai/docs/resources/pricing-limits",
-        "snapshot": "snapshots/commandcode-pricing-limits/2026-10-13-1608-0cd5303e.json"
-      },
-      {
-        "quote": "From October 13 at 7 AM PT until October 16 at 7 AM PT, DeepSeek V4.1 Flash&#x27;s per-model allowance is $100 on the $10 GOAT plan and $100 on the $20 Pro plan , up from $60 and $70. Per-token rates stay the same.",
-        "url": "https://commandcode.ai/docs/resources/pricing-limits",
-        "snapshot": "snapshots/commandcode-pricing-limits/2026-10-13-1608-0cd5303e.json"
-      },
-      {
-        "quote": "Applied automatically : pick deepseek-v4.1-flash from /model in the CLI and the bigger allowance is there. Nothing to turn on.",
-        "url": "https://commandcode.ai/docs/resources/pricing-limits",
-        "snapshot": "snapshots/commandcode-pricing-limits/2026-10-13-1608-0cd5303e.json"
-      },
-      {
-        "quote": "After the three days : the allowance stays raised, at $80 on GOAT and $90 on Pro.",
-        "url": "https://commandcode.ai/docs/resources/pricing-limits",
-        "snapshot": "snapshots/commandcode-pricing-limits/2026-10-13-1608-0cd5303e.json"
-      },
-      {
-        "quote": "GOAT ($10/mo) $60 $100 $80",
-        "url": "https://commandcode.ai/docs/resources/pricing-limits",
-        "snapshot": "snapshots/commandcode-pricing-limits/2026-10-13-1608-0cd5303e.json"
-      },
-      {
-        "quote": "Pro ($20/mo) $70 $100 $90",
-        "url": "https://commandcode.ai/docs/resources/pricing-limits",
-        "snapshot": "snapshots/commandcode-pricing-limits/2026-10-13-1608-0cd5303e.json"
-      }
-    ]
-  },
-  {
-    "schemaVersion": 0,
     "offerKey": "500ad25f1d6821d4",
     "occurredAt": "2026-10-14",
     "publishedAt": "2026-10-15T00:01:36.332066+00:00",
@@ -531,24 +462,29 @@
     "startsAtText": null,
     "expiresAt": null,
     "expiresAtText": null,
-    "restrictions": "页面标为限时优惠但未给出到期时间；团队套餐 Key 与平台其他 API Key 相互独立",
+    "restrictions": "页面标为限时优惠但未给出到期时间；个人套餐、团队套餐、模型标准 API 的新建 API Key 分开管理且互不通用。使用团队额度须在“团队编程套餐 > 我的套餐”中新建并使用团队套餐 Key。",
     "sourceId": "zhipu-coding-plan-team",
     "claimUrl": "https://docs.bigmodel.cn/cn/coding-plan/team",
     "facts": [
       {
         "quote": "（ 限时优惠 ：超出额度部分按模型 API 刊例价 的 9 折计费 ）",
         "url": "https://docs.bigmodel.cn/cn/coding-plan/team",
-        "snapshot": "snapshots/zhipu-coding-plan-team/2026-09-18-1440-2d45b591.json"
+        "snapshot": "snapshots/zhipu-coding-plan-team/2026-10-17-0001-7031c70a.json"
       },
       {
         "quote": "支持超额按量付费及预算控制 ：套餐额度用尽后，可开启按量计费继续使用服务",
         "url": "https://docs.bigmodel.cn/cn/coding-plan/team",
-        "snapshot": "snapshots/zhipu-coding-plan-team/2026-09-18-1440-2d45b591.json"
+        "snapshot": "snapshots/zhipu-coding-plan-team/2026-10-17-0001-7031c70a.json"
       },
       {
-        "quote": "请注意， 团队套餐 Key 与平台其他 API Key 相互独立",
+        "quote": "个人套餐、团队套餐、模型标准 API 的 API Key 已分开管理，新建的三种产品类型的 API Key 互不通用，请按需使用。",
         "url": "https://docs.bigmodel.cn/cn/coding-plan/team",
-        "snapshot": "snapshots/zhipu-coding-plan-team/2026-09-18-1440-2d45b591.json"
+        "snapshot": "snapshots/zhipu-coding-plan-team/2026-10-17-0001-7031c70a.json"
+      },
+      {
+        "quote": "团队套餐 Key 是 GLM Coding Plan 团队版专属的调用凭证。团队中的每位成员在收到席位分配邀请后，加入团队并进入后台 「团队编程套餐 > 我的套餐」 界面，即可新建自己的 Key。",
+        "url": "https://docs.bigmodel.cn/cn/coding-plan/team",
+        "snapshot": "snapshots/zhipu-coding-plan-team/2026-10-17-0001-7031c70a.json"
       }
     ],
     "baseline": "模型 API 刊例价",
@@ -2321,15 +2257,15 @@
   },
   {
     "schemaVersion": 0,
-    "offerKey": "0592505613f92022",
-    "occurredAt": "2026-10-11",
-    "publishedAt": "2026-10-11T00:00:00Z",
+    "offerKey": "2258374c95c6e702",
+    "occurredAt": "2026-10-17",
+    "publishedAt": "2026-10-17T00:03:17.973003+00:00",
     "verification": "auto_verified",
     "category": "creditsPromotion",
-    "vendor": "opencode",
-    "entity": "step-5-preview-free",
-    "amount": "Step 5 Preview Free: Free for a limited time.",
-    "eligibility": "limited time",
+    "vendor": "commandcode",
+    "entity": "beam-1-0-free",
+    "amount": "Beam 1.0 is free while capacity lasts.",
+    "eligibility": "while capacity lasts",
     "promotionType": "free",
     "appliesTo": [
       "model"
@@ -2340,25 +2276,20 @@
     "expiresAt": null,
     "expiresAtText": null,
     "howToClaim": "auto",
-    "restrictions": "官方标注限时免费，模型价格表显示 Free、月限制 Unlimited；未说明结束日期。",
+    "restrictions": "Command Code 的 Beam 1.0 在可用容量持续期间免费，无每日请求限制且不消耗 credits。提供方可能保留输入输出并训练，CMD_ZDR=1 会话不可用；官方未给固定结束日期。",
     "supersedes": null,
-    "sourceId": "opencode-go",
-    "claimUrl": "https://opencode.ai/v2/docs/console/go/",
+    "sourceId": "commandcode-pricing-limits",
+    "claimUrl": "https://commandcode.ai/docs/resources/pricing-limits",
     "facts": [
       {
-        "quote": "Step 5 Preview Free: Free for a limited time.",
-        "url": "https://opencode.ai/v2/docs/console/go/",
-        "snapshot": "snapshots/opencode-go/2026-10-13-0432-c9faae56.json"
+        "quote": "DEAL beam-free Beam 1.0 Free while capacity lasts\nauto-applied when you pick beam:free\nModel Beam 1.0\nBeam 1.0 is free while capacity lasts.\nBeam 1.0 is Reflection AI&#x27;s reasoning model for coding and agentic work, with a 1M token context and low, medium, high, xhigh, and max reasoning effort.\nNo daily request limit : use it as much as you like while the free tier lasts.\nKeep sensitive work elsewhere : the provider may keep your prompts and outputs and train on them, so Beam 1.0 won&#x27;t run in a CMD_ZDR=1 session.",
+        "url": "https://commandcode.ai/docs/resources/pricing-limits",
+        "snapshot": "snapshots/commandcode-pricing-limits/2026-10-16-2359-66dcae9d.json"
       },
       {
-        "quote": "Step 5 Preview Free Free Free Free - Unlimited",
-        "url": "https://opencode.ai/v2/docs/console/go/",
-        "snapshot": "snapshots/opencode-go/2026-10-13-0432-c9faae56.json"
-      },
-      {
-        "quote": "Step 5 Preview Free Unlimited Unlimited Unlimited",
-        "url": "https://opencode.ai/v2/docs/console/go/",
-        "snapshot": "snapshots/opencode-go/2026-10-13-0432-c9faae56.json"
+        "quote": "DEAL beam:free is free, with no daily request limit. Requests on this model cost no credits. while capacity lasts",
+        "url": "https://commandcode.ai/docs/resources/pricing-limits",
+        "snapshot": "snapshots/commandcode-pricing-limits/2026-10-16-2359-66dcae9d.json"
       }
     ],
     "quantity": null
@@ -2875,12 +2806,17 @@
       {
         "quote": "Pro ($20/mo) $110",
         "url": "https://commandcode.ai/docs/resources/pricing-limits",
-        "snapshot": "snapshots/commandcode-pricing-limits/2026-10-16-0008-452ca750.json"
+        "snapshot": "snapshots/commandcode-pricing-limits/2026-10-16-2359-66dcae9d.json"
       },
       {
-        "quote": "DEAL ling-3.1-flash-boosted-credits Ling 3.1 Flash Boosted credits\n$100 on GOAT\n$110 on Pro\nRates unchanged · auto-applied when you pick ling-3.1-flash\nModel Ling 3.1 Flash\nCredits $100 GOAT · $110 Pro\nLing 3.1 Flash comes with bigger monthly credits.\nYou get $100 of Ling 3.1 Flash on the $10 GOAT plan and $110 on the $20 Pro plan . Per-token prices stay the same, so your plan just buys a lot more Ling 3.1 Flash.\nAlready on : pick ling-3.1-flash from /model in the CLI and the bigger allowance is there. Nothing to turn on.\nGOAT and Pro : these are the plans with per-model allowances. Top-up credits bill at Ling 3.1 Flash&#x27;s regular rate, as always.\nPlan Boosted usage\nGOAT ($10/mo) $100\nPro ($20/mo) $110",
+        "quote": "DEAL ling-3.1-flash-boosted-credits Ling 3.1 Flash Boosted credits\n$100 on GOAT\n$110 on Pro\nRates unchanged · auto-applied when you pick ling-3.1-flash\nModel Ling 3.1 Flash\nCredits $100 GOAT · $110 Pro\nLing 3.1 Flash comes with bigger monthly credits.\nYou get $100 of Ling 3.1 Flash on the $10 GOAT plan and $110 on the $20 Pro plan . Per-token prices stay the same, so your plan just buys a lot more Ling 3.1 Flash.\nAlready on : pick ling-3.1-flash from /model in the CLI and the bigger allowance is there. Nothing to turn on.\nGOAT and Pro : these are the plans with per-model allowances. Top-up credits bill at Ling 3.1 Flash&#x27;s regular rate, as always.\nGOAT ($10/mo) $100\nPro ($20/mo) $110",
         "url": "https://commandcode.ai/docs/resources/pricing-limits",
-        "snapshot": "snapshots/commandcode-pricing-limits/2026-10-16-0008-452ca750.json"
+        "snapshot": "snapshots/commandcode-pricing-limits/2026-10-16-2359-66dcae9d.json"
+      },
+      {
+        "quote": "DEAL deepseek-v4.1-flash-boosted-credits DeepSeek V4.1 Flash Boosted credits with no end date\n$10 on Go\n$80 on GOAT\n$90 on Pro\nRates unchanged · auto-applied when you pick deepseek-v4.1-flash\nModel DeepSeek V4.1 Flash\nCredits $10 Go · $80 GOAT · $90 Pro\nEnds no end date\nDeepSeek V4.1 Flash carries permanently boosted monthly credits, with no end date.\nDeepSeek V4.1 Flash&#x27;s per-model allowance is boosted to $10 on the $1 Go plan (the plan&#x27;s full pool), $80 on the $10 GOAT plan and $90 on the $20 Pro plan . Per-token rates are unchanged: the same plan simply buys more of this model.\nApplied automatically : pick deepseek-v4.1-flash from /model in the CLI and the boosted allowance applies. Nothing to enable.\nGo, GOAT and Pro : the boost is a per-model allowance, so it lives on the plans that have them. Top-up credits bill at the model&#x27;s regular rate, as always.\nPlan Boosted usage\nGo ($1/mo) $10\nGOAT ($10/mo) $80\nPro ($20/mo) $90",
+        "url": "https://commandcode.ai/docs/resources/pricing-limits",
+        "snapshot": "snapshots/commandcode-pricing-limits/2026-10-16-2359-66dcae9d.json"
       }
     ],
     "supersedes": null,
@@ -2900,6 +2836,14 @@
           "period": "month",
           "text": "$110",
           "fact": 1
+        },
+        {
+          "model": "DeepSeek V4.1 Flash",
+          "value": 90,
+          "currency": "USD",
+          "period": "month",
+          "text": "$90",
+          "fact": 2
         }
       ],
       "limits": {
@@ -2907,11 +2851,56 @@
         "en": "Rolling 5-hour and weekly plan windows also apply; consult official plan caps."
       },
       "notes": {
-        "zh": "Ling 3.1 Flash 模型月用量等值 $110；选择该模型自动适用，单价不变，额外充值按常规费率另计。不是额外发放可累加余额；来源未说明结束时间。",
-        "en": "Ling 3.1 Flash monthly usage equivalent is $110, applied automatically at unchanged per-token rates. Top-ups use regular rates. This is not an additional balance; no end date is stated."
+        "zh": "Ling 3.1 Flash 模型月用量等值 $110；选择该模型自动适用，单价不变，额外充值按常规费率另计。不是额外发放可累加余额；来源未说明结束时间。 DeepSeek V4.1 Flash 长期提升后的月用量等值为 $90，官方明确无结束日期；两模型用量不是可相加余额。",
+        "en": "Ling 3.1 Flash monthly usage equivalent is $110, applied automatically at unchanged per-token rates. Top-ups use regular rates. This is not an additional balance; no end date is stated. DeepSeek V4.1 Flash has a permanently boosted $90 monthly usage equivalent, with no end date. Model allowances must not be added."
       }
     },
-    "restrictions": "套餐另有滚动 5 小时及周窗口，具体额度以官方计划窗口为准。 Ling 3.1 Flash 模型月用量等值 $110；选择该模型自动适用，单价不变，额外充值按常规费率另计。不是额外发放可累加余额；来源未说明结束时间。",
+    "restrictions": "套餐另有滚动 5 小时及周窗口，具体额度以官方计划窗口为准。 Ling 3.1 Flash 模型月用量等值 $110；选择该模型自动适用，单价不变，额外充值按常规费率另计。不是额外发放可累加余额；来源未说明结束时间。 DeepSeek V4.1 Flash 长期提升后的月用量等值为 $90，官方明确无结束日期；两模型用量不是可相加余额。",
+    "quantity": null
+  },
+  {
+    "schemaVersion": 0,
+    "offerKey": "ad1579e88624c783",
+    "occurredAt": "2026-10-17",
+    "publishedAt": "2026-10-17T00:03:17.973003+00:00",
+    "verification": "auto_verified",
+    "category": "creditsPromotion",
+    "vendor": "deepseek",
+    "entity": "deepseek-search-native-tools",
+    "amount": "will not incur Search API request fees",
+    "eligibility": "Web search in Claude Code and Codex",
+    "promotionType": "free",
+    "appliesTo": [
+      "agent",
+      "apiCredit"
+    ],
+    "baseline": null,
+    "startsAt": null,
+    "startsAtText": null,
+    "expiresAt": null,
+    "expiresAtText": null,
+    "howToClaim": "auto",
+    "restrictions": "仅 Claude Code 内置 Web Search 或 Codex web_search 发起的 Search 请求，在 Search API 上线后的前两周免 Search API 请求费；不代表模型 Token 或 Fetch API 免费。随后按标准 Search API 价格收费，官方将另行公布开始计费日期，未给可归一化的起止日期。",
+    "supersedes": null,
+    "sourceId": "deepseek-pricing",
+    "claimUrl": "https://api-docs.deepseek.com/quick_start/pricing/",
+    "facts": [
+      {
+        "quote": "Web search in Claude Code and Codex: Search requests made through Claude Code&#x27;s built-in Web Search tool or Codex&#x27;s web_search feature will not incur Search API request fees during the first two weeks after the Search API launch. Standard Search API pricing applies after that period; the billing start date will be announced separately.",
+        "url": "https://api-docs.deepseek.com/quick_start/pricing/",
+        "snapshot": "snapshots/deepseek-pricing/2026-10-16-2359-8cf24508.json"
+      },
+      {
+        "quote": "Search Per 1,000 successful requests $0.75",
+        "url": "https://api-docs.deepseek.com/quick_start/pricing/",
+        "snapshot": "snapshots/deepseek-pricing/2026-10-16-2359-8cf24508.json"
+      },
+      {
+        "quote": "Fetch Per 1,000 successful requests $0.75",
+        "url": "https://api-docs.deepseek.com/quick_start/pricing/",
+        "snapshot": "snapshots/deepseek-pricing/2026-10-16-2359-8cf24508.json"
+      }
+    ],
     "quantity": null
   },
   {
@@ -2944,77 +2933,77 @@
       {
         "quote": "unlimited coding on 30+ top open and closed models for $10/month",
         "url": "https://commandcode.ai/docs/plans/goat",
-        "snapshot": "snapshots/commandcode-goat/2026-10-16-0008-d2b38ddf.json"
+        "snapshot": "snapshots/commandcode-goat/2026-10-16-2359-72a31f0f.json"
       },
       {
         "quote": "GLM-5.2 $1.40 $4.40 $0.26 - $70",
         "url": "https://commandcode.ai/docs/plans/goat",
-        "snapshot": "snapshots/commandcode-goat/2026-10-16-0008-d2b38ddf.json"
+        "snapshot": "snapshots/commandcode-goat/2026-10-16-2359-72a31f0f.json"
       },
       {
-        "quote": "DeepSeek V4.1 Flash $0.15 $0.60 $0.003 - $80 $100 through Oct 16th",
+        "quote": "DeepSeek V4.1 Flash $0.15 $0.60 $0.003 - $80",
         "url": "https://commandcode.ai/docs/plans/goat",
-        "snapshot": "snapshots/commandcode-goat/2026-10-16-0008-d2b38ddf.json"
+        "snapshot": "snapshots/commandcode-goat/2026-10-16-2359-72a31f0f.json"
       },
       {
         "quote": "MiMo V2.5 Pro $0.435 $0.87 $0.0036 - $20",
         "url": "https://commandcode.ai/docs/plans/goat",
-        "snapshot": "snapshots/commandcode-goat/2026-10-16-0008-d2b38ddf.json"
+        "snapshot": "snapshots/commandcode-goat/2026-10-16-2359-72a31f0f.json"
       },
       {
         "quote": "5-hour limit - $14 of usage\nWeekly limit - $35 of usage\nMonthly limit - $70 of usage",
         "url": "https://commandcode.ai/docs/plans/goat",
-        "snapshot": "snapshots/commandcode-goat/2026-10-16-0008-d2b38ddf.json"
+        "snapshot": "snapshots/commandcode-goat/2026-10-16-2359-72a31f0f.json"
       },
       {
         "quote": "The GOAT plan has API access. You call the Provider API endpoints with your Command Code API key, and usage is metered against your GOAT credits and the models included above.",
         "url": "https://commandcode.ai/docs/plans/goat",
-        "snapshot": "snapshots/commandcode-goat/2026-10-16-0008-d2b38ddf.json"
+        "snapshot": "snapshots/commandcode-goat/2026-10-16-2359-72a31f0f.json"
       },
       {
-        "quote": "After the three days : the allowance stays raised, at $80 on GOAT and $90 on Pro.",
+        "quote": "DeepSeek V4.1 Flash carries permanently boosted monthly credits, with no end date.",
         "url": "https://commandcode.ai/docs/resources/pricing-limits",
-        "snapshot": "snapshots/commandcode-pricing-limits/2026-10-16-0008-452ca750.json"
+        "snapshot": "snapshots/commandcode-pricing-limits/2026-10-16-2359-66dcae9d.json"
       },
       {
-        "quote": "From October 13 at 7 AM PT until October 16 at 7 AM PT, DeepSeek V4.1 Flash&#x27;s per-model allowance is $100 on the $10 GOAT plan and $100 on the $20 Pro plan , up from $60 and $70. Per-token rates stay the same.",
+        "quote": "DEAL deepseek-v4.1-flash-boosted-credits DeepSeek V4.1 Flash Boosted credits with no end date\n$10 on Go\n$80 on GOAT\n$90 on Pro\nRates unchanged · auto-applied when you pick deepseek-v4.1-flash\nModel DeepSeek V4.1 Flash\nCredits $10 Go · $80 GOAT · $90 Pro\nEnds no end date\nDeepSeek V4.1 Flash carries permanently boosted monthly credits, with no end date.\nDeepSeek V4.1 Flash&#x27;s per-model allowance is boosted to $10 on the $1 Go plan (the plan&#x27;s full pool), $80 on the $10 GOAT plan and $90 on the $20 Pro plan . Per-token rates are unchanged: the same plan simply buys more of this model.\nApplied automatically : pick deepseek-v4.1-flash from /model in the CLI and the boosted allowance applies. Nothing to enable.\nGo, GOAT and Pro : the boost is a per-model allowance, so it lives on the plans that have them. Top-up credits bill at the model&#x27;s regular rate, as always.\nPlan Boosted usage\nGo ($1/mo) $10\nGOAT ($10/mo) $80\nPro ($20/mo) $90",
         "url": "https://commandcode.ai/docs/resources/pricing-limits",
-        "snapshot": "snapshots/commandcode-pricing-limits/2026-10-16-0008-452ca750.json"
+        "snapshot": "snapshots/commandcode-pricing-limits/2026-10-16-2359-66dcae9d.json"
       },
       {
         "quote": "Your $10 buys $80 of credits - an 8x multiplier",
         "url": "https://commandcode.ai/docs/plans/goat",
-        "snapshot": "snapshots/commandcode-goat/2026-10-16-0008-d2b38ddf.json"
+        "snapshot": "snapshots/commandcode-goat/2026-10-16-2359-72a31f0f.json"
       },
       {
         "quote": "GLM-5.3 Flash $0.15 $0.50 $0.03 - $80 $100 through Oct 17th",
         "url": "https://commandcode.ai/docs/plans/goat",
-        "snapshot": "snapshots/commandcode-goat/2026-10-16-0008-d2b38ddf.json"
+        "snapshot": "snapshots/commandcode-goat/2026-10-16-2359-72a31f0f.json"
       },
       {
         "quote": "From October 14 at 5:30 AM PT until October 17 at 5:30 AM PT, GLM-5.3 Flash&#x27;s per-model allowance is $100 on the $10 GOAT plan and $100 on the $20 Pro plan , up from $60 and $70. Per-token rates stay the same.",
         "url": "https://commandcode.ai/docs/resources/pricing-limits",
-        "snapshot": "snapshots/commandcode-pricing-limits/2026-10-16-0008-452ca750.json"
+        "snapshot": "snapshots/commandcode-pricing-limits/2026-10-16-2359-66dcae9d.json"
       },
       {
         "quote": "Ling 3.1 Flash $0.30 $0.90 $0.06 - $100",
         "url": "https://commandcode.ai/docs/plans/goat",
-        "snapshot": "snapshots/commandcode-goat/2026-10-16-0008-d2b38ddf.json"
+        "snapshot": "snapshots/commandcode-goat/2026-10-16-2359-72a31f0f.json"
       },
       {
         "quote": "GPT-5.6 Sol $5.00 $30.00 $0.50 $6.25 $20",
         "url": "https://commandcode.ai/docs/plans/goat",
-        "snapshot": "snapshots/commandcode-goat/2026-10-16-0008-d2b38ddf.json"
+        "snapshot": "snapshots/commandcode-goat/2026-10-16-2359-72a31f0f.json"
       },
       {
         "quote": "Muse Spark Open $1.25 $4.25 $0.15 - $20",
         "url": "https://commandcode.ai/docs/plans/goat",
-        "snapshot": "snapshots/commandcode-goat/2026-10-16-0008-d2b38ddf.json"
+        "snapshot": "snapshots/commandcode-goat/2026-10-16-2359-72a31f0f.json"
       },
       {
         "quote": "Nemotron 3.5 Super VL $0.20 $0.50 $0.04 - $20",
         "url": "https://commandcode.ai/docs/plans/goat",
-        "snapshot": "snapshots/commandcode-goat/2026-10-16-0008-d2b38ddf.json"
+        "snapshot": "snapshots/commandcode-goat/2026-10-16-2359-72a31f0f.json"
       }
     ],
     "supersedes": null,
@@ -3037,10 +3026,10 @@
         },
         {
           "model": "DeepSeek V4.1 Flash",
-          "value": 100,
+          "value": 80,
           "currency": "USD",
           "period": "month",
-          "text": "$100",
+          "text": "$80",
           "fact": 2
         },
         {
@@ -3097,11 +3086,11 @@
         "en": "$14 per 5 hours, $35 per week, $70 per month; usable volume varies by model pricing."
       },
       "notes": {
-        "zh": "列出的是示例模型月用量，不是各模型独立余额；不可相加。CLI 与 API 使用套餐额度，额外购买的积分另计。 DeepSeek V4.1 Flash 当前临时月用量等值 $100，官方标注“$100 through Oct 16th”；结束后为 $80。官方 Pricing & Limits 指定结束时间为 October 16 at 7 AM PT。 套餐宣传现标注 $10 对应 $80 credits；官方窗口仍列 $14/$35/$70，以窗口限制为准，不能将宣传额度替代窗口限制。 GLM-5.3 Flash 当前限时月用量等值 $100，官方标注“$100 through Oct 17th”；活动页指定截至 October 17 at 5:30 AM PT。 本轮官方表新增展示 Ling 3.1 Flash $100、GPT-5.6 Sol $20、Muse Spark Open $20 及 Nemotron 3.5 Super VL $20 月用量等值；各模型额度不可相加。",
-        "en": "These are example monthly usage equivalents, not separate balances per model. CLI and API use plan credits; purchased top-ups are separate. DeepSeek V4.1 Flash currently has \"$100 through Oct 16th\", then $80. Pricing & Limits specifies October 16 at 7 AM PT. The plan now advertises $80 credits for $10, while its listed usage windows remain $14/$35/$70; the advertised credits do not replace window caps. GLM-5.3 Flash currently lists \"$100 through Oct 17th\"; the deal page ends at October 17 at 5:30 AM PT. Current rows show Ling 3.1 Flash $100, GPT-5.6 Sol $20, Muse Spark Open $20 and Nemotron 3.5 Super VL $20 monthly usage equivalents; do not add model allowances."
+        "zh": "列出的是示例模型月用量，不是各模型独立余额；不可相加。CLI 与 API 使用套餐额度，额外购买的积分另计。 DeepSeek V4.1 Flash 三天 $100 活动已结束，现为长期提升后的 $80 月用量等值；官方明确无结束日期。 套餐宣传现标注 $10 对应 $80 credits；官方窗口仍列 $14/$35/$70，以窗口限制为准，不能将宣传额度替代窗口限制。 GLM-5.3 Flash 当前限时月用量等值 $100，官方标注“$100 through Oct 17th”；活动页指定截至 October 17 at 5:30 AM PT。 本轮官方表新增展示 Ling 3.1 Flash $100、GPT-5.6 Sol $20、Muse Spark Open $20 及 Nemotron 3.5 Super VL $20 月用量等值；各模型额度不可相加。",
+        "en": "These are example monthly usage equivalents, not separate balances per model. CLI and API use plan credits; purchased top-ups are separate. The three-day $100 DeepSeek V4.1 Flash deal has ended. Its permanently boosted monthly usage equivalent is now $80, with no end date. The plan now advertises $80 credits for $10, while its listed usage windows remain $14/$35/$70; the advertised credits do not replace window caps. GLM-5.3 Flash currently lists \"$100 through Oct 17th\"; the deal page ends at October 17 at 5:30 AM PT. Current rows show Ling 3.1 Flash $100, GPT-5.6 Sol $20, Muse Spark Open $20 and Nemotron 3.5 Super VL $20 monthly usage equivalents; do not add model allowances."
       }
     },
-    "restrictions": "5 小时 $14、每周 $35、每月 $70 的窗口；实际可用量随模型计价不同。 列出的是示例模型月用量，不是各模型独立余额；不可相加。CLI 与 API 使用套餐额度，额外购买的积分另计。 DeepSeek V4.1 Flash 当前临时月用量等值 $100，官方标注“$100 through Oct 16th”；结束后为 $80。官方 Pricing & Limits 指定结束时间为 October 16 at 7 AM PT。 套餐宣传现标注 $10 对应 $80 credits；官方窗口仍列 $14/$35/$70，以窗口限制为准，不能将宣传额度替代窗口限制。 GLM-5.3 Flash 当前限时月用量等值 $100，官方标注“$100 through Oct 17th”；活动页指定截至 October 17 at 5:30 AM PT。 本轮官方表新增展示 Ling 3.1 Flash $100、GPT-5.6 Sol $20、Muse Spark Open $20 及 Nemotron 3.5 Super VL $20 月用量等值；各模型额度不可相加。",
+    "restrictions": "5 小时 $14、每周 $35、每月 $70 的窗口；实际可用量随模型计价不同。 列出的是示例模型月用量，不是各模型独立余额；不可相加。CLI 与 API 使用套餐额度，额外购买的积分另计。 DeepSeek V4.1 Flash 三天 $100 活动已结束，现为长期提升后的 $80 月用量等值；官方明确无结束日期。 套餐宣传现标注 $10 对应 $80 credits；官方窗口仍列 $14/$35/$70，以窗口限制为准，不能将宣传额度替代窗口限制。 GLM-5.3 Flash 当前限时月用量等值 $100，官方标注“$100 through Oct 17th”；活动页指定截至 October 17 at 5:30 AM PT。 本轮官方表新增展示 Ling 3.1 Flash $100、GPT-5.6 Sol $20、Muse Spark Open $20 及 Nemotron 3.5 Super VL $20 月用量等值；各模型额度不可相加。",
     "quantity": null
   },
   {
@@ -3216,6 +3205,50 @@
       }
     },
     "restrictions": "Design Plan 每 7 天窗口最高 $40，无 5 小时窗口限制；另含 $20 常规模型额度，不受上述窗口限制。 Design Plan 共用额度，DeepSeek V4.1 Flash 为双倍用量折算，不增加共享余额。另含 $20 常规模型额度；平台与 API 共用。首月 $16，续费 $20/月；年付 $168。",
+    "quantity": null
+  },
+  {
+    "schemaVersion": 0,
+    "offerKey": "b39b5d2f0db4fbc2",
+    "occurredAt": "2026-10-17",
+    "publishedAt": "2026-10-17T00:03:17.973003+00:00",
+    "verification": "auto_verified",
+    "category": "creditsPromotion",
+    "vendor": "opencode",
+    "entity": "beam-free",
+    "amount": "Beam Free: Free for a limited time.",
+    "eligibility": "limited time",
+    "promotionType": "free",
+    "appliesTo": [
+      "model"
+    ],
+    "baseline": null,
+    "startsAt": null,
+    "startsAtText": null,
+    "expiresAt": null,
+    "expiresAtText": null,
+    "howToClaim": "auto",
+    "restrictions": "OpenCode Go 的 Beam Free 限时免费、月限制 Unlimited；不支持中国（含香港、澳门）及官方列出的其他地区。官方表明不用于训练，留存 30 天。结束日期未说明。",
+    "supersedes": null,
+    "sourceId": "opencode-go",
+    "claimUrl": "https://opencode.ai/v2/docs/console/go/",
+    "facts": [
+      {
+        "quote": "Beam Free: Free for a limited time. Not available in Angola, Belarus, Cambodia, China (including Hong Kong and Macau), Cuba, the Democratic Republic of the Congo, Equatorial Guinea, Iran, Iraq, Laos, Libya, Nigeria, North Korea, Russia, Syria, Turkmenistan, Uzbekistan, Venezuela, or the Crimea, Donetsk, and Luhansk regions of Ukraine.",
+        "url": "https://opencode.ai/v2/docs/console/go/",
+        "snapshot": "snapshots/opencode-go/2026-10-16-2359-8d7976ee.json"
+      },
+      {
+        "quote": "Beam Free Free Free Free - Unlimited",
+        "url": "https://opencode.ai/v2/docs/console/go/",
+        "snapshot": "snapshots/opencode-go/2026-10-16-2359-8d7976ee.json"
+      },
+      {
+        "quote": "Beam Free Not used 30 days",
+        "url": "https://opencode.ai/v2/docs/console/go/",
+        "snapshot": "snapshots/opencode-go/2026-10-16-2359-8d7976ee.json"
+      }
+    ],
     "quantity": null
   },
   {

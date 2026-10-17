@@ -51,7 +51,7 @@
     }
   ],
   "meta": {
-    "as_of": "2026-10-16",
+    "as_of": "2026-10-17",
     "benchmark": "AAII v4.3.2",
     "frontier": {
       "date": "2026-09-22",
@@ -354,8 +354,8 @@
           "anchor_gens": null,
           "beyond_pool": false,
           "gap_days": null,
-          "score": null,
-          "status": "unmeasured"
+          "score": 48.8,
+          "status": "no_timeline"
         },
         "coding": {
           "anchor_gens": 5,
@@ -514,7 +514,7 @@
         "agent": {
           "anchor_gens": 4,
           "beyond_pool": true,
-          "gap_days": 323,
+          "gap_days": 324,
           "score": 18.4,
           "status": "estimated"
         },
@@ -570,7 +570,7 @@
         "agent": {
           "anchor_gens": 4,
           "beyond_pool": false,
-          "gap_days": 76,
+          "gap_days": 77,
           "score": 37.4,
           "status": "estimated"
         },
@@ -627,7 +627,7 @@
           "anchor_gens": 4,
           "beyond_pool": false,
           "gap_days": 103,
-          "score": 35.4,
+          "score": 35.3,
           "status": "estimated"
         },
         "analysis": {
