@@ -113,6 +113,56 @@
   },
   {
     "schemaVersion": 0,
+    "offerKey": "ad1579e88624c783",
+    "occurredAt": "2026-10-17",
+    "publishedAt": "2026-10-17T00:03:17.973003+00:00",
+    "verification": "auto_verified",
+    "category": "creditsPromotion",
+    "vendor": "deepseek",
+    "entity": "deepseek-search-native-tools",
+    "amount": "These calls are currently free of charge",
+    "eligibility": "DeepSeek Harness, Claude Code, or Codex",
+    "promotionType": "free",
+    "appliesTo": [
+      "agent",
+      "apiCredit"
+    ],
+    "baseline": null,
+    "startsAt": null,
+    "startsAtText": null,
+    "expiresAt": "2026-10-31T16:00:00Z",
+    "expiresAtText": "per-request billing starts at 00:00 Beijing time on November 1, 2026.",
+    "howToClaim": "auto",
+    "restrictions": "通过 DeepSeek API 在 DeepSeek Harness、Claude Code 或 Codex 中发起的服务端 Search 和 Fetch 工具调用当前免请求费；北京时间 2026 年 11 月 1 日 00:00 起开始按请求计费，Search 和 Fetch 标准价均为每 1,000 次成功请求 $0.75。本条不代表模型 Token 免费，也不将该工具规则扩展为所有独立 API 请求免费。",
+    "supersedes": null,
+    "sourceId": "deepseek-pricing",
+    "claimUrl": "https://api-docs.deepseek.com/quick_start/pricing/",
+    "facts": [
+      {
+        "quote": "Note: when you use the DeepSeek API through DeepSeek Harness, Claude Code, or Codex, server-side tool calls already hit the Search and Fetch APIs. These calls are currently free of charge; per-request billing starts at 00:00 Beijing time on November 1, 2026.",
+        "url": "https://api-docs.deepseek.com/quick_start/pricing/",
+        "snapshot": "snapshots/deepseek-pricing/2026-10-17-1207-b1f19d06.json"
+      },
+      {
+        "quote": "Search Per 1,000 successful requests $0.75",
+        "url": "https://api-docs.deepseek.com/quick_start/pricing/",
+        "snapshot": "snapshots/deepseek-pricing/2026-10-17-1207-b1f19d06.json"
+      },
+      {
+        "quote": "Fetch Per 1,000 successful requests $0.75",
+        "url": "https://api-docs.deepseek.com/quick_start/pricing/",
+        "snapshot": "snapshots/deepseek-pricing/2026-10-17-1207-b1f19d06.json"
+      },
+      {
+        "quote": "For model usage, the expense = number of tokens × price. Search and Fetch are charged per successful request at the rates above.",
+        "url": "https://api-docs.deepseek.com/quick_start/pricing/",
+        "snapshot": "snapshots/deepseek-pricing/2026-10-17-1207-b1f19d06.json"
+      }
+    ],
+    "quantity": null
+  },
+  {
+    "schemaVersion": 0,
     "occurredAt": "2026-09-18",
     "publishedAt": "2026-09-18T17:38:00Z",
     "verification": "auto_verified",
@@ -2728,51 +2778,6 @@
       }
     },
     "restrictions": "套餐另有滚动 5 小时及周窗口，具体额度以官方计划窗口为准。 Ling 3.1 Flash 模型月用量等值 $110；选择该模型自动适用，单价不变，额外充值按常规费率另计。不是额外发放可累加余额；来源未说明结束时间。 DeepSeek V4.1 Flash 长期提升后的月用量等值为 $90，官方明确无结束日期；两模型用量不是可相加余额。",
-    "quantity": null
-  },
-  {
-    "schemaVersion": 0,
-    "offerKey": "ad1579e88624c783",
-    "occurredAt": "2026-10-17",
-    "publishedAt": "2026-10-17T00:03:17.973003+00:00",
-    "verification": "auto_verified",
-    "category": "creditsPromotion",
-    "vendor": "deepseek",
-    "entity": "deepseek-search-native-tools",
-    "amount": "will not incur Search API request fees",
-    "eligibility": "Web search in Claude Code and Codex",
-    "promotionType": "free",
-    "appliesTo": [
-      "agent",
-      "apiCredit"
-    ],
-    "baseline": null,
-    "startsAt": null,
-    "startsAtText": null,
-    "expiresAt": null,
-    "expiresAtText": null,
-    "howToClaim": "auto",
-    "restrictions": "仅 Claude Code 内置 Web Search 或 Codex web_search 发起的 Search 请求，在 Search API 上线后的前两周免 Search API 请求费；不代表模型 Token 或 Fetch API 免费。随后按标准 Search API 价格收费，官方将另行公布开始计费日期，未给可归一化的起止日期。",
-    "supersedes": null,
-    "sourceId": "deepseek-pricing",
-    "claimUrl": "https://api-docs.deepseek.com/quick_start/pricing/",
-    "facts": [
-      {
-        "quote": "Web search in Claude Code and Codex: Search requests made through Claude Code&#x27;s built-in Web Search tool or Codex&#x27;s web_search feature will not incur Search API request fees during the first two weeks after the Search API launch. Standard Search API pricing applies after that period; the billing start date will be announced separately.",
-        "url": "https://api-docs.deepseek.com/quick_start/pricing/",
-        "snapshot": "snapshots/deepseek-pricing/2026-10-16-2359-8cf24508.json"
-      },
-      {
-        "quote": "Search Per 1,000 successful requests $0.75",
-        "url": "https://api-docs.deepseek.com/quick_start/pricing/",
-        "snapshot": "snapshots/deepseek-pricing/2026-10-16-2359-8cf24508.json"
-      },
-      {
-        "quote": "Fetch Per 1,000 successful requests $0.75",
-        "url": "https://api-docs.deepseek.com/quick_start/pricing/",
-        "snapshot": "snapshots/deepseek-pricing/2026-10-16-2359-8cf24508.json"
-      }
-    ],
     "quantity": null
   },
   {
