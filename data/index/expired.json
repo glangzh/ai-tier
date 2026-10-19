@@ -1,69 +1,6 @@
 [
   {
     "schemaVersion": 0,
-    "offerKey": "0592505613f92022",
-    "occurredAt": "2026-10-11",
-    "publishedAt": "2026-10-11T00:00:00Z",
-    "verification": "auto_verified",
-    "category": "creditsPromotion",
-    "vendor": "opencode",
-    "entity": "step-5-preview-free",
-    "amount": "Step 5 Preview Free: 限时免费。",
-    "eligibility": "限时",
-    "promotionType": "free",
-    "appliesTo": [
-      "model"
-    ],
-    "baseline": null,
-    "startsAt": null,
-    "startsAtText": null,
-    "expiresAt": null,
-    "expiresAtText": null,
-    "howToClaim": "auto",
-    "restrictions": "来源未说明结束日期。",
-    "supersedes": null,
-    "sourceId": "opencode-go",
-    "claimUrl": "https://opencode.ai/docs/zh-cn/go/",
-    "facts": [
-      {
-        "quote": "LongCat 2.5 Preview Free （限时）",
-        "url": "https://opencode.ai/docs/zh-cn/go/",
-        "snapshot": "snapshots/opencode-go/2026-10-10-1135-338c7735.json"
-      },
-      {
-        "quote": "Step 5 Preview Free （限时）",
-        "url": "https://opencode.ai/docs/zh-cn/go/",
-        "snapshot": "snapshots/opencode-go/2026-10-10-1135-338c7735.json"
-      },
-      {
-        "quote": "限时",
-        "url": "https://opencode.ai/docs/zh-cn/go/",
-        "snapshot": "snapshots/opencode-go/2026-10-10-1135-338c7735.json"
-      },
-      {
-        "quote": "LongCat 2.5 Preview Free: 限时免费。",
-        "url": "https://opencode.ai/docs/zh-cn/go/",
-        "snapshot": "snapshots/opencode-go/2026-10-10-1135-338c7735.json"
-      },
-      {
-        "quote": "Step 5 Preview Free: 限时免费。",
-        "url": "https://opencode.ai/docs/zh-cn/go/",
-        "snapshot": "snapshots/opencode-go/2026-10-10-1135-338c7735.json"
-      },
-      {
-        "quote": "规则",
-        "url": "https://opencode.ai/docs/zh-cn/go/",
-        "snapshot": "snapshots/opencode-go/2026-10-10-1135-338c7735.json"
-      }
-    ],
-    "withdrawn": {
-      "reason": "项目失效复查连续三轮确认原 Step 5 Preview Free 免费条目原文缺失；官方现列为付费 Step 5 Preview，已过项目连续3次失效判据。",
-      "at": "2026-10-17"
-    },
-    "quantity": null
-  },
-  {
-    "schemaVersion": 0,
     "offerKey": "0db2ea055081bb08",
     "occurredAt": "2026-09-20",
     "publishedAt": "2026-09-20T07:11:48.866Z",
@@ -228,75 +165,6 @@
   },
   {
     "schemaVersion": 0,
-    "offerKey": "1c352787511d2b23",
-    "occurredAt": "2026-10-13",
-    "publishedAt": "2026-10-13T16:13:54.940503+00:00",
-    "verification": "auto_verified",
-    "category": "creditsPromotion",
-    "promotionType": "discount",
-    "vendor": "commandcode",
-    "entity": "commandcode-deepseek-v4.1-flash",
-    "planName": "Command Code GOAT / Pro",
-    "appliesTo": [
-      "model",
-      "subscription"
-    ],
-    "planKind": "tokenPlan",
-    "amount": "$100 on GOAT and Pro",
-    "eligibility": "pick deepseek-v4.1-flash from /model",
-    "baseline": "$60 and $70",
-    "howToClaim": "auto",
-    "startsAt": "2026-10-13T07:00:00-07:00",
-    "startsAtText": "October 13 at 7 AM PT",
-    "expiresAt": "2026-10-16T07:00:00-07:00",
-    "expiresAtText": "October 16 at 7 AM PT",
-    "claimUrl": "https://commandcode.ai/docs/resources/pricing-limits",
-    "sourceId": "commandcode-pricing-limits",
-    "region": null,
-    "supersedes": null,
-    "quantity": null,
-    "validityText": "through October 16, 2026",
-    "restrictions": "DeepSeek V4.1 Flash 月用量等值临时提高至 $100，适用 $10/月 GOAT 与 $20/月 Pro；Token 单价不变，CLI 选择该模型自动生效。官方指定 10 月 13 日至 16 日均为太平洋时间早上 7 点；结束后 GOAT 保持 $80、Pro 保持 $90，不是额外充值余额。",
-    "facts": [
-      {
-        "quote": "DEAL deepseek-v4.1-flash usage: $100 on GOAT and Pro. through Oct 16th",
-        "url": "https://commandcode.ai/docs/resources/pricing-limits",
-        "snapshot": "snapshots/commandcode-pricing-limits/2026-10-13-1608-0cd5303e.json"
-      },
-      {
-        "quote": "DeepSeek V4.1 Flash gets $100 of monthly credits for three days, through October 16, 2026.",
-        "url": "https://commandcode.ai/docs/resources/pricing-limits",
-        "snapshot": "snapshots/commandcode-pricing-limits/2026-10-13-1608-0cd5303e.json"
-      },
-      {
-        "quote": "From October 13 at 7 AM PT until October 16 at 7 AM PT, DeepSeek V4.1 Flash&#x27;s per-model allowance is $100 on the $10 GOAT plan and $100 on the $20 Pro plan , up from $60 and $70. Per-token rates stay the same.",
-        "url": "https://commandcode.ai/docs/resources/pricing-limits",
-        "snapshot": "snapshots/commandcode-pricing-limits/2026-10-13-1608-0cd5303e.json"
-      },
-      {
-        "quote": "Applied automatically : pick deepseek-v4.1-flash from /model in the CLI and the bigger allowance is there. Nothing to turn on.",
-        "url": "https://commandcode.ai/docs/resources/pricing-limits",
-        "snapshot": "snapshots/commandcode-pricing-limits/2026-10-13-1608-0cd5303e.json"
-      },
-      {
-        "quote": "After the three days : the allowance stays raised, at $80 on GOAT and $90 on Pro.",
-        "url": "https://commandcode.ai/docs/resources/pricing-limits",
-        "snapshot": "snapshots/commandcode-pricing-limits/2026-10-13-1608-0cd5303e.json"
-      },
-      {
-        "quote": "GOAT ($10/mo) $60 $100 $80",
-        "url": "https://commandcode.ai/docs/resources/pricing-limits",
-        "snapshot": "snapshots/commandcode-pricing-limits/2026-10-13-1608-0cd5303e.json"
-      },
-      {
-        "quote": "Pro ($20/mo) $70 $100 $90",
-        "url": "https://commandcode.ai/docs/resources/pricing-limits",
-        "snapshot": "snapshots/commandcode-pricing-limits/2026-10-13-1608-0cd5303e.json"
-      }
-    ]
-  },
-  {
-    "schemaVersion": 0,
     "offerKey": "302b0998e67d0345",
     "occurredAt": "2026-09-20",
     "publishedAt": "2026-09-20T07:11:48.866Z",
@@ -430,60 +298,6 @@
     ],
     "baseline": "0.8 倍",
     "quantity": null
-  },
-  {
-    "schemaVersion": 0,
-    "offerKey": "500ad25f1d6821d4",
-    "occurredAt": "2026-10-14",
-    "publishedAt": "2026-10-15T00:01:36.332066+00:00",
-    "verification": "auto_verified",
-    "category": "creditsPromotion",
-    "promotionType": "discount",
-    "vendor": "commandcode",
-    "entity": "commandcode-glm-5.3-flash",
-    "planName": "Command Code GOAT / Pro",
-    "appliesTo": [
-      "model",
-      "subscription"
-    ],
-    "planKind": "tokenPlan",
-    "amount": "$100 on GOAT and Pro",
-    "eligibility": "pick glm-5.3-flash from /model",
-    "baseline": "$60 and $70",
-    "howToClaim": "auto",
-    "startsAt": "2026-10-14T05:30:00-07:00",
-    "startsAtText": "October 14 at 5:30 AM PT",
-    "expiresAt": "2026-10-17T05:30:00-07:00",
-    "expiresAtText": "October 17 at 5:30 AM PT",
-    "claimUrl": "https://commandcode.ai/docs/resources/pricing-limits",
-    "sourceId": "commandcode-pricing-limits",
-    "region": null,
-    "supersedes": null,
-    "quantity": null,
-    "validityText": "through October 17, 2026",
-    "restrictions": "GLM-5.3 Flash 月用量等值临时提高至 $100，适用 $10/月 GOAT 与 $20/月 Pro，原额度分别 $60、$70；Token 单价不变，CLI 选择该模型自动生效。活动时间为太平洋时间 10 月 14 日 05:30 至 17 日 05:30，不是额外充值余额。",
-    "facts": [
-      {
-        "quote": "DEAL glm-5.3-flash usage: $100 on GOAT and Pro. through Oct 17th",
-        "url": "https://commandcode.ai/docs/resources/pricing-limits",
-        "snapshot": "snapshots/commandcode-pricing-limits/2026-10-14-2359-a7982284.json"
-      },
-      {
-        "quote": "GLM-5.3 Flash gets $100 of monthly credits for three days, through October 17, 2026.",
-        "url": "https://commandcode.ai/docs/resources/pricing-limits",
-        "snapshot": "snapshots/commandcode-pricing-limits/2026-10-14-2359-a7982284.json"
-      },
-      {
-        "quote": "From October 14 at 5:30 AM PT until October 17 at 5:30 AM PT, GLM-5.3 Flash&#x27;s per-model allowance is $100 on the $10 GOAT plan and $100 on the $20 Pro plan , up from $60 and $70. Per-token rates stay the same.",
-        "url": "https://commandcode.ai/docs/resources/pricing-limits",
-        "snapshot": "snapshots/commandcode-pricing-limits/2026-10-14-2359-a7982284.json"
-      },
-      {
-        "quote": "Applied automatically : pick glm-5.3-flash from /model in the CLI and the bigger allowance is there. Nothing to turn on.",
-        "url": "https://commandcode.ai/docs/resources/pricing-limits",
-        "snapshot": "snapshots/commandcode-pricing-limits/2026-10-14-2359-a7982284.json"
-      }
-    ]
   },
   {
     "schemaVersion": 0,
@@ -873,6 +687,192 @@
       "at": "2026-09-18"
     },
     "quantity": null
+  },
+  {
+    "schemaVersion": 0,
+    "offerKey": "0592505613f92022",
+    "occurredAt": "2026-10-11",
+    "publishedAt": "2026-10-11T00:00:00Z",
+    "verification": "auto_verified",
+    "category": "creditsPromotion",
+    "vendor": "opencode",
+    "entity": "step-5-preview-free",
+    "amount": "Step 5 Preview Free: 限时免费。",
+    "eligibility": "限时",
+    "promotionType": "free",
+    "appliesTo": [
+      "model"
+    ],
+    "baseline": null,
+    "startsAt": null,
+    "startsAtText": null,
+    "expiresAt": null,
+    "expiresAtText": null,
+    "howToClaim": "auto",
+    "restrictions": "来源未说明结束日期。",
+    "supersedes": null,
+    "sourceId": "opencode-go",
+    "claimUrl": "https://opencode.ai/docs/zh-cn/go/",
+    "facts": [
+      {
+        "quote": "LongCat 2.5 Preview Free （限时）",
+        "url": "https://opencode.ai/docs/zh-cn/go/",
+        "snapshot": "snapshots/opencode-go/2026-10-10-1135-338c7735.json"
+      },
+      {
+        "quote": "Step 5 Preview Free （限时）",
+        "url": "https://opencode.ai/docs/zh-cn/go/",
+        "snapshot": "snapshots/opencode-go/2026-10-10-1135-338c7735.json"
+      },
+      {
+        "quote": "限时",
+        "url": "https://opencode.ai/docs/zh-cn/go/",
+        "snapshot": "snapshots/opencode-go/2026-10-10-1135-338c7735.json"
+      },
+      {
+        "quote": "LongCat 2.5 Preview Free: 限时免费。",
+        "url": "https://opencode.ai/docs/zh-cn/go/",
+        "snapshot": "snapshots/opencode-go/2026-10-10-1135-338c7735.json"
+      },
+      {
+        "quote": "Step 5 Preview Free: 限时免费。",
+        "url": "https://opencode.ai/docs/zh-cn/go/",
+        "snapshot": "snapshots/opencode-go/2026-10-10-1135-338c7735.json"
+      },
+      {
+        "quote": "规则",
+        "url": "https://opencode.ai/docs/zh-cn/go/",
+        "snapshot": "snapshots/opencode-go/2026-10-10-1135-338c7735.json"
+      }
+    ],
+    "withdrawn": {
+      "reason": "项目失效复查连续三轮确认原 Step 5 Preview Free 免费条目原文缺失；官方现列为付费 Step 5 Preview，已过项目连续3次失效判据。",
+      "at": "2026-10-17"
+    },
+    "quantity": null
+  },
+  {
+    "schemaVersion": 0,
+    "offerKey": "1c352787511d2b23",
+    "occurredAt": "2026-10-13",
+    "publishedAt": "2026-10-13T16:13:54.940503+00:00",
+    "verification": "auto_verified",
+    "category": "creditsPromotion",
+    "promotionType": "discount",
+    "vendor": "commandcode",
+    "entity": "commandcode-deepseek-v4.1-flash",
+    "planName": "Command Code GOAT / Pro",
+    "appliesTo": [
+      "model",
+      "subscription"
+    ],
+    "planKind": "tokenPlan",
+    "amount": "$100 on GOAT and Pro",
+    "eligibility": "pick deepseek-v4.1-flash from /model",
+    "baseline": "$60 and $70",
+    "howToClaim": "auto",
+    "startsAt": "2026-10-13T07:00:00-07:00",
+    "startsAtText": "October 13 at 7 AM PT",
+    "expiresAt": "2026-10-16T07:00:00-07:00",
+    "expiresAtText": "October 16 at 7 AM PT",
+    "claimUrl": "https://commandcode.ai/docs/resources/pricing-limits",
+    "sourceId": "commandcode-pricing-limits",
+    "region": null,
+    "supersedes": null,
+    "quantity": null,
+    "validityText": "through October 16, 2026",
+    "restrictions": "DeepSeek V4.1 Flash 月用量等值临时提高至 $100，适用 $10/月 GOAT 与 $20/月 Pro；Token 单价不变，CLI 选择该模型自动生效。官方指定 10 月 13 日至 16 日均为太平洋时间早上 7 点；结束后 GOAT 保持 $80、Pro 保持 $90，不是额外充值余额。",
+    "facts": [
+      {
+        "quote": "DEAL deepseek-v4.1-flash usage: $100 on GOAT and Pro. through Oct 16th",
+        "url": "https://commandcode.ai/docs/resources/pricing-limits",
+        "snapshot": "snapshots/commandcode-pricing-limits/2026-10-13-1608-0cd5303e.json"
+      },
+      {
+        "quote": "DeepSeek V4.1 Flash gets $100 of monthly credits for three days, through October 16, 2026.",
+        "url": "https://commandcode.ai/docs/resources/pricing-limits",
+        "snapshot": "snapshots/commandcode-pricing-limits/2026-10-13-1608-0cd5303e.json"
+      },
+      {
+        "quote": "From October 13 at 7 AM PT until October 16 at 7 AM PT, DeepSeek V4.1 Flash&#x27;s per-model allowance is $100 on the $10 GOAT plan and $100 on the $20 Pro plan , up from $60 and $70. Per-token rates stay the same.",
+        "url": "https://commandcode.ai/docs/resources/pricing-limits",
+        "snapshot": "snapshots/commandcode-pricing-limits/2026-10-13-1608-0cd5303e.json"
+      },
+      {
+        "quote": "Applied automatically : pick deepseek-v4.1-flash from /model in the CLI and the bigger allowance is there. Nothing to turn on.",
+        "url": "https://commandcode.ai/docs/resources/pricing-limits",
+        "snapshot": "snapshots/commandcode-pricing-limits/2026-10-13-1608-0cd5303e.json"
+      },
+      {
+        "quote": "After the three days : the allowance stays raised, at $80 on GOAT and $90 on Pro.",
+        "url": "https://commandcode.ai/docs/resources/pricing-limits",
+        "snapshot": "snapshots/commandcode-pricing-limits/2026-10-13-1608-0cd5303e.json"
+      },
+      {
+        "quote": "GOAT ($10/mo) $60 $100 $80",
+        "url": "https://commandcode.ai/docs/resources/pricing-limits",
+        "snapshot": "snapshots/commandcode-pricing-limits/2026-10-13-1608-0cd5303e.json"
+      },
+      {
+        "quote": "Pro ($20/mo) $70 $100 $90",
+        "url": "https://commandcode.ai/docs/resources/pricing-limits",
+        "snapshot": "snapshots/commandcode-pricing-limits/2026-10-13-1608-0cd5303e.json"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 0,
+    "offerKey": "500ad25f1d6821d4",
+    "occurredAt": "2026-10-14",
+    "publishedAt": "2026-10-15T00:01:36.332066+00:00",
+    "verification": "auto_verified",
+    "category": "creditsPromotion",
+    "promotionType": "discount",
+    "vendor": "commandcode",
+    "entity": "commandcode-glm-5.3-flash",
+    "planName": "Command Code GOAT / Pro",
+    "appliesTo": [
+      "model",
+      "subscription"
+    ],
+    "planKind": "tokenPlan",
+    "amount": "$100 on GOAT and Pro",
+    "eligibility": "pick glm-5.3-flash from /model",
+    "baseline": "$60 and $70",
+    "howToClaim": "auto",
+    "startsAt": "2026-10-14T05:30:00-07:00",
+    "startsAtText": "October 14 at 5:30 AM PT",
+    "expiresAt": "2026-10-17T05:30:00-07:00",
+    "expiresAtText": "October 17 at 5:30 AM PT",
+    "claimUrl": "https://commandcode.ai/docs/resources/pricing-limits",
+    "sourceId": "commandcode-pricing-limits",
+    "region": null,
+    "supersedes": null,
+    "quantity": null,
+    "validityText": "through October 17, 2026",
+    "restrictions": "GLM-5.3 Flash 月用量等值临时提高至 $100，适用 $10/月 GOAT 与 $20/月 Pro，原额度分别 $60、$70；Token 单价不变，CLI 选择该模型自动生效。活动时间为太平洋时间 10 月 14 日 05:30 至 17 日 05:30，不是额外充值余额。",
+    "facts": [
+      {
+        "quote": "DEAL glm-5.3-flash usage: $100 on GOAT and Pro. through Oct 17th",
+        "url": "https://commandcode.ai/docs/resources/pricing-limits",
+        "snapshot": "snapshots/commandcode-pricing-limits/2026-10-14-2359-a7982284.json"
+      },
+      {
+        "quote": "GLM-5.3 Flash gets $100 of monthly credits for three days, through October 17, 2026.",
+        "url": "https://commandcode.ai/docs/resources/pricing-limits",
+        "snapshot": "snapshots/commandcode-pricing-limits/2026-10-14-2359-a7982284.json"
+      },
+      {
+        "quote": "From October 14 at 5:30 AM PT until October 17 at 5:30 AM PT, GLM-5.3 Flash&#x27;s per-model allowance is $100 on the $10 GOAT plan and $100 on the $20 Pro plan , up from $60 and $70. Per-token rates stay the same.",
+        "url": "https://commandcode.ai/docs/resources/pricing-limits",
+        "snapshot": "snapshots/commandcode-pricing-limits/2026-10-14-2359-a7982284.json"
+      },
+      {
+        "quote": "Applied automatically : pick glm-5.3-flash from /model in the CLI and the bigger allowance is there. Nothing to turn on.",
+        "url": "https://commandcode.ai/docs/resources/pricing-limits",
+        "snapshot": "snapshots/commandcode-pricing-limits/2026-10-14-2359-a7982284.json"
+      }
+    ]
   },
   {
     "schemaVersion": 0,
