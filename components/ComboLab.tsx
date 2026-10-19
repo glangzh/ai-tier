@@ -84,6 +84,7 @@ export default function ComboLab() {
         <a href={comboData.source.url} target="_blank" rel="noopener noreferrer">{tr("combo.source")} · {comboData.source.name} ↗</a>
         <span>{tr("combo.asOf", { date: comboData.asOf })}</span>
         <span>{tr("combo.snapshot")}</span>
+        {!!comboData.unavailableModels?.length && <span title={comboData.unavailableModels.map((m) => m.name).join(", ")}>{tr("combo.unavailable", { count: comboData.unavailableModels.length })}</span>}
       </div>
     </header>
 

@@ -33,6 +33,7 @@ export const UI = {
   "combo.metaNote": ["按智能、成本和速度探索模型搭配；成本基于 Artificial Analysis 的每任务指标。", "Explore model pairings by intelligence, cost and speed using Artificial Analysis cost-per-task data."],
   "combo.kicker": ["模型搭配策略台", "Model pairing lab"],
   "combo.title": ["高低搭配，找到合适的模型", "Pair models for the job"],
+  "combo.unavailable": ["AA 本轮未提供 {count} 个配置的测量值，暂不参与搭配", "AA omitted measurements for {count} configurations; excluded from pairing"],
   "combo.intro": ["从智能、成本、速度三维比较模型，再按任务分工筛选决策层与执行层。搭配成本是用 AA 每任务成本作加权推演，不叠加缓存折扣。", "Compare intelligence, cost and speed, then choose a decision and execution model. Pair costs are weighted scenarios based on AA cost per task, with no extra cache discount."],
   "combo.asOf": ["数据截至 {date}", "Data as of {date}"],
   "combo.source": ["指标来源", "Metric source"],

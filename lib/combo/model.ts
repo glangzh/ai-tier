@@ -17,7 +17,7 @@ export type Model = {
   outputUsdPerMillion: number;
 };
 
-export const comboData = snapshot as { asOf: string; source: { name: string; url: string; costDefinition: string }; models: Model[] };
+export const comboData = snapshot as { asOf: string; source: { name: string; url: string; costDefinition: string }; models: Model[]; unavailableModels?: { id: string; name: string }[] };
 
 export type SourceMode = "any" | "developer" | "family";
 export type Settings = {
