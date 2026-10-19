@@ -1,6 +1,45 @@
 [
   {
     "schemaVersion": 0,
+    "offerKey": "29177a5d792e1161",
+    "occurredAt": "2026-10-19",
+    "publishedAt": "2026-10-19T02:48:53.678568+00:00",
+    "verification": "auto_verified",
+    "category": "pricingChange",
+    "vendor": "stepfun",
+    "entity": "Step Plan · Step-5-Preview 分时计费",
+    "appliesTo": [
+      "model",
+      "subscription"
+    ],
+    "planKind": "tokenPlan",
+    "amount": "Step-5-Preview 模型 credits 消耗速率 ×2。",
+    "eligibility": "空闲/高峰时段：北京时间周一至周五（不含中国法定节假日）9:00 - 12:00、14:00 - 18:00 为高峰时段；其余时段，包括周末及中国法定节假日全天均为空闲时段。",
+    "baseline": "空闲时段不变",
+    "startsAt": null,
+    "startsAtText": null,
+    "expiresAt": null,
+    "expiresAtText": null,
+    "howToClaim": "auto",
+    "restrictions": "Step Plan 的 Step-5-Preview 高峰消耗速率为 ×2，空闲时段不变。高峰仅为北京时间周一至周五（不含中国法定节假日）9:00–12:00、14:00–18:00；其余时段、周末和法定节假日为空闲时段。官方未说明该规则生效日或结束日。本条记录计费规则，不作为限时折扣或免费额度。",
+    "sourceId": "stepfun-step-plan",
+    "claimUrl": "https://platform.stepfun.com/step-plan",
+    "supersedes": null,
+    "facts": [
+      {
+        "quote": "差异化计费，空闲时段不变，高峰时段对于 Step-5-Preview 模型 credits 消耗速率 ×2。",
+        "url": "https://platform.stepfun.com/step-plan",
+        "snapshot": "snapshots/stepfun-step-plan/2026-10-19-0248-a2791c94.json"
+      },
+      {
+        "quote": "空闲/高峰时段：北京时间周一至周五（不含中国法定节假日）9:00 - 12:00、14:00 - 18:00 为高峰时段；其余时段，包括周末及中国法定节假日全天均为空闲时段。",
+        "url": "https://platform.stepfun.com/step-plan",
+        "snapshot": "snapshots/stepfun-step-plan/2026-10-19-0248-a2791c94.json"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 0,
     "offerKey": "4a9147d4bb40aeed",
     "occurredAt": "2026-10-11",
     "publishedAt": "2026-10-11T00:00:00Z",

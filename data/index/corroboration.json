@@ -1,7 +1,7 @@
 {
-  "checked": 79,
+  "checked": 80,
   "corroborated": 7,
-  "rate": 0.089,
+  "rate": 0.087,
   "detail": [
     {
       "offerKey": "cc86de0abfd5744c",
@@ -410,6 +410,11 @@
     },
     {
       "offerKey": "9b30c0ce9335b380",
+      "corroboratedBy": [],
+      "declared": 0
+    },
+    {
+      "offerKey": "29177a5d792e1161",
       "corroboratedBy": [],
       "declared": 0
     }
