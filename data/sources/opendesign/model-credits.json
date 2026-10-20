@@ -1,0 +1,8 @@
+{
+  "id": "opendesign-model-credits",
+  "vendor": "opendesign",
+  "url": "https://open-design.ai/model-credits/",
+  "allowedHosts": [
+    "open-design.ai"
+  ]
+}

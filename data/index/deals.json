@@ -85,6 +85,60 @@
   },
   {
     "schemaVersion": 0,
+    "offerKey": "1c5702763a48ce4e",
+    "occurredAt": "2026-10-20",
+    "publishedAt": "2026-10-20T12:15:42.008269+00:00",
+    "verification": "auto_verified",
+    "category": "creditsPromotion",
+    "vendor": "opendesign",
+    "entity": "opendesign-deepseek-v4.1-flash-1017-motion-week",
+    "promotionType": "discount",
+    "appliesTo": [
+      "model"
+    ],
+    "amount": "The multiplier drops from 0.5× to 0.25×, then returns to 0.5×.",
+    "eligibility": "DeepSeek V4.1 Flash Off-peak promo",
+    "baseline": "DeepSeek V4.1 Flash 0.5×",
+    "startsAt": "2026-10-20T18:00:00+08:00",
+    "startsAtText": "October 20 at 18:00",
+    "expiresAt": "2026-10-27T18:00:00+08:00",
+    "expiresAtText": "October 27 at 18:00 (UTC+8)",
+    "howToClaim": "auto",
+    "supersedes": null,
+    "sourceId": "opendesign-model-credits",
+    "claimUrl": "https://open-design.ai/model-credits/",
+    "restrictions": "OpenDesign Motion Week：DeepSeek V4.1 Flash 已升级为 1017 版本，活动期间全天按优惠倍率消耗 Design Plan credits，由常规0.5×降为0.25×，同样积分可支持约两倍通常用量。仅适用于 Design Plan credits；套餐额度和重置时间保持不变，无额外赠送积分，不与同名off-peak宣传叠加，活动后恢复0.5×。",
+    "facts": [
+      {
+        "quote": "The one-week off-peak offer lowers the Design Plan credit multiplier for DeepSeek V4.1 Flash from 0.5× to 0.25×. These are the same offer, with no stacked discount. The same credits support twice the usual usage for one week; existing allowances and reset times stay unchanged.",
+        "url": "https://open-design.ai/model-credits/",
+        "snapshot": "snapshots/opendesign-model-credits/2026-10-20-1212-40ebc8ce.json"
+      },
+      {
+        "quote": "DeepSeek V4.1 Flash Off-peak promo ? The limited-time off-peak offer lasts one week: October 20 at 18:00 to October 27 at 18:00 (UTC+8). The multiplier drops from 0.5× to 0.25×, then returns to 0.5×. Plan allowances and reset times stay unchanged. 0.25×",
+        "url": "https://open-design.ai/model-credits/",
+        "snapshot": "snapshots/opendesign-model-credits/2026-10-20-1212-40ebc8ce.json"
+      },
+      {
+        "quote": "DeepSeek V4.1 Flash 0.5×",
+        "url": "https://open-design.ai/model-credits/",
+        "snapshot": "snapshots/opendesign-model-credits/2026-10-20-1212-40ebc8ce.json"
+      },
+      {
+        "quote": "DeepSeek V4.1 Flash has been upgraded to the October 17, 2026 update (1017).",
+        "url": "https://open-design.ai/model-credits/",
+        "snapshot": "snapshots/opendesign-model-credits/2026-10-20-1212-40ebc8ce.json"
+      },
+      {
+        "quote": "DeepSeek V4.1 Flash 1017 · Official API · All-day off-peak rates for one week",
+        "url": "https://open-design.ai/pricing/",
+        "snapshot": "snapshots/opendesign-pricing/2026-10-20-1212-37df2270.json"
+      }
+    ],
+    "quantity": null
+  },
+  {
+    "schemaVersion": 0,
     "offerKey": "575a9d241519d896",
     "occurredAt": "2026-10-14",
     "publishedAt": "2026-10-14T12:12:40.613770+00:00",
@@ -609,45 +663,6 @@
       "unit": "points",
       "raw": "一次性赠送 4000 积分"
     }
-  },
-  {
-    "schemaVersion": 0,
-    "offerKey": "2258374c95c6e702",
-    "occurredAt": "2026-10-17",
-    "publishedAt": "2026-10-17T00:03:17.973003+00:00",
-    "verification": "auto_verified",
-    "category": "creditsPromotion",
-    "vendor": "commandcode",
-    "entity": "beam-1-0-free",
-    "amount": "Beam 1.0 is free while capacity lasts.",
-    "eligibility": "while capacity lasts",
-    "promotionType": "free",
-    "appliesTo": [
-      "model"
-    ],
-    "baseline": null,
-    "startsAt": null,
-    "startsAtText": null,
-    "expiresAt": null,
-    "expiresAtText": null,
-    "howToClaim": "auto",
-    "restrictions": "Command Code 的 Beam 1.0 在可用容量持续期间免费，无每日请求限制且不消耗 credits。提供方可能保留输入输出并训练，CMD_ZDR=1 会话不可用；官方未给固定结束日期。",
-    "supersedes": null,
-    "sourceId": "commandcode-pricing-limits",
-    "claimUrl": "https://commandcode.ai/docs/resources/pricing-limits",
-    "facts": [
-      {
-        "quote": "DEAL beam-free Beam 1.0 Free while capacity lasts\nauto-applied when you pick beam:free\nModel Beam 1.0\nBeam 1.0 is free while capacity lasts.\nBeam 1.0 is Reflection AI&#x27;s reasoning model for coding and agentic work, with a 1M token context and low, medium, high, xhigh, and max reasoning effort.\nNo daily request limit : use it as much as you like while the free tier lasts.\nKeep sensitive work elsewhere : the provider may keep your prompts and outputs and train on them, so Beam 1.0 won&#x27;t run in a CMD_ZDR=1 session.",
-        "url": "https://commandcode.ai/docs/resources/pricing-limits",
-        "snapshot": "snapshots/commandcode-pricing-limits/2026-10-16-2359-66dcae9d.json"
-      },
-      {
-        "quote": "DEAL beam:free is free, with no daily request limit. Requests on this model cost no credits. while capacity lasts",
-        "url": "https://commandcode.ai/docs/resources/pricing-limits",
-        "snapshot": "snapshots/commandcode-pricing-limits/2026-10-16-2359-66dcae9d.json"
-      }
-    ],
-    "quantity": null
   },
   {
     "schemaVersion": 0,
@@ -1196,162 +1211,6 @@
   },
   {
     "schemaVersion": 0,
-    "offerKey": "48ddcb72c9f88d8f",
-    "occurredAt": "2026-10-11",
-    "publishedAt": "2026-10-11T00:00:00Z",
-    "verification": "auto_verified",
-    "category": "creditsPromotion",
-    "vendor": "opencode",
-    "entity": "opencode-go-plus",
-    "amount": "$40/month",
-    "eligibility": "single member",
-    "appliesTo": [
-      "subscription",
-      "apiCredit"
-    ],
-    "planKind": "tokenPlan",
-    "howToClaim": "purchase",
-    "startsAt": null,
-    "startsAtText": null,
-    "expiresAt": null,
-    "expiresAtText": null,
-    "baseline": null,
-    "claimUrl": "https://opencode.ai/v2/docs/console/go/",
-    "sourceId": "opencode-go",
-    "restrictions": "5 小时为对应月额度的 20%，每周为 50%；仅单成员工作空间，订阅后不能邀请成员。 按官方 Go Plus 模型表展示月度用量等值；不同模型额度不能相加。可接入符合官方规则的编程 Agent。 Gemini 4 Argon Contributor 月用量等值限时翻倍（$120 → $240），结束日期未说明。输入与输出可能用于训练 Google 后续模型，非零数据留存（Not ZDR）。 Step 5 Preview 当前月用量等值 $240，来源标注限时 4 倍额度，未说明结束日期。",
-    "facts": [
-      {
-        "quote": "Go Plus $40/month Higher usage limits across the models below",
-        "url": "https://opencode.ai/v2/docs/console/go/",
-        "snapshot": "snapshots/opencode-go/2026-10-16-0008-233d74c8.json"
-      },
-      {
-        "quote": "DeepSeek V4.1 Flash (Off-Peak) $0.15 $0.60 $0.003 - $160",
-        "url": "https://opencode.ai/v2/docs/console/go/",
-        "snapshot": "snapshots/opencode-go/2026-10-16-0008-233d74c8.json"
-      },
-      {
-        "quote": "GLM-5.3 $1.40 $4.40 $0.26 - $120",
-        "url": "https://opencode.ai/v2/docs/console/go/",
-        "snapshot": "snapshots/opencode-go/2026-10-16-0008-233d74c8.json"
-      },
-      {
-        "quote": "MiMo-V2.6-Pro $0.435 $0.87 $0.003625 - $60",
-        "url": "https://opencode.ai/v2/docs/console/go/",
-        "snapshot": "snapshots/opencode-go/2026-10-16-0008-233d74c8.json"
-      },
-      {
-        "quote": "Each model has the following usage limits: 5-hour — 20% of the monthly limit;\nweekly — 50%; and monthly — 100%.",
-        "url": "https://opencode.ai/v2/docs/console/go/",
-        "snapshot": "snapshots/opencode-go/2026-10-16-0008-233d74c8.json"
-      },
-      {
-        "quote": "Go and Go Plus are for workspaces with a single member",
-        "url": "https://opencode.ai/v2/docs/console/go/",
-        "snapshot": "snapshots/opencode-go/2026-10-16-0008-233d74c8.json"
-      },
-      {
-        "quote": "workspace with a Go subscription cannot invite members.",
-        "url": "https://opencode.ai/v2/docs/console/go/",
-        "snapshot": "snapshots/opencode-go/2026-10-16-0008-233d74c8.json"
-      },
-      {
-        "quote": "Gemini 4 Argon Contributor $4.00 $20.00 $0.20 - $120 $240",
-        "url": "https://opencode.ai/v2/docs/console/go/",
-        "snapshot": "snapshots/opencode-go/2026-10-16-0008-233d74c8.json"
-      },
-      {
-        "quote": "2x · Limited time",
-        "url": "https://opencode.ai/v2/docs/console/go/",
-        "snapshot": "snapshots/opencode-go/2026-10-16-0008-233d74c8.json"
-      },
-      {
-        "quote": "Gemini 4 Argon Contributor Yes Not ZDR",
-        "url": "https://opencode.ai/v2/docs/console/go/",
-        "snapshot": "snapshots/opencode-go/2026-10-16-0008-233d74c8.json"
-      },
-      {
-        "quote": "Gemini 4 Argon Contributor: Your prompts and completions may be used to train future Google models.",
-        "url": "https://opencode.ai/v2/docs/console/go/",
-        "snapshot": "snapshots/opencode-go/2026-10-16-0008-233d74c8.json"
-      },
-      {
-        "quote": "Step 5 Preview $1.00 $2.70 $0.10 - $60 $240",
-        "url": "https://opencode.ai/v2/docs/console/go/",
-        "snapshot": "snapshots/opencode-go/2026-10-16-0008-233d74c8.json"
-      },
-      {
-        "quote": "4x · Limited time",
-        "url": "https://opencode.ai/v2/docs/console/go/",
-        "snapshot": "snapshots/opencode-go/2026-10-16-0008-233d74c8.json"
-      }
-    ],
-    "supersedes": null,
-    "promotionType": "allowance",
-    "planName": "OpenCode Go Plus",
-    "allowance": {
-      "price": {
-        "value": 40,
-        "currency": "USD",
-        "period": "month",
-        "text": "$40/month",
-        "fact": 0
-      },
-      "models": [
-        {
-          "model": "DeepSeek V4.1 Flash (Off-Peak)",
-          "value": 160,
-          "currency": "USD",
-          "period": "month",
-          "text": "$160",
-          "fact": 1
-        },
-        {
-          "model": "GLM-5.3",
-          "value": 120,
-          "currency": "USD",
-          "period": "month",
-          "text": "$120",
-          "fact": 2
-        },
-        {
-          "model": "MiMo-V2.6-Pro",
-          "value": 60,
-          "currency": "USD",
-          "period": "month",
-          "text": "$60",
-          "fact": 3
-        },
-        {
-          "model": "Gemini 4 Argon Contributor",
-          "value": 240,
-          "currency": "USD",
-          "period": "month",
-          "text": "$240",
-          "fact": 7
-        },
-        {
-          "model": "Step 5 Preview",
-          "value": 240,
-          "currency": "USD",
-          "period": "month",
-          "text": "$240",
-          "fact": 11
-        }
-      ],
-      "limits": {
-        "zh": "5 小时为对应月额度的 20%，每周为 50%；仅单成员工作空间，订阅后不能邀请成员。",
-        "en": "5-hour allowance: 20% of the model monthly limit; weekly: 50%. Only single-member workspaces; Go workspaces cannot invite members."
-      },
-      "notes": {
-        "zh": "按官方 Go Plus 模型表展示月度用量等值；不同模型额度不能相加。可接入符合官方规则的编程 Agent。 Gemini 4 Argon Contributor 月用量等值限时翻倍（$120 → $240），结束日期未说明。输入与输出可能用于训练 Google 后续模型，非零数据留存（Not ZDR）。 Step 5 Preview 当前月用量等值 $240，来源标注限时 4 倍额度，未说明结束日期。",
-        "en": "Monthly usage equivalents follow the official Go Plus model table. Model allowances must not be added. Coding agents must follow the official client rules. Gemini 4 Argon Contributor has a limited-time 2x monthly usage equivalent ($120 to $240); no end date is stated. Prompts and completions may train future Google models; Not ZDR. Step 5 Preview currently has $240 monthly usage equivalent, a limited-time 4x allowance with no stated end date."
-      }
-    },
-    "quantity": null
-  },
-  {
-    "schemaVersion": 0,
     "occurredAt": "2026-09-18",
     "publishedAt": "2026-09-18T14:40:00Z",
     "verification": "auto_verified",
@@ -1724,51 +1583,6 @@
   },
   {
     "schemaVersion": 0,
-    "offerKey": "6865e91341caf8f0",
-    "occurredAt": "2026-10-11",
-    "publishedAt": "2026-10-11T00:00:00Z",
-    "verification": "auto_verified",
-    "category": "creditsPromotion",
-    "vendor": "zhipu",
-    "entity": "glm-5.3-flash-api-discount",
-    "amount": "限时五折输入 0.4 元、缓存命中 0.115 元、输出 1.4 元",
-    "eligibility": "GLM-5.3-Flash",
-    "promotionType": "discount",
-    "appliesTo": [
-      "apiCredit",
-      "model"
-    ],
-    "baseline": "标准价输入 0.8 元、缓存命中 0.23 元、输出 2.8 元",
-    "startsAt": null,
-    "startsAtText": null,
-    "expiresAt": null,
-    "expiresAtText": null,
-    "howToClaim": "auto",
-    "restrictions": "来源未说明结束日期。",
-    "supersedes": null,
-    "sourceId": "zhipu-bigmodel-pricing",
-    "claimUrl": "https://open.bigmodel.cn/pricing",
-    "facts": [
-      {
-        "quote": "GLM-5.3-Flash",
-        "url": "https://open.bigmodel.cn/pricing",
-        "snapshot": "snapshots/zhipu-bigmodel-pricing/2026-10-10-1140-f0b61c8f.json"
-      },
-      {
-        "quote": "GLM-5.3-Flash：输入0.8元 / M，输出2.8元/M",
-        "url": "https://open.bigmodel.cn/pricing",
-        "snapshot": "snapshots/zhipu-bigmodel-pricing/2026-10-10-1140-f0b61c8f.json"
-      },
-      {
-        "quote": "GLM-5.3-Flash（原生多模态、1M 上下文）：限时五折输入 0.4 元、缓存命中 0.115 元、输出 1.4 元；标准价输入 0.8 元、缓存命中 0.23 元、输出 2.8 元",
-        "url": "https://open.bigmodel.cn/pricing",
-        "snapshot": "snapshots/zhipu-bigmodel-pricing/2026-10-10-1140-f0b61c8f.json"
-      }
-    ],
-    "quantity": null
-  },
-  {
-    "schemaVersion": 0,
     "offerKey": "708674295ff0fa1e",
     "occurredAt": "2026-09-27",
     "publishedAt": "2026-09-27T13:55:38.247Z",
@@ -1934,120 +1748,6 @@
   },
   {
     "schemaVersion": 0,
-    "offerKey": "7c1d3a4c7f728ad1",
-    "occurredAt": "2026-10-12",
-    "publishedAt": "2026-10-11T17:54:16.785Z",
-    "verification": "auto_verified",
-    "category": "creditsPromotion",
-    "promotionType": "allowance",
-    "vendor": "commandcode",
-    "entity": "commandcode-go",
-    "planName": "Command Code Go",
-    "appliesTo": [
-      "subscription"
-    ],
-    "planKind": "toolPlan",
-    "amount": "$1/month",
-    "eligibility": null,
-    "baseline": null,
-    "howToClaim": "purchase",
-    "startsAt": null,
-    "startsAtText": null,
-    "expiresAt": null,
-    "expiresAtText": null,
-    "claimUrl": "https://commandcode.ai/docs/plans/go",
-    "sourceId": "commandcode-go",
-    "facts": [
-      {
-        "quote": "The Go plan is the $1/month entry point to Command Code: open models, available globally, for the price of a coffee once a month. Your $1 buys $10 of credits. A 10x multiplier as one shared pool with a monthly usage on every model.",
-        "url": "https://commandcode.ai/docs/plans/go",
-        "snapshot": "snapshots/commandcode-go/2026-10-11-1754-b5eed048.json"
-      },
-      {
-        "quote": "DeepSeek V4.1 Flash $0.15 $0.60 $0.003 - $10",
-        "url": "https://commandcode.ai/docs/plans/go",
-        "snapshot": "snapshots/commandcode-go/2026-10-11-1754-b5eed048.json"
-      },
-      {
-        "quote": "GLM-5.2 $1.40 $4.40 $0.26 - $10",
-        "url": "https://commandcode.ai/docs/plans/go",
-        "snapshot": "snapshots/commandcode-go/2026-10-11-1754-b5eed048.json"
-      },
-      {
-        "quote": "MiMo V2.6 Pro $0.435 $0.87 $0.0036 - $6",
-        "url": "https://commandcode.ai/docs/plans/go",
-        "snapshot": "snapshots/commandcode-go/2026-10-11-1754-b5eed048.json"
-      },
-      {
-        "quote": "5-hour limit - $3 of usage\nWeekly limit - $6 of usage\nMonthly limit - $10 of usage",
-        "url": "https://commandcode.ai/docs/plans/go",
-        "snapshot": "snapshots/commandcode-go/2026-10-11-1754-b5eed048.json"
-      },
-      {
-        "quote": "Plan Your cost Monthly credits 5-hour limit Weekly limit\nGo $1 $10 of usage $2 $5",
-        "url": "https://commandcode.ai/docs/resources/pricing-limits",
-        "snapshot": "snapshots/commandcode-pricing-limits/2026-10-11-1754-a5b6e94b.json"
-      },
-      {
-        "quote": "These usage limits all come out of one shared $10 pool. A model&#x27;s monthly credits allocation is how much usage that pool is worth if you spend the whole month on that model. Mix models and the pool is spent in proportion: $1 of usage on a model with boosted credits takes a smaller share of the pool than $1 of usage on a model with standard credits. The usage limits below work the same way.",
-        "url": "https://commandcode.ai/docs/plans/go",
-        "snapshot": "snapshots/commandcode-go/2026-10-11-1754-b5eed048.json"
-      },
-      {
-        "quote": "Go is the only plan without API access",
-        "url": "https://commandcode.ai/docs/plans/go",
-        "snapshot": "snapshots/commandcode-go/2026-10-11-1754-b5eed048.json"
-      }
-    ],
-    "supersedes": null,
-    "allowance": {
-      "price": {
-        "value": 1,
-        "currency": "USD",
-        "period": "month",
-        "text": "$1/month",
-        "fact": 0
-      },
-      "models": [
-        {
-          "model": "DeepSeek V4.1 Flash",
-          "value": 10,
-          "currency": "USD",
-          "period": "month",
-          "text": "$10",
-          "fact": 1
-        },
-        {
-          "model": "GLM-5.2",
-          "value": 10,
-          "currency": "USD",
-          "period": "month",
-          "text": "$10",
-          "fact": 2
-        },
-        {
-          "model": "MiMo V2.6 Pro",
-          "value": 6,
-          "currency": "USD",
-          "period": "month",
-          "text": "$6",
-          "fact": 3
-        }
-      ],
-      "limits": {
-        "zh": "官方两页口径不同：Go 页为 5 小时 $3、每周 $6；价格规则页为 $2、$5。实际窗口以控制台为准。",
-        "en": "Official pages differ: Go lists $3 per 5 hours / $6 per week; Pricing & Limits lists $2 / $5. Check your console for the applied limits."
-      },
-      "notes": {
-        "zh": "示例模型按各自计价折算，共用一个套餐额度池，不可相加。Go 不支持 Provider API。",
-        "en": "Examples are model-specific usage equivalents from one shared plan pool; do not add them together. Go has no Provider API access."
-      }
-    },
-    "restrictions": "官方两页口径不同：Go 页为 5 小时 $3、每周 $6；价格规则页为 $2、$5。实际窗口以控制台为准。 示例模型按各自计价折算，共用一个套餐额度池，不可相加。Go 不支持 Provider API。",
-    "quantity": null
-  },
-  {
-    "schemaVersion": 0,
     "offerKey": "83fb85b6d9431bbd",
     "occurredAt": "2026-09-18",
     "publishedAt": "2026-09-18T17:38:00Z",
@@ -2098,45 +1798,6 @@
       "unit": "tokens",
       "raw": "2000万 免费Tokens资源包"
     }
-  },
-  {
-    "schemaVersion": 0,
-    "offerKey": "86005e88dff38638",
-    "occurredAt": "2026-10-16",
-    "publishedAt": "2026-10-16T00:13:48.247750+00:00",
-    "verification": "auto_verified",
-    "category": "creditsPromotion",
-    "vendor": "commandcode",
-    "entity": "cat-jam-free",
-    "amount": "Cat Jam is a free stealth preview.",
-    "eligibility": "while the stealth preview lasts",
-    "promotionType": "free",
-    "appliesTo": [
-      "model"
-    ],
-    "baseline": null,
-    "startsAt": null,
-    "startsAtText": null,
-    "expiresAt": null,
-    "expiresAtText": null,
-    "howToClaim": "auto",
-    "restrictions": "Command Code 的 Cat Jam 隐身预览期免费，无每日请求限制，不消耗 credits。提供方可能保留输入输出并用于训练；CMD_ZDR=1 会话不可用。结束日期未说明。",
-    "supersedes": null,
-    "sourceId": "commandcode-pricing-limits",
-    "claimUrl": "https://commandcode.ai/docs/resources/pricing-limits",
-    "facts": [
-      {
-        "quote": "DEAL cat-jam-free Cat Jam Free while the stealth preview lasts\nauto-applied when you pick cat-jam:free\nModel Cat Jam\nCat Jam is a free stealth preview.\nCat Jam is a reasoning model for coding and agentic work, with a 1M token context and low, medium, high, xhigh, and max reasoning effort. Its maker has chosen to stay anonymous for the preview.\nNo daily request limit : use it as much as you like while the preview lasts.\nKeep sensitive work elsewhere : the provider may keep your prompts and outputs and train on them, so Cat Jam won&#x27;t run in a CMD_ZDR=1 session.",
-        "url": "https://commandcode.ai/docs/resources/pricing-limits",
-        "snapshot": "snapshots/commandcode-pricing-limits/2026-10-16-0008-452ca750.json"
-      },
-      {
-        "quote": "DEAL cat-jam:free is free, with no daily request limit. Requests on this model cost no credits. while the stealth preview lasts",
-        "url": "https://commandcode.ai/docs/resources/pricing-limits",
-        "snapshot": "snapshots/commandcode-pricing-limits/2026-10-16-0008-452ca750.json"
-      }
-    ],
-    "quantity": null
   },
   {
     "schemaVersion": 0,
@@ -2276,111 +1937,6 @@
   },
   {
     "schemaVersion": 0,
-    "offerKey": "a98799dd15c30b28",
-    "occurredAt": "2026-10-16",
-    "publishedAt": "2026-10-16T00:13:48.247027+00:00",
-    "verification": "auto_verified",
-    "category": "creditsPromotion",
-    "promotionType": "allowance",
-    "vendor": "commandcode",
-    "entity": "commandcode-pro",
-    "planName": "Command Code Pro",
-    "appliesTo": [
-      "subscription",
-      "apiCredit"
-    ],
-    "planKind": "tokenPlan",
-    "amount": "$20/mo",
-    "eligibility": null,
-    "baseline": null,
-    "howToClaim": "purchase",
-    "startsAt": null,
-    "startsAtText": null,
-    "expiresAt": null,
-    "expiresAtText": null,
-    "claimUrl": "https://commandcode.ai/docs/resources/pricing-limits",
-    "sourceId": "commandcode-pricing-limits",
-    "facts": [
-      {
-        "quote": "Pro ($20/mo) $110",
-        "url": "https://commandcode.ai/docs/resources/pricing-limits",
-        "snapshot": "snapshots/commandcode-pricing-limits/2026-10-18-0005-a2f603f2.json"
-      },
-      {
-        "quote": "DEAL ling-3.1-flash-boosted-credits Ling 3.1 Flash Boosted credits\n$100 on GOAT\n$110 on Pro\nRates unchanged · auto-applied when you pick ling-3.1-flash\nModel Ling 3.1 Flash\nCredits $100 GOAT · $110 Pro\nLing 3.1 Flash comes with bigger monthly credits.\nYou get $100 of Ling 3.1 Flash on the $10 GOAT plan and $110 on the $20 Pro plan . Per-token prices stay the same, so your plan just buys a lot more Ling 3.1 Flash.\nAlready on : pick ling-3.1-flash from /model in the CLI and the bigger allowance is there. Nothing to turn on.\nGOAT and Pro : these are the plans with per-model allowances. Top-up credits bill at Ling 3.1 Flash&#x27;s regular rate, as always.\nGOAT ($10/mo) $100\nPro ($20/mo) $110",
-        "url": "https://commandcode.ai/docs/resources/pricing-limits",
-        "snapshot": "snapshots/commandcode-pricing-limits/2026-10-18-0005-a2f603f2.json"
-      },
-      {
-        "quote": "DEAL deepseek-v4.1-flash-boosted-credits DeepSeek V4.1 Flash Boosted credits with no end date\n$10 on Go\n$80 on GOAT\n$90 on Pro\nRates unchanged · auto-applied when you pick deepseek-v4.1-flash\nModel DeepSeek V4.1 Flash\nCredits $10 Go · $80 GOAT · $90 Pro\nEnds no end date\nDeepSeek V4.1 Flash carries permanently boosted monthly credits, with no end date.\nDeepSeek V4.1 Flash&#x27;s per-model allowance is boosted to $10 on the $1 Go plan (the plan&#x27;s full pool), $80 on the $10 GOAT plan and $90 on the $20 Pro plan . Per-token rates are unchanged: the same plan simply buys more of this model.\nApplied automatically : pick deepseek-v4.1-flash from /model in the CLI and the boosted allowance applies. Nothing to enable.\nGo, GOAT and Pro : the boost is a per-model allowance, so it lives on the plans that have them. Top-up credits bill at the model&#x27;s regular rate, as always.\nPlan Boosted usage\nGo ($1/mo) $10\nGOAT ($10/mo) $80\nPro ($20/mo) $90",
-        "url": "https://commandcode.ai/docs/resources/pricing-limits",
-        "snapshot": "snapshots/commandcode-pricing-limits/2026-10-18-0005-a2f603f2.json"
-      },
-      {
-        "quote": "DEAL glm-5.3-flash boosted usage: $10 Go, $80 GOAT, $90 Pro. while capacity lasts",
-        "url": "https://commandcode.ai/docs/resources/pricing-limits",
-        "snapshot": "snapshots/commandcode-pricing-limits/2026-10-18-0005-a2f603f2.json"
-      },
-      {
-        "quote": "You get $80 of GLM-5.3 Flash on the $10 GOAT plan and $90 on the $20 Pro plan . On the $1 Go plan it can use the plan&#x27;s full $10. Per-token prices stay the same, so your plan just buys a lot more GLM-5.3 Flash.",
-        "url": "https://commandcode.ai/docs/resources/pricing-limits",
-        "snapshot": "snapshots/commandcode-pricing-limits/2026-10-18-0005-a2f603f2.json"
-      },
-      {
-        "quote": "GLM-5.3 Flash comes with bigger monthly credits, while capacity lasts.",
-        "url": "https://commandcode.ai/docs/resources/pricing-limits",
-        "snapshot": "snapshots/commandcode-pricing-limits/2026-10-18-0005-a2f603f2.json"
-      }
-    ],
-    "supersedes": null,
-    "allowance": {
-      "price": {
-        "value": 20,
-        "currency": "USD",
-        "period": "month",
-        "text": "$20/mo",
-        "fact": 0
-      },
-      "models": [
-        {
-          "model": "Ling 3.1 Flash",
-          "value": 110,
-          "currency": "USD",
-          "period": "month",
-          "text": "$110",
-          "fact": 1
-        },
-        {
-          "model": "DeepSeek V4.1 Flash",
-          "value": 90,
-          "currency": "USD",
-          "period": "month",
-          "text": "$90",
-          "fact": 2
-        },
-        {
-          "model": "glm-5.3-flash",
-          "value": 90,
-          "currency": "USD",
-          "period": "month",
-          "text": "$90",
-          "fact": 3
-        }
-      ],
-      "limits": {
-        "zh": "套餐另有滚动 5 小时及周窗口，具体额度以官方计划窗口为准。",
-        "en": "Rolling 5-hour and weekly plan windows also apply; consult official plan caps."
-      },
-      "notes": {
-        "zh": "Ling 3.1 Flash 模型月用量等值 $110；选择该模型自动适用，单价不变，额外充值按常规费率另计。不是额外发放可累加余额；来源未说明结束时间。 DeepSeek V4.1 Flash 长期提升后的月用量等值为 $90，官方明确无结束日期；各模型用量不是可相加余额。 GLM-5.3 Flash 当前月用量等值为 $90，官方按模型 ID glm-5.3-flash 列示，提升优惠持续到容量用尽；单价不变，固定结束日期未说明。",
-        "en": "Ling 3.1 Flash monthly usage equivalent is $110, applied automatically at unchanged per-token rates. Top-ups use regular rates. This is not an additional balance; no end date is stated. DeepSeek V4.1 Flash has a permanently boosted $90 monthly usage equivalent, with no end date. Model allowances must not be added. GLM-5.3 Flash, listed as glm-5.3-flash, has a $90 monthly usage equivalent while capacity lasts, at unchanged per-token rates. No fixed end date is stated."
-      }
-    },
-    "restrictions": "套餐另有滚动 5 小时及周窗口，具体额度以官方计划窗口为准。 Ling 3.1 Flash 模型月用量等值 $110；选择该模型自动适用，单价不变，额外充值按常规费率另计。不是额外发放可累加余额；来源未说明结束时间。 DeepSeek V4.1 Flash 长期提升后的月用量等值为 $90，官方明确无结束日期；各模型用量不是可相加余额。 GLM-5.3 Flash 当前月用量等值为 $90，官方按模型 ID glm-5.3-flash 列示，提升优惠持续到容量用尽；单价不变，固定结束日期未说明。",
-    "quantity": null
-  },
-  {
-    "schemaVersion": 0,
     "offerKey": "ad6b185485a0180a",
     "occurredAt": "2026-09-18",
     "publishedAt": "2026-09-18T11:33:00Z",
@@ -2484,6 +2040,827 @@
       }
     ],
     "baseline": "0.78 倍",
+    "quantity": null
+  },
+  {
+    "schemaVersion": 0,
+    "offerKey": "b366b833d0c4df59",
+    "occurredAt": "2026-09-18",
+    "publishedAt": "2026-09-18T12:02:00Z",
+    "verification": "auto_verified",
+    "category": "creditsPromotion",
+    "promotionType": "referral",
+    "appliesTo": [
+      "subscription"
+    ],
+    "planKind": "toolPlan",
+    "vendor": "moonshot",
+    "entity": "kimi-moon-companion-plan",
+    "amount": "Kimi Go 等级的会员等值额度",
+    "eligibility": "好友须通过邀请链接或海报二维码确定绑定关系，并在绑定后 24 小时内完成 Kimi 会员订阅且支付成功",
+    "howToClaim": "invite",
+    "startsAt": null,
+    "expiresAt": null,
+    "expiresAtText": null,
+    "restrictions": "邀请注册任务已停止；当前邀请好友订阅会员，绑定后 24 小时内支付成功，双方各获 1 次抽奖机会；同一好友仅首次助力有效，个人版用户参与。",
+    "claimUrl": "https://www.kimi.ai/zh-hans/help/kimi-blackboard/moon-companion-plan",
+    "sourceId": "moonshot-moon-companion-plan",
+    "facts": [
+      {
+        "quote": "好友须通过邀请链接或海报二维码确定绑定关系，并在绑定后 24 小时内完成 Kimi 会员订阅且支付成功；超时则该次邀请失效。",
+        "url": "https://www.kimi.ai/zh-hans/help/kimi-blackboard/moon-companion-plan",
+        "snapshot": "snapshots/moonshot-moon-companion-plan/2026-10-10-1134-5309627e.json"
+      },
+      {
+        "quote": "活动奖品为 Kimi Go 等级的会员等值额度，包括：",
+        "url": "https://www.kimi.ai/zh-hans/help/kimi-blackboard/moon-companion-plan",
+        "snapshot": "snapshots/moonshot-moon-companion-plan/2026-10-10-1134-5309627e.json"
+      },
+      {
+        "quote": "本说明依据 2026 年 9 月 20 日起执行的活动规则。此前已取得的抽奖机会及奖品，仍可按此前活动规则继续使用和兑换。",
+        "url": "https://www.kimi.ai/zh-hans/help/kimi-blackboard/moon-companion-plan",
+        "snapshot": "snapshots/moonshot-moon-companion-plan/2026-10-10-1134-5309627e.json"
+      },
+      {
+        "quote": "活动规则可在活动页面右上角查看。具体任务、奖品和活动周期均以活动页面的最新展示为准。",
+        "url": "https://www.kimi.ai/zh-hans/help/kimi-blackboard/moon-companion-plan",
+        "snapshot": "snapshots/moonshot-moon-companion-plan/2026-10-10-1134-5309627e.json"
+      }
+    ],
+    "supersedes": null,
+    "quantity": null
+  },
+  {
+    "schemaVersion": 0,
+    "occurredAt": "2026-09-18",
+    "publishedAt": "2026-09-18T17:38:00Z",
+    "verification": "auto_verified",
+    "category": "creditsPromotion",
+    "region": null,
+    "startsAt": null,
+    "startsAtText": null,
+    "expiresAt": null,
+    "expiresAtText": null,
+    "validityText": null,
+    "supersedes": null,
+    "offerKey": "b43edc15d8ead8d4",
+    "promotionType": "newcomer",
+    "appliesTo": [
+      "agent"
+    ],
+    "vendor": "qoder",
+    "entity": "qoder-trial",
+    "amount": "300 Credits as your welcome gift",
+    "eligibility": "New users",
+    "baseline": null,
+    "howToClaim": "signup",
+    "restrictions": "2-Week Trial，注册后在客户端领取；结束时间来源未说明",
+    "claimUrl": "https://qoder.com/activities",
+    "sourceId": "qoder-activities-index",
+    "facts": [
+      {
+        "quote": "300 Credits as your welcome gift",
+        "url": "https://qoder.com/activities",
+        "snapshot": "snapshots/qoder-activities-index/2026-09-18-1735-f2598a3b.json"
+      },
+      {
+        "quote": "New users",
+        "url": "https://qoder.com/activities",
+        "snapshot": "snapshots/qoder-activities-index/2026-09-18-1735-f2598a3b.json"
+      },
+      {
+        "quote": "2 -Week Trial",
+        "url": "https://qoder.com/activities",
+        "snapshot": "snapshots/qoder-activities-index/2026-09-18-1735-f2598a3b.json"
+      },
+      {
+        "quote": "Register to claim",
+        "url": "https://qoder.com/activities",
+        "snapshot": "snapshots/qoder-activities-index/2026-09-18-1735-f2598a3b.json"
+      }
+    ],
+    "quantity": {
+      "value": 300,
+      "unit": "credits",
+      "raw": "300 Credits as your welcome gift"
+    }
+  },
+  {
+    "schemaVersion": 0,
+    "offerKey": "bf785ca1d6f8e018",
+    "occurredAt": "2026-09-27",
+    "publishedAt": "2026-09-27T13:55:38.247Z",
+    "verification": "auto_verified",
+    "category": "creditsPromotion",
+    "region": null,
+    "startsAt": null,
+    "startsAtText": null,
+    "expiresAt": null,
+    "expiresAtText": null,
+    "validityText": "decision-model-preview 限时免费",
+    "supersedes": null,
+    "promotionType": "discount",
+    "appliesTo": [
+      "subscription"
+    ],
+    "planKind": "tokenPlan",
+    "vendor": "qianwen",
+    "entity": "qianwen-token-plan",
+    "amount": "调用不消耗 Credits",
+    "eligibility": "decision-model-preview 限时免费",
+    "baseline": "通过 Credits 统一抵扣模型调用及 模型内置工具 的费用",
+    "howToClaim": "auto",
+    "restrictions": "限时把套餐内额度消耗规则降为 0，按判据记 discount（参照物为标准 Credits 抵扣），不按 free 入库；页面标「限时免费」但未给出活动固定截止日；接入方法参见页面「接入决策模型」",
+    "claimUrl": "https://help.aliyun.com/zh/model-studio/token-plan-personal-overview",
+    "sourceId": "qianwen-token-plan-reset",
+    "facts": [
+      {
+        "quote": "decision-model-preview 限时免费 ：调用不消耗 Credits。接入方法参见 接入决策模型 。",
+        "url": "https://help.aliyun.com/zh/model-studio/token-plan-personal-overview",
+        "snapshot": "snapshots/qianwen-token-plan-reset/2026-09-27-1355-dd5a629d.json"
+      }
+    ],
+    "quantity": null
+  },
+  {
+    "schemaVersion": 0,
+    "offerKey": "c01a151447cb0ad2",
+    "occurredAt": "2026-09-18",
+    "publishedAt": "2026-09-18T12:02:00Z",
+    "verification": "auto_verified",
+    "category": "creditsPromotion",
+    "promotionType": "newcomer",
+    "appliesTo": [
+      "apiCredit"
+    ],
+    "vendor": "moonshot",
+    "entity": "kimi-open-platform",
+    "amount": "15 元代金券",
+    "eligibility": "国内手机号注册的新用户",
+    "howToClaim": "realName",
+    "startsAt": null,
+    "expiresAt": null,
+    "validityText": "代金券自发放之日起 3 个月内有效，过期自动失效",
+    "restrictions": "完成实名认证后发放；自动应用于 API 调用消耗，余额优先于充值余额扣减；不可用于体验 Kimi K3",
+    "claimUrl": "https://www.kimi.com/zh-cn/help/kimi-api/api-free-trial",
+    "sourceId": "moonshot-api-free-trial",
+    "facts": [
+      {
+        "quote": "Kimi 开放平台为新注册用户提供免费测试额度，让你在正式使用前充分体验平台能力。",
+        "url": "https://www.kimi.com/zh-cn/help/kimi-api/api-free-trial",
+        "snapshot": "snapshots/moonshot-api-free-trial/2026-09-18-1202-3587b4c1.json"
+      },
+      {
+        "quote": "适用对象 ：国内手机号注册的新用户。",
+        "url": "https://www.kimi.com/zh-cn/help/kimi-api/api-free-trial",
+        "snapshot": "snapshots/moonshot-api-free-trial/2026-09-18-1202-3587b4c1.json"
+      },
+      {
+        "quote": "赠送金额 ：注册即赠送 15 元代金券 。",
+        "url": "https://www.kimi.com/zh-cn/help/kimi-api/api-free-trial",
+        "snapshot": "snapshots/moonshot-api-free-trial/2026-09-18-1202-3587b4c1.json"
+      },
+      {
+        "quote": "领取条件 ：完成实名认证后发放。",
+        "url": "https://www.kimi.com/zh-cn/help/kimi-api/api-free-trial",
+        "snapshot": "snapshots/moonshot-api-free-trial/2026-09-18-1202-3587b4c1.json"
+      },
+      {
+        "quote": "有效期 ：代金券自发放之日起 3 个月 内有效，过期自动失效。",
+        "url": "https://www.kimi.com/zh-cn/help/kimi-api/api-free-trial",
+        "snapshot": "snapshots/moonshot-api-free-trial/2026-09-18-1202-3587b4c1.json"
+      },
+      {
+        "quote": "模型发布后，国内注册并完成认证的用户获赠的 15 元代金券不可用于体验 Kimi K3，请充值后解锁使用。",
+        "url": "https://www.kimi.com/zh-cn/help/kimi-api/api-free-trial",
+        "snapshot": "snapshots/moonshot-api-free-trial/2026-09-18-1202-3587b4c1.json"
+      }
+    ],
+    "supersedes": null,
+    "quantity": null
+  },
+  {
+    "schemaVersion": 0,
+    "offerKey": "e6a805d8703434ab",
+    "occurredAt": "2026-09-27",
+    "publishedAt": "2026-09-27T13:55:51.632Z",
+    "verification": "auto_verified",
+    "category": "creditsPromotion",
+    "region": null,
+    "startsAt": "2026-09-03T14:00:00+08:00",
+    "startsAtText": "2026 年 9 月 3 日 14:00（新加坡时间）",
+    "expiresAt": null,
+    "expiresAtText": null,
+    "validityText": null,
+    "supersedes": null,
+    "promotionType": "discount",
+    "appliesTo": [
+      "model",
+      "subscription"
+    ],
+    "planKind": "toolPlan",
+    "vendor": "qoder",
+    "entity": "qoder-efficient-tier",
+    "amount": "计费系数由 0.3x 降至 0.0x",
+    "eligibility": "选择「经济」档位时",
+    "baseline": "0.3x",
+    "howToClaim": "auto",
+    "restrictions": "限时改松套餐内额度的消耗规则，省的是 Credits，并非额外赠送：「经济」档位的标准倍率 0.3x，活动期内降为 0.0x。适用用户为付费用户（个人订阅 Pro、Pro+、Ultra，以及 Teams、企业版席位），个人体验版用户在 Pro 试用期内、账户有 Credits 时同样适用；自动生效，无需领取。Service Account 被集成调用的场景不参与本次活动，按原系数计费。结束时间待定，结束前会提前通知。高峰时段可能限流或响应较慢。",
+    "claimUrl": "https://docs.qoder.com/zh/events/efficientunlimited",
+    "sourceId": "qoder-events-efficientunlimited",
+    "facts": [
+      {
+        "quote": "现在起，所有付费用户选择「经济」档位不再扣除 Credits，限时免费使用。",
+        "url": "https://docs.qoder.com/zh/events/efficientunlimited",
+        "snapshot": "snapshots/qoder-events-efficientunlimited/2026-09-27-1355-c3ce144a.json"
+      },
+      {
+        "quote": "优惠内容 ：选择「经济」档位时，计费系数由 0.3x 降至 0.0x，不扣除 Credits。个人订阅、Teams、企业版一致",
+        "url": "https://docs.qoder.com/zh/events/efficientunlimited",
+        "snapshot": "snapshots/qoder-events-efficientunlimited/2026-09-27-1355-c3ce144a.json"
+      },
+      {
+        "quote": "开始时间 ：2026 年 9 月 3 日 14:00（新加坡时间）",
+        "url": "https://docs.qoder.com/zh/events/efficientunlimited",
+        "snapshot": "snapshots/qoder-events-efficientunlimited/2026-09-27-1355-c3ce144a.json"
+      },
+      {
+        "quote": "结束时间 ：待定。结束前会提前通知，并同步更新本页",
+        "url": "https://docs.qoder.com/zh/events/efficientunlimited",
+        "snapshot": "snapshots/qoder-events-efficientunlimited/2026-09-27-1355-c3ce144a.json"
+      },
+      {
+        "quote": "适用用户 ：付费用户，包括个人订阅 Pro、Pro+、Ultra，以及 Teams、企业版席位。个人体验版用户在 Pro 试用期内、账户有 Credits 时同样适用",
+        "url": "https://docs.qoder.com/zh/events/efficientunlimited",
+        "snapshot": "snapshots/qoder-events-efficientunlimited/2026-09-27-1355-c3ce144a.json"
+      },
+      {
+        "quote": "生效方式 ：自动生效。无需领取，无需任何设置。打开模型选择器，选「经济」即可",
+        "url": "https://docs.qoder.com/zh/events/efficientunlimited",
+        "snapshot": "snapshots/qoder-events-efficientunlimited/2026-09-27-1355-c3ce144a.json"
+      },
+      {
+        "quote": "活动期间选择器会显示 0.3x 0.0x",
+        "url": "https://docs.qoder.com/zh/events/efficientunlimited",
+        "snapshot": "snapshots/qoder-events-efficientunlimited/2026-09-27-1355-c3ce144a.json"
+      },
+      {
+        "quote": "Service Account 被集成调用的场景，不参与本次活动，「经济」档位按原系数计费",
+        "url": "https://docs.qoder.com/zh/events/efficientunlimited",
+        "snapshot": "snapshots/qoder-events-efficientunlimited/2026-09-27-1355-c3ce144a.json"
+      },
+      {
+        "quote": "不。本次活动仅适用于「经济」档位。Auto、极致、性能，以及指定具体模型，照常按公示系数计费。",
+        "url": "https://docs.qoder.com/zh/events/efficientunlimited",
+        "snapshot": "snapshots/qoder-events-efficientunlimited/2026-09-27-1355-c3ce144a.json"
+      }
+    ],
+    "quantity": null
+  },
+  {
+    "schemaVersion": 0,
+    "occurredAt": "2026-09-18",
+    "publishedAt": "2026-09-18T17:38:00Z",
+    "verification": "auto_verified",
+    "category": "creditsPromotion",
+    "region": null,
+    "startsAt": null,
+    "startsAtText": null,
+    "expiresAt": null,
+    "expiresAtText": null,
+    "validityText": null,
+    "supersedes": null,
+    "offerKey": "fb96add77c18a7c7",
+    "promotionType": "discount",
+    "appliesTo": [
+      "subscription",
+      "apiCredit"
+    ],
+    "planKind": "tokenPlan",
+    "vendor": "minimax",
+    "entity": "minimax-token-plan",
+    "amount": "￥ 4,690",
+    "eligibility": "连续包年",
+    "baseline": "￥5,628",
+    "howToClaim": "purchase",
+    "restrictions": "M Plan Build 连续包年：原价 ￥5,628，年订阅 ￥4,690；Go 的 12 倍用量，含 M3.1 Flash 文本模型、图像与音频生成、网络搜索和多模态理解，以及 H3 视频模型。",
+    "claimUrl": "https://platform.minimax.cn/subscribe/token-plan",
+    "sourceId": "minimax-token-plan",
+    "facts": [
+      {
+        "quote": "连续包月 连续包年 立省2月",
+        "url": "https://platform.minimax.cn/subscribe/token-plan",
+        "snapshot": "snapshots/minimax-token-plan/2026-10-19-1201-3f190f60.json"
+      },
+      {
+        "quote": "Build\n全力创造\n￥5,628\n￥ 4,690\nGo 的 12 倍用量",
+        "url": "https://platform.minimax.cn/subscribe/token-plan",
+        "snapshot": "snapshots/minimax-token-plan/2026-10-19-1201-3f190f60.json"
+      },
+      {
+        "quote": "M Plan 包含哪些模型？如何切换模型？ 三个档位都包含 M3.1 Flash 文本模型，以及图像与音频生成、网络搜索和多模态理解能力；Explore 和 Build 还包含 H3 视频模型，Go 不包含视频模型。如需切换模型，在 API 请求或工具配置中填写对应的模型 ID 即可。",
+        "url": "https://platform.minimax.cn/subscribe/token-plan",
+        "snapshot": "snapshots/minimax-token-plan/2026-10-19-1201-3f190f60.json"
+      }
+    ],
+    "quantity": null
+  },
+  {
+    "schemaVersion": 0,
+    "offerKey": "2258374c95c6e702",
+    "occurredAt": "2026-10-17",
+    "publishedAt": "2026-10-17T00:03:17.973003+00:00",
+    "verification": "auto_verified",
+    "category": "creditsPromotion",
+    "vendor": "commandcode",
+    "entity": "beam-1-0-free",
+    "amount": "Beam 1.0 is free while capacity lasts.",
+    "eligibility": "while capacity lasts",
+    "promotionType": "free",
+    "appliesTo": [
+      "model"
+    ],
+    "baseline": null,
+    "startsAt": null,
+    "startsAtText": null,
+    "expiresAt": null,
+    "expiresAtText": null,
+    "howToClaim": "auto",
+    "restrictions": "Command Code 的 Beam 1.0 在可用容量持续期间免费，无每日请求限制且不消耗 credits。提供方可能保留输入输出并训练，CMD_ZDR=1 会话不可用；官方未给固定结束日期。",
+    "supersedes": null,
+    "sourceId": "commandcode-pricing-limits",
+    "claimUrl": "https://commandcode.ai/docs/resources/pricing-limits",
+    "facts": [
+      {
+        "quote": "DEAL beam-free Beam 1.0 Free while capacity lasts\nauto-applied when you pick beam:free\nModel Beam 1.0\nBeam 1.0 is free while capacity lasts.\nBeam 1.0 is Reflection AI&#x27;s reasoning model for coding and agentic work, with a 1M token context and low, medium, high, xhigh, and max reasoning effort.\nNo daily request limit : use it as much as you like while the free tier lasts.\nKeep sensitive work elsewhere : the provider may keep your prompts and outputs and train on them, so Beam 1.0 won&#x27;t run in a CMD_ZDR=1 session.",
+        "url": "https://commandcode.ai/docs/resources/pricing-limits",
+        "snapshot": "snapshots/commandcode-pricing-limits/2026-10-16-2359-66dcae9d.json"
+      },
+      {
+        "quote": "DEAL beam:free is free, with no daily request limit. Requests on this model cost no credits. while capacity lasts",
+        "url": "https://commandcode.ai/docs/resources/pricing-limits",
+        "snapshot": "snapshots/commandcode-pricing-limits/2026-10-16-2359-66dcae9d.json"
+      }
+    ],
+    "quantity": null
+  },
+  {
+    "schemaVersion": 0,
+    "offerKey": "48ddcb72c9f88d8f",
+    "occurredAt": "2026-10-11",
+    "publishedAt": "2026-10-11T00:00:00Z",
+    "verification": "auto_verified",
+    "category": "creditsPromotion",
+    "vendor": "opencode",
+    "entity": "opencode-go-plus",
+    "amount": "$40/month",
+    "eligibility": "single member",
+    "appliesTo": [
+      "subscription",
+      "apiCredit"
+    ],
+    "planKind": "tokenPlan",
+    "howToClaim": "purchase",
+    "startsAt": null,
+    "startsAtText": null,
+    "expiresAt": null,
+    "expiresAtText": null,
+    "baseline": null,
+    "claimUrl": "https://opencode.ai/v2/docs/console/go/",
+    "sourceId": "opencode-go",
+    "restrictions": "5 小时为对应月额度的 20%，每周为 50%；仅单成员工作空间，订阅后不能邀请成员。 按官方 Go Plus 模型表展示月度用量等值；不同模型额度不能相加。可接入符合官方规则的编程 Agent。 Gemini 4 Argon Contributor 月用量等值限时翻倍（$120 → $240），结束日期未说明。输入与输出可能用于训练 Google 后续模型，非零数据留存（Not ZDR）。 Step 5 Preview 当前月用量等值 $240，来源标注限时 4 倍额度，未说明结束日期。",
+    "facts": [
+      {
+        "quote": "Go Plus $40/month Higher usage limits across the models below",
+        "url": "https://opencode.ai/v2/docs/console/go/",
+        "snapshot": "snapshots/opencode-go/2026-10-16-0008-233d74c8.json"
+      },
+      {
+        "quote": "DeepSeek V4.1 Flash (Off-Peak) $0.15 $0.60 $0.003 - $160",
+        "url": "https://opencode.ai/v2/docs/console/go/",
+        "snapshot": "snapshots/opencode-go/2026-10-16-0008-233d74c8.json"
+      },
+      {
+        "quote": "GLM-5.3 $1.40 $4.40 $0.26 - $120",
+        "url": "https://opencode.ai/v2/docs/console/go/",
+        "snapshot": "snapshots/opencode-go/2026-10-16-0008-233d74c8.json"
+      },
+      {
+        "quote": "MiMo-V2.6-Pro $0.435 $0.87 $0.003625 - $60",
+        "url": "https://opencode.ai/v2/docs/console/go/",
+        "snapshot": "snapshots/opencode-go/2026-10-16-0008-233d74c8.json"
+      },
+      {
+        "quote": "Each model has the following usage limits: 5-hour — 20% of the monthly limit;\nweekly — 50%; and monthly — 100%.",
+        "url": "https://opencode.ai/v2/docs/console/go/",
+        "snapshot": "snapshots/opencode-go/2026-10-16-0008-233d74c8.json"
+      },
+      {
+        "quote": "Go and Go Plus are for workspaces with a single member",
+        "url": "https://opencode.ai/v2/docs/console/go/",
+        "snapshot": "snapshots/opencode-go/2026-10-16-0008-233d74c8.json"
+      },
+      {
+        "quote": "workspace with a Go subscription cannot invite members.",
+        "url": "https://opencode.ai/v2/docs/console/go/",
+        "snapshot": "snapshots/opencode-go/2026-10-16-0008-233d74c8.json"
+      },
+      {
+        "quote": "Gemini 4 Argon Contributor $4.00 $20.00 $0.20 - $120 $240",
+        "url": "https://opencode.ai/v2/docs/console/go/",
+        "snapshot": "snapshots/opencode-go/2026-10-16-0008-233d74c8.json"
+      },
+      {
+        "quote": "2x · Limited time",
+        "url": "https://opencode.ai/v2/docs/console/go/",
+        "snapshot": "snapshots/opencode-go/2026-10-16-0008-233d74c8.json"
+      },
+      {
+        "quote": "Gemini 4 Argon Contributor Yes Not ZDR",
+        "url": "https://opencode.ai/v2/docs/console/go/",
+        "snapshot": "snapshots/opencode-go/2026-10-16-0008-233d74c8.json"
+      },
+      {
+        "quote": "Gemini 4 Argon Contributor: Your prompts and completions may be used to train future Google models.",
+        "url": "https://opencode.ai/v2/docs/console/go/",
+        "snapshot": "snapshots/opencode-go/2026-10-16-0008-233d74c8.json"
+      },
+      {
+        "quote": "Step 5 Preview $1.00 $2.70 $0.10 - $60 $240",
+        "url": "https://opencode.ai/v2/docs/console/go/",
+        "snapshot": "snapshots/opencode-go/2026-10-16-0008-233d74c8.json"
+      },
+      {
+        "quote": "4x · Limited time",
+        "url": "https://opencode.ai/v2/docs/console/go/",
+        "snapshot": "snapshots/opencode-go/2026-10-16-0008-233d74c8.json"
+      }
+    ],
+    "supersedes": null,
+    "promotionType": "allowance",
+    "planName": "OpenCode Go Plus",
+    "allowance": {
+      "price": {
+        "value": 40,
+        "currency": "USD",
+        "period": "month",
+        "text": "$40/month",
+        "fact": 0
+      },
+      "models": [
+        {
+          "model": "DeepSeek V4.1 Flash (Off-Peak)",
+          "value": 160,
+          "currency": "USD",
+          "period": "month",
+          "text": "$160",
+          "fact": 1
+        },
+        {
+          "model": "GLM-5.3",
+          "value": 120,
+          "currency": "USD",
+          "period": "month",
+          "text": "$120",
+          "fact": 2
+        },
+        {
+          "model": "MiMo-V2.6-Pro",
+          "value": 60,
+          "currency": "USD",
+          "period": "month",
+          "text": "$60",
+          "fact": 3
+        },
+        {
+          "model": "Gemini 4 Argon Contributor",
+          "value": 240,
+          "currency": "USD",
+          "period": "month",
+          "text": "$240",
+          "fact": 7
+        },
+        {
+          "model": "Step 5 Preview",
+          "value": 240,
+          "currency": "USD",
+          "period": "month",
+          "text": "$240",
+          "fact": 11
+        }
+      ],
+      "limits": {
+        "zh": "5 小时为对应月额度的 20%，每周为 50%；仅单成员工作空间，订阅后不能邀请成员。",
+        "en": "5-hour allowance: 20% of the model monthly limit; weekly: 50%. Only single-member workspaces; Go workspaces cannot invite members."
+      },
+      "notes": {
+        "zh": "按官方 Go Plus 模型表展示月度用量等值；不同模型额度不能相加。可接入符合官方规则的编程 Agent。 Gemini 4 Argon Contributor 月用量等值限时翻倍（$120 → $240），结束日期未说明。输入与输出可能用于训练 Google 后续模型，非零数据留存（Not ZDR）。 Step 5 Preview 当前月用量等值 $240，来源标注限时 4 倍额度，未说明结束日期。",
+        "en": "Monthly usage equivalents follow the official Go Plus model table. Model allowances must not be added. Coding agents must follow the official client rules. Gemini 4 Argon Contributor has a limited-time 2x monthly usage equivalent ($120 to $240); no end date is stated. Prompts and completions may train future Google models; Not ZDR. Step 5 Preview currently has $240 monthly usage equivalent, a limited-time 4x allowance with no stated end date."
+      }
+    },
+    "quantity": null
+  },
+  {
+    "schemaVersion": 0,
+    "offerKey": "6865e91341caf8f0",
+    "occurredAt": "2026-10-11",
+    "publishedAt": "2026-10-11T00:00:00Z",
+    "verification": "auto_verified",
+    "category": "creditsPromotion",
+    "vendor": "zhipu",
+    "entity": "glm-5.3-flash-api-discount",
+    "amount": "限时五折输入 0.4 元、缓存命中 0.115 元、输出 1.4 元",
+    "eligibility": "GLM-5.3-Flash",
+    "promotionType": "discount",
+    "appliesTo": [
+      "apiCredit",
+      "model"
+    ],
+    "baseline": "标准价输入 0.8 元、缓存命中 0.23 元、输出 2.8 元",
+    "startsAt": null,
+    "startsAtText": null,
+    "expiresAt": null,
+    "expiresAtText": null,
+    "howToClaim": "auto",
+    "restrictions": "来源未说明结束日期。",
+    "supersedes": null,
+    "sourceId": "zhipu-bigmodel-pricing",
+    "claimUrl": "https://open.bigmodel.cn/pricing",
+    "facts": [
+      {
+        "quote": "GLM-5.3-Flash",
+        "url": "https://open.bigmodel.cn/pricing",
+        "snapshot": "snapshots/zhipu-bigmodel-pricing/2026-10-10-1140-f0b61c8f.json"
+      },
+      {
+        "quote": "GLM-5.3-Flash：输入0.8元 / M，输出2.8元/M",
+        "url": "https://open.bigmodel.cn/pricing",
+        "snapshot": "snapshots/zhipu-bigmodel-pricing/2026-10-10-1140-f0b61c8f.json"
+      },
+      {
+        "quote": "GLM-5.3-Flash（原生多模态、1M 上下文）：限时五折输入 0.4 元、缓存命中 0.115 元、输出 1.4 元；标准价输入 0.8 元、缓存命中 0.23 元、输出 2.8 元",
+        "url": "https://open.bigmodel.cn/pricing",
+        "snapshot": "snapshots/zhipu-bigmodel-pricing/2026-10-10-1140-f0b61c8f.json"
+      }
+    ],
+    "quantity": null
+  },
+  {
+    "schemaVersion": 0,
+    "offerKey": "7c1d3a4c7f728ad1",
+    "occurredAt": "2026-10-12",
+    "publishedAt": "2026-10-11T17:54:16.785Z",
+    "verification": "auto_verified",
+    "category": "creditsPromotion",
+    "promotionType": "allowance",
+    "vendor": "commandcode",
+    "entity": "commandcode-go",
+    "planName": "Command Code Go",
+    "appliesTo": [
+      "subscription"
+    ],
+    "planKind": "toolPlan",
+    "amount": "$1/month",
+    "eligibility": null,
+    "baseline": null,
+    "howToClaim": "purchase",
+    "startsAt": null,
+    "startsAtText": null,
+    "expiresAt": null,
+    "expiresAtText": null,
+    "claimUrl": "https://commandcode.ai/docs/plans/go",
+    "sourceId": "commandcode-go",
+    "facts": [
+      {
+        "quote": "The Go plan is the $1/month entry point to Command Code: open models, available globally, for the price of a coffee once a month. Your $1 buys $10 of credits. A 10x multiplier as one shared pool with a monthly usage on every model.",
+        "url": "https://commandcode.ai/docs/plans/go",
+        "snapshot": "snapshots/commandcode-go/2026-10-11-1754-b5eed048.json"
+      },
+      {
+        "quote": "DeepSeek V4.1 Flash $0.15 $0.60 $0.003 - $10",
+        "url": "https://commandcode.ai/docs/plans/go",
+        "snapshot": "snapshots/commandcode-go/2026-10-11-1754-b5eed048.json"
+      },
+      {
+        "quote": "GLM-5.2 $1.40 $4.40 $0.26 - $10",
+        "url": "https://commandcode.ai/docs/plans/go",
+        "snapshot": "snapshots/commandcode-go/2026-10-11-1754-b5eed048.json"
+      },
+      {
+        "quote": "MiMo V2.6 Pro $0.435 $0.87 $0.0036 - $6",
+        "url": "https://commandcode.ai/docs/plans/go",
+        "snapshot": "snapshots/commandcode-go/2026-10-11-1754-b5eed048.json"
+      },
+      {
+        "quote": "5-hour limit - $3 of usage\nWeekly limit - $6 of usage\nMonthly limit - $10 of usage",
+        "url": "https://commandcode.ai/docs/plans/go",
+        "snapshot": "snapshots/commandcode-go/2026-10-11-1754-b5eed048.json"
+      },
+      {
+        "quote": "Plan Your cost Monthly credits 5-hour limit Weekly limit\nGo $1 $10 of usage $2 $5",
+        "url": "https://commandcode.ai/docs/resources/pricing-limits",
+        "snapshot": "snapshots/commandcode-pricing-limits/2026-10-11-1754-a5b6e94b.json"
+      },
+      {
+        "quote": "These usage limits all come out of one shared $10 pool. A model&#x27;s monthly credits allocation is how much usage that pool is worth if you spend the whole month on that model. Mix models and the pool is spent in proportion: $1 of usage on a model with boosted credits takes a smaller share of the pool than $1 of usage on a model with standard credits. The usage limits below work the same way.",
+        "url": "https://commandcode.ai/docs/plans/go",
+        "snapshot": "snapshots/commandcode-go/2026-10-11-1754-b5eed048.json"
+      },
+      {
+        "quote": "Go is the only plan without API access",
+        "url": "https://commandcode.ai/docs/plans/go",
+        "snapshot": "snapshots/commandcode-go/2026-10-11-1754-b5eed048.json"
+      }
+    ],
+    "supersedes": null,
+    "allowance": {
+      "price": {
+        "value": 1,
+        "currency": "USD",
+        "period": "month",
+        "text": "$1/month",
+        "fact": 0
+      },
+      "models": [
+        {
+          "model": "DeepSeek V4.1 Flash",
+          "value": 10,
+          "currency": "USD",
+          "period": "month",
+          "text": "$10",
+          "fact": 1
+        },
+        {
+          "model": "GLM-5.2",
+          "value": 10,
+          "currency": "USD",
+          "period": "month",
+          "text": "$10",
+          "fact": 2
+        },
+        {
+          "model": "MiMo V2.6 Pro",
+          "value": 6,
+          "currency": "USD",
+          "period": "month",
+          "text": "$6",
+          "fact": 3
+        }
+      ],
+      "limits": {
+        "zh": "官方两页口径不同：Go 页为 5 小时 $3、每周 $6；价格规则页为 $2、$5。实际窗口以控制台为准。",
+        "en": "Official pages differ: Go lists $3 per 5 hours / $6 per week; Pricing & Limits lists $2 / $5. Check your console for the applied limits."
+      },
+      "notes": {
+        "zh": "示例模型按各自计价折算，共用一个套餐额度池，不可相加。Go 不支持 Provider API。",
+        "en": "Examples are model-specific usage equivalents from one shared plan pool; do not add them together. Go has no Provider API access."
+      }
+    },
+    "restrictions": "官方两页口径不同：Go 页为 5 小时 $3、每周 $6；价格规则页为 $2、$5。实际窗口以控制台为准。 示例模型按各自计价折算，共用一个套餐额度池，不可相加。Go 不支持 Provider API。",
+    "quantity": null
+  },
+  {
+    "schemaVersion": 0,
+    "offerKey": "86005e88dff38638",
+    "occurredAt": "2026-10-16",
+    "publishedAt": "2026-10-16T00:13:48.247750+00:00",
+    "verification": "auto_verified",
+    "category": "creditsPromotion",
+    "vendor": "commandcode",
+    "entity": "cat-jam-free",
+    "amount": "Cat Jam is a free stealth preview.",
+    "eligibility": "while the stealth preview lasts",
+    "promotionType": "free",
+    "appliesTo": [
+      "model"
+    ],
+    "baseline": null,
+    "startsAt": null,
+    "startsAtText": null,
+    "expiresAt": null,
+    "expiresAtText": null,
+    "howToClaim": "auto",
+    "restrictions": "Command Code 的 Cat Jam 隐身预览期免费，无每日请求限制，不消耗 credits。提供方可能保留输入输出并用于训练；CMD_ZDR=1 会话不可用。结束日期未说明。",
+    "supersedes": null,
+    "sourceId": "commandcode-pricing-limits",
+    "claimUrl": "https://commandcode.ai/docs/resources/pricing-limits",
+    "facts": [
+      {
+        "quote": "DEAL cat-jam-free Cat Jam Free while the stealth preview lasts\nauto-applied when you pick cat-jam:free\nModel Cat Jam\nCat Jam is a free stealth preview.\nCat Jam is a reasoning model for coding and agentic work, with a 1M token context and low, medium, high, xhigh, and max reasoning effort. Its maker has chosen to stay anonymous for the preview.\nNo daily request limit : use it as much as you like while the preview lasts.\nKeep sensitive work elsewhere : the provider may keep your prompts and outputs and train on them, so Cat Jam won&#x27;t run in a CMD_ZDR=1 session.",
+        "url": "https://commandcode.ai/docs/resources/pricing-limits",
+        "snapshot": "snapshots/commandcode-pricing-limits/2026-10-16-0008-452ca750.json"
+      },
+      {
+        "quote": "DEAL cat-jam:free is free, with no daily request limit. Requests on this model cost no credits. while the stealth preview lasts",
+        "url": "https://commandcode.ai/docs/resources/pricing-limits",
+        "snapshot": "snapshots/commandcode-pricing-limits/2026-10-16-0008-452ca750.json"
+      }
+    ],
+    "quantity": null
+  },
+  {
+    "schemaVersion": 0,
+    "offerKey": "a98799dd15c30b28",
+    "occurredAt": "2026-10-16",
+    "publishedAt": "2026-10-16T00:13:48.247027+00:00",
+    "verification": "auto_verified",
+    "category": "creditsPromotion",
+    "promotionType": "allowance",
+    "vendor": "commandcode",
+    "entity": "commandcode-pro",
+    "planName": "Command Code Pro",
+    "appliesTo": [
+      "subscription",
+      "apiCredit"
+    ],
+    "planKind": "tokenPlan",
+    "amount": "$20/mo",
+    "eligibility": null,
+    "baseline": null,
+    "howToClaim": "purchase",
+    "startsAt": null,
+    "startsAtText": null,
+    "expiresAt": null,
+    "expiresAtText": null,
+    "claimUrl": "https://commandcode.ai/docs/resources/pricing-limits",
+    "sourceId": "commandcode-pricing-limits",
+    "facts": [
+      {
+        "quote": "Pro ($20/mo) $110",
+        "url": "https://commandcode.ai/docs/resources/pricing-limits",
+        "snapshot": "snapshots/commandcode-pricing-limits/2026-10-18-0005-a2f603f2.json"
+      },
+      {
+        "quote": "DEAL ling-3.1-flash-boosted-credits Ling 3.1 Flash Boosted credits\n$100 on GOAT\n$110 on Pro\nRates unchanged · auto-applied when you pick ling-3.1-flash\nModel Ling 3.1 Flash\nCredits $100 GOAT · $110 Pro\nLing 3.1 Flash comes with bigger monthly credits.\nYou get $100 of Ling 3.1 Flash on the $10 GOAT plan and $110 on the $20 Pro plan . Per-token prices stay the same, so your plan just buys a lot more Ling 3.1 Flash.\nAlready on : pick ling-3.1-flash from /model in the CLI and the bigger allowance is there. Nothing to turn on.\nGOAT and Pro : these are the plans with per-model allowances. Top-up credits bill at Ling 3.1 Flash&#x27;s regular rate, as always.\nGOAT ($10/mo) $100\nPro ($20/mo) $110",
+        "url": "https://commandcode.ai/docs/resources/pricing-limits",
+        "snapshot": "snapshots/commandcode-pricing-limits/2026-10-18-0005-a2f603f2.json"
+      },
+      {
+        "quote": "DEAL deepseek-v4.1-flash-boosted-credits DeepSeek V4.1 Flash Boosted credits with no end date\n$10 on Go\n$80 on GOAT\n$90 on Pro\nRates unchanged · auto-applied when you pick deepseek-v4.1-flash\nModel DeepSeek V4.1 Flash\nCredits $10 Go · $80 GOAT · $90 Pro\nEnds no end date\nDeepSeek V4.1 Flash carries permanently boosted monthly credits, with no end date.\nDeepSeek V4.1 Flash&#x27;s per-model allowance is boosted to $10 on the $1 Go plan (the plan&#x27;s full pool), $80 on the $10 GOAT plan and $90 on the $20 Pro plan . Per-token rates are unchanged: the same plan simply buys more of this model.\nApplied automatically : pick deepseek-v4.1-flash from /model in the CLI and the boosted allowance applies. Nothing to enable.\nGo, GOAT and Pro : the boost is a per-model allowance, so it lives on the plans that have them. Top-up credits bill at the model&#x27;s regular rate, as always.\nPlan Boosted usage\nGo ($1/mo) $10\nGOAT ($10/mo) $80\nPro ($20/mo) $90",
+        "url": "https://commandcode.ai/docs/resources/pricing-limits",
+        "snapshot": "snapshots/commandcode-pricing-limits/2026-10-18-0005-a2f603f2.json"
+      },
+      {
+        "quote": "DEAL glm-5.3-flash boosted usage: $10 Go, $80 GOAT, $90 Pro. while capacity lasts",
+        "url": "https://commandcode.ai/docs/resources/pricing-limits",
+        "snapshot": "snapshots/commandcode-pricing-limits/2026-10-18-0005-a2f603f2.json"
+      },
+      {
+        "quote": "You get $80 of GLM-5.3 Flash on the $10 GOAT plan and $90 on the $20 Pro plan . On the $1 Go plan it can use the plan&#x27;s full $10. Per-token prices stay the same, so your plan just buys a lot more GLM-5.3 Flash.",
+        "url": "https://commandcode.ai/docs/resources/pricing-limits",
+        "snapshot": "snapshots/commandcode-pricing-limits/2026-10-18-0005-a2f603f2.json"
+      },
+      {
+        "quote": "GLM-5.3 Flash comes with bigger monthly credits, while capacity lasts.",
+        "url": "https://commandcode.ai/docs/resources/pricing-limits",
+        "snapshot": "snapshots/commandcode-pricing-limits/2026-10-18-0005-a2f603f2.json"
+      }
+    ],
+    "supersedes": null,
+    "allowance": {
+      "price": {
+        "value": 20,
+        "currency": "USD",
+        "period": "month",
+        "text": "$20/mo",
+        "fact": 0
+      },
+      "models": [
+        {
+          "model": "Ling 3.1 Flash",
+          "value": 110,
+          "currency": "USD",
+          "period": "month",
+          "text": "$110",
+          "fact": 1
+        },
+        {
+          "model": "DeepSeek V4.1 Flash",
+          "value": 90,
+          "currency": "USD",
+          "period": "month",
+          "text": "$90",
+          "fact": 2
+        },
+        {
+          "model": "glm-5.3-flash",
+          "value": 90,
+          "currency": "USD",
+          "period": "month",
+          "text": "$90",
+          "fact": 3
+        }
+      ],
+      "limits": {
+        "zh": "套餐另有滚动 5 小时及周窗口，具体额度以官方计划窗口为准。",
+        "en": "Rolling 5-hour and weekly plan windows also apply; consult official plan caps."
+      },
+      "notes": {
+        "zh": "Ling 3.1 Flash 模型月用量等值 $110；选择该模型自动适用，单价不变，额外充值按常规费率另计。不是额外发放可累加余额；来源未说明结束时间。 DeepSeek V4.1 Flash 长期提升后的月用量等值为 $90，官方明确无结束日期；各模型用量不是可相加余额。 GLM-5.3 Flash 当前月用量等值为 $90，官方按模型 ID glm-5.3-flash 列示，提升优惠持续到容量用尽；单价不变，固定结束日期未说明。",
+        "en": "Ling 3.1 Flash monthly usage equivalent is $110, applied automatically at unchanged per-token rates. Top-ups use regular rates. This is not an additional balance; no end date is stated. DeepSeek V4.1 Flash has a permanently boosted $90 monthly usage equivalent, with no end date. Model allowances must not be added. GLM-5.3 Flash, listed as glm-5.3-flash, has a $90 monthly usage equivalent while capacity lasts, at unchanged per-token rates. No fixed end date is stated."
+      }
+    },
+    "restrictions": "套餐另有滚动 5 小时及周窗口，具体额度以官方计划窗口为准。 Ling 3.1 Flash 模型月用量等值 $110；选择该模型自动适用，单价不变，额外充值按常规费率另计。不是额外发放可累加余额；来源未说明结束时间。 DeepSeek V4.1 Flash 长期提升后的月用量等值为 $90，官方明确无结束日期；各模型用量不是可相加余额。 GLM-5.3 Flash 当前月用量等值为 $90，官方按模型 ID glm-5.3-flash 列示，提升优惠持续到容量用尽；单价不变，固定结束日期未说明。",
     "quantity": null
   },
   {
@@ -2797,54 +3174,6 @@
   },
   {
     "schemaVersion": 0,
-    "offerKey": "b366b833d0c4df59",
-    "occurredAt": "2026-09-18",
-    "publishedAt": "2026-09-18T12:02:00Z",
-    "verification": "auto_verified",
-    "category": "creditsPromotion",
-    "promotionType": "referral",
-    "appliesTo": [
-      "subscription"
-    ],
-    "planKind": "toolPlan",
-    "vendor": "moonshot",
-    "entity": "kimi-moon-companion-plan",
-    "amount": "Kimi Go 等级的会员等值额度",
-    "eligibility": "好友须通过邀请链接或海报二维码确定绑定关系，并在绑定后 24 小时内完成 Kimi 会员订阅且支付成功",
-    "howToClaim": "invite",
-    "startsAt": null,
-    "expiresAt": null,
-    "expiresAtText": null,
-    "restrictions": "邀请注册任务已停止；当前邀请好友订阅会员，绑定后 24 小时内支付成功，双方各获 1 次抽奖机会；同一好友仅首次助力有效，个人版用户参与。",
-    "claimUrl": "https://www.kimi.ai/zh-hans/help/kimi-blackboard/moon-companion-plan",
-    "sourceId": "moonshot-moon-companion-plan",
-    "facts": [
-      {
-        "quote": "好友须通过邀请链接或海报二维码确定绑定关系，并在绑定后 24 小时内完成 Kimi 会员订阅且支付成功；超时则该次邀请失效。",
-        "url": "https://www.kimi.ai/zh-hans/help/kimi-blackboard/moon-companion-plan",
-        "snapshot": "snapshots/moonshot-moon-companion-plan/2026-10-10-1134-5309627e.json"
-      },
-      {
-        "quote": "活动奖品为 Kimi Go 等级的会员等值额度，包括：",
-        "url": "https://www.kimi.ai/zh-hans/help/kimi-blackboard/moon-companion-plan",
-        "snapshot": "snapshots/moonshot-moon-companion-plan/2026-10-10-1134-5309627e.json"
-      },
-      {
-        "quote": "本说明依据 2026 年 9 月 20 日起执行的活动规则。此前已取得的抽奖机会及奖品，仍可按此前活动规则继续使用和兑换。",
-        "url": "https://www.kimi.ai/zh-hans/help/kimi-blackboard/moon-companion-plan",
-        "snapshot": "snapshots/moonshot-moon-companion-plan/2026-10-10-1134-5309627e.json"
-      },
-      {
-        "quote": "活动规则可在活动页面右上角查看。具体任务、奖品和活动周期均以活动页面的最新展示为准。",
-        "url": "https://www.kimi.ai/zh-hans/help/kimi-blackboard/moon-companion-plan",
-        "snapshot": "snapshots/moonshot-moon-companion-plan/2026-10-10-1134-5309627e.json"
-      }
-    ],
-    "supersedes": null,
-    "quantity": null
-  },
-  {
-    "schemaVersion": 0,
     "offerKey": "b39b5d2f0db4fbc2",
     "occurredAt": "2026-10-17",
     "publishedAt": "2026-10-17T00:03:17.973003+00:00",
@@ -2886,61 +3215,6 @@
       }
     ],
     "quantity": null
-  },
-  {
-    "schemaVersion": 0,
-    "occurredAt": "2026-09-18",
-    "publishedAt": "2026-09-18T17:38:00Z",
-    "verification": "auto_verified",
-    "category": "creditsPromotion",
-    "region": null,
-    "startsAt": null,
-    "startsAtText": null,
-    "expiresAt": null,
-    "expiresAtText": null,
-    "validityText": null,
-    "supersedes": null,
-    "offerKey": "b43edc15d8ead8d4",
-    "promotionType": "newcomer",
-    "appliesTo": [
-      "agent"
-    ],
-    "vendor": "qoder",
-    "entity": "qoder-trial",
-    "amount": "300 Credits as your welcome gift",
-    "eligibility": "New users",
-    "baseline": null,
-    "howToClaim": "signup",
-    "restrictions": "2-Week Trial，注册后在客户端领取；结束时间来源未说明",
-    "claimUrl": "https://qoder.com/activities",
-    "sourceId": "qoder-activities-index",
-    "facts": [
-      {
-        "quote": "300 Credits as your welcome gift",
-        "url": "https://qoder.com/activities",
-        "snapshot": "snapshots/qoder-activities-index/2026-09-18-1735-f2598a3b.json"
-      },
-      {
-        "quote": "New users",
-        "url": "https://qoder.com/activities",
-        "snapshot": "snapshots/qoder-activities-index/2026-09-18-1735-f2598a3b.json"
-      },
-      {
-        "quote": "2 -Week Trial",
-        "url": "https://qoder.com/activities",
-        "snapshot": "snapshots/qoder-activities-index/2026-09-18-1735-f2598a3b.json"
-      },
-      {
-        "quote": "Register to claim",
-        "url": "https://qoder.com/activities",
-        "snapshot": "snapshots/qoder-activities-index/2026-09-18-1735-f2598a3b.json"
-      }
-    ],
-    "quantity": {
-      "value": 300,
-      "unit": "credits",
-      "raw": "300 Credits as your welcome gift"
-    }
   },
   {
     "schemaVersion": 0,
@@ -3008,96 +3282,41 @@
   },
   {
     "schemaVersion": 0,
-    "offerKey": "bf785ca1d6f8e018",
-    "occurredAt": "2026-09-27",
-    "publishedAt": "2026-09-27T13:55:38.247Z",
+    "offerKey": "bf04a69c443dc708",
+    "occurredAt": "2026-10-20",
+    "publishedAt": "2026-10-20T12:15:42.008269+00:00",
     "verification": "auto_verified",
     "category": "creditsPromotion",
-    "region": null,
+    "vendor": "commandcode",
+    "entity": "minimax-m3.1-flash-free",
+    "promotionType": "free",
+    "appliesTo": [
+      "model"
+    ],
+    "amount": "MiniMax M3.1 Flash is free for a limited time.",
+    "eligibility": "auto-applied when you pick minimax-m3.1-flash:free",
+    "baseline": null,
     "startsAt": null,
     "startsAtText": null,
     "expiresAt": null,
     "expiresAtText": null,
-    "validityText": "decision-model-preview 限时免费",
-    "supersedes": null,
-    "promotionType": "discount",
-    "appliesTo": [
-      "subscription"
-    ],
-    "planKind": "tokenPlan",
-    "vendor": "qianwen",
-    "entity": "qianwen-token-plan",
-    "amount": "调用不消耗 Credits",
-    "eligibility": "decision-model-preview 限时免费",
-    "baseline": "通过 Credits 统一抵扣模型调用及 模型内置工具 的费用",
     "howToClaim": "auto",
-    "restrictions": "限时把套餐内额度消耗规则降为 0，按判据记 discount（参照物为标准 Credits 抵扣），不按 free 入库；页面标「限时免费」但未给出活动固定截止日；接入方法参见页面「接入决策模型」",
-    "claimUrl": "https://help.aliyun.com/zh/model-studio/token-plan-personal-overview",
-    "sourceId": "qianwen-token-plan-reset",
-    "facts": [
-      {
-        "quote": "decision-model-preview 限时免费 ：调用不消耗 Credits。接入方法参见 接入决策模型 。",
-        "url": "https://help.aliyun.com/zh/model-studio/token-plan-personal-overview",
-        "snapshot": "snapshots/qianwen-token-plan-reset/2026-09-27-1355-dd5a629d.json"
-      }
-    ],
-    "quantity": null
-  },
-  {
-    "schemaVersion": 0,
-    "offerKey": "c01a151447cb0ad2",
-    "occurredAt": "2026-09-18",
-    "publishedAt": "2026-09-18T12:02:00Z",
-    "verification": "auto_verified",
-    "category": "creditsPromotion",
-    "promotionType": "newcomer",
-    "appliesTo": [
-      "apiCredit"
-    ],
-    "vendor": "moonshot",
-    "entity": "kimi-open-platform",
-    "amount": "15 元代金券",
-    "eligibility": "国内手机号注册的新用户",
-    "howToClaim": "realName",
-    "startsAt": null,
-    "expiresAt": null,
-    "validityText": "代金券自发放之日起 3 个月内有效，过期自动失效",
-    "restrictions": "完成实名认证后发放；自动应用于 API 调用消耗，余额优先于充值余额扣减；不可用于体验 Kimi K3",
-    "claimUrl": "https://www.kimi.com/zh-cn/help/kimi-api/api-free-trial",
-    "sourceId": "moonshot-api-free-trial",
-    "facts": [
-      {
-        "quote": "Kimi 开放平台为新注册用户提供免费测试额度，让你在正式使用前充分体验平台能力。",
-        "url": "https://www.kimi.com/zh-cn/help/kimi-api/api-free-trial",
-        "snapshot": "snapshots/moonshot-api-free-trial/2026-09-18-1202-3587b4c1.json"
-      },
-      {
-        "quote": "适用对象 ：国内手机号注册的新用户。",
-        "url": "https://www.kimi.com/zh-cn/help/kimi-api/api-free-trial",
-        "snapshot": "snapshots/moonshot-api-free-trial/2026-09-18-1202-3587b4c1.json"
-      },
-      {
-        "quote": "赠送金额 ：注册即赠送 15 元代金券 。",
-        "url": "https://www.kimi.com/zh-cn/help/kimi-api/api-free-trial",
-        "snapshot": "snapshots/moonshot-api-free-trial/2026-09-18-1202-3587b4c1.json"
-      },
-      {
-        "quote": "领取条件 ：完成实名认证后发放。",
-        "url": "https://www.kimi.com/zh-cn/help/kimi-api/api-free-trial",
-        "snapshot": "snapshots/moonshot-api-free-trial/2026-09-18-1202-3587b4c1.json"
-      },
-      {
-        "quote": "有效期 ：代金券自发放之日起 3 个月 内有效，过期自动失效。",
-        "url": "https://www.kimi.com/zh-cn/help/kimi-api/api-free-trial",
-        "snapshot": "snapshots/moonshot-api-free-trial/2026-09-18-1202-3587b4c1.json"
-      },
-      {
-        "quote": "模型发布后，国内注册并完成认证的用户获赠的 15 元代金券不可用于体验 Kimi K3，请充值后解锁使用。",
-        "url": "https://www.kimi.com/zh-cn/help/kimi-api/api-free-trial",
-        "snapshot": "snapshots/moonshot-api-free-trial/2026-09-18-1202-3587b4c1.json"
-      }
-    ],
     "supersedes": null,
+    "sourceId": "commandcode-pricing-limits",
+    "claimUrl": "https://commandcode.ai/docs/resources/pricing-limits",
+    "restrictions": "限时免模型调用 credits，无每日请求上限；按 Command Code 接入规则选择 minimax-m3.1-flash:free。官方称该免费模型可用于 CMD_ZDR=1 会话。未给固定结束日期；免费期结束后需切换付费模型，本条不表示订阅费免费。",
+    "facts": [
+      {
+        "quote": "DEAL minimax-m3-1-flash-free MiniMax M3.1 Flash Free for a limited time\nauto-applied when you pick minimax-m3.1-flash:free\nModel MiniMax M3.1 Flash\nTerm for a limited time\nMiniMax M3.1 Flash is free for a limited time.\nMiniMax M3.1 Flash is MiniMax&#x27;s multimodal coding model, with a 1M token context and low, medium, high, xhigh, and max reasoning effort.\nNo daily request limit : use it as much as you like while the window is open.\nZero data retention : the free model runs in a CMD_ZDR=1 session.\nWhen the free tier ends : switch to the paid minimax-m3.1-flash with /model .",
+        "url": "https://commandcode.ai/docs/resources/pricing-limits",
+        "snapshot": "snapshots/commandcode-pricing-limits/2026-10-20-1211-1640018f.json"
+      },
+      {
+        "quote": "DEAL minimax-m3.1-flash:free is free for a limited time, with no daily request limit. Requests on this model cost no credits. for a limited time",
+        "url": "https://commandcode.ai/docs/resources/pricing-limits",
+        "snapshot": "snapshots/commandcode-pricing-limits/2026-10-20-1211-1640018f.json"
+      }
+    ],
     "quantity": null
   },
   {
@@ -3258,84 +3477,6 @@
   },
   {
     "schemaVersion": 0,
-    "offerKey": "e6a805d8703434ab",
-    "occurredAt": "2026-09-27",
-    "publishedAt": "2026-09-27T13:55:51.632Z",
-    "verification": "auto_verified",
-    "category": "creditsPromotion",
-    "region": null,
-    "startsAt": "2026-09-03T14:00:00+08:00",
-    "startsAtText": "2026 年 9 月 3 日 14:00（新加坡时间）",
-    "expiresAt": null,
-    "expiresAtText": null,
-    "validityText": null,
-    "supersedes": null,
-    "promotionType": "discount",
-    "appliesTo": [
-      "model",
-      "subscription"
-    ],
-    "planKind": "toolPlan",
-    "vendor": "qoder",
-    "entity": "qoder-efficient-tier",
-    "amount": "计费系数由 0.3x 降至 0.0x",
-    "eligibility": "选择「经济」档位时",
-    "baseline": "0.3x",
-    "howToClaim": "auto",
-    "restrictions": "限时改松套餐内额度的消耗规则，省的是 Credits，并非额外赠送：「经济」档位的标准倍率 0.3x，活动期内降为 0.0x。适用用户为付费用户（个人订阅 Pro、Pro+、Ultra，以及 Teams、企业版席位），个人体验版用户在 Pro 试用期内、账户有 Credits 时同样适用；自动生效，无需领取。Service Account 被集成调用的场景不参与本次活动，按原系数计费。结束时间待定，结束前会提前通知。高峰时段可能限流或响应较慢。",
-    "claimUrl": "https://docs.qoder.com/zh/events/efficientunlimited",
-    "sourceId": "qoder-events-efficientunlimited",
-    "facts": [
-      {
-        "quote": "现在起，所有付费用户选择「经济」档位不再扣除 Credits，限时免费使用。",
-        "url": "https://docs.qoder.com/zh/events/efficientunlimited",
-        "snapshot": "snapshots/qoder-events-efficientunlimited/2026-09-27-1355-c3ce144a.json"
-      },
-      {
-        "quote": "优惠内容 ：选择「经济」档位时，计费系数由 0.3x 降至 0.0x，不扣除 Credits。个人订阅、Teams、企业版一致",
-        "url": "https://docs.qoder.com/zh/events/efficientunlimited",
-        "snapshot": "snapshots/qoder-events-efficientunlimited/2026-09-27-1355-c3ce144a.json"
-      },
-      {
-        "quote": "开始时间 ：2026 年 9 月 3 日 14:00（新加坡时间）",
-        "url": "https://docs.qoder.com/zh/events/efficientunlimited",
-        "snapshot": "snapshots/qoder-events-efficientunlimited/2026-09-27-1355-c3ce144a.json"
-      },
-      {
-        "quote": "结束时间 ：待定。结束前会提前通知，并同步更新本页",
-        "url": "https://docs.qoder.com/zh/events/efficientunlimited",
-        "snapshot": "snapshots/qoder-events-efficientunlimited/2026-09-27-1355-c3ce144a.json"
-      },
-      {
-        "quote": "适用用户 ：付费用户，包括个人订阅 Pro、Pro+、Ultra，以及 Teams、企业版席位。个人体验版用户在 Pro 试用期内、账户有 Credits 时同样适用",
-        "url": "https://docs.qoder.com/zh/events/efficientunlimited",
-        "snapshot": "snapshots/qoder-events-efficientunlimited/2026-09-27-1355-c3ce144a.json"
-      },
-      {
-        "quote": "生效方式 ：自动生效。无需领取，无需任何设置。打开模型选择器，选「经济」即可",
-        "url": "https://docs.qoder.com/zh/events/efficientunlimited",
-        "snapshot": "snapshots/qoder-events-efficientunlimited/2026-09-27-1355-c3ce144a.json"
-      },
-      {
-        "quote": "活动期间选择器会显示 0.3x 0.0x",
-        "url": "https://docs.qoder.com/zh/events/efficientunlimited",
-        "snapshot": "snapshots/qoder-events-efficientunlimited/2026-09-27-1355-c3ce144a.json"
-      },
-      {
-        "quote": "Service Account 被集成调用的场景，不参与本次活动，「经济」档位按原系数计费",
-        "url": "https://docs.qoder.com/zh/events/efficientunlimited",
-        "snapshot": "snapshots/qoder-events-efficientunlimited/2026-09-27-1355-c3ce144a.json"
-      },
-      {
-        "quote": "不。本次活动仅适用于「经济」档位。Auto、极致、性能，以及指定具体模型，照常按公示系数计费。",
-        "url": "https://docs.qoder.com/zh/events/efficientunlimited",
-        "snapshot": "snapshots/qoder-events-efficientunlimited/2026-09-27-1355-c3ce144a.json"
-      }
-    ],
-    "quantity": null
-  },
-  {
-    "schemaVersion": 0,
     "offerKey": "eaef11d3e256954b",
     "occurredAt": "2026-10-11",
     "publishedAt": "2026-10-11T00:00:00Z",
@@ -3469,54 +3610,6 @@
       }
     },
     "restrictions": "Design Plan 每 7 天窗口最高 $30、每 5 小时最高 $10；达到限制需等待对应窗口恢复。 Design Plan 共用额度，DeepSeek V4.1 Flash 为双倍用量折算，不增加共享余额。平台与 API 共用。首月 $8，续费 $10/月；年付 $84。",
-    "quantity": null
-  },
-  {
-    "schemaVersion": 0,
-    "occurredAt": "2026-09-18",
-    "publishedAt": "2026-09-18T17:38:00Z",
-    "verification": "auto_verified",
-    "category": "creditsPromotion",
-    "region": null,
-    "startsAt": null,
-    "startsAtText": null,
-    "expiresAt": null,
-    "expiresAtText": null,
-    "validityText": null,
-    "supersedes": null,
-    "offerKey": "fb96add77c18a7c7",
-    "promotionType": "discount",
-    "appliesTo": [
-      "subscription",
-      "apiCredit"
-    ],
-    "planKind": "tokenPlan",
-    "vendor": "minimax",
-    "entity": "minimax-token-plan",
-    "amount": "￥ 4,690",
-    "eligibility": "连续包年",
-    "baseline": "￥5,628",
-    "howToClaim": "purchase",
-    "restrictions": "M Plan Build 连续包年：原价 ￥5,628，年订阅 ￥4,690；Go 的 12 倍用量，含 M3.1 Flash 文本模型、图像与音频生成、网络搜索和多模态理解，以及 H3 视频模型。",
-    "claimUrl": "https://platform.minimax.cn/subscribe/token-plan",
-    "sourceId": "minimax-token-plan",
-    "facts": [
-      {
-        "quote": "连续包月 连续包年 立省2月",
-        "url": "https://platform.minimax.cn/subscribe/token-plan",
-        "snapshot": "snapshots/minimax-token-plan/2026-10-19-1201-3f190f60.json"
-      },
-      {
-        "quote": "Build\n全力创造\n￥5,628\n￥ 4,690\nGo 的 12 倍用量",
-        "url": "https://platform.minimax.cn/subscribe/token-plan",
-        "snapshot": "snapshots/minimax-token-plan/2026-10-19-1201-3f190f60.json"
-      },
-      {
-        "quote": "M Plan 包含哪些模型？如何切换模型？ 三个档位都包含 M3.1 Flash 文本模型，以及图像与音频生成、网络搜索和多模态理解能力；Explore 和 Build 还包含 H3 视频模型，Go 不包含视频模型。如需切换模型，在 API 请求或工具配置中填写对应的模型 ID 即可。",
-        "url": "https://platform.minimax.cn/subscribe/token-plan",
-        "snapshot": "snapshots/minimax-token-plan/2026-10-19-1201-3f190f60.json"
-      }
-    ],
     "quantity": null
   }
 ]

@@ -223,7 +223,7 @@
       "availability_change": 0,
       "benchmark_upgrade": 3,
       "model_release": 3,
-      "score_revision": 0
+      "score_revision": 1
     },
     "moonshot": {
       "availability_change": 0,
@@ -1160,10 +1160,19 @@
       "score": 42,
       "stage": "official",
       "type": "model_release"
+    },
+    {
+      "benchmark": "AAII v4.3.2",
+      "company_id": "minimax",
+      "date": "2026-10-20",
+      "id": "minimax:MiniMax-M3.1-Flash:score:2026-10-20",
+      "model": "MiniMax-M3.1-Flash",
+      "score": 43,
+      "type": "score_revision"
     }
   ],
   "meta": {
-    "as_of": "2026-10-19",
+    "as_of": "2026-10-20",
     "benchmark": "AAII v4.3.2",
     "note": "事件流；benchmark_upgrade = 同一模型换了评测版本（口径变更，不是能力变化）"
   }

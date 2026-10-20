@@ -51,7 +51,7 @@
     }
   ],
   "meta": {
-    "as_of": "2026-10-19",
+    "as_of": "2026-10-20",
     "benchmark": "AAII v4.3.2",
     "frontier": {
       "date": "2026-09-22",
@@ -346,7 +346,7 @@
         "agent": {
           "anchor_gens": 2,
           "beyond_pool": false,
-          "gap_days": 27,
+          "gap_days": 28,
           "score": 37.8,
           "status": "estimated"
         },
