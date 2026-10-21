@@ -1,6 +1,45 @@
 [
   {
     "schemaVersion": 0,
+    "offerKey": "b9ff0ce3f33b9143",
+    "occurredAt": "2026-10-21",
+    "publishedAt": "2026-10-21T02:05:49.114433+00:00",
+    "verification": "auto_verified",
+    "category": "creditsPromotion",
+    "vendor": "commandcode",
+    "entity": "ornith-1.5-122b-free",
+    "promotionType": "free",
+    "appliesTo": [
+      "model"
+    ],
+    "amount": "Ornith 1.5 122B is free until 11:00 PM PT on October 21.",
+    "eligibility": "auto-applied when you pick ornith-1.5-122b:free",
+    "baseline": null,
+    "startsAt": null,
+    "startsAtText": null,
+    "expiresAt": "2026-10-21T23:00:00-07:00",
+    "expiresAtText": "11:00 PM PT on October 21",
+    "howToClaim": "auto",
+    "supersedes": null,
+    "sourceId": "commandcode-pricing-limits",
+    "claimUrl": "https://commandcode.ai/docs/resources/pricing-limits",
+    "facts": [
+      {
+        "quote": "DEAL ornith-1-5-122b-free Ornith 1.5 122B Free until 11:00 PM PT on October 21\nauto-applied when you pick ornith-1.5-122b:free\nModel Ornith 1.5 122B\nTerm until 11:00 PM PT on October 21\nOrnith 1.5 122B is free until 11:00 PM PT on October 21.\nOrnith 1.5 122B is Ornith&#x27;s open-weight MoE model for fast agentic coding, with a 262K token context and image input.\nWhen the free tier ends : switch to the paid ornith-1.5-122b with /model .",
+        "url": "https://commandcode.ai/docs/resources/pricing-limits",
+        "snapshot": "snapshots/commandcode-pricing-limits/2026-10-21-0040-aa6b5539.json"
+      },
+      {
+        "quote": "DEAL ornith-1.5-122b:free is free until 11:00 PM PT on October 21, with no daily request limit. Requests on this model cost no credits. until 11:00 PM PT on October 21",
+        "url": "https://commandcode.ai/docs/resources/pricing-limits",
+        "snapshot": "snapshots/commandcode-pricing-limits/2026-10-21-0040-aa6b5539.json"
+      }
+    ],
+    "restrictions": "Command Code 选择 ornith-1.5-122b:free，限时免模型 credits、无每日请求上限；免费期截至太平洋时间10月21日23:00，即北京时间10月22日14:00。官方未给开始时间；结束后需切换付费版本，本条不表示订阅费免费。",
+    "quantity": null
+  },
+  {
+    "schemaVersion": 0,
     "offerKey": "9b30c0ce9335b380",
     "occurredAt": "2026-10-18",
     "publishedAt": "2026-10-18T12:18:17.714069+00:00",
@@ -1063,150 +1102,6 @@
       }
     ],
     "baseline": "按量付费",
-    "quantity": null
-  },
-  {
-    "schemaVersion": 0,
-    "offerKey": "404b19e575f5a9a3",
-    "occurredAt": "2026-09-18",
-    "publishedAt": "2026-09-18T11:19:00Z",
-    "verification": "auto_verified",
-    "category": "creditsPromotion",
-    "promotionType": "bonus",
-    "appliesTo": [
-      "subscription"
-    ],
-    "planKind": "toolPlan",
-    "vendor": "qoder",
-    "entity": "qoder-pro",
-    "amount": "加赠 1,000 Credits",
-    "eligibility": "仅限个人版",
-    "howToClaim": "purchase",
-    "startsAt": "2026-09-01T02:00:00Z",
-    "startsAtText": "2026 年 9 月 1 日 10:00",
-    "expiresAt": null,
-    "expiresAtText": null,
-    "region": null,
-    "restrictions": "活动已延长，10 月 1 日起下单同样享受加赠；结束时间提前在本页公告。仅个人月付，Teams、企业版不适用；加赠到账后 30 天内有效。",
-    "claimUrl": "https://docs.qoder.com/zh/events/bogo",
-    "sourceId": "qoder-events-bogo",
-    "facts": [
-      {
-        "quote": "续费、升级加赠 ：活动期内续费或升级加赠 1,000 Credits，适用于 Pro、Pro+、Ultra",
-        "url": "https://docs.qoder.com/zh/events/bogo",
-        "snapshot": "snapshots/qoder-events-bogo/2026-10-10-1136-8b813fa7.json"
-      },
-      {
-        "quote": "续费、升级：加赠 1,000 Credits",
-        "url": "https://docs.qoder.com/zh/events/bogo",
-        "snapshot": "snapshots/qoder-events-bogo/2026-10-10-1136-8b813fa7.json"
-      },
-      {
-        "quote": "限时 ：活动期内续费、升级，或订阅过期后再次开通，加赠 1,000 Credits。Pro、Pro+、Ultra 相同。仅限个人版。",
-        "url": "https://docs.qoder.com/zh/events/bogo",
-        "snapshot": "snapshots/qoder-events-bogo/2026-10-10-1136-8b813fa7.json"
-      },
-      {
-        "quote": "有。活动期内续费或升级，加赠 1,000 Credits。",
-        "url": "https://docs.qoder.com/zh/events/bogo",
-        "snapshot": "snapshots/qoder-events-bogo/2026-10-10-1136-8b813fa7.json"
-      },
-      {
-        "quote": "首次付费不加赠。活动期内续费或升级，加赠 1,000 Credits。",
-        "url": "https://docs.qoder.com/zh/events/bogo",
-        "snapshot": "snapshots/qoder-events-bogo/2026-10-10-1136-8b813fa7.json"
-      },
-      {
-        "quote": "活动时间 ：自 2026 年 9 月 1 日 10:00（UTC+8）开始，结束时间将提前在本页公告。加赠是否发放，以订单支付成功时间是否落在活动期内为准。活动期外支付的订单不参与。",
-        "url": "https://docs.qoder.com/zh/events/bogo",
-        "snapshot": "snapshots/qoder-events-bogo/2026-10-10-1136-8b813fa7.json"
-      },
-      {
-        "quote": "适用范围 ：Credits 加赠仅适用于个人月付。首次付费加赠仅适用于 Pro、Pro+。Ultra 首次付费不加赠；活动期内续费、升级或过期后重新开通，Pro、Pro+、Ultra 均加赠 1,000 Credits。加赠为通用 Credits。Teams、企业版及其他非个人月付订阅不在加赠范围内。",
-        "url": "https://docs.qoder.com/zh/events/bogo",
-        "snapshot": "snapshots/qoder-events-bogo/2026-10-10-1136-8b813fa7.json"
-      },
-      {
-        "quote": "可以。活动已延长，10 月 1 日起下单同样享受加赠。结束时间将提前在本页公告。",
-        "url": "https://docs.qoder.com/zh/events/bogo",
-        "snapshot": "snapshots/qoder-events-bogo/2026-10-10-1136-8b813fa7.json"
-      },
-      {
-        "quote": "本说明适用于 qoder.com（国际站）。qoder.cn（中国站）规则见 中国站活动页 。",
-        "url": "https://docs.qoder.com/zh/events/bogo",
-        "snapshot": "snapshots/qoder-events-bogo/2026-10-10-1136-8b813fa7.json"
-      },
-      {
-        "quote": "税费 ：价格不含适用税费。Credits 消耗规则与模型计费方式，以帮助中心及购买页说明为准。",
-        "url": "https://docs.qoder.com/zh/events/bogo",
-        "snapshot": "snapshots/qoder-events-bogo/2026-10-10-1136-8b813fa7.json"
-      }
-    ],
-    "supersedes": null,
-    "quantity": {
-      "value": 1000,
-      "unit": "credits",
-      "raw": "加赠 1,000 Credits"
-    }
-  },
-  {
-    "schemaVersion": 0,
-    "offerKey": "446642bff10e4457",
-    "occurredAt": "2026-09-18",
-    "publishedAt": "2026-09-18T11:19:00Z",
-    "verification": "auto_verified",
-    "category": "creditsPromotion",
-    "promotionType": "bonus",
-    "appliesTo": [
-      "subscription"
-    ],
-    "planKind": "toolPlan",
-    "vendor": "qoder",
-    "entity": "qoder-pro",
-    "amount": "Pro 首月 4,000 / Pro+ 12,000",
-    "eligibility": "个人版首次下单",
-    "howToClaim": "purchase",
-    "startsAt": "2026-09-01T02:00:00Z",
-    "startsAtText": "2026 年 9 月 1 日 10:00",
-    "expiresAt": null,
-    "expiresAtText": null,
-    "region": null,
-    "restrictions": "活动已延长，10 月 1 日起下单同样享受加赠；结束时间提前在本页公告。仅个人月付，Teams、企业版不适用；加赠到账后 30 天内有效。",
-    "claimUrl": "https://docs.qoder.com/zh/events/bogo",
-    "sourceId": "qoder-events-bogo",
-    "facts": [
-      {
-        "quote": "限时 ：个人版首次下单，Pro、Pro+ 加赠等额 Credits。",
-        "url": "https://docs.qoder.com/zh/events/bogo",
-        "snapshot": "snapshots/qoder-events-bogo/2026-10-10-1136-8b813fa7.json"
-      },
-      {
-        "quote": "首次下单，Pro / Pro+ 加赠等额 Credits ：Pro 首月 4,000 / Pro+ 12,000。",
-        "url": "https://docs.qoder.com/zh/events/bogo",
-        "snapshot": "snapshots/qoder-events-bogo/2026-10-10-1136-8b813fa7.json"
-      },
-      {
-        "quote": "活动时间 ：自 2026 年 9 月 1 日 10:00（UTC+8）开始，结束时间将提前在本页公告。加赠是否发放，以订单支付成功时间是否落在活动期内为准。活动期外支付的订单不参与。",
-        "url": "https://docs.qoder.com/zh/events/bogo",
-        "snapshot": "snapshots/qoder-events-bogo/2026-10-10-1136-8b813fa7.json"
-      },
-      {
-        "quote": "可以。活动已延长，10 月 1 日起下单同样享受加赠。结束时间将提前在本页公告。",
-        "url": "https://docs.qoder.com/zh/events/bogo",
-        "snapshot": "snapshots/qoder-events-bogo/2026-10-10-1136-8b813fa7.json"
-      },
-      {
-        "quote": "本说明适用于 qoder.com（国际站）。qoder.cn（中国站）规则见 中国站活动页 。",
-        "url": "https://docs.qoder.com/zh/events/bogo",
-        "snapshot": "snapshots/qoder-events-bogo/2026-10-10-1136-8b813fa7.json"
-      },
-      {
-        "quote": "税费 ：价格不含适用税费。Credits 消耗规则与模型计费方式，以帮助中心及购买页说明为准。",
-        "url": "https://docs.qoder.com/zh/events/bogo",
-        "snapshot": "snapshots/qoder-events-bogo/2026-10-10-1136-8b813fa7.json"
-      }
-    ],
-    "supersedes": null,
     "quantity": null
   },
   {
@@ -2406,6 +2301,45 @@
   },
   {
     "schemaVersion": 0,
+    "offerKey": "2498358b777130a9",
+    "occurredAt": "2026-10-21",
+    "publishedAt": "2026-10-21T02:05:49.114433+00:00",
+    "verification": "auto_verified",
+    "category": "creditsPromotion",
+    "vendor": "qoder",
+    "entity": "qoder-first-subscription-20261021",
+    "promotionType": "bonus",
+    "appliesTo": [
+      "subscription"
+    ],
+    "amount": "First subscription: 1,000 Credits for Lite, 2,000 for Pro, 6,000 for Pro+, and 0 for Ultra.",
+    "eligibility": "If your account has never had a successful payment",
+    "baseline": null,
+    "startsAt": "2026-10-21T00:00:00+08:00",
+    "startsAtText": "October 21, 2026 at 00:00 (UTC+8)",
+    "expiresAt": null,
+    "expiresAtText": null,
+    "howToClaim": "purchase",
+    "supersedes": "446642bff10e4457",
+    "sourceId": "qoder-events-newbogo",
+    "planKind": "toolPlan",
+    "restrictions": "仅国际站个人月付首次成功付费账号；Lite/Pro/Pro+分别加赠1000/2000/6000 Credits，首月总额2000/4000/12000，Ultra首购不加赠。退款订单仍算曾付费，过期重订按续费。 支付成功后自动到账，通常数分钟，到账后30天有效。结束时间提前公告；Teams/企业版不适用。",
+    "claimUrl": "https://docs.qoder.com/events/newbogo.md",
+    "facts": [
+      {
+        "quote": "> ## Documentation Index\n> Fetch the complete documentation index at: https://docs.qoder.com/llms.txt\n> Use this file to discover all available pages before exploring further.\n# Limited-Time Offer: Double Credits on Your First Subscription, Plus Bonus Credits on Renewal and Upgrade\nDuring the event, subscribe to the Lite, Pro, or Pro+ Personal plan for the first time to receive bonus Credits equal to the plan's monthly included Credits. Renew or upgrade a Personal plan to receive bonus Credits based on the plan.\n## Event details\n- **Start time**: October 21, 2026 at 00:00 (UTC+8)\n- **End time**: To be announced. We'll announce the end date on this page in advance\n- **Applicable site**: qoder.com\n- **Eligible plans**: Lite, Pro, Pro+, and Ultra Personal plans\n- **Not eligible**: Teams and Enterprise plans\n- **How it works**: Bonus Credits are issued automatically after payment succeeds. No claim is required\n[Subscribe on the Pricing page →](https://qoder.com/pricing)\n## First subscription: Double Credits\nIf your account has never had a successful payment, subscribe to Lite, Pro, or Pro+ for the first time during the event to receive bonus Credits equal to the plan's monthly included Credits. Your account registration date does not matter, and subscribing during the Pro trial is eligible.\n| Plan | Price | Monthly included Credits | Bonus Credits | First-month total |\n| ----- | ---------- | ------------------------ | ------------- | ----------------- |\n| Lite | 10 USD/mo | 1,000 Credits | 1,000 Credits | 2,000 Credits |\n| Pro | 20 USD/mo | 2,000 Credits | 2,000 Credits | 4,000 Credits |\n| Pro+ | 60 USD/mo | 6,000 Credits | 6,000 Credits | 12,000 Credits |\n| Ultra | 200 USD/mo | 20,000 Credits | Not eligible | 20,000 Credits |\n## Renewal and upgrade bonus\nRenew, upgrade, or resubscribe after your subscription expires during the event to receive bonus Credits as follows.\n### Renewal\n| Plan | Monthly included Credits | Bonus Credits |\n| ----- | ------------------------ | ------------- |\n| Lite | 1,000 Credits | 500 Credits |\n| Pro | 2,000 Credits | 1,000 Credits |\n| Pro+ | 6,000 Credits | 2,000 Credits |\n| Ultra | 20,000 Credits | 3,000 Credits |\n### Upgrade\nThe upgrade bonus is based on the plan you upgrade to, regardless of your previous plan.\n| Upgraded plan | Bonus Credits |\n| ------------- | ------------- |\n| Pro | 1,000 Credits |\n| Pro+ | 2,000 Credits |\n| Ultra | 3,000 Credits |\nFor example, upgrading from Lite to Pro grants 1,000 bonus Credits. Upgrading from Lite or Pro to Pro+ grants 2,000 bonus Credits.\nNOTE: Resubscribing after your subscription expires is treated as a renewal, not a first subscription.\n## How to participate\n1. Sign in to Qoder.\n2. Go to the [Pricing page](https://qoder.com/pricing), select a Personal plan, and complete payment.\n3. Bonus Credits are usually added automatically within a few minutes after payment succeeds. Go to **Settings > Usage** to view your Credits details and expiration dates.\n## FAQ\n**Q: How is this event different from the previous one?**\nLite is now eligible for the first-subscription bonus. The renewal and upgrade bonus has changed from a flat 1,000 Credits for every plan to a plan-based amount: 500 for Lite, 1,000 for Pro, 2,000 for Pro+, and 3,000 for Ultra.\n**Q: Which rules apply to orders paid on October 20, 2026?**\nEligibility is based on when the order payment succeeds. Orders paid before October 20, 2026 at 24:00 (UTC+8) follow the previous event rules. Orders paid from October 21, 2026 at 00:00 (UTC+8) follow the rules on this page.\n**Q: I registered a long time ago but have never paid. Does this count as a first subscription?**\nYes. A first subscription is determined by whether the account has ever had a successful payment, not by its registration date.\n**Q: I already have a Personal plan. Can I participate?**\nYes. Renew during the event to receive bonus Credits based on your current plan: 500 for Lite, 1,000 for Pro, 2,000 for Pro+, and 3,000 for Ultra. Upgrades are based on the plan you upgrade to.\n**Q: I subscribed to Pro before. If I subscribe to Lite after Pro expires, does it count as a first subscription?**\nNo. Your account already has a successful payment, so you receive the Lite renewal bonus of 500 Credits.\n**Q: Do I receive bonus Credits if my first subscription is Ultra?**\nNo. A first Ultra subscription is not eligible for the bonus. Renewing Ultra during the event grants 3,000 bonus Credits.\n**Q: Which models can I use with bonus Credits?**\nBonus Credits can be used with the same models as your current plan. For example, bonus Credits on the Lite plan can only be used with models supported by Lite.\n**Q: When will I receive the bonus Credits, and how long are they valid?**\nThey are issued automatically after payment succeeds and usually arrive within a few minutes. They are valid for 30 days from the time they are issued. Unused Credits expire automatically.\n**Q: Will unused bonus Credits expire when the event ends?**\nNo. Bonus Credits already issued are not cleared early when the event ends, and remain available within their 30-day validity period.\n**Q: Are Teams and Enterprise plans eligible?**\nNo. This event applies only to Personal plans.\n## Event terms\nThese terms apply to qoder.com (the international site). For the qoder.cn offer, see the Qoder CN event page.\n**Credits bonus**\n1. **Event period**: The event starts on October 21, 2026 at 00:00 (UTC+8). The end date will be announced on this page in advance. Bonus eligibility is determined by whether the order payment succeeds during the event. Orders paid outside the event period are not eligible. Orders paid before October 20, 2026 at 24:00 (UTC+8) follow the previous event rules.\n2. **Eligibility**: The Credits bonus applies only to monthly Personal plans. The first-subscription bonus applies to Lite, Pro, and Pro+. A first Ultra subscription is not eligible. Lite, Pro, Pro+, and Ultra subscriptions renewed, upgraded, or resubscribed after expiration during the event receive bonus Credits as described in Term 4. Bonus Credits can be used with the same models as your current plan. Teams, Enterprise, and other non-Personal plans are not eligible.\n3. **First subscription**: An account qualifies for a first subscription if it has never had a successful payment. A refunded order still counts as a previous payment, so a later purchase is not treated as a first subscription.\n4. **Bonus amount and issuance**: Bonus Credits are issued automatically after the order payment succeeds and usually arrive within a few minutes.\n- First subscription: 1,000 Credits for Lite, 2,000 for Pro, 6,000 for Pro+, and 0 for Ultra.\n- Renewal or resubscription after expiration: 500 Credits for Lite, 1,000 for Pro, 2,000 for Pro+, and 3,000 for Ultra.\n- Upgrade: Based on the plan you upgrade to. 1,000 Credits for Pro, 2,000 for Pro+, and 3,000 for Ultra.\n- The amount shown on the order confirmation page prevails for each order.\n5. **Validity**: Bonus Credits are valid for 30 calendar days from the time they are issued, calculated in UTC+8. Unused Credits expire automatically and do not roll over. The end or early termination of the event does not affect bonus Credits already issued and still within their validity period.\n6. **Refunds**: Orders with Credits consumed during the subscription period are non-refundable. If an order has no Credits consumed and meets the refund requirements, it can be fully refunded. After the refund, the subscription is canceled, unused bonus Credits are revoked, and the account is still considered to have made a previous payment.\n**Other terms**\n1. **Benefit restrictions**: Bonus Credits cannot be transferred, redeemed for cash, or invoiced.\n2. **Abuse prevention**: Qoder may disqualify accounts involved in abnormal or bulk registration, fraudulent transactions, or other violations of the Terms of Service, and may revoke issued bonus Credits.\n3. **Event changes**: Qoder reserves the right to adjust, suspend, or terminate this event and will provide notice by updating this page or through other official channels.\n4. **Taxes and usage**: Prices exclude applicable taxes. For Credits usage and model pricing, see the Help Center and the Pricing page.\n5. **Contact**: If you have questions, contact [contact@qoder.com](mailto:contact@qoder.com).",
+        "url": "https://docs.qoder.com/events/newbogo.md",
+        "snapshot": "snapshots/qoder-events-newbogo/2026-10-21-0204-771af682.json"
+      }
+    ],
+    "quantity": {
+      "value": 1000,
+      "unit": "credits",
+      "raw": "First subscription: 1,000 Credits for Lite, 2,000 for Pro, 6,000 for Pro+, and 0 for Ultra."
+    }
+  },
+  {
+    "schemaVersion": 0,
     "offerKey": "29177a5d792e1161",
     "occurredAt": "2026-10-19",
     "publishedAt": "2026-10-19T02:48:53.678568+00:00",
@@ -3225,6 +3159,45 @@
     },
     "restrictions": "5 小时 $14、每周 $35、每月 $70 的窗口；实际可用量随模型计价不同。 列出的是示例模型月用量，不是各模型独立余额；不可相加。CLI 与 API 使用套餐额度，额外购买的积分另计。 DeepSeek V4.1 Flash 三天 $100 活动已结束，现为长期提升后的 $80 月用量等值；官方明确无结束日期。 套餐宣传现标注 $10 对应 $80 credits；官方窗口仍列 $14/$35/$70，以窗口限制为准，不能将宣传额度替代窗口限制。 GLM-5.3 Flash 三天 $100 活动已结束，当前月用量等值为 $80，提升优惠持续到容量用尽，来源未给固定结束日期。 本轮官方表新增展示 Ling 3.1 Flash $100、GPT-5.6 Sol $20、Muse Spark Open $20 及 Nemotron 3.5 Super VL $20 月用量等值；各模型额度不可相加。",
     "quantity": null
+  },
+  {
+    "schemaVersion": 0,
+    "offerKey": "b1fde8d36594a5b4",
+    "occurredAt": "2026-10-21",
+    "publishedAt": "2026-10-21T02:05:49.114433+00:00",
+    "verification": "auto_verified",
+    "category": "creditsPromotion",
+    "vendor": "qoder",
+    "entity": "qoder-renewal-upgrade-20261021",
+    "promotionType": "bonus",
+    "appliesTo": [
+      "subscription"
+    ],
+    "amount": "Renewal or resubscription after expiration: 500 Credits for Lite, 1,000 for Pro, 2,000 for Pro+, and 3,000 for Ultra.",
+    "eligibility": "Renew, upgrade, or resubscribe after your subscription expires during the event",
+    "baseline": null,
+    "startsAt": "2026-10-21T00:00:00+08:00",
+    "startsAtText": "October 21, 2026 at 00:00 (UTC+8)",
+    "expiresAt": null,
+    "expiresAtText": null,
+    "howToClaim": "purchase",
+    "supersedes": "404b19e575f5a9a3",
+    "sourceId": "qoder-events-newbogo",
+    "planKind": "toolPlan",
+    "restrictions": "仅国际站个人月付。续费或到期重订按Lite/Pro/Pro+/Ultra加赠500/1000/2000/3000 Credits；升级按目标Pro/Pro+/Ultra加赠1000/2000/3000，Lite的500只适用于续费。 支付成功后自动到账，通常数分钟，到账后30天有效。结束时间提前公告；Teams/企业版不适用。",
+    "claimUrl": "https://docs.qoder.com/events/newbogo.md",
+    "facts": [
+      {
+        "quote": "> ## Documentation Index\n> Fetch the complete documentation index at: https://docs.qoder.com/llms.txt\n> Use this file to discover all available pages before exploring further.\n# Limited-Time Offer: Double Credits on Your First Subscription, Plus Bonus Credits on Renewal and Upgrade\nDuring the event, subscribe to the Lite, Pro, or Pro+ Personal plan for the first time to receive bonus Credits equal to the plan's monthly included Credits. Renew or upgrade a Personal plan to receive bonus Credits based on the plan.\n## Event details\n- **Start time**: October 21, 2026 at 00:00 (UTC+8)\n- **End time**: To be announced. We'll announce the end date on this page in advance\n- **Applicable site**: qoder.com\n- **Eligible plans**: Lite, Pro, Pro+, and Ultra Personal plans\n- **Not eligible**: Teams and Enterprise plans\n- **How it works**: Bonus Credits are issued automatically after payment succeeds. No claim is required\n[Subscribe on the Pricing page →](https://qoder.com/pricing)\n## First subscription: Double Credits\nIf your account has never had a successful payment, subscribe to Lite, Pro, or Pro+ for the first time during the event to receive bonus Credits equal to the plan's monthly included Credits. Your account registration date does not matter, and subscribing during the Pro trial is eligible.\n| Plan | Price | Monthly included Credits | Bonus Credits | First-month total |\n| ----- | ---------- | ------------------------ | ------------- | ----------------- |\n| Lite | 10 USD/mo | 1,000 Credits | 1,000 Credits | 2,000 Credits |\n| Pro | 20 USD/mo | 2,000 Credits | 2,000 Credits | 4,000 Credits |\n| Pro+ | 60 USD/mo | 6,000 Credits | 6,000 Credits | 12,000 Credits |\n| Ultra | 200 USD/mo | 20,000 Credits | Not eligible | 20,000 Credits |\n## Renewal and upgrade bonus\nRenew, upgrade, or resubscribe after your subscription expires during the event to receive bonus Credits as follows.\n### Renewal\n| Plan | Monthly included Credits | Bonus Credits |\n| ----- | ------------------------ | ------------- |\n| Lite | 1,000 Credits | 500 Credits |\n| Pro | 2,000 Credits | 1,000 Credits |\n| Pro+ | 6,000 Credits | 2,000 Credits |\n| Ultra | 20,000 Credits | 3,000 Credits |\n### Upgrade\nThe upgrade bonus is based on the plan you upgrade to, regardless of your previous plan.\n| Upgraded plan | Bonus Credits |\n| ------------- | ------------- |\n| Pro | 1,000 Credits |\n| Pro+ | 2,000 Credits |\n| Ultra | 3,000 Credits |\nFor example, upgrading from Lite to Pro grants 1,000 bonus Credits. Upgrading from Lite or Pro to Pro+ grants 2,000 bonus Credits.\nNOTE: Resubscribing after your subscription expires is treated as a renewal, not a first subscription.\n## How to participate\n1. Sign in to Qoder.\n2. Go to the [Pricing page](https://qoder.com/pricing), select a Personal plan, and complete payment.\n3. Bonus Credits are usually added automatically within a few minutes after payment succeeds. Go to **Settings > Usage** to view your Credits details and expiration dates.\n## FAQ\n**Q: How is this event different from the previous one?**\nLite is now eligible for the first-subscription bonus. The renewal and upgrade bonus has changed from a flat 1,000 Credits for every plan to a plan-based amount: 500 for Lite, 1,000 for Pro, 2,000 for Pro+, and 3,000 for Ultra.\n**Q: Which rules apply to orders paid on October 20, 2026?**\nEligibility is based on when the order payment succeeds. Orders paid before October 20, 2026 at 24:00 (UTC+8) follow the previous event rules. Orders paid from October 21, 2026 at 00:00 (UTC+8) follow the rules on this page.\n**Q: I registered a long time ago but have never paid. Does this count as a first subscription?**\nYes. A first subscription is determined by whether the account has ever had a successful payment, not by its registration date.\n**Q: I already have a Personal plan. Can I participate?**\nYes. Renew during the event to receive bonus Credits based on your current plan: 500 for Lite, 1,000 for Pro, 2,000 for Pro+, and 3,000 for Ultra. Upgrades are based on the plan you upgrade to.\n**Q: I subscribed to Pro before. If I subscribe to Lite after Pro expires, does it count as a first subscription?**\nNo. Your account already has a successful payment, so you receive the Lite renewal bonus of 500 Credits.\n**Q: Do I receive bonus Credits if my first subscription is Ultra?**\nNo. A first Ultra subscription is not eligible for the bonus. Renewing Ultra during the event grants 3,000 bonus Credits.\n**Q: Which models can I use with bonus Credits?**\nBonus Credits can be used with the same models as your current plan. For example, bonus Credits on the Lite plan can only be used with models supported by Lite.\n**Q: When will I receive the bonus Credits, and how long are they valid?**\nThey are issued automatically after payment succeeds and usually arrive within a few minutes. They are valid for 30 days from the time they are issued. Unused Credits expire automatically.\n**Q: Will unused bonus Credits expire when the event ends?**\nNo. Bonus Credits already issued are not cleared early when the event ends, and remain available within their 30-day validity period.\n**Q: Are Teams and Enterprise plans eligible?**\nNo. This event applies only to Personal plans.\n## Event terms\nThese terms apply to qoder.com (the international site). For the qoder.cn offer, see the Qoder CN event page.\n**Credits bonus**\n1. **Event period**: The event starts on October 21, 2026 at 00:00 (UTC+8). The end date will be announced on this page in advance. Bonus eligibility is determined by whether the order payment succeeds during the event. Orders paid outside the event period are not eligible. Orders paid before October 20, 2026 at 24:00 (UTC+8) follow the previous event rules.\n2. **Eligibility**: The Credits bonus applies only to monthly Personal plans. The first-subscription bonus applies to Lite, Pro, and Pro+. A first Ultra subscription is not eligible. Lite, Pro, Pro+, and Ultra subscriptions renewed, upgraded, or resubscribed after expiration during the event receive bonus Credits as described in Term 4. Bonus Credits can be used with the same models as your current plan. Teams, Enterprise, and other non-Personal plans are not eligible.\n3. **First subscription**: An account qualifies for a first subscription if it has never had a successful payment. A refunded order still counts as a previous payment, so a later purchase is not treated as a first subscription.\n4. **Bonus amount and issuance**: Bonus Credits are issued automatically after the order payment succeeds and usually arrive within a few minutes.\n- First subscription: 1,000 Credits for Lite, 2,000 for Pro, 6,000 for Pro+, and 0 for Ultra.\n- Renewal or resubscription after expiration: 500 Credits for Lite, 1,000 for Pro, 2,000 for Pro+, and 3,000 for Ultra.\n- Upgrade: Based on the plan you upgrade to. 1,000 Credits for Pro, 2,000 for Pro+, and 3,000 for Ultra.\n- The amount shown on the order confirmation page prevails for each order.\n5. **Validity**: Bonus Credits are valid for 30 calendar days from the time they are issued, calculated in UTC+8. Unused Credits expire automatically and do not roll over. The end or early termination of the event does not affect bonus Credits already issued and still within their validity period.\n6. **Refunds**: Orders with Credits consumed during the subscription period are non-refundable. If an order has no Credits consumed and meets the refund requirements, it can be fully refunded. After the refund, the subscription is canceled, unused bonus Credits are revoked, and the account is still considered to have made a previous payment.\n**Other terms**\n1. **Benefit restrictions**: Bonus Credits cannot be transferred, redeemed for cash, or invoiced.\n2. **Abuse prevention**: Qoder may disqualify accounts involved in abnormal or bulk registration, fraudulent transactions, or other violations of the Terms of Service, and may revoke issued bonus Credits.\n3. **Event changes**: Qoder reserves the right to adjust, suspend, or terminate this event and will provide notice by updating this page or through other official channels.\n4. **Taxes and usage**: Prices exclude applicable taxes. For Credits usage and model pricing, see the Help Center and the Pricing page.\n5. **Contact**: If you have questions, contact [contact@qoder.com](mailto:contact@qoder.com).",
+        "url": "https://docs.qoder.com/events/newbogo.md",
+        "snapshot": "snapshots/qoder-events-newbogo/2026-10-21-0204-771af682.json"
+      }
+    ],
+    "quantity": {
+      "value": 500,
+      "unit": "credits",
+      "raw": "Renewal or resubscription after expiration: 500 Credits for Lite, 1,000 for Pro, 2,000 for Pro+, and 3,000 for Ultra."
+    }
   },
   {
     "schemaVersion": 0,

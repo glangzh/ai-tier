@@ -1,0 +1,9 @@
+{
+  "id": "qoder-events-newbogo",
+  "vendor": "qoder",
+  "url": "https://docs.qoder.com/events/newbogo.md",
+  "allowedHosts": [
+    "docs.qoder.com",
+    "qoder.com"
+  ]
+}

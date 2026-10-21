@@ -265,6 +265,160 @@
   },
   {
     "schemaVersion": 0,
+    "offerKey": "404b19e575f5a9a3",
+    "occurredAt": "2026-09-18",
+    "publishedAt": "2026-09-18T11:19:00Z",
+    "verification": "auto_verified",
+    "category": "creditsPromotion",
+    "promotionType": "bonus",
+    "appliesTo": [
+      "subscription"
+    ],
+    "planKind": "toolPlan",
+    "vendor": "qoder",
+    "entity": "qoder-pro",
+    "amount": "加赠 1,000 Credits",
+    "eligibility": "仅限个人版",
+    "howToClaim": "purchase",
+    "startsAt": "2026-09-01T02:00:00Z",
+    "startsAtText": "2026 年 9 月 1 日 10:00",
+    "expiresAt": "2026-10-21T00:00:00+08:00",
+    "expiresAtText": "2026 年 10 月 20 日 24:00（UTC+8）",
+    "region": null,
+    "restrictions": "本期旧活动已于北京时间2026年10月20日24:00结束。10月21日00:00起新支付订单按新活动规则；已到账的加赠仍按发放后30天有效，不提前清零。",
+    "claimUrl": "https://docs.qoder.com/zh/events/bogo",
+    "sourceId": "qoder-events-bogo",
+    "facts": [
+      {
+        "quote": "续费、升级加赠 ：活动期内续费或升级加赠 1,000 Credits，适用于 Pro、Pro+、Ultra",
+        "url": "https://docs.qoder.com/zh/events/bogo",
+        "snapshot": "snapshots/qoder-events-bogo/2026-10-10-1136-8b813fa7.json"
+      },
+      {
+        "quote": "续费、升级：加赠 1,000 Credits",
+        "url": "https://docs.qoder.com/zh/events/bogo",
+        "snapshot": "snapshots/qoder-events-bogo/2026-10-10-1136-8b813fa7.json"
+      },
+      {
+        "quote": "限时 ：活动期内续费、升级，或订阅过期后再次开通，加赠 1,000 Credits。Pro、Pro+、Ultra 相同。仅限个人版。",
+        "url": "https://docs.qoder.com/zh/events/bogo",
+        "snapshot": "snapshots/qoder-events-bogo/2026-10-10-1136-8b813fa7.json"
+      },
+      {
+        "quote": "有。活动期内续费或升级，加赠 1,000 Credits。",
+        "url": "https://docs.qoder.com/zh/events/bogo",
+        "snapshot": "snapshots/qoder-events-bogo/2026-10-10-1136-8b813fa7.json"
+      },
+      {
+        "quote": "首次付费不加赠。活动期内续费或升级，加赠 1,000 Credits。",
+        "url": "https://docs.qoder.com/zh/events/bogo",
+        "snapshot": "snapshots/qoder-events-bogo/2026-10-10-1136-8b813fa7.json"
+      },
+      {
+        "quote": "活动时间 ：自 2026 年 9 月 1 日 10:00（UTC+8）开始，结束时间将提前在本页公告。加赠是否发放，以订单支付成功时间是否落在活动期内为准。活动期外支付的订单不参与。",
+        "url": "https://docs.qoder.com/zh/events/bogo",
+        "snapshot": "snapshots/qoder-events-bogo/2026-10-10-1136-8b813fa7.json"
+      },
+      {
+        "quote": "适用范围 ：Credits 加赠仅适用于个人月付。首次付费加赠仅适用于 Pro、Pro+。Ultra 首次付费不加赠；活动期内续费、升级或过期后重新开通，Pro、Pro+、Ultra 均加赠 1,000 Credits。加赠为通用 Credits。Teams、企业版及其他非个人月付订阅不在加赠范围内。",
+        "url": "https://docs.qoder.com/zh/events/bogo",
+        "snapshot": "snapshots/qoder-events-bogo/2026-10-10-1136-8b813fa7.json"
+      },
+      {
+        "quote": "可以。活动已延长，10 月 1 日起下单同样享受加赠。结束时间将提前在本页公告。",
+        "url": "https://docs.qoder.com/zh/events/bogo",
+        "snapshot": "snapshots/qoder-events-bogo/2026-10-10-1136-8b813fa7.json"
+      },
+      {
+        "quote": "本说明适用于 qoder.com（国际站）。qoder.cn（中国站）规则见 中国站活动页 。",
+        "url": "https://docs.qoder.com/zh/events/bogo",
+        "snapshot": "snapshots/qoder-events-bogo/2026-10-10-1136-8b813fa7.json"
+      },
+      {
+        "quote": "税费 ：价格不含适用税费。Credits 消耗规则与模型计费方式，以帮助中心及购买页说明为准。",
+        "url": "https://docs.qoder.com/zh/events/bogo",
+        "snapshot": "snapshots/qoder-events-bogo/2026-10-10-1136-8b813fa7.json"
+      },
+      {
+        "quote": "本活动已于 2026 年 10 月 20 日 24:00（UTC+8）结束。新活动自 2026 年 10 月 21 日 00:00（UTC+8）开始，详见 新活动页 。",
+        "url": "https://docs.qoder.com/zh/events/bogo",
+        "snapshot": "snapshots/qoder-events-bogo/2026-10-21-0057-0fa562d7.json"
+      }
+    ],
+    "supersedes": null,
+    "quantity": {
+      "value": 1000,
+      "unit": "credits",
+      "raw": "加赠 1,000 Credits"
+    }
+  },
+  {
+    "schemaVersion": 0,
+    "offerKey": "446642bff10e4457",
+    "occurredAt": "2026-09-18",
+    "publishedAt": "2026-09-18T11:19:00Z",
+    "verification": "auto_verified",
+    "category": "creditsPromotion",
+    "promotionType": "bonus",
+    "appliesTo": [
+      "subscription"
+    ],
+    "planKind": "toolPlan",
+    "vendor": "qoder",
+    "entity": "qoder-pro",
+    "amount": "Pro 首月 4,000 / Pro+ 12,000",
+    "eligibility": "个人版首次下单",
+    "howToClaim": "purchase",
+    "startsAt": "2026-09-01T02:00:00Z",
+    "startsAtText": "2026 年 9 月 1 日 10:00",
+    "expiresAt": "2026-10-21T00:00:00+08:00",
+    "expiresAtText": "2026 年 10 月 20 日 24:00（UTC+8）",
+    "region": null,
+    "restrictions": "本期旧活动已于北京时间2026年10月20日24:00结束。10月21日00:00起新支付订单按新活动规则；已到账的加赠仍按发放后30天有效，不提前清零。",
+    "claimUrl": "https://docs.qoder.com/zh/events/bogo",
+    "sourceId": "qoder-events-bogo",
+    "facts": [
+      {
+        "quote": "限时 ：个人版首次下单，Pro、Pro+ 加赠等额 Credits。",
+        "url": "https://docs.qoder.com/zh/events/bogo",
+        "snapshot": "snapshots/qoder-events-bogo/2026-10-10-1136-8b813fa7.json"
+      },
+      {
+        "quote": "首次下单，Pro / Pro+ 加赠等额 Credits ：Pro 首月 4,000 / Pro+ 12,000。",
+        "url": "https://docs.qoder.com/zh/events/bogo",
+        "snapshot": "snapshots/qoder-events-bogo/2026-10-10-1136-8b813fa7.json"
+      },
+      {
+        "quote": "活动时间 ：自 2026 年 9 月 1 日 10:00（UTC+8）开始，结束时间将提前在本页公告。加赠是否发放，以订单支付成功时间是否落在活动期内为准。活动期外支付的订单不参与。",
+        "url": "https://docs.qoder.com/zh/events/bogo",
+        "snapshot": "snapshots/qoder-events-bogo/2026-10-10-1136-8b813fa7.json"
+      },
+      {
+        "quote": "可以。活动已延长，10 月 1 日起下单同样享受加赠。结束时间将提前在本页公告。",
+        "url": "https://docs.qoder.com/zh/events/bogo",
+        "snapshot": "snapshots/qoder-events-bogo/2026-10-10-1136-8b813fa7.json"
+      },
+      {
+        "quote": "本说明适用于 qoder.com（国际站）。qoder.cn（中国站）规则见 中国站活动页 。",
+        "url": "https://docs.qoder.com/zh/events/bogo",
+        "snapshot": "snapshots/qoder-events-bogo/2026-10-10-1136-8b813fa7.json"
+      },
+      {
+        "quote": "税费 ：价格不含适用税费。Credits 消耗规则与模型计费方式，以帮助中心及购买页说明为准。",
+        "url": "https://docs.qoder.com/zh/events/bogo",
+        "snapshot": "snapshots/qoder-events-bogo/2026-10-10-1136-8b813fa7.json"
+      },
+      {
+        "quote": "本活动已于 2026 年 10 月 20 日 24:00（UTC+8）结束。新活动自 2026 年 10 月 21 日 00:00（UTC+8）开始，详见 新活动页 。",
+        "url": "https://docs.qoder.com/zh/events/bogo",
+        "snapshot": "snapshots/qoder-events-bogo/2026-10-21-0057-0fa562d7.json"
+      }
+    ],
+    "supersedes": null,
+    "quantity": null
+  },
+  {
+    "schemaVersion": 0,
     "occurredAt": "2026-09-18",
     "publishedAt": "2026-09-18T15:00:00Z",
     "verification": "auto_verified",
