@@ -1030,6 +1030,88 @@
   },
   {
     "schemaVersion": 0,
+    "offerKey": "86005e88dff38638",
+    "occurredAt": "2026-10-16",
+    "publishedAt": "2026-10-16T00:13:48.247750+00:00",
+    "verification": "auto_verified",
+    "category": "creditsPromotion",
+    "vendor": "commandcode",
+    "entity": "cat-jam-free",
+    "amount": "Cat Jam is a free stealth preview.",
+    "eligibility": "while the stealth preview lasts",
+    "promotionType": "free",
+    "appliesTo": [
+      "model"
+    ],
+    "baseline": null,
+    "startsAt": null,
+    "startsAtText": null,
+    "expiresAt": null,
+    "expiresAtText": null,
+    "howToClaim": "auto",
+    "restrictions": "Command Code 的 Cat Jam 隐身预览期免费，无每日请求限制，不消耗 credits。提供方可能保留输入输出并用于训练；CMD_ZDR=1 会话不可用。结束日期未说明。",
+    "supersedes": null,
+    "sourceId": "commandcode-pricing-limits",
+    "claimUrl": "https://commandcode.ai/docs/resources/pricing-limits",
+    "facts": [
+      {
+        "quote": "DEAL cat-jam-free Cat Jam Free while the stealth preview lasts\nauto-applied when you pick cat-jam:free\nModel Cat Jam\nCat Jam is a free stealth preview.\nCat Jam is a reasoning model for coding and agentic work, with a 1M token context and low, medium, high, xhigh, and max reasoning effort. Its maker has chosen to stay anonymous for the preview.\nNo daily request limit : use it as much as you like while the preview lasts.\nKeep sensitive work elsewhere : the provider may keep your prompts and outputs and train on them, so Cat Jam won&#x27;t run in a CMD_ZDR=1 session.",
+        "url": "https://commandcode.ai/docs/resources/pricing-limits",
+        "snapshot": "snapshots/commandcode-pricing-limits/2026-10-16-0008-452ca750.json"
+      },
+      {
+        "quote": "DEAL cat-jam:free is free, with no daily request limit. Requests on this model cost no credits. while the stealth preview lasts",
+        "url": "https://commandcode.ai/docs/resources/pricing-limits",
+        "snapshot": "snapshots/commandcode-pricing-limits/2026-10-16-0008-452ca750.json"
+      }
+    ],
+    "quantity": null,
+    "withdrawn": {
+      "reason": "项目失效复查连续3轮成功回源均不再出现Cat Jam免费预览原文；当前官方快照snapshots/commandcode-pricing-limits/2026-10-22-2358-9fc9d567.json。其它已知空值/渲染误差不纳入本次下架。",
+      "at": "2026-10-23"
+    }
+  },
+  {
+    "schemaVersion": 0,
+    "offerKey": "b9ff0ce3f33b9143",
+    "occurredAt": "2026-10-21",
+    "publishedAt": "2026-10-21T02:05:49.114433+00:00",
+    "verification": "auto_verified",
+    "category": "creditsPromotion",
+    "vendor": "commandcode",
+    "entity": "ornith-1.5-122b-free",
+    "promotionType": "free",
+    "appliesTo": [
+      "model"
+    ],
+    "amount": "Ornith 1.5 122B is free until 11:00 PM PT on October 21.",
+    "eligibility": "auto-applied when you pick ornith-1.5-122b:free",
+    "baseline": null,
+    "startsAt": null,
+    "startsAtText": null,
+    "expiresAt": "2026-10-21T23:00:00-07:00",
+    "expiresAtText": "11:00 PM PT on October 21",
+    "howToClaim": "auto",
+    "supersedes": null,
+    "sourceId": "commandcode-pricing-limits",
+    "claimUrl": "https://commandcode.ai/docs/resources/pricing-limits",
+    "facts": [
+      {
+        "quote": "DEAL ornith-1-5-122b-free Ornith 1.5 122B Free until 11:00 PM PT on October 21\nauto-applied when you pick ornith-1.5-122b:free\nModel Ornith 1.5 122B\nTerm until 11:00 PM PT on October 21\nOrnith 1.5 122B is free until 11:00 PM PT on October 21.\nOrnith 1.5 122B is Ornith&#x27;s open-weight MoE model for fast agentic coding, with a 262K token context and image input.\nWhen the free tier ends : switch to the paid ornith-1.5-122b with /model .",
+        "url": "https://commandcode.ai/docs/resources/pricing-limits",
+        "snapshot": "snapshots/commandcode-pricing-limits/2026-10-21-0040-aa6b5539.json"
+      },
+      {
+        "quote": "DEAL ornith-1.5-122b:free is free until 11:00 PM PT on October 21, with no daily request limit. Requests on this model cost no credits. until 11:00 PM PT on October 21",
+        "url": "https://commandcode.ai/docs/resources/pricing-limits",
+        "snapshot": "snapshots/commandcode-pricing-limits/2026-10-21-0040-aa6b5539.json"
+      }
+    ],
+    "restrictions": "Command Code 选择 ornith-1.5-122b:free，限时免模型 credits、无每日请求上限；免费期截至太平洋时间10月21日23:00，即北京时间10月22日14:00。官方未给开始时间；结束后需切换付费版本，本条不表示订阅费免费。",
+    "quantity": null
+  },
+  {
+    "schemaVersion": 0,
     "offerKey": "db364c6fa25edb8a",
     "occurredAt": "2026-10-14",
     "publishedAt": "2026-10-14T00:05:17.642849+00:00",

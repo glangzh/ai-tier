@@ -1,0 +1,9 @@
+{
+  "id": "qoder-events-communityboost",
+  "vendor": "qoder",
+  "url": "https://docs.qoder.com/events/communityboost.md",
+  "allowedHosts": [
+    "docs.qoder.com",
+    "qoder.com"
+  ]
+}

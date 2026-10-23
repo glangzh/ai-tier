@@ -1,45 +1,6 @@
 [
   {
     "schemaVersion": 0,
-    "offerKey": "b9ff0ce3f33b9143",
-    "occurredAt": "2026-10-21",
-    "publishedAt": "2026-10-21T02:05:49.114433+00:00",
-    "verification": "auto_verified",
-    "category": "creditsPromotion",
-    "vendor": "commandcode",
-    "entity": "ornith-1.5-122b-free",
-    "promotionType": "free",
-    "appliesTo": [
-      "model"
-    ],
-    "amount": "Ornith 1.5 122B is free until 11:00 PM PT on October 21.",
-    "eligibility": "auto-applied when you pick ornith-1.5-122b:free",
-    "baseline": null,
-    "startsAt": null,
-    "startsAtText": null,
-    "expiresAt": "2026-10-21T23:00:00-07:00",
-    "expiresAtText": "11:00 PM PT on October 21",
-    "howToClaim": "auto",
-    "supersedes": null,
-    "sourceId": "commandcode-pricing-limits",
-    "claimUrl": "https://commandcode.ai/docs/resources/pricing-limits",
-    "facts": [
-      {
-        "quote": "DEAL ornith-1-5-122b-free Ornith 1.5 122B Free until 11:00 PM PT on October 21\nauto-applied when you pick ornith-1.5-122b:free\nModel Ornith 1.5 122B\nTerm until 11:00 PM PT on October 21\nOrnith 1.5 122B is free until 11:00 PM PT on October 21.\nOrnith 1.5 122B is Ornith&#x27;s open-weight MoE model for fast agentic coding, with a 262K token context and image input.\nWhen the free tier ends : switch to the paid ornith-1.5-122b with /model .",
-        "url": "https://commandcode.ai/docs/resources/pricing-limits",
-        "snapshot": "snapshots/commandcode-pricing-limits/2026-10-21-0040-aa6b5539.json"
-      },
-      {
-        "quote": "DEAL ornith-1.5-122b:free is free until 11:00 PM PT on October 21, with no daily request limit. Requests on this model cost no credits. until 11:00 PM PT on October 21",
-        "url": "https://commandcode.ai/docs/resources/pricing-limits",
-        "snapshot": "snapshots/commandcode-pricing-limits/2026-10-21-0040-aa6b5539.json"
-      }
-    ],
-    "restrictions": "Command Code 选择 ornith-1.5-122b:free，限时免模型 credits、无每日请求上限；免费期截至太平洋时间10月21日23:00，即北京时间10月22日14:00。官方未给开始时间；结束后需切换付费版本，本条不表示订阅费免费。",
-    "quantity": null
-  },
-  {
-    "schemaVersion": 0,
     "offerKey": "9b30c0ce9335b380",
     "occurredAt": "2026-10-18",
     "publishedAt": "2026-10-18T12:18:17.714069+00:00",
@@ -178,6 +139,89 @@
   },
   {
     "schemaVersion": 0,
+    "offerKey": "d882a66bc7a28cc6",
+    "occurredAt": "2026-10-22",
+    "publishedAt": "2026-10-23T00:04:32.592268+00:00",
+    "verification": "auto_verified",
+    "category": "creditsPromotion",
+    "vendor": "qoder",
+    "entity": "qoder-1024-community-boost",
+    "promotionType": "free",
+    "appliesTo": [
+      "model"
+    ],
+    "amount": "1,024 SOTA Credits",
+    "eligibility": "Your account must be on an individual Pro plan or higher, or be a Free account with an approved application for this promotion.",
+    "sourceId": "qoder-events-communityboost",
+    "claimUrl": "https://docs.qoder.com/events/communityboost.md",
+    "baseline": null,
+    "startsAt": "2026-10-22T00:00:00+08:00",
+    "startsAtText": "October 22, 2026",
+    "expiresAt": "2026-10-30T23:59:00+08:00",
+    "expiresAtText": "October 30, 2026 at 23:59",
+    "howToClaim": "console",
+    "supersedes": null,
+    "restrictions": "Qoder国际站1024活动：符合条件者手动领取1024 SOTA Credits欢迎包，仅供Sonus。个人Pro及以上自动入组；免费用户需申请获批；Lite不支持Sonus，需升级。社区累计2万/5万/10万助力后才解锁2048/3072/4096礼包，全解锁累计最高10240，非保证每人立即领满。欢迎包10月31日23:59到期；分轮包发放后三天内且不晚于10月30日23:59领取，领取后24小时有效，不可叠加错峰折扣。 本轮实测官方文档中的网页活动入口返回404，领取请按文档从支持的客户端操作；不保证活动网页可用。",
+    "facts": [
+      {
+        "quote": "During the promotion, eligible individual Qoder users can claim a **Welcome Pack of 1,024 SOTA Credits** and contribute daily boosts to unlock additional **SOTA Credit Packs** together. Promotional Credits can be used with the **Sonus model**. More rewards await—let’s unlock them together.",
+        "url": "https://docs.qoder.com/events/communityboost.md",
+        "snapshot": "snapshots/qoder-events-communityboost/2026-10-23-0002-cbfdea20.json"
+      },
+      {
+        "quote": "**Promotion period:** October 22, 2026 through October 30, 2026 at 23:59. Applications, application reviews, enrollment, boosting, and reward claims all close when the promotion ends.",
+        "url": "https://docs.qoder.com/events/communityboost.md",
+        "snapshot": "snapshots/qoder-events-communityboost/2026-10-23-0002-cbfdea20.json"
+      },
+      {
+        "quote": "Your account must be on an individual Pro plan or higher, or be a Free account with an approved application for this promotion.",
+        "url": "https://docs.qoder.com/events/communityboost.md",
+        "snapshot": "snapshots/qoder-events-communityboost/2026-10-23-0002-cbfdea20.json"
+      },
+      {
+        "quote": "| Welcome Pack | Until October 30, 2026 at 23:59 | Until October 31, 2026 at 23:59 |",
+        "url": "https://docs.qoder.com/events/communityboost.md",
+        "snapshot": "snapshots/qoder-events-communityboost/2026-10-23-0002-cbfdea20.json"
+      },
+      {
+        "quote": "| Each round’s SOTA Credit Pack | Within 3 days of issuance, but no later than October 30, 2026 at 23:59 | 24 hours from the time you claim it |",
+        "url": "https://docs.qoder.com/events/communityboost.md",
+        "snapshot": "snapshots/qoder-events-communityboost/2026-10-23-0002-cbfdea20.json"
+      },
+      {
+        "quote": "- Promotional Credit Packs cannot be combined with off-peak discounts.",
+        "url": "https://docs.qoder.com/events/communityboost.md",
+        "snapshot": "snapshots/qoder-events-communityboost/2026-10-23-0002-cbfdea20.json"
+      },
+      {
+        "quote": "| Round 1 SOTA Credit Pack | Reach 20,000 cumulative community boost points | 2,048 SOTA Credits |",
+        "url": "https://docs.qoder.com/events/communityboost.md",
+        "snapshot": "snapshots/qoder-events-communityboost/2026-10-23-0002-cbfdea20.json"
+      },
+      {
+        "quote": "| Round 2 SOTA Credit Pack | Reach 50,000 cumulative community boost points | 3,072 SOTA Credits |",
+        "url": "https://docs.qoder.com/events/communityboost.md",
+        "snapshot": "snapshots/qoder-events-communityboost/2026-10-23-0002-cbfdea20.json"
+      },
+      {
+        "quote": "| Round 3 SOTA Credit Pack | Reach 100,000 cumulative community boost points | 4,096 SOTA Credits |",
+        "url": "https://docs.qoder.com/events/communityboost.md",
+        "snapshot": "snapshots/qoder-events-communityboost/2026-10-23-0002-cbfdea20.json"
+      },
+      {
+        "quote": "- **Lite subscribers:** Lite does not currently support Sonus, the model covered by these promotional Credit Packs. Upgrade to Pro or higher to claim rewards.",
+        "url": "https://docs.qoder.com/events/communityboost.md",
+        "snapshot": "snapshots/qoder-events-communityboost/2026-10-23-0002-cbfdea20.json"
+      }
+    ],
+    "quantity": {
+      "value": 1024,
+      "unit": "credits",
+      "raw": "1,024 SOTA Credits"
+    }
+  },
+  {
+    "schemaVersion": 0,
     "offerKey": "575a9d241519d896",
     "occurredAt": "2026-10-14",
     "publishedAt": "2026-10-14T12:12:40.613770+00:00",
@@ -200,7 +244,7 @@
     "expiresAtText": "2026 年 10 月 31 日 08:00 SGT",
     "window": "错峰时段（22:00–08:00）",
     "region": null,
-    "restrictions": "仅「极致」（Ultimate）档位，标准 2x、错峰 0.4x（2 折）。覆盖 Pro Trial、Pro、Pro+、Ultra、Teams、Enterprise、Service Account。新加坡时间 UTC+8：一般产品每日 22:00–08:00，Service Account 每日 01:00–07:00；10 月 14 日 22:00 起至 10 月 31 日 08:00。选择该档位后自动生效，需更新对应产品至最新版本。",
+    "restrictions": "仅「极致」（Ultimate）档位，标准 2x、错峰 0.4x（2 折）。覆盖 Pro Trial、Pro、Pro+、Ultra、Teams、Enterprise、Service Account。新加坡时间 UTC+8：一般产品每日 22:00–08:00，Service Account 每日 01:00–07:00；10 月 14 日 22:00 起至 10 月 31 日 08:00。选择该档位后自动生效，需更新对应产品至最新版本。 Lite不包含极致（Ultimate），覆盖名单列出Lite不会解锁该档位。",
     "claimUrl": "https://docs.qoder.com/zh/events/offpeakrate",
     "sourceId": "qoder-events-offpeakrate",
     "facts": [
@@ -228,6 +272,11 @@
         "quote": "不一样。Service Account 为每日 01:00–07:00（SGT）。其余产品为 22:00–08:00（SGT）。覆盖模型和折扣倍率相同，「极致」档位同样适用。",
         "url": "https://docs.qoder.com/zh/events/offpeakrate",
         "snapshot": "snapshots/qoder-events-offpeakrate/2026-10-14-1210-243be29a.json"
+      },
+      {
+        "quote": "折扣仅适用于当前方案支持的模型和档位。Lite 不包含极致（Ultimate）档位，订阅 Lite 不会解锁该档位。",
+        "url": "https://docs.qoder.com/zh/events/offpeakrate",
+        "snapshot": "snapshots/qoder-events-offpeakrate/2026-10-22-2359-48f1cccc.json"
       }
     ],
     "supersedes": null,
@@ -1033,7 +1082,7 @@
     "expiresAtText": null,
     "window": "错峰时段（22:00–08:00）",
     "region": null,
-    "restrictions": "结束时间暂未公布，将提前通知；仅影响 Credits 计价",
+    "restrictions": "结束时间暂未公布，将提前通知；仅影响 Credits 计价 官方覆盖名单加入Lite；折扣仅适用于方案已包含的模型与档位，不解锁Ultimate。",
     "claimUrl": "https://docs.qoder.com/zh/events/offpeakrate",
     "sourceId": "qoder-events-offpeakrate",
     "facts": [
@@ -1046,6 +1095,11 @@
         "quote": "Qwen3.8-Max 错峰 4 折 2026 年 9 月 4 日 22:00 SGT 暂未公布，将提前通知",
         "url": "https://docs.qoder.com/zh/events/offpeakrate",
         "snapshot": "snapshots/qoder-events-offpeakrate/2026-09-18-1133-0aa06bdb.json"
+      },
+      {
+        "quote": "折扣仅适用于当前方案支持的模型和档位。Lite 不包含极致（Ultimate）档位，订阅 Lite 不会解锁该档位。",
+        "url": "https://docs.qoder.com/zh/events/offpeakrate",
+        "snapshot": "snapshots/qoder-events-offpeakrate/2026-10-22-2359-48f1cccc.json"
       }
     ],
     "supersedes": "d9694316b7a7ee49",
@@ -1188,7 +1242,7 @@
     "startsAtText": "2026 年 9 月 18 日 10:00",
     "expiresAt": null,
     "expiresAtText": null,
-    "restrictions": "结束时间另行公告；每轮领取窗口为当天 10:00 至次日 10:00 前，错过不可补领、不累计；每笔奖励自领取之日起 30 天内有效；仅限 Qoder 桌面端领取；团队版与企业版不适用",
+    "restrictions": "结束时间另行公告；每轮领取窗口为当天 10:00 至次日 10:00 前，错过不可补领、不累计；每笔奖励自领取之日起 30 天内有效；仅限 Qoder 桌面端领取；团队版与企业版不适用 官方现明确个人Lite套餐也可参与，团队版和企业版不适用。",
     "claimUrl": "https://docs.qoder.com/zh/events/100credits",
     "sourceId": "qoder-events-100credits",
     "facts": [
@@ -1216,6 +1270,11 @@
         "quote": "结束时间 ：另行公告。",
         "url": "https://docs.qoder.com/zh/events/100credits",
         "snapshot": "snapshots/qoder-events-100credits/2026-09-18-1133-55dfe359.json"
+      },
+      {
+        "quote": "适用用户 ：Qoder 国际版新老个人用户，包括体验版（免费）、Pro 试用期、Lite、Pro、Pro+ 和 Ultra 用户。团队版（Teams）及企业版（Enterprise）订阅用户不适用。",
+        "url": "https://docs.qoder.com/zh/events/100credits",
+        "snapshot": "snapshots/qoder-events-100credits/2026-10-22-2358-b680d662.json"
       }
     ],
     "supersedes": null,
@@ -1851,7 +1910,7 @@
     "expiresAt": null,
     "expiresAtText": null,
     "region": null,
-    "restrictions": "免费期已延长，10 月 1 日起继续免费，结束时间提前在官方页面公告；团队版及企业版不适用；免费个人账号及 Credits 余额为 0 的账号也可参与。",
+    "restrictions": "免费期已延长，10 月 1 日起继续免费，结束时间提前在官方页面公告；团队版及企业版不适用；免费个人账号及 Credits 余额为 0 的账号也可参与。 官方现明确个人Lite套餐也可参与；模型与其它限制仍按原活动规则。",
     "claimUrl": "https://docs.qoder.com/zh/events/flashoffer",
     "sourceId": "qoder-events-flashoffer",
     "facts": [
@@ -1884,6 +1943,11 @@
         "quote": "本次优惠仅适用于 Qwen3.8-Flash。其他模型或档位按照各自的计费及优惠规则执行。",
         "url": "https://docs.qoder.com/zh/events/flashoffer",
         "snapshot": "snapshots/qoder-events-flashoffer/2026-10-10-1136-cb2c915b.json"
+      },
+      {
+        "quote": "适用用户 ：Qoder 国际版新老个人用户，包括体验版（免费）、Pro 试用期、Lite、Pro、Pro+ 和 Ultra 用户。团队版（Teams）及企业版（Enterprise）订阅用户不适用。",
+        "url": "https://docs.qoder.com/zh/events/flashoffer",
+        "snapshot": "snapshots/qoder-events-flashoffer/2026-10-22-2359-bae983bb.json"
       }
     ],
     "supersedes": null,
@@ -2160,7 +2224,7 @@
     "eligibility": "选择「经济」档位时",
     "baseline": "0.3x",
     "howToClaim": "auto",
-    "restrictions": "限时改松套餐内额度的消耗规则，省的是 Credits，并非额外赠送：「经济」档位的标准倍率 0.3x，活动期内降为 0.0x。适用用户为付费用户（个人订阅 Pro、Pro+、Ultra，以及 Teams、企业版席位），个人体验版用户在 Pro 试用期内、账户有 Credits 时同样适用；自动生效，无需领取。Service Account 被集成调用的场景不参与本次活动，按原系数计费。结束时间待定，结束前会提前通知。高峰时段可能限流或响应较慢。",
+    "restrictions": "限时改松套餐内额度的消耗规则，省的是 Credits，并非额外赠送：「经济」档位的标准倍率 0.3x，活动期内降为 0.0x。适用用户为付费用户（个人订阅 Pro、Pro+、Ultra，以及 Teams、企业版席位），个人体验版用户在 Pro 试用期内、账户有 Credits 时同样适用；自动生效，无需领取。Service Account 被集成调用的场景不参与本次活动，按原系数计费。结束时间待定，结束前会提前通知。高峰时段可能限流或响应较慢。 个人Lite现已纳入；仅适用该方案支持的模型与档位。",
     "claimUrl": "https://docs.qoder.com/zh/events/efficientunlimited",
     "sourceId": "qoder-events-efficientunlimited",
     "facts": [
@@ -2208,6 +2272,11 @@
         "quote": "不。本次活动仅适用于「经济」档位。Auto、极致、性能，以及指定具体模型，照常按公示系数计费。",
         "url": "https://docs.qoder.com/zh/events/efficientunlimited",
         "snapshot": "snapshots/qoder-events-efficientunlimited/2026-09-27-1355-c3ce144a.json"
+      },
+      {
+        "quote": "适用用户 ：付费用户，包括个人订阅 Lite、Pro、Pro+、Ultra，以及 Teams、企业版席位。个人体验版用户在 Pro 试用期内、账户有 Credits 时同样适用",
+        "url": "https://docs.qoder.com/zh/events/efficientunlimited",
+        "snapshot": "snapshots/qoder-events-efficientunlimited/2026-10-22-2359-3b452454.json"
       }
     ],
     "quantity": null
@@ -2402,7 +2471,7 @@
     "baseline": null,
     "claimUrl": "https://opencode.ai/v2/docs/console/go/",
     "sourceId": "opencode-go",
-    "restrictions": "5 小时为对应月额度的 20%，每周为 50%；仅单成员工作空间，订阅后不能邀请成员。 按官方 Go Plus 模型表展示月度用量等值；不同模型额度不能相加。可接入符合官方规则的编程 Agent。 Gemini 4 Argon Contributor 月用量等值限时翻倍（$120 → $240），结束日期未说明。输入与输出可能用于训练 Google 后续模型，非零数据留存（Not ZDR）。 Step 5 Preview 当前月用量等值 $240，来源标注限时 4 倍额度，未说明结束日期。",
+    "restrictions": "5 小时为对应月额度的 20%，每周为 50%；仅单成员工作空间，订阅后不能邀请成员。 按官方 Go Plus 模型表展示月度用量等值；不同模型额度不能相加。可接入符合官方规则的编程 Agent。 Gemini 4 Argon Contributor 月用量等值限时翻倍（$120 → $240），结束日期未说明。输入与输出可能用于训练 Google 后续模型，非零数据留存（Not ZDR）。 Step 5 Preview 月用量等值现为$60，原限时4倍展示已移除；新增付费MiniMax M3.1 Flash月用量等值$80。",
     "facts": [
       {
         "quote": "Go Plus $40/month Higher usage limits across the models below",
@@ -2460,14 +2529,14 @@
         "snapshot": "snapshots/opencode-go/2026-10-16-0008-233d74c8.json"
       },
       {
-        "quote": "Step 5 Preview $1.00 $2.70 $0.10 - $60 $240",
+        "quote": "Step 5 Preview $1.00 $2.70 $0.10 - $60",
         "url": "https://opencode.ai/v2/docs/console/go/",
-        "snapshot": "snapshots/opencode-go/2026-10-16-0008-233d74c8.json"
+        "snapshot": "snapshots/opencode-go/2026-10-22-2358-83e107b8.json"
       },
       {
-        "quote": "4x · Limited time",
+        "quote": "MiniMax M3.1 Flash $0.15 $0.60 $0.015 - $80",
         "url": "https://opencode.ai/v2/docs/console/go/",
-        "snapshot": "snapshots/opencode-go/2026-10-16-0008-233d74c8.json"
+        "snapshot": "snapshots/opencode-go/2026-10-22-2358-83e107b8.json"
       }
     ],
     "supersedes": null,
@@ -2516,11 +2585,19 @@
         },
         {
           "model": "Step 5 Preview",
-          "value": 240,
+          "value": 60,
           "currency": "USD",
           "period": "month",
-          "text": "$240",
+          "text": "$60",
           "fact": 11
+        },
+        {
+          "model": "MiniMax M3.1 Flash",
+          "value": 80,
+          "currency": "USD",
+          "period": "month",
+          "text": "$80",
+          "fact": 12
         }
       ],
       "limits": {
@@ -2528,8 +2605,8 @@
         "en": "5-hour allowance: 20% of the model monthly limit; weekly: 50%. Only single-member workspaces; Go workspaces cannot invite members."
       },
       "notes": {
-        "zh": "按官方 Go Plus 模型表展示月度用量等值；不同模型额度不能相加。可接入符合官方规则的编程 Agent。 Gemini 4 Argon Contributor 月用量等值限时翻倍（$120 → $240），结束日期未说明。输入与输出可能用于训练 Google 后续模型，非零数据留存（Not ZDR）。 Step 5 Preview 当前月用量等值 $240，来源标注限时 4 倍额度，未说明结束日期。",
-        "en": "Monthly usage equivalents follow the official Go Plus model table. Model allowances must not be added. Coding agents must follow the official client rules. Gemini 4 Argon Contributor has a limited-time 2x monthly usage equivalent ($120 to $240); no end date is stated. Prompts and completions may train future Google models; Not ZDR. Step 5 Preview currently has $240 monthly usage equivalent, a limited-time 4x allowance with no stated end date."
+        "zh": "按官方 Go Plus 模型表展示月度用量等值；不同模型额度不能相加。可接入符合官方规则的编程 Agent。 Gemini 4 Argon Contributor 月用量等值限时翻倍（$120 → $240），结束日期未说明。输入与输出可能用于训练 Google 后续模型，非零数据留存（Not ZDR）。 Step 5 Preview 月用量等值现为$60，原限时4倍展示已移除；新增付费MiniMax M3.1 Flash月用量等值$80。",
+        "en": "Monthly usage equivalents follow the official Go Plus model table. Model allowances must not be added. Coding agents must follow the official client rules. Gemini 4 Argon Contributor has a limited-time 2x monthly usage equivalent ($120 to $240); no end date is stated. Prompts and completions may train future Google models; Not ZDR. Step 5 Preview now has $60 monthly usage equivalent; the limited-time 4x label is removed. Paid MiniMax M3.1 Flash provides $80 monthly usage equivalent."
       }
     },
     "quantity": null
@@ -2820,45 +2897,6 @@
       "unit": "credits",
       "raw": "Up to $500 per month in pooled API credits †"
     }
-  },
-  {
-    "schemaVersion": 0,
-    "offerKey": "86005e88dff38638",
-    "occurredAt": "2026-10-16",
-    "publishedAt": "2026-10-16T00:13:48.247750+00:00",
-    "verification": "auto_verified",
-    "category": "creditsPromotion",
-    "vendor": "commandcode",
-    "entity": "cat-jam-free",
-    "amount": "Cat Jam is a free stealth preview.",
-    "eligibility": "while the stealth preview lasts",
-    "promotionType": "free",
-    "appliesTo": [
-      "model"
-    ],
-    "baseline": null,
-    "startsAt": null,
-    "startsAtText": null,
-    "expiresAt": null,
-    "expiresAtText": null,
-    "howToClaim": "auto",
-    "restrictions": "Command Code 的 Cat Jam 隐身预览期免费，无每日请求限制，不消耗 credits。提供方可能保留输入输出并用于训练；CMD_ZDR=1 会话不可用。结束日期未说明。",
-    "supersedes": null,
-    "sourceId": "commandcode-pricing-limits",
-    "claimUrl": "https://commandcode.ai/docs/resources/pricing-limits",
-    "facts": [
-      {
-        "quote": "DEAL cat-jam-free Cat Jam Free while the stealth preview lasts\nauto-applied when you pick cat-jam:free\nModel Cat Jam\nCat Jam is a free stealth preview.\nCat Jam is a reasoning model for coding and agentic work, with a 1M token context and low, medium, high, xhigh, and max reasoning effort. Its maker has chosen to stay anonymous for the preview.\nNo daily request limit : use it as much as you like while the preview lasts.\nKeep sensitive work elsewhere : the provider may keep your prompts and outputs and train on them, so Cat Jam won&#x27;t run in a CMD_ZDR=1 session.",
-        "url": "https://commandcode.ai/docs/resources/pricing-limits",
-        "snapshot": "snapshots/commandcode-pricing-limits/2026-10-16-0008-452ca750.json"
-      },
-      {
-        "quote": "DEAL cat-jam:free is free, with no daily request limit. Requests on this model cost no credits. while the stealth preview lasts",
-        "url": "https://commandcode.ai/docs/resources/pricing-limits",
-        "snapshot": "snapshots/commandcode-pricing-limits/2026-10-16-0008-452ca750.json"
-      }
-    ],
-    "quantity": null
   },
   {
     "schemaVersion": 0,
@@ -3588,14 +3626,14 @@
         "snapshot": "snapshots/opencode-go/2026-10-16-0008-233d74c8.json"
       },
       {
-        "quote": "Step 5 Preview $1.00 $2.70 $0.10 - $15 $60",
+        "quote": "Step 5 Preview $1.00 $2.70 $0.10 - $15",
         "url": "https://opencode.ai/v2/docs/console/go/",
-        "snapshot": "snapshots/opencode-go/2026-10-16-0008-233d74c8.json"
+        "snapshot": "snapshots/opencode-go/2026-10-22-2358-83e107b8.json"
       },
       {
-        "quote": "4x · Limited time",
+        "quote": "MiniMax M3.1 Flash $0.15 $0.60 $0.015 - $20",
         "url": "https://opencode.ai/v2/docs/console/go/",
-        "snapshot": "snapshots/opencode-go/2026-10-16-0008-233d74c8.json"
+        "snapshot": "snapshots/opencode-go/2026-10-22-2358-83e107b8.json"
       }
     ],
     "supersedes": null,
@@ -3642,11 +3680,19 @@
         },
         {
           "model": "Step 5 Preview",
-          "value": 60,
+          "value": 15,
           "currency": "USD",
           "period": "month",
-          "text": "$60",
+          "text": "$15",
           "fact": 11
+        },
+        {
+          "model": "MiniMax M3.1 Flash",
+          "value": 20,
+          "currency": "USD",
+          "period": "month",
+          "text": "$20",
+          "fact": 12
         }
       ],
       "limits": {
@@ -3654,11 +3700,11 @@
         "en": "5-hour allowance: 20% of the model monthly limit; weekly: 50%. Only single-member workspaces; Go workspaces cannot invite members."
       },
       "notes": {
-        "zh": "按官方 Go 模型表展示月度用量等值；不同模型额度不能相加。可接入符合官方规则的编程 Agent。 Gemini 4 Argon Contributor 月用量等值限时翻倍（$30 → $60），结束日期未说明。输入与输出可能用于训练 Google 后续模型，非零数据留存（Not ZDR）。 Step 5 Preview 当前月用量等值 $60，来源标注限时 4 倍额度，未说明结束日期。",
-        "en": "Monthly usage equivalents follow the official Go model table. Model allowances must not be added. Coding agents must follow the official client rules. Gemini 4 Argon Contributor has a limited-time 2x monthly usage equivalent ($30 to $60); no end date is stated. Prompts and completions may train future Google models; Not ZDR. Step 5 Preview currently has $60 monthly usage equivalent, a limited-time 4x allowance with no stated end date."
+        "zh": "按官方 Go 模型表展示月度用量等值；不同模型额度不能相加。可接入符合官方规则的编程 Agent。 Gemini 4 Argon Contributor 月用量等值限时翻倍（$30 → $60），结束日期未说明。输入与输出可能用于训练 Google 后续模型，非零数据留存（Not ZDR）。 Step 5 Preview 月用量等值现为$15，原限时4倍展示已移除；新增付费MiniMax M3.1 Flash月用量等值$20。",
+        "en": "Monthly usage equivalents follow the official Go model table. Model allowances must not be added. Coding agents must follow the official client rules. Gemini 4 Argon Contributor has a limited-time 2x monthly usage equivalent ($30 to $60); no end date is stated. Prompts and completions may train future Google models; Not ZDR. Step 5 Preview now has $15 monthly usage equivalent; the limited-time 4x label is removed. Paid MiniMax M3.1 Flash provides $20 monthly usage equivalent."
       }
     },
-    "restrictions": "5 小时为对应月额度的 20%，每周为 50%；仅单成员工作空间，订阅后不能邀请成员。 按官方 Go 模型表展示月度用量等值；不同模型额度不能相加。可接入符合官方规则的编程 Agent。 Gemini 4 Argon Contributor 月用量等值限时翻倍（$30 → $60），结束日期未说明。输入与输出可能用于训练 Google 后续模型，非零数据留存（Not ZDR）。 Step 5 Preview 当前月用量等值 $60，来源标注限时 4 倍额度，未说明结束日期。",
+    "restrictions": "5 小时为对应月额度的 20%，每周为 50%；仅单成员工作空间，订阅后不能邀请成员。 按官方 Go 模型表展示月度用量等值；不同模型额度不能相加。可接入符合官方规则的编程 Agent。 Gemini 4 Argon Contributor 月用量等值限时翻倍（$30 → $60），结束日期未说明。输入与输出可能用于训练 Google 后续模型，非零数据留存（Not ZDR）。 Step 5 Preview 月用量等值现为$15，原限时4倍展示已移除；新增付费MiniMax M3.1 Flash月用量等值$20。",
     "quantity": null
   },
   {
