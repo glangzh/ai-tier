@@ -450,6 +450,59 @@
     "verification": "auto_verified",
     "category": "creditsPromotion",
     "region": null,
+    "offerKey": "ad751a576a20a666",
+    "promotionType": "discount",
+    "appliesTo": [
+      "model",
+      "subscription"
+    ],
+    "planKind": "toolPlan",
+    "vendor": "trae",
+    "entity": "traecode-member",
+    "amount": "享 5 折，积分消耗速度从 0.78 倍降至 0.39 倍",
+    "eligibility": "付费会员折扣表",
+    "howToClaim": "purchase",
+    "validityText": null,
+    "restrictions": "本条仅适用GLM-5.3付费会员折扣：积分消耗速度由0.78倍降至0.39倍；官方新增说明在11月2日前有效。仅限TRAE内使用。",
+    "startsAt": null,
+    "startsAtText": null,
+    "expiresAt": "2026-11-02T00:00:00+08:00",
+    "expiresAtText": "11 月 2 日前有效",
+    "claimUrl": "https://docs.trae.cn/ide_limited-time-discount-for-builtin-models",
+    "sourceId": "trae-limited-discount",
+    "supersedes": "b4c4a3aa8e3f92c5",
+    "facts": [
+      {
+        "quote": "GLM-5.3",
+        "url": "https://docs.trae.cn/ide_limited-time-discount-for-builtin-models",
+        "snapshot": "snapshots/trae-limited-discount/2026-10-14-1210-e6e0e48d.json"
+      },
+      {
+        "quote": "享 5 折，积分消耗速度从 0.78 倍降至 0.39 倍。",
+        "url": "https://docs.trae.cn/ide_limited-time-discount-for-builtin-models",
+        "snapshot": "snapshots/trae-limited-discount/2026-10-14-1210-e6e0e48d.json"
+      },
+      {
+        "quote": "付费会员折扣表",
+        "url": "https://docs.trae.cn/ide_limited-time-discount-for-builtin-models",
+        "snapshot": "snapshots/trae-limited-discount/2026-10-14-1210-e6e0e48d.json"
+      },
+      {
+        "quote": "享 5 折，积分消耗速度从 0.78 倍降至 0.39 倍。优惠折扣在 11 月 2 日前有效。",
+        "url": "https://docs.trae.cn/ide_limited-time-discount-for-builtin-models",
+        "snapshot": "snapshots/trae-limited-discount/2026-10-23-1209-2ab0d3e4.json"
+      }
+    ],
+    "baseline": "0.78 倍",
+    "quantity": null
+  },
+  {
+    "schemaVersion": 0,
+    "occurredAt": "2026-09-18",
+    "publishedAt": "2026-09-18T15:00:00Z",
+    "verification": "auto_verified",
+    "category": "creditsPromotion",
+    "region": null,
     "offerKey": "e8e4520c987df9c1",
     "promotionType": "discount",
     "appliesTo": [
@@ -1955,54 +2008,6 @@
   },
   {
     "schemaVersion": 0,
-    "occurredAt": "2026-09-18",
-    "publishedAt": "2026-09-18T15:00:00Z",
-    "verification": "auto_verified",
-    "category": "creditsPromotion",
-    "region": null,
-    "offerKey": "ad751a576a20a666",
-    "promotionType": "discount",
-    "appliesTo": [
-      "model",
-      "subscription"
-    ],
-    "planKind": "toolPlan",
-    "vendor": "trae",
-    "entity": "traecode-member",
-    "amount": "享 5 折，积分消耗速度从 0.78 倍降至 0.39 倍",
-    "eligibility": "付费会员折扣表",
-    "howToClaim": "purchase",
-    "validityText": null,
-    "restrictions": "适用 GLM-5.3。同表另列 Seed-2.1-Turbo 与 Seed-2.1-Code 享 2.5 折；仅限 TraeCode 内使用",
-    "startsAt": null,
-    "startsAtText": null,
-    "expiresAt": null,
-    "expiresAtText": null,
-    "claimUrl": "https://docs.trae.cn/ide_limited-time-discount-for-builtin-models",
-    "sourceId": "trae-limited-discount",
-    "supersedes": "b4c4a3aa8e3f92c5",
-    "facts": [
-      {
-        "quote": "GLM-5.3",
-        "url": "https://docs.trae.cn/ide_limited-time-discount-for-builtin-models",
-        "snapshot": "snapshots/trae-limited-discount/2026-10-14-1210-e6e0e48d.json"
-      },
-      {
-        "quote": "享 5 折，积分消耗速度从 0.78 倍降至 0.39 倍。",
-        "url": "https://docs.trae.cn/ide_limited-time-discount-for-builtin-models",
-        "snapshot": "snapshots/trae-limited-discount/2026-10-14-1210-e6e0e48d.json"
-      },
-      {
-        "quote": "付费会员折扣表",
-        "url": "https://docs.trae.cn/ide_limited-time-discount-for-builtin-models",
-        "snapshot": "snapshots/trae-limited-discount/2026-10-14-1210-e6e0e48d.json"
-      }
-    ],
-    "baseline": "0.78 倍",
-    "quantity": null
-  },
-  {
-    "schemaVersion": 0,
     "offerKey": "b366b833d0c4df59",
     "occurredAt": "2026-09-18",
     "publishedAt": "2026-09-18T12:02:00Z",
@@ -2569,6 +2574,46 @@
         "en": "Monthly usage equivalents follow the official Go Plus model table. Model allowances must not be added. Coding agents must follow the official client rules. Gemini 4 Argon Contributor has a limited-time 2x monthly usage equivalent ($120 to $240); no end date is stated. Prompts and completions may train future Google models; Not ZDR. Step 5 Preview now has $60 monthly usage equivalent; the limited-time 4x label is removed. Paid MiniMax M3.1 Flash provides $80 monthly usage equivalent."
       }
     },
+    "quantity": null
+  },
+  {
+    "schemaVersion": 0,
+    "offerKey": "5ccdd469f5d8ba79",
+    "occurredAt": "2026-10-23",
+    "publishedAt": "2026-10-23T12:15:55.128978+00:00",
+    "verification": "auto_verified",
+    "category": "creditsPromotion",
+    "vendor": "baidu",
+    "entity": "baidu-qianfan-token-plan-pro",
+    "promotionType": "discount",
+    "appliesTo": [
+      "subscription"
+    ],
+    "planKind": "tokenPlan",
+    "amount": "¥ 99.9 /月",
+    "eligibility": "首购半价",
+    "baseline": "¥200/月",
+    "startsAt": null,
+    "startsAtText": null,
+    "expiresAt": null,
+    "expiresAtText": null,
+    "howToClaim": "purchase",
+    "supersedes": null,
+    "sourceId": "baidu-qianfan-tokenplan-invite",
+    "claimUrl": "https://cloud.baidu.com/product-s/qianfan_home/qianfan_invite",
+    "restrictions": "千帆Token Plan个人版Pro首购月价99.9元，原标价200元/月；页面列明每月45,000积分。活动截止日期和续订是否同价未说明，不将首购价作为永久续费价格；积分不当作固定请求次数。",
+    "facts": [
+      {
+        "quote": "Pro\n高频开发，持续创作无压力\n45,000 积分 /月\n¥ 99.9 /月 ¥200/月",
+        "url": "https://cloud.baidu.com/product-s/qianfan_home/qianfan_invite",
+        "snapshot": "snapshots/baidu-qianfan-tokenplan-invite/2026-10-23-1212-0aa1e5ab.json"
+      },
+      {
+        "quote": "首购半价低至 4.9 元起，高倍率、超大容量的积分 / Token 供给，让用户彻底放开手脚",
+        "url": "https://cloud.baidu.com/product-s/qianfan_home/qianfan_invite",
+        "snapshot": "snapshots/baidu-qianfan-tokenplan-invite/2026-10-23-1212-0aa1e5ab.json"
+      }
+    ],
     "quantity": null
   },
   {
@@ -3293,6 +3338,46 @@
   },
   {
     "schemaVersion": 0,
+    "offerKey": "b914c48a8e0923a2",
+    "occurredAt": "2026-10-23",
+    "publishedAt": "2026-10-23T12:15:55.129131+00:00",
+    "verification": "auto_verified",
+    "category": "creditsPromotion",
+    "vendor": "baidu",
+    "entity": "baidu-qianfan-token-plan-max",
+    "promotionType": "discount",
+    "appliesTo": [
+      "subscription"
+    ],
+    "planKind": "tokenPlan",
+    "amount": "¥ 299.9 /月",
+    "eligibility": "首购半价",
+    "baseline": "¥600/月",
+    "startsAt": null,
+    "startsAtText": null,
+    "expiresAt": null,
+    "expiresAtText": null,
+    "howToClaim": "purchase",
+    "supersedes": null,
+    "sourceId": "baidu-qianfan-tokenplan-invite",
+    "claimUrl": "https://cloud.baidu.com/product-s/qianfan_home/qianfan_invite",
+    "restrictions": "千帆Token Plan个人版Max首购月价299.9元，原标价600元/月；页面列明每月165,000积分。活动截止日期和续订是否同价未说明，不将首购价作为永久续费价格；积分不当作固定请求次数。",
+    "facts": [
+      {
+        "quote": "Max\n重度开发，释放 AI 生产力\n165,000 积分 /月\n¥ 299.9 /月 ¥600/月",
+        "url": "https://cloud.baidu.com/product-s/qianfan_home/qianfan_invite",
+        "snapshot": "snapshots/baidu-qianfan-tokenplan-invite/2026-10-23-1212-0aa1e5ab.json"
+      },
+      {
+        "quote": "首购半价低至 4.9 元起，高倍率、超大容量的积分 / Token 供给，让用户彻底放开手脚",
+        "url": "https://cloud.baidu.com/product-s/qianfan_home/qianfan_invite",
+        "snapshot": "snapshots/baidu-qianfan-tokenplan-invite/2026-10-23-1212-0aa1e5ab.json"
+      }
+    ],
+    "quantity": null
+  },
+  {
+    "schemaVersion": 0,
     "offerKey": "bf04a69c443dc708",
     "occurredAt": "2026-10-20",
     "publishedAt": "2026-10-20T12:15:42.008269+00:00",
@@ -3629,6 +3714,86 @@
       }
     },
     "restrictions": "Design Plan 每 7 天窗口最高 $30、每 5 小时最高 $10；达到限制需等待对应窗口恢复。 Design Plan 共用额度，DeepSeek V4.1 Flash 为双倍用量折算，不增加共享余额。平台与 API 共用。首月 $8，续费 $10/月；年付 $84。",
+    "quantity": null
+  },
+  {
+    "schemaVersion": 0,
+    "offerKey": "f7766633cc9678f9",
+    "occurredAt": "2026-10-23",
+    "publishedAt": "2026-10-23T12:15:55.128797+00:00",
+    "verification": "auto_verified",
+    "category": "creditsPromotion",
+    "vendor": "baidu",
+    "entity": "baidu-qianfan-token-plan-lite",
+    "promotionType": "discount",
+    "appliesTo": [
+      "subscription"
+    ],
+    "planKind": "tokenPlan",
+    "amount": "¥ 19.9 /月",
+    "eligibility": "首购半价",
+    "baseline": "¥40/月",
+    "startsAt": null,
+    "startsAtText": null,
+    "expiresAt": null,
+    "expiresAtText": null,
+    "howToClaim": "purchase",
+    "supersedes": null,
+    "sourceId": "baidu-qianfan-tokenplan-invite",
+    "claimUrl": "https://cloud.baidu.com/product-s/qianfan_home/qianfan_invite",
+    "restrictions": "千帆Token Plan个人版Lite首购月价19.9元，原标价40元/月；页面列明每月6,600积分。活动截止日期和续订是否同价未说明，不将首购价作为永久续费价格；积分不当作固定请求次数。",
+    "facts": [
+      {
+        "quote": "Lite\n日常开发，高性价比之选\n6,600 积分 /月\n¥ 19.9 /月 ¥40/月",
+        "url": "https://cloud.baidu.com/product-s/qianfan_home/qianfan_invite",
+        "snapshot": "snapshots/baidu-qianfan-tokenplan-invite/2026-10-23-1212-0aa1e5ab.json"
+      },
+      {
+        "quote": "首购半价低至 4.9 元起，高倍率、超大容量的积分 / Token 供给，让用户彻底放开手脚",
+        "url": "https://cloud.baidu.com/product-s/qianfan_home/qianfan_invite",
+        "snapshot": "snapshots/baidu-qianfan-tokenplan-invite/2026-10-23-1212-0aa1e5ab.json"
+      }
+    ],
+    "quantity": null
+  },
+  {
+    "schemaVersion": 0,
+    "offerKey": "fd38ab13d0434d97",
+    "occurredAt": "2026-10-23",
+    "publishedAt": "2026-10-23T12:15:55.128372+00:00",
+    "verification": "auto_verified",
+    "category": "creditsPromotion",
+    "vendor": "baidu",
+    "entity": "baidu-qianfan-token-plan-mini",
+    "promotionType": "discount",
+    "appliesTo": [
+      "subscription"
+    ],
+    "planKind": "tokenPlan",
+    "amount": "¥ 4.9 /月",
+    "eligibility": "首购半价",
+    "baseline": "¥9.9/月",
+    "startsAt": null,
+    "startsAtText": null,
+    "expiresAt": null,
+    "expiresAtText": null,
+    "howToClaim": "purchase",
+    "supersedes": null,
+    "sourceId": "baidu-qianfan-tokenplan-invite",
+    "claimUrl": "https://cloud.baidu.com/product-s/qianfan_home/qianfan_invite",
+    "restrictions": "千帆Token Plan个人版Mini首购月价4.9元，原标价9.9元/月；页面列明每月1,400积分。活动截止日期和续订是否同价未说明，不将首购价作为永久续费价格；积分不当作固定请求次数。",
+    "facts": [
+      {
+        "quote": "Mini\n新手尝鲜，入门首选\n1,400 积分 /月\n限时权益 7天限额取消\n模型支持 主流国产模型\n兼容工具 龙虾和AI编程\n订阅周期 按月\n¥ 4.9 /月 ¥9.9/月\n立即订阅",
+        "url": "https://cloud.baidu.com/product-s/qianfan_home/qianfan_invite",
+        "snapshot": "snapshots/baidu-qianfan-tokenplan-invite/2026-10-23-1212-0aa1e5ab.json"
+      },
+      {
+        "quote": "首购半价低至 4.9 元起，高倍率、超大容量的积分 / Token 供给，让用户彻底放开手脚",
+        "url": "https://cloud.baidu.com/product-s/qianfan_home/qianfan_invite",
+        "snapshot": "snapshots/baidu-qianfan-tokenplan-invite/2026-10-23-1212-0aa1e5ab.json"
+      }
+    ],
     "quantity": null
   }
 ]

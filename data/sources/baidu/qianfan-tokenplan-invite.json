@@ -1,0 +1,8 @@
+{
+  "id": "baidu-qianfan-tokenplan-invite",
+  "vendor": "baidu",
+  "url": "https://cloud.baidu.com/product-s/qianfan_home/qianfan_invite",
+  "allowedHosts": [
+    "cloud.baidu.com"
+  ]
+}

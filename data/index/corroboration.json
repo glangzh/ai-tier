@@ -1,7 +1,7 @@
 {
-  "checked": 87,
+  "checked": 91,
   "corroborated": 8,
-  "rate": 0.092,
+  "rate": 0.088,
   "detail": [
     {
       "offerKey": "cc86de0abfd5744c",
@@ -452,6 +452,26 @@
     },
     {
       "offerKey": "d882a66bc7a28cc6",
+      "corroboratedBy": [],
+      "declared": 0
+    },
+    {
+      "offerKey": "5ccdd469f5d8ba79",
+      "corroboratedBy": [],
+      "declared": 0
+    },
+    {
+      "offerKey": "b914c48a8e0923a2",
+      "corroboratedBy": [],
+      "declared": 0
+    },
+    {
+      "offerKey": "f7766633cc9678f9",
+      "corroboratedBy": [],
+      "declared": 0
+    },
+    {
+      "offerKey": "fd38ab13d0434d97",
       "corroboratedBy": [],
       "declared": 0
     }
