@@ -161,57 +161,62 @@
     "expiresAtText": "October 30, 2026 at 23:59",
     "howToClaim": "console",
     "supersedes": null,
-    "restrictions": "Qoder国际站1024活动：符合条件者手动领取1024 SOTA Credits欢迎包，仅供Sonus。个人Pro及以上自动入组；免费用户需申请获批；Lite不支持Sonus，需升级。社区累计2万/5万/10万助力后才解锁2048/3072/4096礼包，全解锁累计最高10240，非保证每人立即领满。欢迎包10月31日23:59到期；分轮包发放后三天内且不晚于10月30日23:59领取，领取后24小时有效，不可叠加错峰折扣。 本轮实测官方文档中的网页活动入口返回404，领取请按文档从支持的客户端操作；不保证活动网页可用。",
+    "restrictions": "符合条件者手动领取1024 SOTA Credits欢迎包，仅供Sonus。个人Pro及以上自动入组；免费用户需申请获批；Lite需升级。已公布前三轮礼包2048/3072/4096，后续轮次以活动页为准；达到当轮目标后解锁，非保证立即领满。欢迎包10月31日23:59到期；分轮包发放后三天内且不晚于10月30日23:59领取，领取后24小时有效，不可叠加错峰折扣。",
     "facts": [
       {
         "quote": "During the promotion, eligible individual Qoder users can claim a **Welcome Pack of 1,024 SOTA Credits** and contribute daily boosts to unlock additional **SOTA Credit Packs** together. Promotional Credits can be used with the **Sonus model**. More rewards await—let’s unlock them together.",
         "url": "https://docs.qoder.com/events/communityboost.md",
-        "snapshot": "snapshots/qoder-events-communityboost/2026-10-23-0002-cbfdea20.json"
+        "snapshot": "snapshots/qoder-events-communityboost/2026-10-24-0022-1f0ea6a7.json"
       },
       {
         "quote": "**Promotion period:** October 22, 2026 through October 30, 2026 at 23:59. Applications, application reviews, enrollment, boosting, and reward claims all close when the promotion ends.",
         "url": "https://docs.qoder.com/events/communityboost.md",
-        "snapshot": "snapshots/qoder-events-communityboost/2026-10-23-0002-cbfdea20.json"
+        "snapshot": "snapshots/qoder-events-communityboost/2026-10-24-0022-1f0ea6a7.json"
       },
       {
         "quote": "Your account must be on an individual Pro plan or higher, or be a Free account with an approved application for this promotion.",
         "url": "https://docs.qoder.com/events/communityboost.md",
-        "snapshot": "snapshots/qoder-events-communityboost/2026-10-23-0002-cbfdea20.json"
+        "snapshot": "snapshots/qoder-events-communityboost/2026-10-24-0022-1f0ea6a7.json"
       },
       {
         "quote": "| Welcome Pack | Until October 30, 2026 at 23:59 | Until October 31, 2026 at 23:59 |",
         "url": "https://docs.qoder.com/events/communityboost.md",
-        "snapshot": "snapshots/qoder-events-communityboost/2026-10-23-0002-cbfdea20.json"
+        "snapshot": "snapshots/qoder-events-communityboost/2026-10-24-0022-1f0ea6a7.json"
       },
       {
         "quote": "| Each round’s SOTA Credit Pack | Within 3 days of issuance, but no later than October 30, 2026 at 23:59 | 24 hours from the time you claim it |",
         "url": "https://docs.qoder.com/events/communityboost.md",
-        "snapshot": "snapshots/qoder-events-communityboost/2026-10-23-0002-cbfdea20.json"
+        "snapshot": "snapshots/qoder-events-communityboost/2026-10-24-0022-1f0ea6a7.json"
       },
       {
         "quote": "- Promotional Credit Packs cannot be combined with off-peak discounts.",
         "url": "https://docs.qoder.com/events/communityboost.md",
-        "snapshot": "snapshots/qoder-events-communityboost/2026-10-23-0002-cbfdea20.json"
+        "snapshot": "snapshots/qoder-events-communityboost/2026-10-24-0022-1f0ea6a7.json"
       },
       {
         "quote": "| Round 1 SOTA Credit Pack | Reach 20,000 cumulative community boost points | 2,048 SOTA Credits |",
         "url": "https://docs.qoder.com/events/communityboost.md",
-        "snapshot": "snapshots/qoder-events-communityboost/2026-10-23-0002-cbfdea20.json"
+        "snapshot": "snapshots/qoder-events-communityboost/2026-10-24-0022-1f0ea6a7.json"
       },
       {
         "quote": "| Round 2 SOTA Credit Pack | Reach 50,000 cumulative community boost points | 3,072 SOTA Credits |",
         "url": "https://docs.qoder.com/events/communityboost.md",
-        "snapshot": "snapshots/qoder-events-communityboost/2026-10-23-0002-cbfdea20.json"
+        "snapshot": "snapshots/qoder-events-communityboost/2026-10-24-0022-1f0ea6a7.json"
       },
       {
         "quote": "| Round 3 SOTA Credit Pack | Reach 100,000 cumulative community boost points | 4,096 SOTA Credits |",
         "url": "https://docs.qoder.com/events/communityboost.md",
-        "snapshot": "snapshots/qoder-events-communityboost/2026-10-23-0002-cbfdea20.json"
+        "snapshot": "snapshots/qoder-events-communityboost/2026-10-24-0022-1f0ea6a7.json"
       },
       {
         "quote": "- **Lite subscribers:** Lite does not currently support Sonus, the model covered by these promotional Credit Packs. Upgrade to Pro or higher to claim rewards.",
         "url": "https://docs.qoder.com/events/communityboost.md",
-        "snapshot": "snapshots/qoder-events-communityboost/2026-10-23-0002-cbfdea20.json"
+        "snapshot": "snapshots/qoder-events-communityboost/2026-10-24-0022-1f0ea6a7.json"
+      },
+      {
+        "quote": "See the [event page](https://qoder.com/community-boost) for the boost targets and rewards for subsequent rounds.",
+        "url": "https://docs.qoder.com/events/communityboost.md",
+        "snapshot": "snapshots/qoder-events-communityboost/2026-10-24-0022-1f0ea6a7.json"
       }
     ],
     "quantity": {
@@ -785,24 +790,24 @@
     ],
     "vendor": "trae",
     "entity": "traecode",
-    "amount": "一次性赠送 4000 积分",
+    "amount": "一次性赠送 2000 积分",
     "eligibility": "新用户注册福利",
     "baseline": null,
     "howToClaim": "signup",
-    "restrictions": "免费用户新注册一次性赠送 4000 积分；常规积分机制另列每月登录 500、每日签到 100、有效邀请双方各 500。赠送积分有效期及额外领取条件未说明。",
+    "restrictions": "免费用户新注册一次性赠送 2000 积分；常规积分机制另列每月登录 500、每日签到 100、有效邀请双方各 500。赠送积分有效期及额外领取条件未说明。",
     "claimUrl": "https://docs.trae.cn/ide_plans-and-billing",
     "sourceId": "trae-plans-billing",
     "facts": [
       {
-        "quote": "免费用户\n免费用户可以通过以下途径获得积分。\n途径\n积分数量\n每月登录赠送\n500 积分。\n当前自然月\n新用户注册福利\n一次性赠送 4000 积分。\n老用户升级福利\n升级到新计费模式后，一次性赠送 4000 积分。\n每日签到\n每天 100 积分。\n邀请新用户\n每成功邀请一人，邀请人和被邀请人各获得 500 积分。\n",
+        "quote": "免费用户\n免费用户可以通过以下途径获得积分。\n途径\n积分数量\n每月登录赠送\n500 积分。\n当前自然月\n新用户注册福利\n一次性赠送 2000 积分。\n每日签到\n每天 100 积分。\n邀请新用户\n每成功邀请一人，邀请人和被邀请人各获得 500 积分。",
         "url": "https://docs.trae.cn/ide_plans-and-billing",
-        "snapshot": "snapshots/trae-plans-billing/2026-10-11-0002-f384558d.json"
+        "snapshot": "snapshots/trae-plans-billing/2026-10-24-0209-57cb0584.json"
       }
     ],
     "quantity": {
-      "value": 4000,
+      "value": 2000,
       "unit": "points",
-      "raw": "一次性赠送 4000 积分"
+      "raw": "一次性赠送 2000 积分"
     }
   },
   {
@@ -2476,7 +2481,7 @@
     "baseline": null,
     "claimUrl": "https://opencode.ai/v2/docs/console/go/",
     "sourceId": "opencode-go",
-    "restrictions": "5 小时为对应月额度的 20%，每周为 50%；仅单成员工作空间，订阅后不能邀请成员。 按官方 Go Plus 模型表展示月度用量等值；不同模型额度不能相加。可接入符合官方规则的编程 Agent。 Gemini 4 Argon Contributor 月用量等值限时翻倍（$120 → $240），结束日期未说明。输入与输出可能用于训练 Google 后续模型，非零数据留存（Not ZDR）。 Step 5 Preview 月用量等值现为$60，原限时4倍展示已移除；新增付费MiniMax M3.1 Flash月用量等值$80。",
+    "restrictions": "5 小时为对应月额度的 20%，每周为 50%；仅单成员工作空间，订阅后不能邀请成员。 按官方 Go Plus 模型表展示月度用量等值；不同模型额度不能相加。可接入符合官方规则的编程 Agent。 Gemini 4 Argon Contributor 月用量等值限时翻倍（$120 → $240），结束日期未说明。输入与输出可能用于训练 Google 后续模型，非零数据留存（Not ZDR）。 Step 5 Preview 月用量等值现为$60，原限时4倍展示已移除；新增付费MiniMax M3.1 Flash月用量等值$80。 Kimi K3.1 Pro月用量等值为$60。 DeepSeek需在隐私设置允许Global区域；涉及训练的Contributor付费端点需开启允许训练请求数据的选项。",
     "facts": [
       {
         "quote": "Go Plus $40/month Higher usage limits across the models below",
@@ -2542,6 +2547,16 @@
         "quote": "MiniMax M3.1 Flash $0.15 $0.60 $0.015 - $80",
         "url": "https://opencode.ai/v2/docs/console/go/",
         "snapshot": "snapshots/opencode-go/2026-10-22-2358-83e107b8.json"
+      },
+      {
+        "quote": "Kimi K3.1 Pro $2.00 $10.00 $0.20 $2.00 $60",
+        "url": "https://opencode.ai/v2/docs/console/go/",
+        "snapshot": "snapshots/opencode-go/2026-10-24-0022-e5cf5086.json"
+      },
+      {
+        "quote": "Enable restricted models\nWorkspace privacy settings apply to Go. By default, paid endpoints that train on request data are blocked, and\nallowed regions are Europe & United States . Workspaces without saved privacy settings also allow Global\nfor requests from China.\nIn Settings › Privacy , an owner or admin can enable:\nDeepSeek V4.1 Flash and V4 Pro: select Global under Regions .\nGemini 4 Argon Contributor, Muse Spark 1.3 Contributor, and Muse Spark 1.2 Contributor: turn on Allow paid endpoints that train on request data .\nSee Privacy for each model’s training and retention terms.",
+        "url": "https://opencode.ai/v2/docs/console/go/",
+        "snapshot": "snapshots/opencode-go/2026-10-24-0022-e5cf5086.json"
       }
     ],
     "supersedes": null,
@@ -2603,6 +2618,14 @@
           "period": "month",
           "text": "$80",
           "fact": 12
+        },
+        {
+          "model": "Kimi K3.1 Pro",
+          "value": 60,
+          "currency": "USD",
+          "period": "month",
+          "text": "$60",
+          "fact": 13
         }
       ],
       "limits": {
@@ -2610,8 +2633,8 @@
         "en": "5-hour allowance: 20% of the model monthly limit; weekly: 50%. Only single-member workspaces; Go workspaces cannot invite members."
       },
       "notes": {
-        "zh": "按官方 Go Plus 模型表展示月度用量等值；不同模型额度不能相加。可接入符合官方规则的编程 Agent。 Gemini 4 Argon Contributor 月用量等值限时翻倍（$120 → $240），结束日期未说明。输入与输出可能用于训练 Google 后续模型，非零数据留存（Not ZDR）。 Step 5 Preview 月用量等值现为$60，原限时4倍展示已移除；新增付费MiniMax M3.1 Flash月用量等值$80。",
-        "en": "Monthly usage equivalents follow the official Go Plus model table. Model allowances must not be added. Coding agents must follow the official client rules. Gemini 4 Argon Contributor has a limited-time 2x monthly usage equivalent ($120 to $240); no end date is stated. Prompts and completions may train future Google models; Not ZDR. Step 5 Preview now has $60 monthly usage equivalent; the limited-time 4x label is removed. Paid MiniMax M3.1 Flash provides $80 monthly usage equivalent."
+        "zh": "按官方 Go Plus 模型表展示月度用量等值；不同模型额度不能相加。可接入符合官方规则的编程 Agent。 Gemini 4 Argon Contributor 月用量等值限时翻倍（$120 → $240），结束日期未说明。输入与输出可能用于训练 Google 后续模型，非零数据留存（Not ZDR）。 Step 5 Preview 月用量等值现为$60，原限时4倍展示已移除；新增付费MiniMax M3.1 Flash月用量等值$80。 Kimi K3.1 Pro月用量等值为$60。 DeepSeek需在隐私设置允许Global区域；涉及训练的Contributor付费端点需开启允许训练请求数据的选项。",
+        "en": "Monthly usage equivalents follow the official Go Plus model table. Model allowances must not be added. Coding agents must follow the official client rules. Gemini 4 Argon Contributor has a limited-time 2x monthly usage equivalent ($120 to $240); no end date is stated. Prompts and completions may train future Google models; Not ZDR. Step 5 Preview now has $60 monthly usage equivalent; the limited-time 4x label is removed. Paid MiniMax M3.1 Flash provides $80 monthly usage equivalent. Kimi K3.1 Pro provides $60 monthly usage equivalent. DeepSeek requires Global in privacy regions; training Contributor endpoints require allowing paid endpoints that train on request data."
       }
     },
     "quantity": null
@@ -2855,6 +2878,11 @@
         "quote": "Go is the only plan without API access",
         "url": "https://commandcode.ai/docs/plans/go",
         "snapshot": "snapshots/commandcode-go/2026-10-11-1754-b5eed048.json"
+      },
+      {
+        "quote": "Kimi K3.1 Pro $2.00 $10.00 $0.20 - $6",
+        "url": "https://commandcode.ai/docs/plans/go",
+        "snapshot": "snapshots/commandcode-go/2026-10-24-0007-8bad1fe0.json"
       }
     ],
     "supersedes": null,
@@ -2890,6 +2918,14 @@
           "period": "month",
           "text": "$6",
           "fact": 3
+        },
+        {
+          "model": "Kimi K3.1 Pro",
+          "value": 6,
+          "currency": "USD",
+          "period": "month",
+          "text": "$6",
+          "fact": 8
         }
       ],
       "limits": {
@@ -2897,11 +2933,11 @@
         "en": "Official pages differ: Go lists $3 per 5 hours / $6 per week; Pricing & Limits lists $2 / $5. Check your console for the applied limits."
       },
       "notes": {
-        "zh": "示例模型按各自计价折算，共用一个套餐额度池，不可相加。Go 不支持 Provider API。",
-        "en": "Examples are model-specific usage equivalents from one shared plan pool; do not add them together. Go has no Provider API access."
+        "zh": "示例模型按各自计价折算，共用一个套餐额度池，不可相加。Go 不支持 Provider API。 Kimi K3.1 Pro月用量等值为$6。",
+        "en": "Examples are model-specific usage equivalents from one shared plan pool; do not add them together. Go has no Provider API access. Kimi K3.1 Pro provides $6 monthly usage equivalent."
       }
     },
-    "restrictions": "官方两页口径不同：Go 页为 5 小时 $3、每周 $6；价格规则页为 $2、$5。实际窗口以控制台为准。 示例模型按各自计价折算，共用一个套餐额度池，不可相加。Go 不支持 Provider API。",
+    "restrictions": "官方两页口径不同：Go 页为 5 小时 $3、每周 $6；价格规则页为 $2、$5。实际窗口以控制台为准。 示例模型按各自计价折算，共用一个套餐额度池，不可相加。Go 不支持 Provider API。 Kimi K3.1 Pro月用量等值为$6。",
     "quantity": null
   },
   {
@@ -3154,6 +3190,11 @@
         "quote": "GLM-5.3 Flash comes with bigger monthly credits, while capacity lasts.",
         "url": "https://commandcode.ai/docs/resources/pricing-limits",
         "snapshot": "snapshots/commandcode-pricing-limits/2026-10-18-0005-a2f603f2.json"
+      },
+      {
+        "quote": "Kimi K3.1 Pro $2.00 $10.00 $0.20 - $20",
+        "url": "https://commandcode.ai/docs/plans/goat",
+        "snapshot": "snapshots/commandcode-goat/2026-10-24-0007-b4b759b3.json"
       }
     ],
     "supersedes": null,
@@ -3229,6 +3270,14 @@
           "period": "month",
           "text": "$20",
           "fact": 14
+        },
+        {
+          "model": "Kimi K3.1 Pro",
+          "value": 20,
+          "currency": "USD",
+          "period": "month",
+          "text": "$20",
+          "fact": 16
         }
       ],
       "limits": {
@@ -3236,11 +3285,11 @@
         "en": "$14 per 5 hours, $35 per week, $70 per month; usable volume varies by model pricing."
       },
       "notes": {
-        "zh": "列出的是示例模型月用量，不是各模型独立余额；不可相加。CLI 与 API 使用套餐额度，额外购买的积分另计。 DeepSeek V4.1 Flash 三天 $100 活动已结束，现为长期提升后的 $80 月用量等值；官方明确无结束日期。 套餐宣传现标注 $10 对应 $80 credits；官方窗口仍列 $14/$35/$70，以窗口限制为准，不能将宣传额度替代窗口限制。 GLM-5.3 Flash 三天 $100 活动已结束，当前月用量等值为 $80，提升优惠持续到容量用尽，来源未给固定结束日期。 本轮官方表新增展示 Ling 3.1 Flash $100、GPT-5.6 Sol $20、Muse Spark Open $20 及 Nemotron 3.5 Super VL $20 月用量等值；各模型额度不可相加。",
-        "en": "These are example monthly usage equivalents, not separate balances per model. CLI and API use plan credits; purchased top-ups are separate. The three-day $100 DeepSeek V4.1 Flash deal has ended. Its permanently boosted monthly usage equivalent is now $80, with no end date. The plan now advertises $80 credits for $10, while its listed usage windows remain $14/$35/$70; the advertised credits do not replace window caps. The three-day $100 GLM-5.3 Flash deal has ended. Its current monthly usage equivalent is $80 while capacity lasts; no fixed end date is stated. Current rows show Ling 3.1 Flash $100, GPT-5.6 Sol $20, Muse Spark Open $20 and Nemotron 3.5 Super VL $20 monthly usage equivalents; do not add model allowances."
+        "zh": "列出的是示例模型月用量，不是各模型独立余额；不可相加。CLI 与 API 使用套餐额度，额外购买的积分另计。 DeepSeek V4.1 Flash 三天 $100 活动已结束，现为长期提升后的 $80 月用量等值；官方明确无结束日期。 套餐宣传现标注 $10 对应 $80 credits；官方窗口仍列 $14/$35/$70，以窗口限制为准，不能将宣传额度替代窗口限制。 GLM-5.3 Flash 三天 $100 活动已结束，当前月用量等值为 $80，提升优惠持续到容量用尽，来源未给固定结束日期。 本轮官方表新增展示 Ling 3.1 Flash $100、GPT-5.6 Sol $20、Muse Spark Open $20 及 Nemotron 3.5 Super VL $20 月用量等值；各模型额度不可相加。 Kimi K3.1 Pro月用量等值为$20。",
+        "en": "These are example monthly usage equivalents, not separate balances per model. CLI and API use plan credits; purchased top-ups are separate. The three-day $100 DeepSeek V4.1 Flash deal has ended. Its permanently boosted monthly usage equivalent is now $80, with no end date. The plan now advertises $80 credits for $10, while its listed usage windows remain $14/$35/$70; the advertised credits do not replace window caps. The three-day $100 GLM-5.3 Flash deal has ended. Its current monthly usage equivalent is $80 while capacity lasts; no fixed end date is stated. Current rows show Ling 3.1 Flash $100, GPT-5.6 Sol $20, Muse Spark Open $20 and Nemotron 3.5 Super VL $20 monthly usage equivalents; do not add model allowances. Kimi K3.1 Pro provides $20 monthly usage equivalent."
       }
     },
-    "restrictions": "5 小时 $14、每周 $35、每月 $70 的窗口；实际可用量随模型计价不同。 列出的是示例模型月用量，不是各模型独立余额；不可相加。CLI 与 API 使用套餐额度，额外购买的积分另计。 DeepSeek V4.1 Flash 三天 $100 活动已结束，现为长期提升后的 $80 月用量等值；官方明确无结束日期。 套餐宣传现标注 $10 对应 $80 credits；官方窗口仍列 $14/$35/$70，以窗口限制为准，不能将宣传额度替代窗口限制。 GLM-5.3 Flash 三天 $100 活动已结束，当前月用量等值为 $80，提升优惠持续到容量用尽，来源未给固定结束日期。 本轮官方表新增展示 Ling 3.1 Flash $100、GPT-5.6 Sol $20、Muse Spark Open $20 及 Nemotron 3.5 Super VL $20 月用量等值；各模型额度不可相加。",
+    "restrictions": "5 小时 $14、每周 $35、每月 $70 的窗口；实际可用量随模型计价不同。 列出的是示例模型月用量，不是各模型独立余额；不可相加。CLI 与 API 使用套餐额度，额外购买的积分另计。 DeepSeek V4.1 Flash 三天 $100 活动已结束，现为长期提升后的 $80 月用量等值；官方明确无结束日期。 套餐宣传现标注 $10 对应 $80 credits；官方窗口仍列 $14/$35/$70，以窗口限制为准，不能将宣传额度替代窗口限制。 GLM-5.3 Flash 三天 $100 活动已结束，当前月用量等值为 $80，提升优惠持续到容量用尽，来源未给固定结束日期。 本轮官方表新增展示 Ling 3.1 Flash $100、GPT-5.6 Sol $20、Muse Spark Open $20 及 Nemotron 3.5 Super VL $20 月用量等值；各模型额度不可相加。 Kimi K3.1 Pro月用量等值为$20。",
     "quantity": null
   },
   {
@@ -3442,70 +3491,6 @@
   },
   {
     "schemaVersion": 0,
-    "offerKey": "b6997c6fcbff48ff",
-    "occurredAt": "2026-10-19",
-    "publishedAt": "2026-10-19T12:05:57.221465+00:00",
-    "verification": "auto_verified",
-    "category": "creditsPromotion",
-    "vendor": "opencode",
-    "entity": "minimax-m3.1-flash-free",
-    "promotionType": "free",
-    "appliesTo": [
-      "model"
-    ],
-    "amount": "MiniMax M3.1 Flash Free: Free for a limited time.",
-    "eligibility": "MiniMax M3.1 Flash Free (limited time)",
-    "baseline": null,
-    "startsAt": null,
-    "startsAtText": null,
-    "expiresAt": null,
-    "expiresAtText": null,
-    "howToClaim": "unknown",
-    "restrictions": "OpenCode Go 官方新增的 MiniMax M3.1 Flash Free 模型版本限时免模型Token费，表列 Free、使用限制 Unlimited；结束日期未说明。Go/Go Plus服务分别标价$10/$40每月，本条不表示Go订阅费免费，也不承诺无需订阅。使用时需按Go接入规则选择该Free模型ID；官方列明不用于模型训练、数据留存0天。",
-    "supersedes": null,
-    "sourceId": "opencode-go",
-    "claimUrl": "https://opencode.ai/v2/docs/console/go/",
-    "facts": [
-      {
-        "quote": "MiniMax M3.1 Flash Free: Free for a limited time.",
-        "url": "https://opencode.ai/v2/docs/console/go/",
-        "snapshot": "snapshots/opencode-go/2026-10-19-1201-80b2e1ad.json"
-      },
-      {
-        "quote": "MiniMax M3.1 Flash Free Free Free Free - Unlimited",
-        "url": "https://opencode.ai/v2/docs/console/go/",
-        "snapshot": "snapshots/opencode-go/2026-10-19-1201-80b2e1ad.json"
-      },
-      {
-        "quote": "MiniMax M3.1 Flash Free Unlimited Unlimited Unlimited",
-        "url": "https://opencode.ai/v2/docs/console/go/",
-        "snapshot": "snapshots/opencode-go/2026-10-19-1201-80b2e1ad.json"
-      },
-      {
-        "quote": "MiniMax M3.1 Flash Free Not used 0 days",
-        "url": "https://opencode.ai/v2/docs/console/go/",
-        "snapshot": "snapshots/opencode-go/2026-10-19-1201-80b2e1ad.json"
-      },
-      {
-        "quote": "Go $10/month Lower-cost access to the models below",
-        "url": "https://opencode.ai/v2/docs/console/go/",
-        "snapshot": "snapshots/opencode-go/2026-10-19-1201-80b2e1ad.json"
-      },
-      {
-        "quote": "Go Plus $40/month Higher usage limits across the models below",
-        "url": "https://opencode.ai/v2/docs/console/go/",
-        "snapshot": "snapshots/opencode-go/2026-10-19-1201-80b2e1ad.json"
-      },
-      {
-        "quote": "Go works like any other provider in OpenCode. You subscribe to OpenCode Go and get your API key. It’s completely optional and you don’t need it to use OpenCode.",
-        "url": "https://opencode.ai/v2/docs/console/go/",
-        "snapshot": "snapshots/opencode-go/2026-10-19-1201-80b2e1ad.json"
-      }
-    ],
-    "quantity": null
-  },
-  {
-    "schemaVersion": 0,
     "offerKey": "b914c48a8e0923a2",
     "occurredAt": "2026-10-23",
     "publishedAt": "2026-10-23T12:15:55.129131+00:00",
@@ -3540,45 +3525,6 @@
         "quote": "首购半价低至 4.9 元起，高倍率、超大容量的积分 / Token 供给，让用户彻底放开手脚",
         "url": "https://cloud.baidu.com/product-s/qianfan_home/qianfan_invite",
         "snapshot": "snapshots/baidu-qianfan-tokenplan-invite/2026-10-23-1212-0aa1e5ab.json"
-      }
-    ],
-    "quantity": null
-  },
-  {
-    "schemaVersion": 0,
-    "offerKey": "bf04a69c443dc708",
-    "occurredAt": "2026-10-20",
-    "publishedAt": "2026-10-20T12:15:42.008269+00:00",
-    "verification": "auto_verified",
-    "category": "creditsPromotion",
-    "vendor": "commandcode",
-    "entity": "minimax-m3.1-flash-free",
-    "promotionType": "free",
-    "appliesTo": [
-      "model"
-    ],
-    "amount": "MiniMax M3.1 Flash is free for a limited time.",
-    "eligibility": "auto-applied when you pick minimax-m3.1-flash:free",
-    "baseline": null,
-    "startsAt": null,
-    "startsAtText": null,
-    "expiresAt": null,
-    "expiresAtText": null,
-    "howToClaim": "auto",
-    "supersedes": null,
-    "sourceId": "commandcode-pricing-limits",
-    "claimUrl": "https://commandcode.ai/docs/resources/pricing-limits",
-    "restrictions": "限时免模型调用 credits，无每日请求上限；按 Command Code 接入规则选择 minimax-m3.1-flash:free。官方称该免费模型可用于 CMD_ZDR=1 会话。未给固定结束日期；免费期结束后需切换付费模型，本条不表示订阅费免费。",
-    "facts": [
-      {
-        "quote": "DEAL minimax-m3-1-flash-free MiniMax M3.1 Flash Free for a limited time\nauto-applied when you pick minimax-m3.1-flash:free\nModel MiniMax M3.1 Flash\nTerm for a limited time\nMiniMax M3.1 Flash is free for a limited time.\nMiniMax M3.1 Flash is MiniMax&#x27;s multimodal coding model, with a 1M token context and low, medium, high, xhigh, and max reasoning effort.\nNo daily request limit : use it as much as you like while the window is open.\nZero data retention : the free model runs in a CMD_ZDR=1 session.\nWhen the free tier ends : switch to the paid minimax-m3.1-flash with /model .",
-        "url": "https://commandcode.ai/docs/resources/pricing-limits",
-        "snapshot": "snapshots/commandcode-pricing-limits/2026-10-20-1211-1640018f.json"
-      },
-      {
-        "quote": "DEAL minimax-m3.1-flash:free is free for a limited time, with no daily request limit. Requests on this model cost no credits. for a limited time",
-        "url": "https://commandcode.ai/docs/resources/pricing-limits",
-        "snapshot": "snapshots/commandcode-pricing-limits/2026-10-20-1211-1640018f.json"
       }
     ],
     "quantity": null
@@ -3719,6 +3665,16 @@
         "quote": "MiniMax M3.1 Flash $0.15 $0.60 $0.015 - $20",
         "url": "https://opencode.ai/v2/docs/console/go/",
         "snapshot": "snapshots/opencode-go/2026-10-22-2358-83e107b8.json"
+      },
+      {
+        "quote": "Kimi K3.1 Pro $2.00 $10.00 $0.20 $2.00 $15",
+        "url": "https://opencode.ai/v2/docs/console/go/",
+        "snapshot": "snapshots/opencode-go/2026-10-24-0022-e5cf5086.json"
+      },
+      {
+        "quote": "Enable restricted models\nWorkspace privacy settings apply to Go. By default, paid endpoints that train on request data are blocked, and\nallowed regions are Europe & United States . Workspaces without saved privacy settings also allow Global\nfor requests from China.\nIn Settings › Privacy , an owner or admin can enable:\nDeepSeek V4.1 Flash and V4 Pro: select Global under Regions .\nGemini 4 Argon Contributor, Muse Spark 1.3 Contributor, and Muse Spark 1.2 Contributor: turn on Allow paid endpoints that train on request data .\nSee Privacy for each model’s training and retention terms.",
+        "url": "https://opencode.ai/v2/docs/console/go/",
+        "snapshot": "snapshots/opencode-go/2026-10-24-0022-e5cf5086.json"
       }
     ],
     "supersedes": null,
@@ -3778,6 +3734,14 @@
           "period": "month",
           "text": "$20",
           "fact": 12
+        },
+        {
+          "model": "Kimi K3.1 Pro",
+          "value": 15,
+          "currency": "USD",
+          "period": "month",
+          "text": "$15",
+          "fact": 13
         }
       ],
       "limits": {
@@ -3785,11 +3749,11 @@
         "en": "5-hour allowance: 20% of the model monthly limit; weekly: 50%. Only single-member workspaces; Go workspaces cannot invite members."
       },
       "notes": {
-        "zh": "按官方 Go 模型表展示月度用量等值；不同模型额度不能相加。可接入符合官方规则的编程 Agent。 Gemini 4 Argon Contributor 月用量等值限时翻倍（$30 → $60），结束日期未说明。输入与输出可能用于训练 Google 后续模型，非零数据留存（Not ZDR）。 Step 5 Preview 月用量等值现为$15，原限时4倍展示已移除；新增付费MiniMax M3.1 Flash月用量等值$20。",
-        "en": "Monthly usage equivalents follow the official Go model table. Model allowances must not be added. Coding agents must follow the official client rules. Gemini 4 Argon Contributor has a limited-time 2x monthly usage equivalent ($30 to $60); no end date is stated. Prompts and completions may train future Google models; Not ZDR. Step 5 Preview now has $15 monthly usage equivalent; the limited-time 4x label is removed. Paid MiniMax M3.1 Flash provides $20 monthly usage equivalent."
+        "zh": "按官方 Go 模型表展示月度用量等值；不同模型额度不能相加。可接入符合官方规则的编程 Agent。 Gemini 4 Argon Contributor 月用量等值限时翻倍（$30 → $60），结束日期未说明。输入与输出可能用于训练 Google 后续模型，非零数据留存（Not ZDR）。 Step 5 Preview 月用量等值现为$15，原限时4倍展示已移除；新增付费MiniMax M3.1 Flash月用量等值$20。 Kimi K3.1 Pro月用量等值为$15。 DeepSeek需在隐私设置允许Global区域；涉及训练的Contributor付费端点需开启允许训练请求数据的选项。",
+        "en": "Monthly usage equivalents follow the official Go model table. Model allowances must not be added. Coding agents must follow the official client rules. Gemini 4 Argon Contributor has a limited-time 2x monthly usage equivalent ($30 to $60); no end date is stated. Prompts and completions may train future Google models; Not ZDR. Step 5 Preview now has $15 monthly usage equivalent; the limited-time 4x label is removed. Paid MiniMax M3.1 Flash provides $20 monthly usage equivalent. Kimi K3.1 Pro provides $15 monthly usage equivalent. DeepSeek requires Global in privacy regions; training Contributor endpoints require allowing paid endpoints that train on request data."
       }
     },
-    "restrictions": "5 小时为对应月额度的 20%，每周为 50%；仅单成员工作空间，订阅后不能邀请成员。 按官方 Go 模型表展示月度用量等值；不同模型额度不能相加。可接入符合官方规则的编程 Agent。 Gemini 4 Argon Contributor 月用量等值限时翻倍（$30 → $60），结束日期未说明。输入与输出可能用于训练 Google 后续模型，非零数据留存（Not ZDR）。 Step 5 Preview 月用量等值现为$15，原限时4倍展示已移除；新增付费MiniMax M3.1 Flash月用量等值$20。",
+    "restrictions": "5 小时为对应月额度的 20%，每周为 50%；仅单成员工作空间，订阅后不能邀请成员。 按官方 Go 模型表展示月度用量等值；不同模型额度不能相加。可接入符合官方规则的编程 Agent。 Gemini 4 Argon Contributor 月用量等值限时翻倍（$30 → $60），结束日期未说明。输入与输出可能用于训练 Google 后续模型，非零数据留存（Not ZDR）。 Step 5 Preview 月用量等值现为$15，原限时4倍展示已移除；新增付费MiniMax M3.1 Flash月用量等值$20。 Kimi K3.1 Pro月用量等值为$15。 DeepSeek需在隐私设置允许Global区域；涉及训练的Contributor付费端点需开启允许训练请求数据的选项。",
     "quantity": null
   },
   {

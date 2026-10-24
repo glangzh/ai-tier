@@ -1073,6 +1073,74 @@
   },
   {
     "schemaVersion": 0,
+    "offerKey": "b6997c6fcbff48ff",
+    "occurredAt": "2026-10-19",
+    "publishedAt": "2026-10-19T12:05:57.221465+00:00",
+    "verification": "auto_verified",
+    "category": "creditsPromotion",
+    "vendor": "opencode",
+    "entity": "minimax-m3.1-flash-free",
+    "promotionType": "free",
+    "appliesTo": [
+      "model"
+    ],
+    "amount": "MiniMax M3.1 Flash Free: Free for a limited time.",
+    "eligibility": "MiniMax M3.1 Flash Free (limited time)",
+    "baseline": null,
+    "startsAt": null,
+    "startsAtText": null,
+    "expiresAt": null,
+    "expiresAtText": null,
+    "howToClaim": "unknown",
+    "restrictions": "OpenCode Go 官方新增的 MiniMax M3.1 Flash Free 模型版本限时免模型Token费，表列 Free、使用限制 Unlimited；结束日期未说明。Go/Go Plus服务分别标价$10/$40每月，本条不表示Go订阅费免费，也不承诺无需订阅。使用时需按Go接入规则选择该Free模型ID；官方列明不用于模型训练、数据留存0天。",
+    "supersedes": null,
+    "sourceId": "opencode-go",
+    "claimUrl": "https://opencode.ai/v2/docs/console/go/",
+    "facts": [
+      {
+        "quote": "MiniMax M3.1 Flash Free: Free for a limited time.",
+        "url": "https://opencode.ai/v2/docs/console/go/",
+        "snapshot": "snapshots/opencode-go/2026-10-19-1201-80b2e1ad.json"
+      },
+      {
+        "quote": "MiniMax M3.1 Flash Free Free Free Free - Unlimited",
+        "url": "https://opencode.ai/v2/docs/console/go/",
+        "snapshot": "snapshots/opencode-go/2026-10-19-1201-80b2e1ad.json"
+      },
+      {
+        "quote": "MiniMax M3.1 Flash Free Unlimited Unlimited Unlimited",
+        "url": "https://opencode.ai/v2/docs/console/go/",
+        "snapshot": "snapshots/opencode-go/2026-10-19-1201-80b2e1ad.json"
+      },
+      {
+        "quote": "MiniMax M3.1 Flash Free Not used 0 days",
+        "url": "https://opencode.ai/v2/docs/console/go/",
+        "snapshot": "snapshots/opencode-go/2026-10-19-1201-80b2e1ad.json"
+      },
+      {
+        "quote": "Go $10/month Lower-cost access to the models below",
+        "url": "https://opencode.ai/v2/docs/console/go/",
+        "snapshot": "snapshots/opencode-go/2026-10-19-1201-80b2e1ad.json"
+      },
+      {
+        "quote": "Go Plus $40/month Higher usage limits across the models below",
+        "url": "https://opencode.ai/v2/docs/console/go/",
+        "snapshot": "snapshots/opencode-go/2026-10-19-1201-80b2e1ad.json"
+      },
+      {
+        "quote": "Go works like any other provider in OpenCode. You subscribe to OpenCode Go and get your API key. It’s completely optional and you don’t need it to use OpenCode.",
+        "url": "https://opencode.ai/v2/docs/console/go/",
+        "snapshot": "snapshots/opencode-go/2026-10-19-1201-80b2e1ad.json"
+      }
+    ],
+    "withdrawn": {
+      "reason": "项目连续3轮成功回源已不再出现MiniMax免费预览原文；最新官方快照snapshots/opencode-go/2026-10-24-0022-e5cf5086.json。仅下架此已验证缺失条目。",
+      "at": "2026-10-24"
+    },
+    "quantity": null
+  },
+  {
+    "schemaVersion": 0,
     "offerKey": "b9ff0ce3f33b9143",
     "occurredAt": "2026-10-21",
     "publishedAt": "2026-10-21T02:05:49.114433+00:00",
@@ -1108,6 +1176,49 @@
       }
     ],
     "restrictions": "Command Code 选择 ornith-1.5-122b:free，限时免模型 credits、无每日请求上限；免费期截至太平洋时间10月21日23:00，即北京时间10月22日14:00。官方未给开始时间；结束后需切换付费版本，本条不表示订阅费免费。",
+    "quantity": null
+  },
+  {
+    "schemaVersion": 0,
+    "offerKey": "bf04a69c443dc708",
+    "occurredAt": "2026-10-20",
+    "publishedAt": "2026-10-20T12:15:42.008269+00:00",
+    "verification": "auto_verified",
+    "category": "creditsPromotion",
+    "vendor": "commandcode",
+    "entity": "minimax-m3.1-flash-free",
+    "promotionType": "free",
+    "appliesTo": [
+      "model"
+    ],
+    "amount": "MiniMax M3.1 Flash is free for a limited time.",
+    "eligibility": "auto-applied when you pick minimax-m3.1-flash:free",
+    "baseline": null,
+    "startsAt": null,
+    "startsAtText": null,
+    "expiresAt": null,
+    "expiresAtText": null,
+    "howToClaim": "auto",
+    "supersedes": null,
+    "sourceId": "commandcode-pricing-limits",
+    "claimUrl": "https://commandcode.ai/docs/resources/pricing-limits",
+    "restrictions": "限时免模型调用 credits，无每日请求上限；按 Command Code 接入规则选择 minimax-m3.1-flash:free。官方称该免费模型可用于 CMD_ZDR=1 会话。未给固定结束日期；免费期结束后需切换付费模型，本条不表示订阅费免费。",
+    "facts": [
+      {
+        "quote": "DEAL minimax-m3-1-flash-free MiniMax M3.1 Flash Free for a limited time\nauto-applied when you pick minimax-m3.1-flash:free\nModel MiniMax M3.1 Flash\nTerm for a limited time\nMiniMax M3.1 Flash is free for a limited time.\nMiniMax M3.1 Flash is MiniMax&#x27;s multimodal coding model, with a 1M token context and low, medium, high, xhigh, and max reasoning effort.\nNo daily request limit : use it as much as you like while the window is open.\nZero data retention : the free model runs in a CMD_ZDR=1 session.\nWhen the free tier ends : switch to the paid minimax-m3.1-flash with /model .",
+        "url": "https://commandcode.ai/docs/resources/pricing-limits",
+        "snapshot": "snapshots/commandcode-pricing-limits/2026-10-20-1211-1640018f.json"
+      },
+      {
+        "quote": "DEAL minimax-m3.1-flash:free is free for a limited time, with no daily request limit. Requests on this model cost no credits. for a limited time",
+        "url": "https://commandcode.ai/docs/resources/pricing-limits",
+        "snapshot": "snapshots/commandcode-pricing-limits/2026-10-20-1211-1640018f.json"
+      }
+    ],
+    "withdrawn": {
+      "reason": "项目连续3轮成功回源已不再出现MiniMax免费预览原文；最新官方快照snapshots/commandcode-pricing-limits/2026-10-24-0007-7ea95ec8.json。仅下架此已验证缺失条目。",
+      "at": "2026-10-24"
+    },
     "quantity": null
   },
   {

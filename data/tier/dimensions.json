@@ -51,7 +51,7 @@
     }
   ],
   "meta": {
-    "as_of": "2026-10-23",
+    "as_of": "2026-10-24",
     "benchmark": "AAII v4.3.2",
     "frontier": {
       "date": "2026-09-22",
@@ -234,54 +234,54 @@
         "agent": {
           "anchor_gens": 2,
           "beyond_pool": false,
-          "gap_days": 40,
-          "score": 34.9,
+          "gap_days": 11,
+          "score": 41.9,
           "status": "estimated"
         },
         "analysis": {
           "anchor_gens": null,
           "beyond_pool": false,
           "gap_days": null,
-          "score": 38.8,
-          "status": "no_timeline"
+          "score": null,
+          "status": "unmeasured"
         },
         "coding": {
           "anchor_gens": 4,
-          "beyond_pool": true,
-          "gap_days": 832,
-          "score": 36.1,
+          "beyond_pool": false,
+          "gap_days": -2,
+          "score": 64,
           "status": "measured"
         },
         "general": {
           "anchor_gens": null,
           "beyond_pool": false,
           "gap_days": null,
-          "score": 32,
+          "score": 39.6,
           "status": "no_timeline"
         },
         "hallucination": {
           "anchor_gens": 2,
-          "beyond_pool": false,
-          "gap_days": -16,
-          "score": 46.8,
+          "beyond_pool": true,
+          "gap_days": -43,
+          "score": 56.1,
           "status": "measured"
         },
         "knowledge": {
           "anchor_gens": null,
           "beyond_pool": false,
           "gap_days": null,
-          "score": 47.6,
+          "score": 51,
           "status": "no_timeline"
         },
         "science": {
           "anchor_gens": 3,
-          "beyond_pool": true,
-          "gap_days": 303,
-          "score": 35.2,
+          "beyond_pool": false,
+          "gap_days": 206,
+          "score": 38.5,
           "status": "measured"
         }
       },
-      "model": "Kimi K3 (max)",
+      "model": "Kimi K3.1 Pro",
       "name": "月之暗面"
     },
     {
