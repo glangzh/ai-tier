@@ -1073,6 +1073,90 @@
   },
   {
     "schemaVersion": 0,
+    "offerKey": "9b30c0ce9335b380",
+    "occurredAt": "2026-10-18",
+    "publishedAt": "2026-10-18T12:18:17.714069+00:00",
+    "verification": "auto_verified",
+    "category": "creditsPromotion",
+    "vendor": "trae",
+    "entity": "TRAE 1024 签到抽奖（随机奖励，非必得）",
+    "promotionType": "free",
+    "appliesTo": [
+      "agent"
+    ],
+    "amount": "每日完成签到后，即可获得一次随机奖励。",
+    "eligibility": "TRAE 中国区用户均可参与，包括活动期间登录 TRAE IDE 的新老用户。",
+    "baseline": null,
+    "startsAt": "2026-10-18T16:00:00Z",
+    "startsAtText": "2026 年 10 月 19 日 00:00",
+    "expiresAt": "2026-10-24T10:00:00Z",
+    "expiresAtText": "10 月 24 日 18:00",
+    "howToClaim": "console",
+    "restrictions": "签到抽奖，奖励随机，非固定额度或必得优惠券。每日88积分中奖概率0.5%，888积分0.04%，10元连续包月优惠券92.5%，20元券2.4%；100万积分大奖共1名，10月24日19:00直播抽取。积分、优惠券有效期按官方规则分别计算；优惠券仅用于Lite/Pro/Pro+/Ultra连续包月购买或升级，不用于续扣，不可叠加。请使用支持该活动的TRAE IDE登录签到。",
+    "sourceId": "trae-1024-checkin-lottery",
+    "claimUrl": "https://docs.trae.cn/ide_million-credits-giveaway-on-oct-24?lang=zh",
+    "supersedes": null,
+    "facts": [
+      {
+        "quote": "活动时间：​ 北京时间 2026 年 10 月 19 日 00:00 至 10 月 24 日 18:00",
+        "url": "https://docs.trae.cn/ide_million-credits-giveaway-on-oct-24?lang=zh",
+        "snapshot": "snapshots/trae-1024-checkin-lottery/2026-10-18-1217-289caa6f.json"
+      },
+      {
+        "quote": "TRAE 中国区用户均可参与，包括活动期间登录 TRAE IDE 的新老用户。",
+        "url": "https://docs.trae.cn/ide_million-credits-giveaway-on-oct-24?lang=zh",
+        "snapshot": "snapshots/trae-1024-checkin-lottery/2026-10-18-1217-289caa6f.json"
+      },
+      {
+        "quote": "每日完成签到后，即可获得一次随机奖励。",
+        "url": "https://docs.trae.cn/ide_million-credits-giveaway-on-oct-24?lang=zh",
+        "snapshot": "snapshots/trae-1024-checkin-lottery/2026-10-18-1217-289caa6f.json"
+      },
+      {
+        "quote": "88 积分",
+        "url": "https://docs.trae.cn/ide_million-credits-giveaway-on-oct-24?lang=zh",
+        "snapshot": "snapshots/trae-1024-checkin-lottery/2026-10-18-1217-289caa6f.json"
+      },
+      {
+        "quote": "每日签到随机奖励（每天中奖概率为0.5%）",
+        "url": "https://docs.trae.cn/ide_million-credits-giveaway-on-oct-24?lang=zh",
+        "snapshot": "snapshots/trae-1024-checkin-lottery/2026-10-18-1217-289caa6f.json"
+      },
+      {
+        "quote": "888 积分",
+        "url": "https://docs.trae.cn/ide_million-credits-giveaway-on-oct-24?lang=zh",
+        "snapshot": "snapshots/trae-1024-checkin-lottery/2026-10-18-1217-289caa6f.json"
+      },
+      {
+        "quote": "每日签到随机奖励（每天中奖概率为0.04%）",
+        "url": "https://docs.trae.cn/ide_million-credits-giveaway-on-oct-24?lang=zh",
+        "snapshot": "snapshots/trae-1024-checkin-lottery/2026-10-18-1217-289caa6f.json"
+      },
+      {
+        "quote": "10 元连续包月优惠券（每天中奖概率为92.5%）",
+        "url": "https://docs.trae.cn/ide_million-credits-giveaway-on-oct-24?lang=zh",
+        "snapshot": "snapshots/trae-1024-checkin-lottery/2026-10-18-1217-289caa6f.json"
+      },
+      {
+        "quote": "20 元连续包月优惠券（每天中奖概率为2.4%）",
+        "url": "https://docs.trae.cn/ide_million-credits-giveaway-on-oct-24?lang=zh",
+        "snapshot": "snapshots/trae-1024-checkin-lottery/2026-10-18-1217-289caa6f.json"
+      },
+      {
+        "quote": "2026年10 月 24 日 19:00，TRAE 将在「AI Builder Day」直播间从候选池中随机抽取 1 位用户，送出 100 万积分。",
+        "url": "https://docs.trae.cn/ide_million-credits-giveaway-on-oct-24?lang=zh",
+        "snapshot": "snapshots/trae-1024-checkin-lottery/2026-10-18-1217-289caa6f.json"
+      },
+      {
+        "quote": "优惠券适用于Lite、Pro、Pro+、Ultra连续包月会员权益的购买或升级，但无法在连续包月套餐后续的自动扣费中使用。优惠券在任何情况下，无法叠加使用。",
+        "url": "https://docs.trae.cn/ide_million-credits-giveaway-on-oct-24?lang=zh",
+        "snapshot": "snapshots/trae-1024-checkin-lottery/2026-10-18-1217-289caa6f.json"
+      }
+    ],
+    "quantity": null
+  },
+  {
+    "schemaVersion": 0,
     "offerKey": "b6997c6fcbff48ff",
     "occurredAt": "2026-10-19",
     "publishedAt": "2026-10-19T12:05:57.221465+00:00",

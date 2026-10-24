@@ -1,22 +1,22 @@
 {
   "dimensions": [
     {
-      "anchor_gens": 4,
-      "anchor_span_days": 105,
+      "anchor_gens": 5,
+      "anchor_span_days": 117,
       "key": "coding",
       "label": "编码",
       "timeline_ok": true
     },
     {
-      "anchor_gens": 3,
-      "anchor_span_days": 105,
+      "anchor_gens": 5,
+      "anchor_span_days": 159,
       "key": "science",
       "label": "科学推理",
       "timeline_ok": true
     },
     {
-      "anchor_gens": 3,
-      "anchor_span_days": 105,
+      "anchor_gens": 4,
+      "anchor_span_days": 117,
       "key": "general",
       "label": "通用长文档",
       "timeline_ok": false
@@ -43,8 +43,8 @@
       "timeline_ok": true
     },
     {
-      "anchor_gens": 3,
-      "anchor_span_days": 84,
+      "anchor_gens": 5,
+      "anchor_span_days": 138,
       "key": "analysis",
       "label": "数据分析",
       "timeline_ok": false
@@ -78,7 +78,7 @@
           "status": "no_timeline"
         },
         "coding": {
-          "anchor_gens": 4,
+          "anchor_gens": 5,
           "beyond_pool": false,
           "gap_days": 0,
           "score": 63.2,
@@ -106,7 +106,7 @@
           "status": "no_timeline"
         },
         "science": {
-          "anchor_gens": 3,
+          "anchor_gens": 5,
           "beyond_pool": false,
           "gap_days": 0,
           "score": 46.5,
@@ -134,7 +134,7 @@
           "status": "no_timeline"
         },
         "coding": {
-          "anchor_gens": 4,
+          "anchor_gens": 5,
           "beyond_pool": false,
           "gap_days": 23,
           "score": 57.8,
@@ -144,7 +144,7 @@
           "anchor_gens": null,
           "beyond_pool": false,
           "gap_days": null,
-          "score": 45.8,
+          "score": 45.5,
           "status": "no_timeline"
         },
         "hallucination": {
@@ -162,7 +162,7 @@
           "status": "no_timeline"
         },
         "science": {
-          "anchor_gens": 3,
+          "anchor_gens": 5,
           "beyond_pool": false,
           "gap_days": 71,
           "score": 43.2,
@@ -190,9 +190,9 @@
           "status": "no_timeline"
         },
         "coding": {
-          "anchor_gens": 4,
+          "anchor_gens": 5,
           "beyond_pool": false,
-          "gap_days": 575,
+          "gap_days": 114,
           "score": 41.6,
           "status": "measured"
         },
@@ -200,7 +200,7 @@
           "anchor_gens": null,
           "beyond_pool": false,
           "gap_days": null,
-          "score": 36,
+          "score": 35.5,
           "status": "no_timeline"
         },
         "hallucination": {
@@ -218,9 +218,9 @@
           "status": "no_timeline"
         },
         "science": {
-          "anchor_gens": 3,
-          "beyond_pool": true,
-          "gap_days": 439,
+          "anchor_gens": 5,
+          "beyond_pool": false,
+          "gap_days": 141,
           "score": 30.4,
           "status": "measured"
         }
@@ -242,11 +242,11 @@
           "anchor_gens": null,
           "beyond_pool": false,
           "gap_days": null,
-          "score": null,
-          "status": "unmeasured"
+          "score": 38.8,
+          "status": "no_timeline"
         },
         "coding": {
-          "anchor_gens": 4,
+          "anchor_gens": 5,
           "beyond_pool": false,
           "gap_days": -2,
           "score": 64,
@@ -274,9 +274,9 @@
           "status": "no_timeline"
         },
         "science": {
-          "anchor_gens": 3,
+          "anchor_gens": 5,
           "beyond_pool": false,
-          "gap_days": 206,
+          "gap_days": 111,
           "score": 38.5,
           "status": "measured"
         }
@@ -302,9 +302,9 @@
           "status": "no_timeline"
         },
         "coding": {
-          "anchor_gens": 4,
+          "anchor_gens": 5,
           "beyond_pool": false,
-          "gap_days": 162,
+          "gap_days": 107,
           "score": 50.5,
           "status": "measured"
         },
@@ -330,9 +330,9 @@
           "status": "no_timeline"
         },
         "science": {
-          "anchor_gens": 3,
-          "beyond_pool": true,
-          "gap_days": 431,
+          "anchor_gens": 5,
+          "beyond_pool": false,
+          "gap_days": 140,
           "score": 30.7,
           "status": "measured"
         }
@@ -358,7 +358,7 @@
           "status": "no_timeline"
         },
         "coding": {
-          "anchor_gens": 4,
+          "anchor_gens": 5,
           "beyond_pool": false,
           "gap_days": 16,
           "score": 59.4,
@@ -386,7 +386,7 @@
           "status": "no_timeline"
         },
         "science": {
-          "anchor_gens": 3,
+          "anchor_gens": 5,
           "beyond_pool": false,
           "gap_days": 103,
           "score": 42.1,
@@ -414,7 +414,7 @@
           "status": "unmeasured"
         },
         "coding": {
-          "anchor_gens": 4,
+          "anchor_gens": 5,
           "beyond_pool": false,
           "gap_days": 14,
           "score": 59.8,
@@ -442,7 +442,7 @@
           "status": "no_timeline"
         },
         "science": {
-          "anchor_gens": 3,
+          "anchor_gens": 5,
           "beyond_pool": false,
           "gap_days": 70,
           "score": 43.2,
@@ -470,9 +470,9 @@
           "status": "unmeasured"
         },
         "coding": {
-          "anchor_gens": 4,
+          "anchor_gens": 5,
           "beyond_pool": false,
-          "gap_days": 422,
+          "gap_days": 112,
           "score": 44.9,
           "status": "measured"
         },
@@ -498,9 +498,9 @@
           "status": "no_timeline"
         },
         "science": {
-          "anchor_gens": 3,
-          "beyond_pool": true,
-          "gap_days": 346,
+          "anchor_gens": 5,
+          "beyond_pool": false,
+          "gap_days": 124,
           "score": 33.7,
           "status": "measured"
         }
@@ -526,9 +526,9 @@
           "status": "unmeasured"
         },
         "coding": {
-          "anchor_gens": 4,
-          "beyond_pool": true,
-          "gap_days": 669,
+          "anchor_gens": 5,
+          "beyond_pool": false,
+          "gap_days": 116,
           "score": 39.6,
           "status": "measured"
         },
@@ -554,9 +554,9 @@
           "status": "no_timeline"
         },
         "science": {
-          "anchor_gens": 3,
-          "beyond_pool": true,
-          "gap_days": 304,
+          "anchor_gens": 5,
+          "beyond_pool": false,
+          "gap_days": 117,
           "score": 35.1,
           "status": "measured"
         }
@@ -582,9 +582,9 @@
           "status": "no_timeline"
         },
         "coding": {
-          "anchor_gens": 4,
+          "anchor_gens": 5,
           "beyond_pool": false,
-          "gap_days": 394,
+          "gap_days": 111,
           "score": 45.5,
           "status": "measured"
         },
@@ -610,9 +610,9 @@
           "status": "no_timeline"
         },
         "science": {
-          "anchor_gens": 3,
-          "beyond_pool": true,
-          "gap_days": 440,
+          "anchor_gens": 5,
+          "beyond_pool": false,
+          "gap_days": 142,
           "score": 30.4,
           "status": "measured"
         }
@@ -638,9 +638,9 @@
           "status": "no_timeline"
         },
         "coding": {
-          "anchor_gens": 4,
+          "anchor_gens": 5,
           "beyond_pool": false,
-          "gap_days": 283,
+          "gap_days": 109,
           "score": 47.9,
           "status": "measured"
         },
@@ -666,9 +666,9 @@
           "status": "no_timeline"
         },
         "science": {
-          "anchor_gens": 3,
+          "anchor_gens": 5,
           "beyond_pool": false,
-          "gap_days": 222,
+          "gap_days": 112,
           "score": 38,
           "status": "measured"
         }
