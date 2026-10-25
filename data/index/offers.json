@@ -2397,7 +2397,7 @@
     "baseline": null,
     "claimUrl": "https://opencode.ai/v2/docs/console/go/",
     "sourceId": "opencode-go",
-    "restrictions": "5 小时为对应月额度的 20%，每周为 50%；仅单成员工作空间，订阅后不能邀请成员。 按官方 Go Plus 模型表展示月度用量等值；不同模型额度不能相加。可接入符合官方规则的编程 Agent。 Gemini 4 Argon Contributor 月用量等值限时翻倍（$120 → $240），结束日期未说明。输入与输出可能用于训练 Google 后续模型，非零数据留存（Not ZDR）。 Step 5 Preview 月用量等值现为$60，原限时4倍展示已移除；新增付费MiniMax M3.1 Flash月用量等值$80。 Kimi K3.1 Pro月用量等值为$60。 DeepSeek需在隐私设置允许Global区域；涉及训练的Contributor付费端点需开启允许训练请求数据的选项。",
+    "restrictions": "5 小时为对应月额度的 20%，每周为 50%；仅单成员工作空间，订阅后不能邀请成员。 按官方模型表展示月用量等值，不同模型额度不可相加。Gemini 4 Argon月额度为$120；50%价格折扣适用至2026年11月30日，输入/输出/缓存读取每百万tokens分别从$4/$20/$0.20降至$2/$10/$0.10。普通Argon替换Contributor，官方表列不用于训练、留存0天。Step 5 Preview与MiniMax M3.1 Flash额度见模型列表；Kimi K3.1 Pro额度保持。DeepSeek需允许Global区域；Muse Contributor端点需允许使用请求数据训练。",
     "facts": [
       {
         "quote": "Go Plus $40/month Higher usage limits across the models below",
@@ -2435,22 +2435,7 @@
         "snapshot": "snapshots/opencode-go/2026-10-16-0008-233d74c8.json"
       },
       {
-        "quote": "Gemini 4 Argon Contributor $4.00 $20.00 $0.20 - $120 $240",
-        "url": "https://opencode.ai/v2/docs/console/go/",
-        "snapshot": "snapshots/opencode-go/2026-10-16-0008-233d74c8.json"
-      },
-      {
         "quote": "2x · Limited time",
-        "url": "https://opencode.ai/v2/docs/console/go/",
-        "snapshot": "snapshots/opencode-go/2026-10-16-0008-233d74c8.json"
-      },
-      {
-        "quote": "Gemini 4 Argon Contributor Yes Not ZDR",
-        "url": "https://opencode.ai/v2/docs/console/go/",
-        "snapshot": "snapshots/opencode-go/2026-10-16-0008-233d74c8.json"
-      },
-      {
-        "quote": "Gemini 4 Argon Contributor: Your prompts and completions may be used to train future Google models.",
         "url": "https://opencode.ai/v2/docs/console/go/",
         "snapshot": "snapshots/opencode-go/2026-10-16-0008-233d74c8.json"
       },
@@ -2470,9 +2455,24 @@
         "snapshot": "snapshots/opencode-go/2026-10-24-0022-e5cf5086.json"
       },
       {
-        "quote": "Enable restricted models\nWorkspace privacy settings apply to Go. By default, paid endpoints that train on request data are blocked, and\nallowed regions are Europe & United States . Workspaces without saved privacy settings also allow Global\nfor requests from China.\nIn Settings › Privacy , an owner or admin can enable:\nDeepSeek V4.1 Flash and V4 Pro: select Global under Regions .\nGemini 4 Argon Contributor, Muse Spark 1.3 Contributor, and Muse Spark 1.2 Contributor: turn on Allow paid endpoints that train on request data .\nSee Privacy for each model’s training and retention terms.",
+        "quote": "Gemini 4 Argon (50% off) $4.00 $2.00 $20.00 $10.00 $0.20 $0.10 - $120",
         "url": "https://opencode.ai/v2/docs/console/go/",
-        "snapshot": "snapshots/opencode-go/2026-10-24-0022-e5cf5086.json"
+        "snapshot": "snapshots/opencode-go/2026-10-25-0046-205e5d55.json"
+      },
+      {
+        "quote": "Gemini 4 Argon: The 50% discount applies through November 30, 2026.",
+        "url": "https://opencode.ai/v2/docs/console/go/",
+        "snapshot": "snapshots/opencode-go/2026-10-25-0046-205e5d55.json"
+      },
+      {
+        "quote": "Gemini 4 Argon Not used 0 days",
+        "url": "https://opencode.ai/v2/docs/console/go/",
+        "snapshot": "snapshots/opencode-go/2026-10-25-0046-205e5d55.json"
+      },
+      {
+        "quote": "Enable restricted models\nWorkspace privacy settings apply to Go. By default, paid endpoints that train on request data are blocked, and\nallowed regions are Europe & United States . Workspaces without saved privacy settings also allow Global\nfor requests from China.\nIn Settings › Privacy , an owner or admin can enable:\nDeepSeek V4.1 Flash and V4 Pro: select Global under Regions .\nMuse Spark 1.3 Contributor and Muse Spark 1.2 Contributor: turn on Allow paid endpoints that train on request data .\nSee Privacy for each model’s training and retention terms.",
+        "url": "https://opencode.ai/v2/docs/console/go/",
+        "snapshot": "snapshots/opencode-go/2026-10-25-0046-205e5d55.json"
       }
     ],
     "supersedes": null,
@@ -2512,20 +2512,12 @@
           "fact": 3
         },
         {
-          "model": "Gemini 4 Argon Contributor",
-          "value": 240,
-          "currency": "USD",
-          "period": "month",
-          "text": "$240",
-          "fact": 7
-        },
-        {
           "model": "Step 5 Preview",
           "value": 60,
           "currency": "USD",
           "period": "month",
           "text": "$60",
-          "fact": 11
+          "fact": 8
         },
         {
           "model": "MiniMax M3.1 Flash",
@@ -2533,7 +2525,7 @@
           "currency": "USD",
           "period": "month",
           "text": "$80",
-          "fact": 12
+          "fact": 9
         },
         {
           "model": "Kimi K3.1 Pro",
@@ -2541,7 +2533,15 @@
           "currency": "USD",
           "period": "month",
           "text": "$60",
-          "fact": 13
+          "fact": 10
+        },
+        {
+          "model": "Gemini 4 Argon",
+          "value": 120,
+          "currency": "USD",
+          "period": "month",
+          "text": "$120",
+          "fact": 11
         }
       ],
       "limits": {
@@ -2549,8 +2549,8 @@
         "en": "5-hour allowance: 20% of the model monthly limit; weekly: 50%. Only single-member workspaces; Go workspaces cannot invite members."
       },
       "notes": {
-        "zh": "按官方 Go Plus 模型表展示月度用量等值；不同模型额度不能相加。可接入符合官方规则的编程 Agent。 Gemini 4 Argon Contributor 月用量等值限时翻倍（$120 → $240），结束日期未说明。输入与输出可能用于训练 Google 后续模型，非零数据留存（Not ZDR）。 Step 5 Preview 月用量等值现为$60，原限时4倍展示已移除；新增付费MiniMax M3.1 Flash月用量等值$80。 Kimi K3.1 Pro月用量等值为$60。 DeepSeek需在隐私设置允许Global区域；涉及训练的Contributor付费端点需开启允许训练请求数据的选项。",
-        "en": "Monthly usage equivalents follow the official Go Plus model table. Model allowances must not be added. Coding agents must follow the official client rules. Gemini 4 Argon Contributor has a limited-time 2x monthly usage equivalent ($120 to $240); no end date is stated. Prompts and completions may train future Google models; Not ZDR. Step 5 Preview now has $60 monthly usage equivalent; the limited-time 4x label is removed. Paid MiniMax M3.1 Flash provides $80 monthly usage equivalent. Kimi K3.1 Pro provides $60 monthly usage equivalent. DeepSeek requires Global in privacy regions; training Contributor endpoints require allowing paid endpoints that train on request data."
+        "zh": "按官方模型表展示月用量等值，不同模型额度不可相加。Gemini 4 Argon月额度为$120；50%价格折扣适用至2026年11月30日，输入/输出/缓存读取每百万tokens分别从$4/$20/$0.20降至$2/$10/$0.10。普通Argon替换Contributor，官方表列不用于训练、留存0天。Step 5 Preview与MiniMax M3.1 Flash额度见模型列表；Kimi K3.1 Pro额度保持。DeepSeek需允许Global区域；Muse Contributor端点需允许使用请求数据训练。",
+        "en": "Model monthly usage equivalents are not additive. Gemini 4 Argon has a $120 monthly allowance; its 50% pricing discount applies through November 30, 2026. Input/output/cached-read prices per million tokens fall from $4/$20/$0.20 to $2/$10/$0.10. Standard Argon replaces Contributor: not used for training, 0-day retention. Other listed model allowances remain. DeepSeek requires Global regions; Muse Contributor endpoints require permitting training on request data."
       }
     },
     "quantity": null
@@ -3553,22 +3553,7 @@
         "snapshot": "snapshots/opencode-go/2026-10-16-0008-233d74c8.json"
       },
       {
-        "quote": "Gemini 4 Argon Contributor $4.00 $20.00 $0.20 - $30 $60",
-        "url": "https://opencode.ai/v2/docs/console/go/",
-        "snapshot": "snapshots/opencode-go/2026-10-16-0008-233d74c8.json"
-      },
-      {
         "quote": "2x · Limited time",
-        "url": "https://opencode.ai/v2/docs/console/go/",
-        "snapshot": "snapshots/opencode-go/2026-10-16-0008-233d74c8.json"
-      },
-      {
-        "quote": "Gemini 4 Argon Contributor Yes Not ZDR",
-        "url": "https://opencode.ai/v2/docs/console/go/",
-        "snapshot": "snapshots/opencode-go/2026-10-16-0008-233d74c8.json"
-      },
-      {
-        "quote": "Gemini 4 Argon Contributor: Your prompts and completions may be used to train future Google models.",
         "url": "https://opencode.ai/v2/docs/console/go/",
         "snapshot": "snapshots/opencode-go/2026-10-16-0008-233d74c8.json"
       },
@@ -3588,9 +3573,24 @@
         "snapshot": "snapshots/opencode-go/2026-10-24-0022-e5cf5086.json"
       },
       {
-        "quote": "Enable restricted models\nWorkspace privacy settings apply to Go. By default, paid endpoints that train on request data are blocked, and\nallowed regions are Europe & United States . Workspaces without saved privacy settings also allow Global\nfor requests from China.\nIn Settings › Privacy , an owner or admin can enable:\nDeepSeek V4.1 Flash and V4 Pro: select Global under Regions .\nGemini 4 Argon Contributor, Muse Spark 1.3 Contributor, and Muse Spark 1.2 Contributor: turn on Allow paid endpoints that train on request data .\nSee Privacy for each model’s training and retention terms.",
+        "quote": "Gemini 4 Argon (50% off) $4.00 $2.00 $20.00 $10.00 $0.20 $0.10 - $30",
         "url": "https://opencode.ai/v2/docs/console/go/",
-        "snapshot": "snapshots/opencode-go/2026-10-24-0022-e5cf5086.json"
+        "snapshot": "snapshots/opencode-go/2026-10-25-0046-205e5d55.json"
+      },
+      {
+        "quote": "Gemini 4 Argon: The 50% discount applies through November 30, 2026.",
+        "url": "https://opencode.ai/v2/docs/console/go/",
+        "snapshot": "snapshots/opencode-go/2026-10-25-0046-205e5d55.json"
+      },
+      {
+        "quote": "Gemini 4 Argon Not used 0 days",
+        "url": "https://opencode.ai/v2/docs/console/go/",
+        "snapshot": "snapshots/opencode-go/2026-10-25-0046-205e5d55.json"
+      },
+      {
+        "quote": "Enable restricted models\nWorkspace privacy settings apply to Go. By default, paid endpoints that train on request data are blocked, and\nallowed regions are Europe & United States . Workspaces without saved privacy settings also allow Global\nfor requests from China.\nIn Settings › Privacy , an owner or admin can enable:\nDeepSeek V4.1 Flash and V4 Pro: select Global under Regions .\nMuse Spark 1.3 Contributor and Muse Spark 1.2 Contributor: turn on Allow paid endpoints that train on request data .\nSee Privacy for each model’s training and retention terms.",
+        "url": "https://opencode.ai/v2/docs/console/go/",
+        "snapshot": "snapshots/opencode-go/2026-10-25-0046-205e5d55.json"
       }
     ],
     "supersedes": null,
@@ -3628,20 +3628,12 @@
           "fact": 3
         },
         {
-          "model": "Gemini 4 Argon Contributor",
-          "value": 60,
-          "currency": "USD",
-          "period": "month",
-          "text": "$60",
-          "fact": 7
-        },
-        {
           "model": "Step 5 Preview",
           "value": 15,
           "currency": "USD",
           "period": "month",
           "text": "$15",
-          "fact": 11
+          "fact": 8
         },
         {
           "model": "MiniMax M3.1 Flash",
@@ -3649,7 +3641,7 @@
           "currency": "USD",
           "period": "month",
           "text": "$20",
-          "fact": 12
+          "fact": 9
         },
         {
           "model": "Kimi K3.1 Pro",
@@ -3657,7 +3649,15 @@
           "currency": "USD",
           "period": "month",
           "text": "$15",
-          "fact": 13
+          "fact": 10
+        },
+        {
+          "model": "Gemini 4 Argon",
+          "value": 30,
+          "currency": "USD",
+          "period": "month",
+          "text": "$30",
+          "fact": 11
         }
       ],
       "limits": {
@@ -3665,11 +3665,11 @@
         "en": "5-hour allowance: 20% of the model monthly limit; weekly: 50%. Only single-member workspaces; Go workspaces cannot invite members."
       },
       "notes": {
-        "zh": "按官方 Go 模型表展示月度用量等值；不同模型额度不能相加。可接入符合官方规则的编程 Agent。 Gemini 4 Argon Contributor 月用量等值限时翻倍（$30 → $60），结束日期未说明。输入与输出可能用于训练 Google 后续模型，非零数据留存（Not ZDR）。 Step 5 Preview 月用量等值现为$15，原限时4倍展示已移除；新增付费MiniMax M3.1 Flash月用量等值$20。 Kimi K3.1 Pro月用量等值为$15。 DeepSeek需在隐私设置允许Global区域；涉及训练的Contributor付费端点需开启允许训练请求数据的选项。",
-        "en": "Monthly usage equivalents follow the official Go model table. Model allowances must not be added. Coding agents must follow the official client rules. Gemini 4 Argon Contributor has a limited-time 2x monthly usage equivalent ($30 to $60); no end date is stated. Prompts and completions may train future Google models; Not ZDR. Step 5 Preview now has $15 monthly usage equivalent; the limited-time 4x label is removed. Paid MiniMax M3.1 Flash provides $20 monthly usage equivalent. Kimi K3.1 Pro provides $15 monthly usage equivalent. DeepSeek requires Global in privacy regions; training Contributor endpoints require allowing paid endpoints that train on request data."
+        "zh": "按官方模型表展示月用量等值，不同模型额度不可相加。Gemini 4 Argon月额度为$30；50%价格折扣适用至2026年11月30日，输入/输出/缓存读取每百万tokens分别从$4/$20/$0.20降至$2/$10/$0.10。普通Argon替换Contributor，官方表列不用于训练、留存0天。Step 5 Preview与MiniMax M3.1 Flash额度见模型列表；Kimi K3.1 Pro额度保持。DeepSeek需允许Global区域；Muse Contributor端点需允许使用请求数据训练。",
+        "en": "Model monthly usage equivalents are not additive. Gemini 4 Argon has a $30 monthly allowance; its 50% pricing discount applies through November 30, 2026. Input/output/cached-read prices per million tokens fall from $4/$20/$0.20 to $2/$10/$0.10. Standard Argon replaces Contributor: not used for training, 0-day retention. Other listed model allowances remain. DeepSeek requires Global regions; Muse Contributor endpoints require permitting training on request data."
       }
     },
-    "restrictions": "5 小时为对应月额度的 20%，每周为 50%；仅单成员工作空间，订阅后不能邀请成员。 按官方 Go 模型表展示月度用量等值；不同模型额度不能相加。可接入符合官方规则的编程 Agent。 Gemini 4 Argon Contributor 月用量等值限时翻倍（$30 → $60），结束日期未说明。输入与输出可能用于训练 Google 后续模型，非零数据留存（Not ZDR）。 Step 5 Preview 月用量等值现为$15，原限时4倍展示已移除；新增付费MiniMax M3.1 Flash月用量等值$20。 Kimi K3.1 Pro月用量等值为$15。 DeepSeek需在隐私设置允许Global区域；涉及训练的Contributor付费端点需开启允许训练请求数据的选项。",
+    "restrictions": "5 小时为对应月额度的 20%，每周为 50%；仅单成员工作空间，订阅后不能邀请成员。 按官方模型表展示月用量等值，不同模型额度不可相加。Gemini 4 Argon月额度为$30；50%价格折扣适用至2026年11月30日，输入/输出/缓存读取每百万tokens分别从$4/$20/$0.20降至$2/$10/$0.10。普通Argon替换Contributor，官方表列不用于训练、留存0天。Step 5 Preview与MiniMax M3.1 Flash额度见模型列表；Kimi K3.1 Pro额度保持。DeepSeek需允许Global区域；Muse Contributor端点需允许使用请求数据训练。",
     "quantity": null
   },
   {
