@@ -1,0 +1,9 @@
+{
+  "id": "qoder-events-deepseek-flash-free",
+  "vendor": "qoder",
+  "url": "https://docs.qoder.com/events/deepseek-flash-free.md",
+  "allowedHosts": [
+    "docs.qoder.com",
+    "qoder.com"
+  ]
+}

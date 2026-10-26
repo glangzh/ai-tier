@@ -256,6 +256,71 @@
   },
   {
     "schemaVersion": 0,
+    "offerKey": "fa880785ca280c74",
+    "occurredAt": "2026-10-20",
+    "publishedAt": "2026-10-26T12:36:52.018830+00:00",
+    "verification": "auto_verified",
+    "category": "creditsPromotion",
+    "promotionType": "free",
+    "appliesTo": [
+      "model"
+    ],
+    "vendor": "qoder",
+    "entity": "deepseek-v4.1-flash-1017",
+    "amount": "daily free allowance for DeepSeek-Flash for a limited time",
+    "eligibility": "All new and existing individual users of Qoder International",
+    "baseline": "0.1×",
+    "howToClaim": "auto",
+    "startsAt": "2026-10-19T16:00:00Z",
+    "startsAtText": "October 20, 2026 at 00:00",
+    "expiresAt": "2026-10-31T16:00:00Z",
+    "expiresAtText": "October 31 at 24:00 (November 1 at 00:00)",
+    "region": null,
+    "supersedes": null,
+    "claimUrl": "https://docs.qoder.com/events/deepseek-flash-free.md",
+    "sourceId": "qoder-events-deepseek-flash-free",
+    "restrictions": "Qoder国际版个人账号每日免费额度内DeepSeek-V4.1-Flash-1017按0.0×计费，免费账号和零余额也可用；团队和企业不适用。付费账号每日免费次数更多，但具体次数未公布。额度耗尽可按原0.1×消耗Credits或次日再用；最高推理强度也适用。原10月24日截止已延长至10月31日24:00（UTC+8）。",
+    "facts": [
+      {
+        "quote": "Starting October 20, 2026 at 00:00, Qoder International provides all new and existing individual users with a **daily free allowance for DeepSeek-Flash for a limited time**. Within this allowance, calls to the model consume no Credits, with the Credit rate reduced from **0.1× to 0.0×**. No claim is required: simply select the model to use it. **Free accounts and accounts with a zero Credits balance are also eligible.**",
+        "url": "https://docs.qoder.com/events/deepseek-flash-free.md",
+        "snapshot": "snapshots/qoder-events-deepseek-flash-free/2026-10-26-1234-4de1bc75.json"
+      },
+      {
+        "quote": "- **Promotion period**: October 20, 2026 at 00:00 through October 31 at 24:00 (November 1 at 00:00). The original end time of October 24 at 24:00 has been extended.",
+        "url": "https://docs.qoder.com/events/deepseek-flash-free.md",
+        "snapshot": "snapshots/qoder-events-deepseek-flash-free/2026-10-26-1234-4de1bc75.json"
+      },
+      {
+        "quote": "- **Eligibility**: All new and existing individual users of Qoder International, including users on Free, Pro Trial, Lite, Pro, Pro+, and Ultra plans. **Teams and Enterprise subscribers are not eligible.**",
+        "url": "https://docs.qoder.com/events/deepseek-flash-free.md",
+        "snapshot": "snapshots/qoder-events-deepseek-flash-free/2026-10-26-1234-4de1bc75.json"
+      },
+      {
+        "quote": "- **Offer**: A free allowance is provided each day during the promotion. Within this allowance, the model's Credit rate is reduced from 0.1× to 0.0×, and calls consume no Credits. This also applies when reasoning effort is set to the maximum level.",
+        "url": "https://docs.qoder.com/events/deepseek-flash-free.md",
+        "snapshot": "snapshots/qoder-events-deepseek-flash-free/2026-10-26-1234-4de1bc75.json"
+      },
+      {
+        "quote": "- **Daily free allowance**: Each account receives a certain number of free uses per day. Paid subscribers receive more free uses than free users. Once the daily allowance is exhausted, free usage becomes available again the next day.",
+        "url": "https://docs.qoder.com/events/deepseek-flash-free.md",
+        "snapshot": "snapshots/qoder-events-deepseek-flash-free/2026-10-26-1234-4de1bc75.json"
+      },
+      {
+        "quote": "- **After the allowance is exhausted**: You can continue using the model with Credits at its original Credit rate, or switch to another model.",
+        "url": "https://docs.qoder.com/events/deepseek-flash-free.md",
+        "snapshot": "snapshots/qoder-events-deepseek-flash-free/2026-10-26-1234-4de1bc75.json"
+      },
+      {
+        "quote": "- **Activation**: The offer applies automatically, with no claim required. You can use the model within the allowance even with a zero Credits balance.",
+        "url": "https://docs.qoder.com/events/deepseek-flash-free.md",
+        "snapshot": "snapshots/qoder-events-deepseek-flash-free/2026-10-26-1234-4de1bc75.json"
+      }
+    ],
+    "quantity": null
+  },
+  {
+    "schemaVersion": 0,
     "occurredAt": "2026-09-18",
     "publishedAt": "2026-09-18T17:38:00Z",
     "verification": "auto_verified",
@@ -1330,39 +1395,39 @@
     ],
     "vendor": "trae",
     "entity": "traecode",
-    "amount": "新用户一次性获得 5,000 积分",
+    "amount": "新用户一次性获得 3,000 积分",
     "eligibility": "仅限从未注册过 TRAE 的新用户",
     "howToClaim": "signup",
     "validityText": "自发放日起 31 天有效，过期后未使用积分将自动清零",
-    "restrictions": "通过邀请链接注册并登录 TRAE 桌面端；同一台设备只能被邀请一次；积分自发放日起 31 天有效。",
+    "restrictions": "通过邀请链接注册并登录TRAE桌面端；同一设备只能被邀请一次；积分发放后31天有效。分享文案列新用户3,000积分，页面另列邀请双方各500积分，两处口径不同，不相加推算，实际发放以活动页面为准。",
     "claimUrl": "https://www.trae.cn/events/code-fission",
     "sourceId": "trae-code-fission",
     "facts": [
       {
-        "quote": "我在用 TRAE AI 编程工具，搞定各类任务，通过我的分享链接注册并登录桌面端，新用户一次性获得 5,000 积分！",
+        "quote": "我在用 TRAE AI 编程工具，搞定各类任务，通过我的分享链接注册并登录桌面端，新用户一次性获得 3,000 积分！",
         "url": "https://www.trae.cn/events/code-fission",
-        "snapshot": "snapshots/trae-code-fission/2026-10-10-1136-540f5d35.json"
+        "snapshot": "snapshots/trae-code-fission/2026-10-26-1205-d0409f83.json"
       },
       {
         "quote": "A： 仅限从未注册过 TRAE 的新用户，同一台设备只能被邀请一次。",
         "url": "https://www.trae.cn/events/code-fission",
-        "snapshot": "snapshots/trae-code-fission/2026-10-10-1136-540f5d35.json"
+        "snapshot": "snapshots/trae-code-fission/2026-10-26-1205-d0409f83.json"
       },
       {
-        "quote": "Q： 详细活动规则在哪里查看？",
+        "quote": "A： 自发放日起 31 天有效，过期后未使用积分将自动清零。",
         "url": "https://www.trae.cn/events/code-fission",
-        "snapshot": "snapshots/trae-code-fission/2026-10-10-1136-540f5d35.json"
+        "snapshot": "snapshots/trae-code-fission/2026-10-26-1205-d0409f83.json"
       },
       {
-        "quote": "A： 请查看 详细活动规则 。",
+        "quote": "新用户登录 TRAE 桌面端，双方各得 500 积分；邀满 3 人 / 5 人再加赠 500 积分，5 人封顶",
         "url": "https://www.trae.cn/events/code-fission",
-        "snapshot": "snapshots/trae-code-fission/2026-10-10-1136-540f5d35.json"
+        "snapshot": "snapshots/trae-code-fission/2026-10-26-1205-d0409f83.json"
       }
     ],
     "quantity": {
-      "value": 5000,
+      "value": 3000,
       "unit": "points",
-      "raw": "新用户一次性获得 5,000 积分"
+      "raw": "新用户一次性获得 3,000 积分"
     }
   },
   {
@@ -1813,54 +1878,6 @@
       }
     ],
     "supersedes": null,
-    "quantity": null
-  },
-  {
-    "schemaVersion": 0,
-    "offerKey": "a88c8b2627202077",
-    "occurredAt": "2026-09-27",
-    "publishedAt": "2026-09-27T13:55:36.542Z",
-    "verification": "auto_verified",
-    "category": "creditsPromotion",
-    "region": null,
-    "startsAt": null,
-    "startsAtText": null,
-    "expiresAt": null,
-    "expiresAtText": null,
-    "validityText": null,
-    "supersedes": null,
-    "promotionType": "free",
-    "appliesTo": [
-      "model",
-      "subscription"
-    ],
-    "planKind": "codingPlan",
-    "vendor": "opencode",
-    "entity": "longcat-2.5-preview-free",
-    "amount": "LongCat 2.5 Preview Free: Free for a limited time.",
-    "eligibility": "limited time",
-    "baseline": null,
-    "howToClaim": "unknown",
-    "restrictions": "官方标注限时免费，模型价格表显示 Free、月限制 Unlimited；未说明结束日期。",
-    "claimUrl": "https://opencode.ai/v2/docs/console/go/",
-    "sourceId": "opencode-go",
-    "facts": [
-      {
-        "quote": "LongCat 2.5 Preview Free: Free for a limited time.",
-        "url": "https://opencode.ai/v2/docs/console/go/",
-        "snapshot": "snapshots/opencode-go/2026-10-13-0432-c9faae56.json"
-      },
-      {
-        "quote": "LongCat 2.5 Preview Free Free Free Free - Unlimited",
-        "url": "https://opencode.ai/v2/docs/console/go/",
-        "snapshot": "snapshots/opencode-go/2026-10-13-0432-c9faae56.json"
-      },
-      {
-        "quote": "LongCat 2.5 Preview Free Unlimited Unlimited Unlimited",
-        "url": "https://opencode.ai/v2/docs/console/go/",
-        "snapshot": "snapshots/opencode-go/2026-10-13-0432-c9faae56.json"
-      }
-    ],
     "quantity": null
   },
   {

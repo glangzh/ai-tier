@@ -619,6 +619,63 @@
   },
   {
     "schemaVersion": 0,
+    "offerKey": "a88c8b2627202077",
+    "occurredAt": "2026-09-27",
+    "publishedAt": "2026-09-27T13:55:36.542Z",
+    "verification": "auto_verified",
+    "category": "creditsPromotion",
+    "region": null,
+    "startsAt": null,
+    "startsAtText": null,
+    "expiresAt": null,
+    "expiresAtText": null,
+    "validityText": null,
+    "supersedes": null,
+    "promotionType": "free",
+    "appliesTo": [
+      "model",
+      "subscription"
+    ],
+    "planKind": "codingPlan",
+    "vendor": "opencode",
+    "entity": "longcat-2.5-preview-free",
+    "amount": "LongCat 2.5 Preview Free: 限时免费。",
+    "eligibility": "限时",
+    "baseline": null,
+    "howToClaim": "unknown",
+    "restrictions": "OpenCode Go 套餐模型列表中标注为「LongCat 2.5 Preview Free (限时)」；价格表内该模型输入/输出/缓存读写均列为 Free、每月限制列为无限制，请求数预估表为「无限制 无限制 无限制」；套餐标准规则是「每个模型都有以下使用限制：5 小时 — 每月限制的 20%；每周 — 50%；每月 — 100%」；页面只写「限时」，未给出具体开始与结束日期，也未说明领取方式与地区限制",
+    "claimUrl": "https://opencode.ai/docs/zh-cn/go/",
+    "sourceId": "opencode-go",
+    "facts": [
+      {
+        "quote": "LongCat 2.5 Preview Free (限时)",
+        "url": "https://opencode.ai/docs/zh-cn/go/",
+        "snapshot": "snapshots/opencode-go/2026-09-27-1355-2b4c101d.json"
+      },
+      {
+        "quote": "LongCat 2.5 Preview Free: 限时免费。",
+        "url": "https://opencode.ai/docs/zh-cn/go/",
+        "snapshot": "snapshots/opencode-go/2026-09-27-1355-2b4c101d.json"
+      },
+      {
+        "quote": "LongCat 2.5 Preview Free Free Free Free - 无限制",
+        "url": "https://opencode.ai/docs/zh-cn/go/",
+        "snapshot": "snapshots/opencode-go/2026-09-27-1355-2b4c101d.json"
+      },
+      {
+        "quote": "LongCat 2.5 Preview Free 无限制 无限制 无限制",
+        "url": "https://opencode.ai/docs/zh-cn/go/",
+        "snapshot": "snapshots/opencode-go/2026-09-27-1355-2b4c101d.json"
+      }
+    ],
+    "withdrawn": {
+      "reason": "项目连续3轮成功回源均已不再出现LongCat2.5免费预览原文；当前官方快照snapshots/opencode-go/2026-10-25-1202-def45bd3.json。仅下架该确认缺失条目。",
+      "at": "2026-10-26"
+    },
+    "quantity": null
+  },
+  {
+    "schemaVersion": 0,
     "occurredAt": "2026-09-18",
     "publishedAt": "2026-09-18T14:40:00Z",
     "verification": "auto_verified",
