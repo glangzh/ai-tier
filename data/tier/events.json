@@ -234,7 +234,7 @@
     "openai": {
       "availability_change": 1,
       "benchmark_upgrade": 2,
-      "model_release": 10,
+      "model_release": 16,
       "score_revision": 0
     },
     "spacexai": {
@@ -1179,10 +1179,70 @@
       "score": 55,
       "stage": "official",
       "type": "model_release"
+    },
+    {
+      "benchmark": "AAII v4.3.2",
+      "company_id": "openai",
+      "date": "2026-10-26",
+      "id": "openai:GPT-6.1 Terra (High):release",
+      "model": "GPT-6.1 Terra (High)",
+      "score": 44,
+      "stage": "official",
+      "type": "model_release"
+    },
+    {
+      "benchmark": "AAII v4.3.2",
+      "company_id": "openai",
+      "date": "2026-10-26",
+      "id": "openai:GPT-6.1 Terra (Low):release",
+      "model": "GPT-6.1 Terra (Low)",
+      "score": 36,
+      "stage": "official",
+      "type": "model_release"
+    },
+    {
+      "benchmark": "AAII v4.3.2",
+      "company_id": "openai",
+      "date": "2026-10-26",
+      "id": "openai:GPT-6.1 Terra (Max):release",
+      "model": "GPT-6.1 Terra (Max)",
+      "score": 48,
+      "stage": "official",
+      "type": "model_release"
+    },
+    {
+      "benchmark": "AAII v4.3.2",
+      "company_id": "openai",
+      "date": "2026-10-26",
+      "id": "openai:GPT-6.1 Terra (Medium):release",
+      "model": "GPT-6.1 Terra (Medium)",
+      "score": 41,
+      "stage": "official",
+      "type": "model_release"
+    },
+    {
+      "benchmark": "AAII v4.3.2",
+      "company_id": "openai",
+      "date": "2026-10-26",
+      "id": "openai:GPT-6.1 Terra (Non-reasoning):release",
+      "model": "GPT-6.1 Terra (Non-reasoning)",
+      "score": 33,
+      "stage": "official",
+      "type": "model_release"
+    },
+    {
+      "benchmark": "AAII v4.3.2",
+      "company_id": "openai",
+      "date": "2026-10-26",
+      "id": "openai:GPT-6.1 Terra (Xhigh):release",
+      "model": "GPT-6.1 Terra (Xhigh)",
+      "score": 45,
+      "stage": "official",
+      "type": "model_release"
     }
   ],
   "meta": {
-    "as_of": "2026-10-24",
+    "as_of": "2026-10-27",
     "benchmark": "AAII v4.3.2",
     "note": "事件流；benchmark_upgrade = 同一模型换了评测版本（口径变更，不是能力变化）"
   }

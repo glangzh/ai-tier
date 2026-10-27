@@ -2968,6 +2968,11 @@
         "quote": "GLM-5.3 Flash comes with bigger monthly credits, while capacity lasts.",
         "url": "https://commandcode.ai/docs/resources/pricing-limits",
         "snapshot": "snapshots/commandcode-pricing-limits/2026-10-18-0005-a2f603f2.json"
+      },
+      {
+        "quote": "Pro $20 Up to $110 of usage Up to $22 Up to $55",
+        "url": "https://commandcode.ai/docs/resources/pricing-limits",
+        "snapshot": "snapshots/commandcode-pricing-limits/2026-10-27-0005-9384aad0.json"
       }
     ],
     "supersedes": null,
@@ -3006,15 +3011,15 @@
         }
       ],
       "limits": {
-        "zh": "套餐另有滚动 5 小时及周窗口，具体额度以官方计划窗口为准。",
-        "en": "Rolling 5-hour and weekly plan windows also apply; consult official plan caps."
+        "zh": "5小时最多$22、每周最多$55、每月最多$110；各模型额度不能相加。",
+        "en": "Up to $22 per5 hours, $55 per week and $110 per month; model allowances cannot be added."
       },
       "notes": {
         "zh": "Ling 3.1 Flash 模型月用量等值 $110；选择该模型自动适用，单价不变，额外充值按常规费率另计。不是额外发放可累加余额；来源未说明结束时间。 DeepSeek V4.1 Flash 长期提升后的月用量等值为 $90，官方明确无结束日期；各模型用量不是可相加余额。 GLM-5.3 Flash 当前月用量等值为 $90，官方按模型 ID glm-5.3-flash 列示，提升优惠持续到容量用尽；单价不变，固定结束日期未说明。",
         "en": "Ling 3.1 Flash monthly usage equivalent is $110, applied automatically at unchanged per-token rates. Top-ups use regular rates. This is not an additional balance; no end date is stated. DeepSeek V4.1 Flash has a permanently boosted $90 monthly usage equivalent, with no end date. Model allowances must not be added. GLM-5.3 Flash, listed as glm-5.3-flash, has a $90 monthly usage equivalent while capacity lasts, at unchanged per-token rates. No fixed end date is stated."
       }
     },
-    "restrictions": "套餐另有滚动 5 小时及周窗口，具体额度以官方计划窗口为准。 Ling 3.1 Flash 模型月用量等值 $110；选择该模型自动适用，单价不变，额外充值按常规费率另计。不是额外发放可累加余额；来源未说明结束时间。 DeepSeek V4.1 Flash 长期提升后的月用量等值为 $90，官方明确无结束日期；各模型用量不是可相加余额。 GLM-5.3 Flash 当前月用量等值为 $90，官方按模型 ID glm-5.3-flash 列示，提升优惠持续到容量用尽；单价不变，固定结束日期未说明。",
+    "restrictions": "5小时最多$22、每周最多$55、每月最多$110；各模型额度不能相加。 Ling 3.1 Flash 模型月用量等值 $110；选择该模型自动适用，单价不变，额外充值按常规费率另计。不是额外发放可累加余额；来源未说明结束时间。 DeepSeek V4.1 Flash 长期提升后的月用量等值为 $90，官方明确无结束日期；各模型用量不是可相加余额。 GLM-5.3 Flash 当前月用量等值为 $90，官方按模型 ID glm-5.3-flash 列示，提升优惠持续到容量用尽；单价不变，固定结束日期未说明。",
     "quantity": null
   },
   {
@@ -3065,9 +3070,9 @@
         "snapshot": "snapshots/commandcode-goat/2026-10-18-0005-e585fbe7.json"
       },
       {
-        "quote": "5-hour limit - $14 of usage\nWeekly limit - $35 of usage\nMonthly limit - $70 of usage",
+        "quote": "5-hour limit - up to $20 of usage\nWeekly limit - up to $50 of usage\nMonthly limit - up to $100 of usage",
         "url": "https://commandcode.ai/docs/plans/goat",
-        "snapshot": "snapshots/commandcode-goat/2026-10-18-0005-e585fbe7.json"
+        "snapshot": "snapshots/commandcode-goat/2026-10-27-0005-079e157e.json"
       },
       {
         "quote": "The GOAT plan has API access. You call the Provider API endpoints with your Command Code API key, and usage is metered against your GOAT credits and the models included above.",
@@ -3085,9 +3090,9 @@
         "snapshot": "snapshots/commandcode-pricing-limits/2026-10-18-0005-a2f603f2.json"
       },
       {
-        "quote": "Your $10 buys $80 of credits - an 8x multiplier",
+        "quote": "Your $10 buys up to $100 of credits - up to a 10x multiplier",
         "url": "https://commandcode.ai/docs/plans/goat",
-        "snapshot": "snapshots/commandcode-goat/2026-10-18-0005-e585fbe7.json"
+        "snapshot": "snapshots/commandcode-goat/2026-10-27-0005-079e157e.json"
       },
       {
         "quote": "GLM-5.3 Flash $0.15 $0.50 $0.03 - $80",
@@ -3214,15 +3219,15 @@
         }
       ],
       "limits": {
-        "zh": "5 小时 $14、每周 $35、每月 $70 的窗口；实际可用量随模型计价不同。",
-        "en": "$14 per 5 hours, $35 per week, $70 per month; usable volume varies by model pricing."
+        "zh": "5小时最多$20、每周最多$50、每月最多$100；按模型折算，并非每个模型均提供$100。",
+        "en": "Up to $20 per5 hours, $50 per week and $100 per month; model-dependent usage equivalents, not $100 for every model."
       },
       "notes": {
-        "zh": "列出的是示例模型月用量，不是各模型独立余额；不可相加。CLI 与 API 使用套餐额度，额外购买的积分另计。 DeepSeek V4.1 Flash 三天 $100 活动已结束，现为长期提升后的 $80 月用量等值；官方明确无结束日期。 套餐宣传现标注 $10 对应 $80 credits；官方窗口仍列 $14/$35/$70，以窗口限制为准，不能将宣传额度替代窗口限制。 GLM-5.3 Flash 三天 $100 活动已结束，当前月用量等值为 $80，提升优惠持续到容量用尽，来源未给固定结束日期。 本轮官方表新增展示 Ling 3.1 Flash $100、GPT-5.6 Sol $20、Muse Spark Open $20 及 Nemotron 3.5 Super VL $20 月用量等值；各模型额度不可相加。 Kimi K3.1 Pro月用量等值为$20。",
-        "en": "These are example monthly usage equivalents, not separate balances per model. CLI and API use plan credits; purchased top-ups are separate. The three-day $100 DeepSeek V4.1 Flash deal has ended. Its permanently boosted monthly usage equivalent is now $80, with no end date. The plan now advertises $80 credits for $10, while its listed usage windows remain $14/$35/$70; the advertised credits do not replace window caps. The three-day $100 GLM-5.3 Flash deal has ended. Its current monthly usage equivalent is $80 while capacity lasts; no fixed end date is stated. Current rows show Ling 3.1 Flash $100, GPT-5.6 Sol $20, Muse Spark Open $20 and Nemotron 3.5 Super VL $20 monthly usage equivalents; do not add model allowances. Kimi K3.1 Pro provides $20 monthly usage equivalent."
+        "zh": "列出的是示例模型月用量，不是各模型独立余额；不可相加。CLI 与 API 使用套餐额度，额外购买的积分另计。 DeepSeek V4.1 Flash 三天 $100 活动已结束，现为长期提升后的 $80 月用量等值；官方明确无结束日期。 官方宣传与窗口现统一为最多$100，仍受各模型额度和滚动窗口限制。 GLM-5.3 Flash 三天 $100 活动已结束，当前月用量等值为 $80，提升优惠持续到容量用尽，来源未给固定结束日期。 本轮官方表新增展示 Ling 3.1 Flash $100、GPT-5.6 Sol $20、Muse Spark Open $20 及 Nemotron 3.5 Super VL $20 月用量等值；各模型额度不可相加。 Kimi K3.1 Pro月用量等值为$20。",
+        "en": "These are example monthly usage equivalents, not separate balances per model. CLI and API use plan credits; purchased top-ups are separate. The three-day $100 DeepSeek V4.1 Flash deal has ended. Its permanently boosted monthly usage equivalent is now $80, with no end date. The plan and its windows now advertise up to $100; per-model allowances and rolling window caps still apply. The three-day $100 GLM-5.3 Flash deal has ended. Its current monthly usage equivalent is $80 while capacity lasts; no fixed end date is stated. Current rows show Ling 3.1 Flash $100, GPT-5.6 Sol $20, Muse Spark Open $20 and Nemotron 3.5 Super VL $20 monthly usage equivalents; do not add model allowances. Kimi K3.1 Pro provides $20 monthly usage equivalent."
       }
     },
-    "restrictions": "5 小时 $14、每周 $35、每月 $70 的窗口；实际可用量随模型计价不同。 列出的是示例模型月用量，不是各模型独立余额；不可相加。CLI 与 API 使用套餐额度，额外购买的积分另计。 DeepSeek V4.1 Flash 三天 $100 活动已结束，现为长期提升后的 $80 月用量等值；官方明确无结束日期。 套餐宣传现标注 $10 对应 $80 credits；官方窗口仍列 $14/$35/$70，以窗口限制为准，不能将宣传额度替代窗口限制。 GLM-5.3 Flash 三天 $100 活动已结束，当前月用量等值为 $80，提升优惠持续到容量用尽，来源未给固定结束日期。 本轮官方表新增展示 Ling 3.1 Flash $100、GPT-5.6 Sol $20、Muse Spark Open $20 及 Nemotron 3.5 Super VL $20 月用量等值；各模型额度不可相加。 Kimi K3.1 Pro月用量等值为$20。",
+    "restrictions": "5小时最多$20、每周最多$50、每月最多$100；按模型折算，并非每个模型均提供$100。 列出的是示例模型月用量，不是各模型独立余额；不可相加。CLI 与 API 使用套餐额度，额外购买的积分另计。 DeepSeek V4.1 Flash 三天 $100 活动已结束，现为长期提升后的 $80 月用量等值；官方明确无结束日期。 官方宣传与窗口现统一为最多$100，仍受各模型额度和滚动窗口限制。 GLM-5.3 Flash 三天 $100 活动已结束，当前月用量等值为 $80，提升优惠持续到容量用尽，来源未给固定结束日期。 本轮官方表新增展示 Ling 3.1 Flash $100、GPT-5.6 Sol $20、Muse Spark Open $20 及 Nemotron 3.5 Super VL $20 月用量等值；各模型额度不可相加。 Kimi K3.1 Pro月用量等值为$20。",
     "quantity": null
   },
   {

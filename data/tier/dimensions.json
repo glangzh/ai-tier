@@ -22,25 +22,25 @@
       "timeline_ok": false
     },
     {
-      "anchor_gens": 1,
+      "anchor_gens": 0,
       "anchor_span_days": 0,
       "key": "knowledge",
       "label": "知识准确率",
       "timeline_ok": false
     },
     {
-      "anchor_gens": 2,
-      "anchor_span_days": 21,
+      "anchor_gens": 0,
+      "anchor_span_days": 0,
       "key": "hallucination",
       "label": "抗幻觉",
-      "timeline_ok": true
+      "timeline_ok": false
     },
     {
-      "anchor_gens": 2,
-      "anchor_span_days": 21,
+      "anchor_gens": 0,
+      "anchor_span_days": 0,
       "key": "agent",
       "label": "Agent",
-      "timeline_ok": true
+      "timeline_ok": false
     },
     {
       "anchor_gens": 5,
@@ -51,7 +51,7 @@
     }
   ],
   "meta": {
-    "as_of": "2026-10-24",
+    "as_of": "2026-10-27",
     "benchmark": "AAII v4.3.2",
     "frontier": {
       "date": "2026-09-22",
@@ -64,11 +64,11 @@
       "company_id": "anthropic",
       "dims": {
         "agent": {
-          "anchor_gens": 2,
+          "anchor_gens": null,
           "beyond_pool": false,
-          "gap_days": 0,
-          "score": 44.3,
-          "status": "estimated"
+          "gap_days": null,
+          "score": null,
+          "status": "unmeasured"
         },
         "analysis": {
           "anchor_gens": null,
@@ -92,18 +92,18 @@
           "status": "no_timeline"
         },
         "hallucination": {
-          "anchor_gens": 2,
+          "anchor_gens": null,
           "beyond_pool": false,
-          "gap_days": 0,
-          "score": 41.4,
-          "status": "measured"
+          "gap_days": null,
+          "score": null,
+          "status": "unmeasured"
         },
         "knowledge": {
           "anchor_gens": null,
           "beyond_pool": false,
           "gap_days": null,
-          "score": 66.2,
-          "status": "no_timeline"
+          "score": null,
+          "status": "unmeasured"
         },
         "science": {
           "anchor_gens": 5,
@@ -120,11 +120,11 @@
       "company_id": "openai",
       "dims": {
         "agent": {
-          "anchor_gens": 2,
+          "anchor_gens": null,
           "beyond_pool": false,
-          "gap_days": 25,
-          "score": 38.3,
-          "status": "estimated"
+          "gap_days": null,
+          "score": null,
+          "status": "unmeasured"
         },
         "analysis": {
           "anchor_gens": null,
@@ -136,7 +136,7 @@
         "coding": {
           "anchor_gens": 5,
           "beyond_pool": false,
-          "gap_days": 23,
+          "gap_days": 21,
           "score": 57.8,
           "status": "measured"
         },
@@ -148,23 +148,23 @@
           "status": "no_timeline"
         },
         "hallucination": {
-          "anchor_gens": 2,
-          "beyond_pool": true,
-          "gap_days": -41,
-          "score": 55.2,
-          "status": "measured"
+          "anchor_gens": null,
+          "beyond_pool": false,
+          "gap_days": null,
+          "score": null,
+          "status": "unmeasured"
         },
         "knowledge": {
           "anchor_gens": null,
           "beyond_pool": false,
           "gap_days": null,
-          "score": 62.6,
-          "status": "no_timeline"
+          "score": null,
+          "status": "unmeasured"
         },
         "science": {
           "anchor_gens": 5,
           "beyond_pool": false,
-          "gap_days": 71,
+          "gap_days": 64,
           "score": 43.2,
           "status": "measured"
         }
@@ -176,17 +176,17 @@
       "company_id": "spacexai",
       "dims": {
         "agent": {
-          "anchor_gens": 2,
+          "anchor_gens": null,
           "beyond_pool": false,
-          "gap_days": 21,
-          "score": 39.6,
-          "status": "estimated"
+          "gap_days": null,
+          "score": null,
+          "status": "unmeasured"
         },
         "analysis": {
           "anchor_gens": null,
           "beyond_pool": false,
           "gap_days": null,
-          "score": 55,
+          "score": 52.5,
           "status": "no_timeline"
         },
         "coding": {
@@ -204,18 +204,18 @@
           "status": "no_timeline"
         },
         "hallucination": {
-          "anchor_gens": 2,
-          "beyond_pool": true,
-          "gap_days": -87,
-          "score": 70.7,
-          "status": "measured"
+          "anchor_gens": null,
+          "beyond_pool": false,
+          "gap_days": null,
+          "score": null,
+          "status": "unmeasured"
         },
         "knowledge": {
           "anchor_gens": null,
           "beyond_pool": false,
           "gap_days": null,
-          "score": 49.7,
-          "status": "no_timeline"
+          "score": null,
+          "status": "unmeasured"
         },
         "science": {
           "anchor_gens": 5,
@@ -232,11 +232,11 @@
       "company_id": "moonshot",
       "dims": {
         "agent": {
-          "anchor_gens": 2,
+          "anchor_gens": null,
           "beyond_pool": false,
-          "gap_days": 11,
-          "score": 41.9,
-          "status": "estimated"
+          "gap_days": null,
+          "score": null,
+          "status": "unmeasured"
         },
         "analysis": {
           "anchor_gens": null,
@@ -260,18 +260,18 @@
           "status": "no_timeline"
         },
         "hallucination": {
-          "anchor_gens": 2,
-          "beyond_pool": true,
-          "gap_days": -43,
-          "score": 56.1,
-          "status": "measured"
+          "anchor_gens": null,
+          "beyond_pool": false,
+          "gap_days": null,
+          "score": null,
+          "status": "unmeasured"
         },
         "knowledge": {
           "anchor_gens": null,
           "beyond_pool": false,
           "gap_days": null,
-          "score": 51,
-          "status": "no_timeline"
+          "score": null,
+          "status": "unmeasured"
         },
         "science": {
           "anchor_gens": 5,
@@ -288,11 +288,11 @@
       "company_id": "zhipu",
       "dims": {
         "agent": {
-          "anchor_gens": 2,
+          "anchor_gens": null,
           "beyond_pool": false,
-          "gap_days": 36,
-          "score": 35.7,
-          "status": "estimated"
+          "gap_days": null,
+          "score": null,
+          "status": "unmeasured"
         },
         "analysis": {
           "anchor_gens": null,
@@ -316,18 +316,18 @@
           "status": "no_timeline"
         },
         "hallucination": {
-          "anchor_gens": 2,
-          "beyond_pool": true,
-          "gap_days": -86,
-          "score": 70.4,
-          "status": "measured"
+          "anchor_gens": null,
+          "beyond_pool": false,
+          "gap_days": null,
+          "score": null,
+          "status": "unmeasured"
         },
         "knowledge": {
           "anchor_gens": null,
           "beyond_pool": false,
           "gap_days": null,
-          "score": 33.9,
-          "status": "no_timeline"
+          "score": null,
+          "status": "unmeasured"
         },
         "science": {
           "anchor_gens": 5,
@@ -344,11 +344,11 @@
       "company_id": "google",
       "dims": {
         "agent": {
-          "anchor_gens": 2,
+          "anchor_gens": null,
           "beyond_pool": false,
-          "gap_days": 27,
-          "score": 37.7,
-          "status": "estimated"
+          "gap_days": null,
+          "score": null,
+          "status": "unmeasured"
         },
         "analysis": {
           "anchor_gens": null,
@@ -360,7 +360,7 @@
         "coding": {
           "anchor_gens": 5,
           "beyond_pool": false,
-          "gap_days": 16,
+          "gap_days": 15,
           "score": 59.4,
           "status": "measured"
         },
@@ -372,23 +372,23 @@
           "status": "no_timeline"
         },
         "hallucination": {
-          "anchor_gens": 2,
-          "beyond_pool": true,
-          "gap_days": -130,
-          "score": 84.9,
-          "status": "measured"
+          "anchor_gens": null,
+          "beyond_pool": false,
+          "gap_days": null,
+          "score": null,
+          "status": "unmeasured"
         },
         "knowledge": {
           "anchor_gens": null,
           "beyond_pool": false,
           "gap_days": null,
-          "score": 49.9,
-          "status": "no_timeline"
+          "score": null,
+          "status": "unmeasured"
         },
         "science": {
           "anchor_gens": 5,
           "beyond_pool": false,
-          "gap_days": 103,
+          "gap_days": 102,
           "score": 42.1,
           "status": "measured"
         }
@@ -400,11 +400,11 @@
       "company_id": "meta",
       "dims": {
         "agent": {
-          "anchor_gens": 2,
+          "anchor_gens": null,
           "beyond_pool": false,
-          "gap_days": 7,
-          "score": 42.8,
-          "status": "estimated"
+          "gap_days": null,
+          "score": null,
+          "status": "unmeasured"
         },
         "analysis": {
           "anchor_gens": null,
@@ -416,7 +416,7 @@
         "coding": {
           "anchor_gens": 5,
           "beyond_pool": false,
-          "gap_days": 14,
+          "gap_days": 13,
           "score": 59.8,
           "status": "measured"
         },
@@ -428,23 +428,23 @@
           "status": "no_timeline"
         },
         "hallucination": {
-          "anchor_gens": 2,
-          "beyond_pool": true,
-          "gap_days": -106,
-          "score": 77,
-          "status": "measured"
+          "anchor_gens": null,
+          "beyond_pool": false,
+          "gap_days": null,
+          "score": null,
+          "status": "unmeasured"
         },
         "knowledge": {
           "anchor_gens": null,
           "beyond_pool": false,
           "gap_days": null,
-          "score": 43.2,
-          "status": "no_timeline"
+          "score": null,
+          "status": "unmeasured"
         },
         "science": {
           "anchor_gens": 5,
           "beyond_pool": false,
-          "gap_days": 70,
+          "gap_days": 63,
           "score": 43.2,
           "status": "measured"
         }
@@ -456,11 +456,11 @@
       "company_id": "deepseek",
       "dims": {
         "agent": {
-          "anchor_gens": 2,
+          "anchor_gens": null,
           "beyond_pool": false,
-          "gap_days": 26,
-          "score": 38.1,
-          "status": "estimated"
+          "gap_days": null,
+          "score": null,
+          "status": "unmeasured"
         },
         "analysis": {
           "anchor_gens": null,
@@ -484,18 +484,18 @@
           "status": "no_timeline"
         },
         "hallucination": {
-          "anchor_gens": 2,
+          "anchor_gens": null,
           "beyond_pool": false,
-          "gap_days": 24,
-          "score": 33.2,
-          "status": "measured"
+          "gap_days": null,
+          "score": null,
+          "status": "unmeasured"
         },
         "knowledge": {
           "anchor_gens": null,
           "beyond_pool": false,
           "gap_days": null,
-          "score": 42.9,
-          "status": "no_timeline"
+          "score": null,
+          "status": "unmeasured"
         },
         "science": {
           "anchor_gens": 5,
@@ -512,11 +512,11 @@
       "company_id": "minimax",
       "dims": {
         "agent": {
-          "anchor_gens": 2,
+          "anchor_gens": null,
           "beyond_pool": false,
-          "gap_days": 32,
-          "score": 36.6,
-          "status": "estimated"
+          "gap_days": null,
+          "score": null,
+          "status": "unmeasured"
         },
         "analysis": {
           "anchor_gens": null,
@@ -540,18 +540,18 @@
           "status": "no_timeline"
         },
         "hallucination": {
-          "anchor_gens": 2,
-          "beyond_pool": true,
-          "gap_days": 102,
-          "score": 7.2,
-          "status": "measured"
+          "anchor_gens": null,
+          "beyond_pool": false,
+          "gap_days": null,
+          "score": null,
+          "status": "unmeasured"
         },
         "knowledge": {
           "anchor_gens": null,
           "beyond_pool": false,
           "gap_days": null,
-          "score": 56.2,
-          "status": "no_timeline"
+          "score": null,
+          "status": "unmeasured"
         },
         "science": {
           "anchor_gens": 5,
@@ -568,11 +568,11 @@
       "company_id": "alibaba",
       "dims": {
         "agent": {
-          "anchor_gens": 2,
+          "anchor_gens": null,
           "beyond_pool": false,
-          "gap_days": 29,
-          "score": 37.3,
-          "status": "estimated"
+          "gap_days": null,
+          "score": null,
+          "status": "unmeasured"
         },
         "analysis": {
           "anchor_gens": null,
@@ -596,18 +596,18 @@
           "status": "no_timeline"
         },
         "hallucination": {
-          "anchor_gens": 2,
-          "beyond_pool": true,
-          "gap_days": -89,
-          "score": 71.2,
-          "status": "measured"
+          "anchor_gens": null,
+          "beyond_pool": false,
+          "gap_days": null,
+          "score": null,
+          "status": "unmeasured"
         },
         "knowledge": {
           "anchor_gens": null,
           "beyond_pool": false,
           "gap_days": null,
-          "score": 31.7,
-          "status": "no_timeline"
+          "score": null,
+          "status": "unmeasured"
         },
         "science": {
           "anchor_gens": 5,
@@ -624,11 +624,11 @@
       "company_id": "xiaomi",
       "dims": {
         "agent": {
-          "anchor_gens": 2,
+          "anchor_gens": null,
           "beyond_pool": false,
-          "gap_days": 38,
-          "score": 35.3,
-          "status": "estimated"
+          "gap_days": null,
+          "score": null,
+          "status": "unmeasured"
         },
         "analysis": {
           "anchor_gens": null,
@@ -652,18 +652,18 @@
           "status": "no_timeline"
         },
         "hallucination": {
-          "anchor_gens": 2,
-          "beyond_pool": true,
-          "gap_days": -53,
-          "score": 59.4,
-          "status": "measured"
+          "anchor_gens": null,
+          "beyond_pool": false,
+          "gap_days": null,
+          "score": null,
+          "status": "unmeasured"
         },
         "knowledge": {
           "anchor_gens": null,
           "beyond_pool": false,
           "gap_days": null,
-          "score": 34.8,
-          "status": "no_timeline"
+          "score": null,
+          "status": "unmeasured"
         },
         "science": {
           "anchor_gens": 5,
