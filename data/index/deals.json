@@ -1,60 +1,6 @@
 [
   {
     "schemaVersion": 0,
-    "offerKey": "1c5702763a48ce4e",
-    "occurredAt": "2026-10-20",
-    "publishedAt": "2026-10-20T12:15:42.008269+00:00",
-    "verification": "auto_verified",
-    "category": "creditsPromotion",
-    "vendor": "opendesign",
-    "entity": "opendesign-deepseek-v4.1-flash-1017-motion-week",
-    "promotionType": "discount",
-    "appliesTo": [
-      "model"
-    ],
-    "amount": "The multiplier drops from 0.5× to 0.25×, then returns to 0.5×.",
-    "eligibility": "DeepSeek V4.1 Flash Off-peak promo",
-    "baseline": "DeepSeek V4.1 Flash 0.5×",
-    "startsAt": "2026-10-20T18:00:00+08:00",
-    "startsAtText": "October 20 at 18:00",
-    "expiresAt": "2026-10-27T18:00:00+08:00",
-    "expiresAtText": "October 27 at 18:00 (UTC+8)",
-    "howToClaim": "auto",
-    "supersedes": null,
-    "sourceId": "opendesign-model-credits",
-    "claimUrl": "https://open-design.ai/model-credits/",
-    "restrictions": "OpenDesign Motion Week：DeepSeek V4.1 Flash 已升级为 1017 版本，活动期间全天按优惠倍率消耗 Design Plan credits，由常规0.5×降为0.25×，同样积分可支持约两倍通常用量。仅适用于 Design Plan credits；套餐额度和重置时间保持不变，无额外赠送积分，不与同名off-peak宣传叠加，活动后恢复0.5×。",
-    "facts": [
-      {
-        "quote": "The one-week off-peak offer lowers the Design Plan credit multiplier for DeepSeek V4.1 Flash from 0.5× to 0.25×. These are the same offer, with no stacked discount. The same credits support twice the usual usage for one week; existing allowances and reset times stay unchanged.",
-        "url": "https://open-design.ai/model-credits/",
-        "snapshot": "snapshots/opendesign-model-credits/2026-10-20-1212-40ebc8ce.json"
-      },
-      {
-        "quote": "DeepSeek V4.1 Flash Off-peak promo ? The limited-time off-peak offer lasts one week: October 20 at 18:00 to October 27 at 18:00 (UTC+8). The multiplier drops from 0.5× to 0.25×, then returns to 0.5×. Plan allowances and reset times stay unchanged. 0.25×",
-        "url": "https://open-design.ai/model-credits/",
-        "snapshot": "snapshots/opendesign-model-credits/2026-10-20-1212-40ebc8ce.json"
-      },
-      {
-        "quote": "DeepSeek V4.1 Flash 0.5×",
-        "url": "https://open-design.ai/model-credits/",
-        "snapshot": "snapshots/opendesign-model-credits/2026-10-20-1212-40ebc8ce.json"
-      },
-      {
-        "quote": "DeepSeek V4.1 Flash has been upgraded to the October 17, 2026 update (1017).",
-        "url": "https://open-design.ai/model-credits/",
-        "snapshot": "snapshots/opendesign-model-credits/2026-10-20-1212-40ebc8ce.json"
-      },
-      {
-        "quote": "DeepSeek V4.1 Flash 1017 · Official API · All-day off-peak rates for one week",
-        "url": "https://open-design.ai/pricing/",
-        "snapshot": "snapshots/opendesign-pricing/2026-10-20-1212-37df2270.json"
-      }
-    ],
-    "quantity": null
-  },
-  {
-    "schemaVersion": 0,
     "offerKey": "d882a66bc7a28cc6",
     "occurredAt": "2026-10-22",
     "publishedAt": "2026-10-23T00:04:32.592268+00:00",
@@ -67,7 +13,7 @@
       "model"
     ],
     "amount": "1,024 SOTA Credits",
-    "eligibility": "Your account must be on an individual Pro plan or higher, or be a Free account with an approved application for this promotion.",
+    "eligibility": "Your account must be on an individual Pro plan or higher, or have an approved application for this promotion.",
     "sourceId": "qoder-events-communityboost",
     "claimUrl": "https://docs.qoder.com/events/communityboost.md",
     "baseline": null,
@@ -77,62 +23,77 @@
     "expiresAtText": "October 30, 2026 at 23:59",
     "howToClaim": "console",
     "supersedes": null,
-    "restrictions": "符合条件者手动领取1024 SOTA Credits欢迎包，仅供Sonus。个人Pro及以上自动入组；免费用户需申请获批；Lite需升级。已公布前三轮礼包2048/3072/4096，后续轮次以活动页为准；达到当轮目标后解锁，非保证立即领满。欢迎包10月31日23:59到期；分轮包发放后三天内且不晚于10月30日23:59领取，领取后24小时有效，不可叠加错峰折扣。",
+    "restrictions": "符合条件者手动领取1024 SOTA Credits欢迎包，仅供Sonus；个人Pro及以上或申请获批者可参与，Lite需升级。前三轮解锁礼包为2048/3072/4096。第四轮需达到200000累计助力，奖励总额12288，拆成10月28、29、30日各4096：每天00:00开放，当天23:59前领取并用完，过期不可补领、不结转。欢迎包10月31日23:59到期；前三轮礼包领取后24小时有效，领取不晚于10月30日23:59。不可叠加错峰折扣，所有时间UTC+8。",
     "facts": [
       {
         "quote": "During the promotion, eligible individual Qoder users can claim a **Welcome Pack of 1,024 SOTA Credits** and contribute daily boosts to unlock additional **SOTA Credit Packs** together. Promotional Credits can be used with the **Sonus model**. More rewards await—let’s unlock them together.",
         "url": "https://docs.qoder.com/events/communityboost.md",
-        "snapshot": "snapshots/qoder-events-communityboost/2026-10-24-0022-1f0ea6a7.json"
+        "snapshot": "snapshots/qoder-events-communityboost/2026-10-27-1211-03a897de.json"
       },
       {
-        "quote": "**Promotion period:** October 22, 2026 through October 30, 2026 at 23:59. Applications, application reviews, enrollment, boosting, and reward claims all close when the promotion ends.",
+        "quote": "| Welcome Pack | Join Community Boost | 1,024 SOTA Credits |",
         "url": "https://docs.qoder.com/events/communityboost.md",
-        "snapshot": "snapshots/qoder-events-communityboost/2026-10-24-0022-1f0ea6a7.json"
-      },
-      {
-        "quote": "Your account must be on an individual Pro plan or higher, or be a Free account with an approved application for this promotion.",
-        "url": "https://docs.qoder.com/events/communityboost.md",
-        "snapshot": "snapshots/qoder-events-communityboost/2026-10-24-0022-1f0ea6a7.json"
-      },
-      {
-        "quote": "| Welcome Pack | Until October 30, 2026 at 23:59 | Until October 31, 2026 at 23:59 |",
-        "url": "https://docs.qoder.com/events/communityboost.md",
-        "snapshot": "snapshots/qoder-events-communityboost/2026-10-24-0022-1f0ea6a7.json"
-      },
-      {
-        "quote": "| Each round’s SOTA Credit Pack | Within 3 days of issuance, but no later than October 30, 2026 at 23:59 | 24 hours from the time you claim it |",
-        "url": "https://docs.qoder.com/events/communityboost.md",
-        "snapshot": "snapshots/qoder-events-communityboost/2026-10-24-0022-1f0ea6a7.json"
-      },
-      {
-        "quote": "- Promotional Credit Packs cannot be combined with off-peak discounts.",
-        "url": "https://docs.qoder.com/events/communityboost.md",
-        "snapshot": "snapshots/qoder-events-communityboost/2026-10-24-0022-1f0ea6a7.json"
+        "snapshot": "snapshots/qoder-events-communityboost/2026-10-27-1211-03a897de.json"
       },
       {
         "quote": "| Round 1 SOTA Credit Pack | Reach 20,000 cumulative community boost points | 2,048 SOTA Credits |",
         "url": "https://docs.qoder.com/events/communityboost.md",
-        "snapshot": "snapshots/qoder-events-communityboost/2026-10-24-0022-1f0ea6a7.json"
+        "snapshot": "snapshots/qoder-events-communityboost/2026-10-27-1211-03a897de.json"
       },
       {
         "quote": "| Round 2 SOTA Credit Pack | Reach 50,000 cumulative community boost points | 3,072 SOTA Credits |",
         "url": "https://docs.qoder.com/events/communityboost.md",
-        "snapshot": "snapshots/qoder-events-communityboost/2026-10-24-0022-1f0ea6a7.json"
+        "snapshot": "snapshots/qoder-events-communityboost/2026-10-27-1211-03a897de.json"
       },
       {
         "quote": "| Round 3 SOTA Credit Pack | Reach 100,000 cumulative community boost points | 4,096 SOTA Credits |",
         "url": "https://docs.qoder.com/events/communityboost.md",
-        "snapshot": "snapshots/qoder-events-communityboost/2026-10-24-0022-1f0ea6a7.json"
+        "snapshot": "snapshots/qoder-events-communityboost/2026-10-27-1211-03a897de.json"
+      },
+      {
+        "quote": "| Round 4 SOTA Credit Pack | Reach 200,000 cumulative community boost points | 12,288 SOTA Credits |",
+        "url": "https://docs.qoder.com/events/communityboost.md",
+        "snapshot": "snapshots/qoder-events-communityboost/2026-10-27-1211-03a897de.json"
+      },
+      {
+        "quote": "**Promotion period:** October 22, 2026 through October 30, 2026 at 23:59. Applications, application reviews, enrollment, and boosting close when the promotion ends. All pack claims close no later than the end of the promotion. Individual packs may have earlier deadlines; see the claim windows table.",
+        "url": "https://docs.qoder.com/events/communityboost.md",
+        "snapshot": "snapshots/qoder-events-communityboost/2026-10-27-1211-03a897de.json"
       },
       {
         "quote": "- **Lite subscribers:** Lite does not currently support Sonus, the model covered by these promotional Credit Packs. Upgrade to Pro or higher to claim rewards.",
         "url": "https://docs.qoder.com/events/communityboost.md",
-        "snapshot": "snapshots/qoder-events-communityboost/2026-10-24-0022-1f0ea6a7.json"
+        "snapshot": "snapshots/qoder-events-communityboost/2026-10-27-1211-03a897de.json"
       },
       {
-        "quote": "See the [event page](https://qoder.com/community-boost) for the boost targets and rewards for subsequent rounds.",
+        "quote": "- **Claim eligibility:** Eligibility for the Welcome Pack and SOTA Credit Packs is determined at the time of claiming. Your account must be on an individual Pro plan or higher, or have an approved application for this promotion.",
         "url": "https://docs.qoder.com/events/communityboost.md",
-        "snapshot": "snapshots/qoder-events-communityboost/2026-10-24-0022-1f0ea6a7.json"
+        "snapshot": "snapshots/qoder-events-communityboost/2026-10-27-1211-03a897de.json"
+      },
+      {
+        "quote": "2. Boosts count toward the current round's progress and the cumulative community total. Reaching a round's target unlocks its reward. Each round can be unlocked only once. SOTA Credit Packs for Rounds 1, 2, and 3 are released within 12 hours of unlocking. Round 4 releases one pack at 00:00 on each of October 28, 29, and 30. Claim and use each pack according to the table below.",
+        "url": "https://docs.qoder.com/events/communityboost.md",
+        "snapshot": "snapshots/qoder-events-communityboost/2026-10-27-1211-03a897de.json"
+      },
+      {
+        "quote": "| Welcome Pack | Until October 30, 2026 at 23:59 | Until October 31, 2026 at 23:59 |",
+        "url": "https://docs.qoder.com/events/communityboost.md",
+        "snapshot": "snapshots/qoder-events-communityboost/2026-10-27-1211-03a897de.json"
+      },
+      {
+        "quote": "| SOTA Credit Packs for Rounds 1, 2, and 3 | Within 3 days of issuance, but no later than October 30, 2026 at 23:59 | 24 hours from the time you claim it |",
+        "url": "https://docs.qoder.com/events/communityboost.md",
+        "snapshot": "snapshots/qoder-events-communityboost/2026-10-27-1211-03a897de.json"
+      },
+      {
+        "quote": "| Round 4 SOTA Credit Packs | One pack of 4,096 SOTA Credits opens at 00:00 on each of October 28, 29, and 30, 2026. Each account may claim one pack per day. Claims close at 23:59 that day; late claims are not available. | Each pack can be used only on its release date and expires at 23:59 that day. Unused Credits do not carry over to the next day. |",
+        "url": "https://docs.qoder.com/events/communityboost.md",
+        "snapshot": "snapshots/qoder-events-communityboost/2026-10-27-1211-03a897de.json"
+      },
+      {
+        "quote": "- Promotional Credit Packs cannot be combined with off-peak discounts.",
+        "url": "https://docs.qoder.com/events/communityboost.md",
+        "snapshot": "snapshots/qoder-events-communityboost/2026-10-27-1211-03a897de.json"
       }
     ],
     "quantity": {
@@ -1901,7 +1862,7 @@
     "expiresAt": null,
     "expiresAtText": null,
     "region": null,
-    "restrictions": "免费期已延长，10 月 1 日起继续免费，结束时间提前在官方页面公告；团队版及企业版不适用；免费个人账号及 Credits 余额为 0 的账号也可参与。 官方现明确个人Lite套餐也可参与；模型与其它限制仍按原活动规则。",
+    "restrictions": "免费期已延长，10 月 1 日起继续免费，结束时间提前在官方页面公告；团队版及企业版不适用；免费个人账号及 Credits 余额为 0 的账号也可参与。 官方现明确个人Lite套餐也可参与；模型与其它限制仍按原活动规则。 免费仅适用于实际由Qwen3.8-Flash完成的调用；部分功能内部调用其它指定模型时，相关调用仍按对应模型规则计费。",
     "claimUrl": "https://docs.qoder.com/zh/events/flashoffer",
     "sourceId": "qoder-events-flashoffer",
     "facts": [
@@ -1939,6 +1900,11 @@
         "quote": "适用用户 ：Qoder 国际版新老个人用户，包括体验版（免费）、Pro 试用期、Lite、Pro、Pro+ 和 Ultra 用户。团队版（Teams）及企业版（Enterprise）订阅用户不适用。",
         "url": "https://docs.qoder.com/zh/events/flashoffer",
         "snapshot": "snapshots/qoder-events-flashoffer/2026-10-22-2359-bae983bb.json"
+      },
+      {
+        "quote": "计费说明 ：本次免费仅适用于实际由 Qwen3.8-Flash 完成的调用。部分功能在运行时可能会调用特定模型，相关调用将按照对应模型的计费规则计费，不享受本次免费。",
+        "url": "https://docs.qoder.com/zh/events/flashoffer",
+        "snapshot": "snapshots/qoder-events-flashoffer/2026-10-27-1211-c1bd5b1b.json"
       }
     ],
     "supersedes": null,
@@ -2349,6 +2315,61 @@
       "unit": "credits",
       "raw": "First subscription: 1,000 Credits for Lite, 2,000 for Pro, 6,000 for Pro+, and 0 for Ultra."
     }
+  },
+  {
+    "schemaVersion": 0,
+    "offerKey": "3c9dad158662f199",
+    "occurredAt": "2026-10-27",
+    "publishedAt": "2026-10-27T12:15:25.229486+00:00",
+    "verification": "auto_verified",
+    "category": "creditsPromotion",
+    "promotionType": "free",
+    "appliesTo": [
+      "model"
+    ],
+    "vendor": "opencode",
+    "entity": "iceman-contributor-free",
+    "amount": "Iceman Contributor Free: Free for a limited time.",
+    "eligibility": "in exchange for permission to use your prompts and completions to improve the model.",
+    "baseline": null,
+    "howToClaim": "console",
+    "startsAt": null,
+    "startsAtText": null,
+    "expiresAt": null,
+    "expiresAtText": null,
+    "region": null,
+    "supersedes": null,
+    "claimUrl": "https://opencode.ai/v2/docs/console/go/",
+    "sourceId": "opencode-go",
+    "restrictions": "Iceman Contributor Free模型限时免费，结束日期未说明。需依OpenCode Go官方接入流程使用，单成员工作空间；必须允许输入与输出用于改进模型，官方表列Yes/Not ZDR，不提供零数据留存。",
+    "facts": [
+      {
+        "quote": "Iceman Contributor Free: Free for a limited time.",
+        "url": "https://opencode.ai/v2/docs/console/go/",
+        "snapshot": "snapshots/opencode-go/2026-10-27-1210-dfe3b9c9.json"
+      },
+      {
+        "quote": "Iceman Contributor Free Free Free Free - Unlimited",
+        "url": "https://opencode.ai/v2/docs/console/go/",
+        "snapshot": "snapshots/opencode-go/2026-10-27-1210-dfe3b9c9.json"
+      },
+      {
+        "quote": "Iceman Contributor Free Yes Not ZDR",
+        "url": "https://opencode.ai/v2/docs/console/go/",
+        "snapshot": "snapshots/opencode-go/2026-10-27-1210-dfe3b9c9.json"
+      },
+      {
+        "quote": "Iceman Contributor Free: Free for a limited time in exchange for permission to use your prompts and completions to improve the model.",
+        "url": "https://opencode.ai/v2/docs/console/go/",
+        "snapshot": "snapshots/opencode-go/2026-10-27-1210-dfe3b9c9.json"
+      },
+      {
+        "quote": "Go and Go Plus are for workspaces with a single member",
+        "url": "https://opencode.ai/v2/docs/console/go/",
+        "snapshot": "snapshots/opencode-go/2026-10-27-1210-dfe3b9c9.json"
+      }
+    ],
+    "quantity": null
   },
   {
     "schemaVersion": 0,

@@ -1033,6 +1033,60 @@
   },
   {
     "schemaVersion": 0,
+    "offerKey": "1c5702763a48ce4e",
+    "occurredAt": "2026-10-20",
+    "publishedAt": "2026-10-20T12:15:42.008269+00:00",
+    "verification": "auto_verified",
+    "category": "creditsPromotion",
+    "vendor": "opendesign",
+    "entity": "opendesign-deepseek-v4.1-flash-1017-motion-week",
+    "promotionType": "discount",
+    "appliesTo": [
+      "model"
+    ],
+    "amount": "The multiplier drops from 0.5× to 0.25×, then returns to 0.5×.",
+    "eligibility": "DeepSeek V4.1 Flash Off-peak promo",
+    "baseline": "DeepSeek V4.1 Flash 0.5×",
+    "startsAt": "2026-10-20T18:00:00+08:00",
+    "startsAtText": "October 20 at 18:00",
+    "expiresAt": "2026-10-27T18:00:00+08:00",
+    "expiresAtText": "October 27 at 18:00 (UTC+8)",
+    "howToClaim": "auto",
+    "supersedes": null,
+    "sourceId": "opendesign-model-credits",
+    "claimUrl": "https://open-design.ai/model-credits/",
+    "restrictions": "OpenDesign Motion Week：DeepSeek V4.1 Flash 已升级为 1017 版本，活动期间全天按优惠倍率消耗 Design Plan credits，由常规0.5×降为0.25×，同样积分可支持约两倍通常用量。仅适用于 Design Plan credits；套餐额度和重置时间保持不变，无额外赠送积分，不与同名off-peak宣传叠加，活动后恢复0.5×。",
+    "facts": [
+      {
+        "quote": "The one-week off-peak offer lowers the Design Plan credit multiplier for DeepSeek V4.1 Flash from 0.5× to 0.25×. These are the same offer, with no stacked discount. The same credits support twice the usual usage for one week; existing allowances and reset times stay unchanged.",
+        "url": "https://open-design.ai/model-credits/",
+        "snapshot": "snapshots/opendesign-model-credits/2026-10-20-1212-40ebc8ce.json"
+      },
+      {
+        "quote": "DeepSeek V4.1 Flash Off-peak promo ? The limited-time off-peak offer lasts one week: October 20 at 18:00 to October 27 at 18:00 (UTC+8). The multiplier drops from 0.5× to 0.25×, then returns to 0.5×. Plan allowances and reset times stay unchanged. 0.25×",
+        "url": "https://open-design.ai/model-credits/",
+        "snapshot": "snapshots/opendesign-model-credits/2026-10-20-1212-40ebc8ce.json"
+      },
+      {
+        "quote": "DeepSeek V4.1 Flash 0.5×",
+        "url": "https://open-design.ai/model-credits/",
+        "snapshot": "snapshots/opendesign-model-credits/2026-10-20-1212-40ebc8ce.json"
+      },
+      {
+        "quote": "DeepSeek V4.1 Flash has been upgraded to the October 17, 2026 update (1017).",
+        "url": "https://open-design.ai/model-credits/",
+        "snapshot": "snapshots/opendesign-model-credits/2026-10-20-1212-40ebc8ce.json"
+      },
+      {
+        "quote": "DeepSeek V4.1 Flash 1017 · Official API · All-day off-peak rates for one week",
+        "url": "https://open-design.ai/pricing/",
+        "snapshot": "snapshots/opendesign-pricing/2026-10-20-1212-37df2270.json"
+      }
+    ],
+    "quantity": null
+  },
+  {
+    "schemaVersion": 0,
     "offerKey": "500ad25f1d6821d4",
     "occurredAt": "2026-10-14",
     "publishedAt": "2026-10-15T00:01:36.332066+00:00",
