@@ -579,6 +579,51 @@
   },
   {
     "schemaVersion": 0,
+    "occurredAt": "2026-10-29",
+    "publishedAt": "2026-09-18T17:38:00Z",
+    "verification": "auto_verified",
+    "category": "creditsPromotion",
+    "region": null,
+    "startsAt": null,
+    "startsAtText": null,
+    "expiresAt": null,
+    "expiresAtText": null,
+    "validityText": null,
+    "supersedes": null,
+    "offerKey": "0d396cc8e713911d",
+    "promotionType": "referral",
+    "appliesTo": [
+      "agent"
+    ],
+    "vendor": "qoder",
+    "entity": "qoder-referral-signup",
+    "amount": "50 Credits",
+    "eligibility": "Your friend signs up, downloads Qoder, and chats or runs a task within 7 days.",
+    "baseline": null,
+    "howToClaim": "invite",
+    "restrictions": "邀请方奖励；好友通过邀请链接注册，完成相应活动条件。到账时间及此档有效期来源未说明。",
+    "claimUrl": "https://qoder.com/activities",
+    "sourceId": "qoder-activities-index",
+    "facts": [
+      {
+        "quote": "50 Credits",
+        "url": "https://qoder.com/activities",
+        "snapshot": "snapshots/qoder-activities-index/2026-10-29-0333-7f9d1c93.json"
+      },
+      {
+        "quote": "Your friend signs up, downloads Qoder, and chats or runs a task within 7 days.",
+        "url": "https://qoder.com/activities",
+        "snapshot": "snapshots/qoder-activities-index/2026-10-29-0333-7f9d1c93.json"
+      }
+    ],
+    "quantity": {
+      "value": 50,
+      "unit": "credits",
+      "raw": "50 Credits"
+    }
+  },
+  {
+    "schemaVersion": 0,
     "offerKey": "1a65fe57c9b3b9ec",
     "occurredAt": "2026-09-22",
     "publishedAt": "2026-09-27T13:55:38.247Z",
@@ -750,6 +795,84 @@
       "value": 2000,
       "unit": "points",
       "raw": "一次性赠送 2000 积分"
+    }
+  },
+  {
+    "schemaVersion": 0,
+    "offerKey": "2258374c95c6e702",
+    "occurredAt": "2026-10-17",
+    "publishedAt": "2026-10-17T00:03:17.973003+00:00",
+    "verification": "auto_verified",
+    "category": "creditsPromotion",
+    "vendor": "commandcode",
+    "entity": "beam-1-0-free",
+    "amount": "Beam 1.0 is free while capacity lasts.",
+    "eligibility": "while capacity lasts",
+    "promotionType": "free",
+    "appliesTo": [
+      "model"
+    ],
+    "baseline": null,
+    "startsAt": null,
+    "startsAtText": null,
+    "expiresAt": null,
+    "expiresAtText": null,
+    "howToClaim": "auto",
+    "restrictions": "Command Code 的 Beam 1.0 在可用容量持续期间免费，无每日请求限制且不消耗 credits。提供方可能保留输入输出并训练，CMD_ZDR=1 会话不可用；官方未给固定结束日期。",
+    "supersedes": null,
+    "sourceId": "commandcode-pricing-limits",
+    "claimUrl": "https://commandcode.ai/docs/resources/pricing-limits",
+    "facts": [
+      {
+        "quote": "DEAL beam-free Beam 1.0 Free while capacity lasts\nauto-applied when you pick beam:free\nModel Beam 1.0\nBeam 1.0 is free while capacity lasts.\nBeam 1.0 is Reflection AI&#x27;s reasoning model for coding and agentic work, with a 1M token context and low, medium, high, xhigh, and max reasoning effort.\nNo daily request limit : use it as much as you like while the free tier lasts.\nKeep sensitive work elsewhere : the provider may keep your prompts and outputs and train on them, so Beam 1.0 won&#x27;t run in a CMD_ZDR=1 session.",
+        "url": "https://commandcode.ai/docs/resources/pricing-limits",
+        "snapshot": "snapshots/commandcode-pricing-limits/2026-10-16-2359-66dcae9d.json"
+      },
+      {
+        "quote": "DEAL beam:free is free, with no daily request limit. Requests on this model cost no credits. while capacity lasts",
+        "url": "https://commandcode.ai/docs/resources/pricing-limits",
+        "snapshot": "snapshots/commandcode-pricing-limits/2026-10-16-2359-66dcae9d.json"
+      }
+    ],
+    "quantity": null
+  },
+  {
+    "schemaVersion": 0,
+    "offerKey": "2498358b777130a9",
+    "occurredAt": "2026-10-21",
+    "publishedAt": "2026-10-21T02:05:49.114433+00:00",
+    "verification": "auto_verified",
+    "category": "creditsPromotion",
+    "vendor": "qoder",
+    "entity": "qoder-first-subscription-20261021",
+    "promotionType": "bonus",
+    "appliesTo": [
+      "subscription"
+    ],
+    "amount": "First subscription: 1,000 Credits for Lite, 2,000 for Pro, 6,000 for Pro+, and 0 for Ultra.",
+    "eligibility": "If your account has never had a successful payment",
+    "baseline": null,
+    "startsAt": "2026-10-21T00:00:00+08:00",
+    "startsAtText": "October 21, 2026 at 00:00 (UTC+8)",
+    "expiresAt": null,
+    "expiresAtText": null,
+    "howToClaim": "purchase",
+    "supersedes": "446642bff10e4457",
+    "sourceId": "qoder-events-newbogo",
+    "planKind": "toolPlan",
+    "restrictions": "仅国际站个人月付首次成功付费账号；Lite/Pro/Pro+分别加赠1000/2000/6000 Credits，首月总额2000/4000/12000，Ultra首购不加赠。退款订单仍算曾付费，过期重订按续费。 支付成功后自动到账，通常数分钟，到账后30天有效。结束时间提前公告；Teams/企业版不适用。",
+    "claimUrl": "https://docs.qoder.com/events/newbogo.md",
+    "facts": [
+      {
+        "quote": "> ## Documentation Index\n> Fetch the complete documentation index at: https://docs.qoder.com/llms.txt\n> Use this file to discover all available pages before exploring further.\n# Limited-Time Offer: Double Credits on Your First Subscription, Plus Bonus Credits on Renewal and Upgrade\nDuring the event, subscribe to the Lite, Pro, or Pro+ Personal plan for the first time to receive bonus Credits equal to the plan's monthly included Credits. Renew or upgrade a Personal plan to receive bonus Credits based on the plan.\n## Event details\n- **Start time**: October 21, 2026 at 00:00 (UTC+8)\n- **End time**: To be announced. We'll announce the end date on this page in advance\n- **Applicable site**: qoder.com\n- **Eligible plans**: Lite, Pro, Pro+, and Ultra Personal plans\n- **Not eligible**: Teams and Enterprise plans\n- **How it works**: Bonus Credits are issued automatically after payment succeeds. No claim is required\n[Subscribe on the Pricing page →](https://qoder.com/pricing)\n## First subscription: Double Credits\nIf your account has never had a successful payment, subscribe to Lite, Pro, or Pro+ for the first time during the event to receive bonus Credits equal to the plan's monthly included Credits. Your account registration date does not matter, and subscribing during the Pro trial is eligible.\n| Plan | Price | Monthly included Credits | Bonus Credits | First-month total |\n| ----- | ---------- | ------------------------ | ------------- | ----------------- |\n| Lite | 10 USD/mo | 1,000 Credits | 1,000 Credits | 2,000 Credits |\n| Pro | 20 USD/mo | 2,000 Credits | 2,000 Credits | 4,000 Credits |\n| Pro+ | 60 USD/mo | 6,000 Credits | 6,000 Credits | 12,000 Credits |\n| Ultra | 200 USD/mo | 20,000 Credits | Not eligible | 20,000 Credits |\n## Renewal and upgrade bonus\nRenew, upgrade, or resubscribe after your subscription expires during the event to receive bonus Credits as follows.\n### Renewal\n| Plan | Monthly included Credits | Bonus Credits |\n| ----- | ------------------------ | ------------- |\n| Lite | 1,000 Credits | 500 Credits |\n| Pro | 2,000 Credits | 1,000 Credits |\n| Pro+ | 6,000 Credits | 2,000 Credits |\n| Ultra | 20,000 Credits | 3,000 Credits |\n### Upgrade\nThe upgrade bonus is based on the plan you upgrade to, regardless of your previous plan.\n| Upgraded plan | Bonus Credits |\n| ------------- | ------------- |\n| Pro | 1,000 Credits |\n| Pro+ | 2,000 Credits |\n| Ultra | 3,000 Credits |\nFor example, upgrading from Lite to Pro grants 1,000 bonus Credits. Upgrading from Lite or Pro to Pro+ grants 2,000 bonus Credits.\nNOTE: Resubscribing after your subscription expires is treated as a renewal, not a first subscription.\n## How to participate\n1. Sign in to Qoder.\n2. Go to the [Pricing page](https://qoder.com/pricing), select a Personal plan, and complete payment.\n3. Bonus Credits are usually added automatically within a few minutes after payment succeeds. Go to **Settings > Usage** to view your Credits details and expiration dates.\n## FAQ\n**Q: How is this event different from the previous one?**\nLite is now eligible for the first-subscription bonus. The renewal and upgrade bonus has changed from a flat 1,000 Credits for every plan to a plan-based amount: 500 for Lite, 1,000 for Pro, 2,000 for Pro+, and 3,000 for Ultra.\n**Q: Which rules apply to orders paid on October 20, 2026?**\nEligibility is based on when the order payment succeeds. Orders paid before October 20, 2026 at 24:00 (UTC+8) follow the previous event rules. Orders paid from October 21, 2026 at 00:00 (UTC+8) follow the rules on this page.\n**Q: I registered a long time ago but have never paid. Does this count as a first subscription?**\nYes. A first subscription is determined by whether the account has ever had a successful payment, not by its registration date.\n**Q: I already have a Personal plan. Can I participate?**\nYes. Renew during the event to receive bonus Credits based on your current plan: 500 for Lite, 1,000 for Pro, 2,000 for Pro+, and 3,000 for Ultra. Upgrades are based on the plan you upgrade to.\n**Q: I subscribed to Pro before. If I subscribe to Lite after Pro expires, does it count as a first subscription?**\nNo. Your account already has a successful payment, so you receive the Lite renewal bonus of 500 Credits.\n**Q: Do I receive bonus Credits if my first subscription is Ultra?**\nNo. A first Ultra subscription is not eligible for the bonus. Renewing Ultra during the event grants 3,000 bonus Credits.\n**Q: Which models can I use with bonus Credits?**\nBonus Credits can be used with the same models as your current plan. For example, bonus Credits on the Lite plan can only be used with models supported by Lite.\n**Q: When will I receive the bonus Credits, and how long are they valid?**\nThey are issued automatically after payment succeeds and usually arrive within a few minutes. They are valid for 30 days from the time they are issued. Unused Credits expire automatically.\n**Q: Will unused bonus Credits expire when the event ends?**\nNo. Bonus Credits already issued are not cleared early when the event ends, and remain available within their 30-day validity period.\n**Q: Are Teams and Enterprise plans eligible?**\nNo. This event applies only to Personal plans.\n## Event terms\nThese terms apply to qoder.com (the international site). For the qoder.cn offer, see the Qoder CN event page.\n**Credits bonus**\n1. **Event period**: The event starts on October 21, 2026 at 00:00 (UTC+8). The end date will be announced on this page in advance. Bonus eligibility is determined by whether the order payment succeeds during the event. Orders paid outside the event period are not eligible. Orders paid before October 20, 2026 at 24:00 (UTC+8) follow the previous event rules.\n2. **Eligibility**: The Credits bonus applies only to monthly Personal plans. The first-subscription bonus applies to Lite, Pro, and Pro+. A first Ultra subscription is not eligible. Lite, Pro, Pro+, and Ultra subscriptions renewed, upgraded, or resubscribed after expiration during the event receive bonus Credits as described in Term 4. Bonus Credits can be used with the same models as your current plan. Teams, Enterprise, and other non-Personal plans are not eligible.\n3. **First subscription**: An account qualifies for a first subscription if it has never had a successful payment. A refunded order still counts as a previous payment, so a later purchase is not treated as a first subscription.\n4. **Bonus amount and issuance**: Bonus Credits are issued automatically after the order payment succeeds and usually arrive within a few minutes.\n- First subscription: 1,000 Credits for Lite, 2,000 for Pro, 6,000 for Pro+, and 0 for Ultra.\n- Renewal or resubscription after expiration: 500 Credits for Lite, 1,000 for Pro, 2,000 for Pro+, and 3,000 for Ultra.\n- Upgrade: Based on the plan you upgrade to. 1,000 Credits for Pro, 2,000 for Pro+, and 3,000 for Ultra.\n- The amount shown on the order confirmation page prevails for each order.\n5. **Validity**: Bonus Credits are valid for 30 calendar days from the time they are issued, calculated in UTC+8. Unused Credits expire automatically and do not roll over. The end or early termination of the event does not affect bonus Credits already issued and still within their validity period.\n6. **Refunds**: Orders with Credits consumed during the subscription period are non-refundable. If an order has no Credits consumed and meets the refund requirements, it can be fully refunded. After the refund, the subscription is canceled, unused bonus Credits are revoked, and the account is still considered to have made a previous payment.\n**Other terms**\n1. **Benefit restrictions**: Bonus Credits cannot be transferred, redeemed for cash, or invoiced.\n2. **Abuse prevention**: Qoder may disqualify accounts involved in abnormal or bulk registration, fraudulent transactions, or other violations of the Terms of Service, and may revoke issued bonus Credits.\n3. **Event changes**: Qoder reserves the right to adjust, suspend, or terminate this event and will provide notice by updating this page or through other official channels.\n4. **Taxes and usage**: Prices exclude applicable taxes. For Credits usage and model pricing, see the Help Center and the Pricing page.\n5. **Contact**: If you have questions, contact [contact@qoder.com](mailto:contact@qoder.com).",
+        "url": "https://docs.qoder.com/events/newbogo.md",
+        "snapshot": "snapshots/qoder-events-newbogo/2026-10-21-0204-771af682.json"
+      }
+    ],
+    "quantity": {
+      "value": 1000,
+      "unit": "credits",
+      "raw": "First subscription: 1,000 Credits for Lite, 2,000 for Pro, 6,000 for Pro+, and 0 for Ultra."
     }
   },
   {
@@ -1060,6 +1183,61 @@
   },
   {
     "schemaVersion": 0,
+    "offerKey": "3c9dad158662f199",
+    "occurredAt": "2026-10-27",
+    "publishedAt": "2026-10-27T12:15:25.229486+00:00",
+    "verification": "auto_verified",
+    "category": "creditsPromotion",
+    "promotionType": "free",
+    "appliesTo": [
+      "model"
+    ],
+    "vendor": "opencode",
+    "entity": "iceman-contributor-free",
+    "amount": "Iceman Contributor Free: Free for a limited time.",
+    "eligibility": "in exchange for permission to use your prompts and completions to improve the model.",
+    "baseline": null,
+    "howToClaim": "console",
+    "startsAt": null,
+    "startsAtText": null,
+    "expiresAt": null,
+    "expiresAtText": null,
+    "region": null,
+    "supersedes": null,
+    "claimUrl": "https://opencode.ai/v2/docs/console/go/",
+    "sourceId": "opencode-go",
+    "restrictions": "Iceman Contributor Free模型限时免费，结束日期未说明。需依OpenCode Go官方接入流程使用，单成员工作空间；必须允许输入与输出用于改进模型，官方表列Yes/Not ZDR，不提供零数据留存。",
+    "facts": [
+      {
+        "quote": "Iceman Contributor Free: Free for a limited time.",
+        "url": "https://opencode.ai/v2/docs/console/go/",
+        "snapshot": "snapshots/opencode-go/2026-10-27-1210-dfe3b9c9.json"
+      },
+      {
+        "quote": "Iceman Contributor Free Free Free Free - Unlimited",
+        "url": "https://opencode.ai/v2/docs/console/go/",
+        "snapshot": "snapshots/opencode-go/2026-10-27-1210-dfe3b9c9.json"
+      },
+      {
+        "quote": "Iceman Contributor Free Yes Not ZDR",
+        "url": "https://opencode.ai/v2/docs/console/go/",
+        "snapshot": "snapshots/opencode-go/2026-10-27-1210-dfe3b9c9.json"
+      },
+      {
+        "quote": "Iceman Contributor Free: Free for a limited time in exchange for permission to use your prompts and completions to improve the model.",
+        "url": "https://opencode.ai/v2/docs/console/go/",
+        "snapshot": "snapshots/opencode-go/2026-10-27-1210-dfe3b9c9.json"
+      },
+      {
+        "quote": "Go and Go Plus are for workspaces with a single member",
+        "url": "https://opencode.ai/v2/docs/console/go/",
+        "snapshot": "snapshots/opencode-go/2026-10-27-1210-dfe3b9c9.json"
+      }
+    ],
+    "quantity": null
+  },
+  {
+    "schemaVersion": 0,
     "offerKey": "3dd0057c92aada6f",
     "occurredAt": "2026-09-18",
     "publishedAt": "2026-09-18T11:33:00Z",
@@ -1156,6 +1334,188 @@
       }
     ],
     "baseline": "按量付费",
+    "quantity": null
+  },
+  {
+    "schemaVersion": 0,
+    "offerKey": "48ddcb72c9f88d8f",
+    "occurredAt": "2026-10-11",
+    "publishedAt": "2026-10-11T00:00:00Z",
+    "verification": "auto_verified",
+    "category": "creditsPromotion",
+    "vendor": "opencode",
+    "entity": "opencode-go-plus",
+    "amount": "$40/month",
+    "eligibility": "single member",
+    "appliesTo": [
+      "subscription",
+      "apiCredit"
+    ],
+    "planKind": "tokenPlan",
+    "howToClaim": "purchase",
+    "startsAt": null,
+    "startsAtText": null,
+    "expiresAt": null,
+    "expiresAtText": null,
+    "baseline": null,
+    "claimUrl": "https://opencode.ai/v2/docs/console/go/",
+    "sourceId": "opencode-go",
+    "restrictions": "5 小时为对应月额度的 20%，每周为 50%；仅单成员工作空间，订阅后不能邀请成员。 按官方模型表展示月用量等值，不同模型额度不可相加。Gemini 4 Argon月额度为$120；50%价格折扣适用至2026年11月30日，输入/输出/缓存读取每百万tokens分别从$4/$20/$0.20降至$2/$10/$0.10。普通Argon替换Contributor，官方表列不用于训练、留存0天。Step 5 Preview与MiniMax M3.1 Flash额度见模型列表；Kimi K3.1 Pro额度保持。DeepSeek需允许Global区域；Muse Contributor端点需允许使用请求数据训练。",
+    "facts": [
+      {
+        "quote": "Go Plus $40/month Higher usage limits across the models below",
+        "url": "https://opencode.ai/v2/docs/console/go/",
+        "snapshot": "snapshots/opencode-go/2026-10-16-0008-233d74c8.json"
+      },
+      {
+        "quote": "DeepSeek V4.1 Flash (Off-Peak) $0.15 $0.60 $0.003 - $160",
+        "url": "https://opencode.ai/v2/docs/console/go/",
+        "snapshot": "snapshots/opencode-go/2026-10-16-0008-233d74c8.json"
+      },
+      {
+        "quote": "GLM-5.3 $1.40 $4.40 $0.26 - $120",
+        "url": "https://opencode.ai/v2/docs/console/go/",
+        "snapshot": "snapshots/opencode-go/2026-10-16-0008-233d74c8.json"
+      },
+      {
+        "quote": "MiMo-V2.6-Pro $0.435 $0.87 $0.003625 - $60",
+        "url": "https://opencode.ai/v2/docs/console/go/",
+        "snapshot": "snapshots/opencode-go/2026-10-16-0008-233d74c8.json"
+      },
+      {
+        "quote": "Each model has the following usage limits: 5-hour — 20% of the monthly limit;\nweekly — 50%; and monthly — 100%.",
+        "url": "https://opencode.ai/v2/docs/console/go/",
+        "snapshot": "snapshots/opencode-go/2026-10-16-0008-233d74c8.json"
+      },
+      {
+        "quote": "Go and Go Plus are for workspaces with a single member",
+        "url": "https://opencode.ai/v2/docs/console/go/",
+        "snapshot": "snapshots/opencode-go/2026-10-16-0008-233d74c8.json"
+      },
+      {
+        "quote": "workspace with a Go subscription cannot invite members.",
+        "url": "https://opencode.ai/v2/docs/console/go/",
+        "snapshot": "snapshots/opencode-go/2026-10-16-0008-233d74c8.json"
+      },
+      {
+        "quote": "2x · Limited time",
+        "url": "https://opencode.ai/v2/docs/console/go/",
+        "snapshot": "snapshots/opencode-go/2026-10-16-0008-233d74c8.json"
+      },
+      {
+        "quote": "Step 5 Preview $1.00 $2.70 $0.10 - $60",
+        "url": "https://opencode.ai/v2/docs/console/go/",
+        "snapshot": "snapshots/opencode-go/2026-10-22-2358-83e107b8.json"
+      },
+      {
+        "quote": "MiniMax M3.1 Flash $0.15 $0.60 $0.015 - $80",
+        "url": "https://opencode.ai/v2/docs/console/go/",
+        "snapshot": "snapshots/opencode-go/2026-10-22-2358-83e107b8.json"
+      },
+      {
+        "quote": "Kimi K3.1 Pro $2.00 $10.00 $0.20 $2.00 $60",
+        "url": "https://opencode.ai/v2/docs/console/go/",
+        "snapshot": "snapshots/opencode-go/2026-10-24-0022-e5cf5086.json"
+      },
+      {
+        "quote": "Gemini 4 Argon (50% off) $4.00 $2.00 $20.00 $10.00 $0.20 $0.10 - $120",
+        "url": "https://opencode.ai/v2/docs/console/go/",
+        "snapshot": "snapshots/opencode-go/2026-10-25-0046-205e5d55.json"
+      },
+      {
+        "quote": "Gemini 4 Argon: The 50% discount applies through November 30, 2026.",
+        "url": "https://opencode.ai/v2/docs/console/go/",
+        "snapshot": "snapshots/opencode-go/2026-10-25-0046-205e5d55.json"
+      },
+      {
+        "quote": "Gemini 4 Argon Not used 0 days",
+        "url": "https://opencode.ai/v2/docs/console/go/",
+        "snapshot": "snapshots/opencode-go/2026-10-25-0046-205e5d55.json"
+      },
+      {
+        "quote": "Enable restricted models\nWorkspace privacy settings apply to Go. By default, paid endpoints that train on request data are blocked, and\nallowed regions are Europe & United States . Workspaces without saved privacy settings also allow Global\nfor requests from China.\nIn Settings › Privacy , an owner or admin can enable:\nDeepSeek V4.1 Flash and V4 Pro: select Global under Regions .\nMuse Spark 1.3 Contributor and Muse Spark 1.2 Contributor: turn on Allow paid endpoints that train on request data .\nSee Privacy for each model’s training and retention terms.",
+        "url": "https://opencode.ai/v2/docs/console/go/",
+        "snapshot": "snapshots/opencode-go/2026-10-25-0046-205e5d55.json"
+      }
+    ],
+    "supersedes": null,
+    "promotionType": "allowance",
+    "planName": "OpenCode Go Plus",
+    "allowance": {
+      "price": {
+        "value": 40,
+        "currency": "USD",
+        "period": "month",
+        "text": "$40/month",
+        "fact": 0
+      },
+      "models": [
+        {
+          "model": "DeepSeek V4.1 Flash (Off-Peak)",
+          "value": 160,
+          "currency": "USD",
+          "period": "month",
+          "text": "$160",
+          "fact": 1
+        },
+        {
+          "model": "GLM-5.3",
+          "value": 120,
+          "currency": "USD",
+          "period": "month",
+          "text": "$120",
+          "fact": 2
+        },
+        {
+          "model": "MiMo-V2.6-Pro",
+          "value": 60,
+          "currency": "USD",
+          "period": "month",
+          "text": "$60",
+          "fact": 3
+        },
+        {
+          "model": "Step 5 Preview",
+          "value": 60,
+          "currency": "USD",
+          "period": "month",
+          "text": "$60",
+          "fact": 8
+        },
+        {
+          "model": "MiniMax M3.1 Flash",
+          "value": 80,
+          "currency": "USD",
+          "period": "month",
+          "text": "$80",
+          "fact": 9
+        },
+        {
+          "model": "Kimi K3.1 Pro",
+          "value": 60,
+          "currency": "USD",
+          "period": "month",
+          "text": "$60",
+          "fact": 10
+        },
+        {
+          "model": "Gemini 4 Argon",
+          "value": 120,
+          "currency": "USD",
+          "period": "month",
+          "text": "$120",
+          "fact": 11
+        }
+      ],
+      "limits": {
+        "zh": "5 小时为对应月额度的 20%，每周为 50%；仅单成员工作空间，订阅后不能邀请成员。",
+        "en": "5-hour allowance: 20% of the model monthly limit; weekly: 50%. Only single-member workspaces; Go workspaces cannot invite members."
+      },
+      "notes": {
+        "zh": "按官方模型表展示月用量等值，不同模型额度不可相加。Gemini 4 Argon月额度为$120；50%价格折扣适用至2026年11月30日，输入/输出/缓存读取每百万tokens分别从$4/$20/$0.20降至$2/$10/$0.10。普通Argon替换Contributor，官方表列不用于训练、留存0天。Step 5 Preview与MiniMax M3.1 Flash额度见模型列表；Kimi K3.1 Pro额度保持。DeepSeek需允许Global区域；Muse Contributor端点需允许使用请求数据训练。",
+        "en": "Model monthly usage equivalents are not additive. Gemini 4 Argon has a $120 monthly allowance; its 50% pricing discount applies through November 30, 2026. Input/output/cached-read prices per million tokens fall from $4/$20/$0.20 to $2/$10/$0.10. Standard Argon replaces Contributor: not used for training, 0-day retention. Other listed model allowances remain. DeepSeek requires Global regions; Muse Contributor endpoints require permitting training on request data."
+      }
+    },
     "quantity": null
   },
   {
@@ -1283,6 +1643,91 @@
       "unit": "credits",
       "raw": "每次 100 通用 Credits"
     }
+  },
+  {
+    "schemaVersion": 0,
+    "occurredAt": "2026-10-29",
+    "publishedAt": "2026-09-18T17:38:00Z",
+    "verification": "auto_verified",
+    "category": "creditsPromotion",
+    "region": null,
+    "startsAt": null,
+    "startsAtText": null,
+    "expiresAt": null,
+    "expiresAtText": null,
+    "validityText": null,
+    "supersedes": null,
+    "offerKey": "4f2d710c4cfd534f",
+    "promotionType": "referral",
+    "appliesTo": [
+      "agent"
+    ],
+    "vendor": "qoder",
+    "entity": "qoder-referral-activity",
+    "amount": "100 Credits",
+    "eligibility": "Your friend chats or runs a task on 3 days within 7 days.",
+    "baseline": null,
+    "howToClaim": "invite",
+    "restrictions": "邀请方奖励；好友通过邀请链接注册，完成相应活动条件。到账时间及此档有效期来源未说明。",
+    "claimUrl": "https://qoder.com/activities",
+    "sourceId": "qoder-activities-index",
+    "facts": [
+      {
+        "quote": "100 Credits",
+        "url": "https://qoder.com/activities",
+        "snapshot": "snapshots/qoder-activities-index/2026-10-29-0333-7f9d1c93.json"
+      },
+      {
+        "quote": "Your friend chats or runs a task on 3 days within 7 days.",
+        "url": "https://qoder.com/activities",
+        "snapshot": "snapshots/qoder-activities-index/2026-10-29-0333-7f9d1c93.json"
+      }
+    ],
+    "quantity": {
+      "value": 100,
+      "unit": "credits",
+      "raw": "100 Credits"
+    }
+  },
+  {
+    "schemaVersion": 0,
+    "offerKey": "5ccdd469f5d8ba79",
+    "occurredAt": "2026-10-23",
+    "publishedAt": "2026-10-23T12:15:55.128978+00:00",
+    "verification": "auto_verified",
+    "category": "creditsPromotion",
+    "vendor": "baidu",
+    "entity": "baidu-qianfan-token-plan-pro",
+    "promotionType": "discount",
+    "appliesTo": [
+      "subscription"
+    ],
+    "planKind": "tokenPlan",
+    "amount": "¥ 99.9 /月",
+    "eligibility": "首购半价",
+    "baseline": "¥200/月",
+    "startsAt": null,
+    "startsAtText": null,
+    "expiresAt": null,
+    "expiresAtText": null,
+    "howToClaim": "purchase",
+    "supersedes": null,
+    "sourceId": "baidu-qianfan-tokenplan-invite",
+    "claimUrl": "https://cloud.baidu.com/product-s/qianfan_home/qianfan_invite",
+    "restrictions": "千帆Token Plan个人版Pro首购月价99.9元，原标价200元/月；页面列明每月45,000积分。活动截止日期和续订是否同价未说明，不将首购价作为永久续费价格；积分不当作固定请求次数。",
+    "facts": [
+      {
+        "quote": "Pro\n高频开发，持续创作无压力\n45,000 积分 /月\n¥ 99.9 /月 ¥200/月",
+        "url": "https://cloud.baidu.com/product-s/qianfan_home/qianfan_invite",
+        "snapshot": "snapshots/baidu-qianfan-tokenplan-invite/2026-10-23-1212-0aa1e5ab.json"
+      },
+      {
+        "quote": "首购半价低至 4.9 元起，高倍率、超大容量的积分 / Token 供给，让用户彻底放开手脚",
+        "url": "https://cloud.baidu.com/product-s/qianfan_home/qianfan_invite",
+        "snapshot": "snapshots/baidu-qianfan-tokenplan-invite/2026-10-23-1212-0aa1e5ab.json"
+      }
+    ],
+    "quantity": null
   },
   {
     "schemaVersion": 0,
@@ -1537,6 +1982,51 @@
   },
   {
     "schemaVersion": 0,
+    "offerKey": "6865e91341caf8f0",
+    "occurredAt": "2026-10-11",
+    "publishedAt": "2026-10-11T00:00:00Z",
+    "verification": "auto_verified",
+    "category": "creditsPromotion",
+    "vendor": "zhipu",
+    "entity": "glm-5.3-flash-api-discount",
+    "amount": "限时五折输入 0.4 元、缓存命中 0.115 元、输出 1.4 元",
+    "eligibility": "GLM-5.3-Flash",
+    "promotionType": "discount",
+    "appliesTo": [
+      "apiCredit",
+      "model"
+    ],
+    "baseline": "标准价输入 0.8 元、缓存命中 0.23 元、输出 2.8 元",
+    "startsAt": null,
+    "startsAtText": null,
+    "expiresAt": null,
+    "expiresAtText": null,
+    "howToClaim": "auto",
+    "restrictions": "来源未说明结束日期。",
+    "supersedes": null,
+    "sourceId": "zhipu-bigmodel-pricing",
+    "claimUrl": "https://open.bigmodel.cn/pricing",
+    "facts": [
+      {
+        "quote": "GLM-5.3-Flash",
+        "url": "https://open.bigmodel.cn/pricing",
+        "snapshot": "snapshots/zhipu-bigmodel-pricing/2026-10-10-1140-f0b61c8f.json"
+      },
+      {
+        "quote": "GLM-5.3-Flash：输入0.8元 / M，输出2.8元/M",
+        "url": "https://open.bigmodel.cn/pricing",
+        "snapshot": "snapshots/zhipu-bigmodel-pricing/2026-10-10-1140-f0b61c8f.json"
+      },
+      {
+        "quote": "GLM-5.3-Flash（原生多模态、1M 上下文）：限时五折输入 0.4 元、缓存命中 0.115 元、输出 1.4 元；标准价输入 0.8 元、缓存命中 0.23 元、输出 2.8 元",
+        "url": "https://open.bigmodel.cn/pricing",
+        "snapshot": "snapshots/zhipu-bigmodel-pricing/2026-10-10-1140-f0b61c8f.json"
+      }
+    ],
+    "quantity": null
+  },
+  {
+    "schemaVersion": 0,
     "offerKey": "708674295ff0fa1e",
     "occurredAt": "2026-09-27",
     "publishedAt": "2026-09-27T13:55:38.247Z",
@@ -1702,6 +2192,133 @@
   },
   {
     "schemaVersion": 0,
+    "offerKey": "7c1d3a4c7f728ad1",
+    "occurredAt": "2026-10-12",
+    "publishedAt": "2026-10-11T17:54:16.785Z",
+    "verification": "auto_verified",
+    "category": "creditsPromotion",
+    "promotionType": "allowance",
+    "vendor": "commandcode",
+    "entity": "commandcode-go",
+    "planName": "Command Code Go",
+    "appliesTo": [
+      "subscription"
+    ],
+    "planKind": "toolPlan",
+    "amount": "$1/month",
+    "eligibility": null,
+    "baseline": null,
+    "howToClaim": "purchase",
+    "startsAt": null,
+    "startsAtText": null,
+    "expiresAt": null,
+    "expiresAtText": null,
+    "claimUrl": "https://commandcode.ai/docs/plans/go",
+    "sourceId": "commandcode-go",
+    "facts": [
+      {
+        "quote": "The Go plan is the $1/month entry point to Command Code: open models, available globally, for the price of a coffee once a month. Your $1 buys $10 of credits. A 10x multiplier as one shared pool with a monthly usage on every model.",
+        "url": "https://commandcode.ai/docs/plans/go",
+        "snapshot": "snapshots/commandcode-go/2026-10-11-1754-b5eed048.json"
+      },
+      {
+        "quote": "DeepSeek V4.1 Flash $0.15 $0.60 $0.003 - $10",
+        "url": "https://commandcode.ai/docs/plans/go",
+        "snapshot": "snapshots/commandcode-go/2026-10-11-1754-b5eed048.json"
+      },
+      {
+        "quote": "GLM-5.2 $1.40 $4.40 $0.26 - $10",
+        "url": "https://commandcode.ai/docs/plans/go",
+        "snapshot": "snapshots/commandcode-go/2026-10-11-1754-b5eed048.json"
+      },
+      {
+        "quote": "MiMo V2.6 Pro $0.435 $0.87 $0.0036 - $6",
+        "url": "https://commandcode.ai/docs/plans/go",
+        "snapshot": "snapshots/commandcode-go/2026-10-11-1754-b5eed048.json"
+      },
+      {
+        "quote": "5-hour limit - $3 of usage\nWeekly limit - $6 of usage\nMonthly limit - $10 of usage",
+        "url": "https://commandcode.ai/docs/plans/go",
+        "snapshot": "snapshots/commandcode-go/2026-10-11-1754-b5eed048.json"
+      },
+      {
+        "quote": "Plan Your cost Monthly credits 5-hour limit Weekly limit\nGo $1 $10 of usage $2 $5",
+        "url": "https://commandcode.ai/docs/resources/pricing-limits",
+        "snapshot": "snapshots/commandcode-pricing-limits/2026-10-11-1754-a5b6e94b.json"
+      },
+      {
+        "quote": "These usage limits all come out of one shared $10 pool. A model&#x27;s monthly credits allocation is how much usage that pool is worth if you spend the whole month on that model. Mix models and the pool is spent in proportion: $1 of usage on a model with boosted credits takes a smaller share of the pool than $1 of usage on a model with standard credits. The usage limits below work the same way.",
+        "url": "https://commandcode.ai/docs/plans/go",
+        "snapshot": "snapshots/commandcode-go/2026-10-11-1754-b5eed048.json"
+      },
+      {
+        "quote": "Go is the only plan without API access",
+        "url": "https://commandcode.ai/docs/plans/go",
+        "snapshot": "snapshots/commandcode-go/2026-10-11-1754-b5eed048.json"
+      },
+      {
+        "quote": "Kimi K3.1 Pro $2.00 $10.00 $0.20 - $6",
+        "url": "https://commandcode.ai/docs/plans/go",
+        "snapshot": "snapshots/commandcode-go/2026-10-24-0007-8bad1fe0.json"
+      }
+    ],
+    "supersedes": null,
+    "allowance": {
+      "price": {
+        "value": 1,
+        "currency": "USD",
+        "period": "month",
+        "text": "$1/month",
+        "fact": 0
+      },
+      "models": [
+        {
+          "model": "DeepSeek V4.1 Flash",
+          "value": 10,
+          "currency": "USD",
+          "period": "month",
+          "text": "$10",
+          "fact": 1
+        },
+        {
+          "model": "GLM-5.2",
+          "value": 10,
+          "currency": "USD",
+          "period": "month",
+          "text": "$10",
+          "fact": 2
+        },
+        {
+          "model": "MiMo V2.6 Pro",
+          "value": 6,
+          "currency": "USD",
+          "period": "month",
+          "text": "$6",
+          "fact": 3
+        },
+        {
+          "model": "Kimi K3.1 Pro",
+          "value": 6,
+          "currency": "USD",
+          "period": "month",
+          "text": "$6",
+          "fact": 8
+        }
+      ],
+      "limits": {
+        "zh": "官方两页口径不同：Go 页为 5 小时 $3、每周 $6；价格规则页为 $2、$5。实际窗口以控制台为准。",
+        "en": "Official pages differ: Go lists $3 per 5 hours / $6 per week; Pricing & Limits lists $2 / $5. Check your console for the applied limits."
+      },
+      "notes": {
+        "zh": "示例模型按各自计价折算，共用一个套餐额度池，不可相加。Go 不支持 Provider API。 Kimi K3.1 Pro月用量等值为$6。",
+        "en": "Examples are model-specific usage equivalents from one shared plan pool; do not add them together. Go has no Provider API access. Kimi K3.1 Pro provides $6 monthly usage equivalent."
+      }
+    },
+    "restrictions": "官方两页口径不同：Go 页为 5 小时 $3、每周 $6；价格规则页为 $2、$5。实际窗口以控制台为准。 示例模型按各自计价折算，共用一个套餐额度池，不可相加。Go 不支持 Provider API。 Kimi K3.1 Pro月用量等值为$6。",
+    "quantity": null
+  },
+  {
+    "schemaVersion": 0,
     "offerKey": "83fb85b6d9431bbd",
     "occurredAt": "2026-09-18",
     "publishedAt": "2026-09-18T17:38:00Z",
@@ -1843,930 +2460,6 @@
   },
   {
     "schemaVersion": 0,
-    "offerKey": "ad6b185485a0180a",
-    "occurredAt": "2026-09-18",
-    "publishedAt": "2026-09-18T11:33:00Z",
-    "verification": "auto_verified",
-    "category": "creditsPromotion",
-    "promotionType": "free",
-    "appliesTo": [
-      "model"
-    ],
-    "vendor": "qoder",
-    "entity": "qwen3.8-flash",
-    "amount": "计费系数由 0.1× 降至 0.0×",
-    "eligibility": "Qoder 国际版新老个人用户",
-    "howToClaim": "auto",
-    "startsAt": "2026-09-18T02:00:00Z",
-    "startsAtText": "2026 年 9 月 18 日 10:00",
-    "expiresAt": null,
-    "expiresAtText": null,
-    "region": null,
-    "restrictions": "免费期已延长，10 月 1 日起继续免费，结束时间提前在官方页面公告；团队版及企业版不适用；免费个人账号及 Credits 余额为 0 的账号也可参与。 官方现明确个人Lite套餐也可参与；模型与其它限制仍按原活动规则。 免费仅适用于实际由Qwen3.8-Flash完成的调用；部分功能内部调用其它指定模型时，相关调用仍按对应模型规则计费。",
-    "claimUrl": "https://docs.qoder.com/zh/events/flashoffer",
-    "sourceId": "qoder-events-flashoffer",
-    "facts": [
-      {
-        "quote": "2026 年 9 月 18 日 10:00 起，Qoder 国际版面向所有新老个人用户开放 Qwen3.8-Flash 限时免费使用 。活动期间，调用该模型不消耗 Credits，计费系数由 0.1× 降至 0.0× 。无需领取，选择该模型即可免费使用， 免费账号及 Credits 余额为 0 的账号也可参与 。",
-        "url": "https://docs.qoder.com/zh/events/flashoffer",
-        "snapshot": "snapshots/qoder-events-flashoffer/2026-10-10-1136-cb2c915b.json"
-      },
-      {
-        "quote": "活动时间 ：2026 年 9 月 18 日 10:00 起。原定 9 月 30 日 23:59:59 结束，现已延长，10 月 1 日起继续免费，结束时间将提前在本页公告。",
-        "url": "https://docs.qoder.com/zh/events/flashoffer",
-        "snapshot": "snapshots/qoder-events-flashoffer/2026-10-10-1136-cb2c915b.json"
-      },
-      {
-        "quote": "适用用户 ：Qoder 国际版新老个人用户，包括体验版（免费）、Pro 试用期、Pro、Pro+ 和 Ultra 用户。团队版（Teams）及企业版（Enterprise）订阅用户不适用。",
-        "url": "https://docs.qoder.com/zh/events/flashoffer",
-        "snapshot": "snapshots/qoder-events-flashoffer/2026-10-10-1136-cb2c915b.json"
-      },
-      {
-        "quote": "优惠内容 ：指定模型计费系数由 0.1× 降至 0.0×，调用该模型不消耗 Credits。",
-        "url": "https://docs.qoder.com/zh/events/flashoffer",
-        "snapshot": "snapshots/qoder-events-flashoffer/2026-10-10-1136-cb2c915b.json"
-      },
-      {
-        "quote": "活动延期 ：原定 9 月 30 日结束的免费期现已延长， 10 月 1 日起继续免费 。无需任何操作，照常选择 Qwen3.8-Flash 即可。结束时间将提前在本页公告。",
-        "url": "https://docs.qoder.com/zh/events/flashoffer",
-        "snapshot": "snapshots/qoder-events-flashoffer/2026-10-10-1136-cb2c915b.json"
-      },
-      {
-        "quote": "本次优惠仅适用于 Qwen3.8-Flash。其他模型或档位按照各自的计费及优惠规则执行。",
-        "url": "https://docs.qoder.com/zh/events/flashoffer",
-        "snapshot": "snapshots/qoder-events-flashoffer/2026-10-10-1136-cb2c915b.json"
-      },
-      {
-        "quote": "适用用户 ：Qoder 国际版新老个人用户，包括体验版（免费）、Pro 试用期、Lite、Pro、Pro+ 和 Ultra 用户。团队版（Teams）及企业版（Enterprise）订阅用户不适用。",
-        "url": "https://docs.qoder.com/zh/events/flashoffer",
-        "snapshot": "snapshots/qoder-events-flashoffer/2026-10-22-2359-bae983bb.json"
-      },
-      {
-        "quote": "计费说明 ：本次免费仅适用于实际由 Qwen3.8-Flash 完成的调用。部分功能在运行时可能会调用特定模型，相关调用将按照对应模型的计费规则计费，不享受本次免费。",
-        "url": "https://docs.qoder.com/zh/events/flashoffer",
-        "snapshot": "snapshots/qoder-events-flashoffer/2026-10-27-1211-c1bd5b1b.json"
-      }
-    ],
-    "supersedes": null,
-    "quantity": null
-  },
-  {
-    "schemaVersion": 0,
-    "offerKey": "b366b833d0c4df59",
-    "occurredAt": "2026-09-18",
-    "publishedAt": "2026-09-18T12:02:00Z",
-    "verification": "auto_verified",
-    "category": "creditsPromotion",
-    "promotionType": "referral",
-    "appliesTo": [
-      "subscription"
-    ],
-    "planKind": "toolPlan",
-    "vendor": "moonshot",
-    "entity": "kimi-moon-companion-plan",
-    "amount": "Kimi Go 等级的会员等值额度",
-    "eligibility": "好友须通过邀请链接或海报二维码确定绑定关系，并在绑定后 24 小时内完成 Kimi 会员订阅且支付成功",
-    "howToClaim": "invite",
-    "startsAt": null,
-    "expiresAt": null,
-    "expiresAtText": null,
-    "restrictions": "邀请注册任务已停止；当前邀请好友订阅会员，绑定后 24 小时内支付成功，双方各获 1 次抽奖机会；同一好友仅首次助力有效，个人版用户参与。",
-    "claimUrl": "https://www.kimi.ai/zh-hans/help/kimi-blackboard/moon-companion-plan",
-    "sourceId": "moonshot-moon-companion-plan",
-    "facts": [
-      {
-        "quote": "好友须通过邀请链接或海报二维码确定绑定关系，并在绑定后 24 小时内完成 Kimi 会员订阅且支付成功；超时则该次邀请失效。",
-        "url": "https://www.kimi.ai/zh-hans/help/kimi-blackboard/moon-companion-plan",
-        "snapshot": "snapshots/moonshot-moon-companion-plan/2026-10-10-1134-5309627e.json"
-      },
-      {
-        "quote": "活动奖品为 Kimi Go 等级的会员等值额度，包括：",
-        "url": "https://www.kimi.ai/zh-hans/help/kimi-blackboard/moon-companion-plan",
-        "snapshot": "snapshots/moonshot-moon-companion-plan/2026-10-10-1134-5309627e.json"
-      },
-      {
-        "quote": "本说明依据 2026 年 9 月 20 日起执行的活动规则。此前已取得的抽奖机会及奖品，仍可按此前活动规则继续使用和兑换。",
-        "url": "https://www.kimi.ai/zh-hans/help/kimi-blackboard/moon-companion-plan",
-        "snapshot": "snapshots/moonshot-moon-companion-plan/2026-10-10-1134-5309627e.json"
-      },
-      {
-        "quote": "活动规则可在活动页面右上角查看。具体任务、奖品和活动周期均以活动页面的最新展示为准。",
-        "url": "https://www.kimi.ai/zh-hans/help/kimi-blackboard/moon-companion-plan",
-        "snapshot": "snapshots/moonshot-moon-companion-plan/2026-10-10-1134-5309627e.json"
-      }
-    ],
-    "supersedes": null,
-    "quantity": null
-  },
-  {
-    "schemaVersion": 0,
-    "occurredAt": "2026-09-18",
-    "publishedAt": "2026-09-18T17:38:00Z",
-    "verification": "auto_verified",
-    "category": "creditsPromotion",
-    "region": null,
-    "startsAt": null,
-    "startsAtText": null,
-    "expiresAt": null,
-    "expiresAtText": null,
-    "validityText": null,
-    "supersedes": null,
-    "offerKey": "b43edc15d8ead8d4",
-    "promotionType": "newcomer",
-    "appliesTo": [
-      "agent"
-    ],
-    "vendor": "qoder",
-    "entity": "qoder-trial",
-    "amount": "300 Credits as your welcome gift",
-    "eligibility": "New users",
-    "baseline": null,
-    "howToClaim": "signup",
-    "restrictions": "2-Week Trial，注册后在客户端领取；结束时间来源未说明",
-    "claimUrl": "https://qoder.com/activities",
-    "sourceId": "qoder-activities-index",
-    "facts": [
-      {
-        "quote": "300 Credits as your welcome gift",
-        "url": "https://qoder.com/activities",
-        "snapshot": "snapshots/qoder-activities-index/2026-09-18-1735-f2598a3b.json"
-      },
-      {
-        "quote": "New users",
-        "url": "https://qoder.com/activities",
-        "snapshot": "snapshots/qoder-activities-index/2026-09-18-1735-f2598a3b.json"
-      },
-      {
-        "quote": "2 -Week Trial",
-        "url": "https://qoder.com/activities",
-        "snapshot": "snapshots/qoder-activities-index/2026-09-18-1735-f2598a3b.json"
-      },
-      {
-        "quote": "Register to claim",
-        "url": "https://qoder.com/activities",
-        "snapshot": "snapshots/qoder-activities-index/2026-09-18-1735-f2598a3b.json"
-      }
-    ],
-    "quantity": {
-      "value": 300,
-      "unit": "credits",
-      "raw": "300 Credits as your welcome gift"
-    }
-  },
-  {
-    "schemaVersion": 0,
-    "offerKey": "bf785ca1d6f8e018",
-    "occurredAt": "2026-09-27",
-    "publishedAt": "2026-09-27T13:55:38.247Z",
-    "verification": "auto_verified",
-    "category": "creditsPromotion",
-    "region": null,
-    "startsAt": null,
-    "startsAtText": null,
-    "expiresAt": null,
-    "expiresAtText": null,
-    "validityText": "decision-model-preview 限时免费",
-    "supersedes": null,
-    "promotionType": "discount",
-    "appliesTo": [
-      "subscription"
-    ],
-    "planKind": "tokenPlan",
-    "vendor": "qianwen",
-    "entity": "qianwen-token-plan",
-    "amount": "调用不消耗 Credits",
-    "eligibility": "decision-model-preview 限时免费",
-    "baseline": "通过 Credits 统一抵扣模型调用及 模型内置工具 的费用",
-    "howToClaim": "auto",
-    "restrictions": "限时把套餐内额度消耗规则降为 0，按判据记 discount（参照物为标准 Credits 抵扣），不按 free 入库；页面标「限时免费」但未给出活动固定截止日；接入方法参见页面「接入决策模型」",
-    "claimUrl": "https://help.aliyun.com/zh/model-studio/token-plan-personal-overview",
-    "sourceId": "qianwen-token-plan-reset",
-    "facts": [
-      {
-        "quote": "decision-model-preview 限时免费 ：调用不消耗 Credits。接入方法参见 接入决策模型 。",
-        "url": "https://help.aliyun.com/zh/model-studio/token-plan-personal-overview",
-        "snapshot": "snapshots/qianwen-token-plan-reset/2026-09-27-1355-dd5a629d.json"
-      }
-    ],
-    "quantity": null
-  },
-  {
-    "schemaVersion": 0,
-    "offerKey": "c01a151447cb0ad2",
-    "occurredAt": "2026-09-18",
-    "publishedAt": "2026-09-18T12:02:00Z",
-    "verification": "auto_verified",
-    "category": "creditsPromotion",
-    "promotionType": "newcomer",
-    "appliesTo": [
-      "apiCredit"
-    ],
-    "vendor": "moonshot",
-    "entity": "kimi-open-platform",
-    "amount": "15 元代金券",
-    "eligibility": "国内手机号注册的新用户",
-    "howToClaim": "realName",
-    "startsAt": null,
-    "expiresAt": null,
-    "validityText": "代金券自发放之日起 3 个月内有效，过期自动失效",
-    "restrictions": "完成实名认证后发放；自动应用于 API 调用消耗，余额优先于充值余额扣减；不可用于体验 Kimi K3",
-    "claimUrl": "https://www.kimi.com/zh-cn/help/kimi-api/api-free-trial",
-    "sourceId": "moonshot-api-free-trial",
-    "facts": [
-      {
-        "quote": "Kimi 开放平台为新注册用户提供免费测试额度，让你在正式使用前充分体验平台能力。",
-        "url": "https://www.kimi.com/zh-cn/help/kimi-api/api-free-trial",
-        "snapshot": "snapshots/moonshot-api-free-trial/2026-09-18-1202-3587b4c1.json"
-      },
-      {
-        "quote": "适用对象 ：国内手机号注册的新用户。",
-        "url": "https://www.kimi.com/zh-cn/help/kimi-api/api-free-trial",
-        "snapshot": "snapshots/moonshot-api-free-trial/2026-09-18-1202-3587b4c1.json"
-      },
-      {
-        "quote": "赠送金额 ：注册即赠送 15 元代金券 。",
-        "url": "https://www.kimi.com/zh-cn/help/kimi-api/api-free-trial",
-        "snapshot": "snapshots/moonshot-api-free-trial/2026-09-18-1202-3587b4c1.json"
-      },
-      {
-        "quote": "领取条件 ：完成实名认证后发放。",
-        "url": "https://www.kimi.com/zh-cn/help/kimi-api/api-free-trial",
-        "snapshot": "snapshots/moonshot-api-free-trial/2026-09-18-1202-3587b4c1.json"
-      },
-      {
-        "quote": "有效期 ：代金券自发放之日起 3 个月 内有效，过期自动失效。",
-        "url": "https://www.kimi.com/zh-cn/help/kimi-api/api-free-trial",
-        "snapshot": "snapshots/moonshot-api-free-trial/2026-09-18-1202-3587b4c1.json"
-      },
-      {
-        "quote": "模型发布后，国内注册并完成认证的用户获赠的 15 元代金券不可用于体验 Kimi K3，请充值后解锁使用。",
-        "url": "https://www.kimi.com/zh-cn/help/kimi-api/api-free-trial",
-        "snapshot": "snapshots/moonshot-api-free-trial/2026-09-18-1202-3587b4c1.json"
-      }
-    ],
-    "supersedes": null,
-    "quantity": null
-  },
-  {
-    "schemaVersion": 0,
-    "offerKey": "e6a805d8703434ab",
-    "occurredAt": "2026-09-27",
-    "publishedAt": "2026-09-27T13:55:51.632Z",
-    "verification": "auto_verified",
-    "category": "creditsPromotion",
-    "region": null,
-    "startsAt": "2026-09-03T14:00:00+08:00",
-    "startsAtText": "2026 年 9 月 3 日 14:00（新加坡时间）",
-    "expiresAt": null,
-    "expiresAtText": null,
-    "validityText": null,
-    "supersedes": null,
-    "promotionType": "discount",
-    "appliesTo": [
-      "model",
-      "subscription"
-    ],
-    "planKind": "toolPlan",
-    "vendor": "qoder",
-    "entity": "qoder-efficient-tier",
-    "amount": "计费系数由 0.3x 降至 0.0x",
-    "eligibility": "选择「经济」档位时",
-    "baseline": "0.3x",
-    "howToClaim": "auto",
-    "restrictions": "限时改松套餐内额度的消耗规则，省的是 Credits，并非额外赠送：「经济」档位的标准倍率 0.3x，活动期内降为 0.0x。适用用户为付费用户（个人订阅 Pro、Pro+、Ultra，以及 Teams、企业版席位），个人体验版用户在 Pro 试用期内、账户有 Credits 时同样适用；自动生效，无需领取。Service Account 被集成调用的场景不参与本次活动，按原系数计费。结束时间待定，结束前会提前通知。高峰时段可能限流或响应较慢。 个人Lite现已纳入；仅适用该方案支持的模型与档位。",
-    "claimUrl": "https://docs.qoder.com/zh/events/efficientunlimited",
-    "sourceId": "qoder-events-efficientunlimited",
-    "facts": [
-      {
-        "quote": "现在起，所有付费用户选择「经济」档位不再扣除 Credits，限时免费使用。",
-        "url": "https://docs.qoder.com/zh/events/efficientunlimited",
-        "snapshot": "snapshots/qoder-events-efficientunlimited/2026-09-27-1355-c3ce144a.json"
-      },
-      {
-        "quote": "优惠内容 ：选择「经济」档位时，计费系数由 0.3x 降至 0.0x，不扣除 Credits。个人订阅、Teams、企业版一致",
-        "url": "https://docs.qoder.com/zh/events/efficientunlimited",
-        "snapshot": "snapshots/qoder-events-efficientunlimited/2026-09-27-1355-c3ce144a.json"
-      },
-      {
-        "quote": "开始时间 ：2026 年 9 月 3 日 14:00（新加坡时间）",
-        "url": "https://docs.qoder.com/zh/events/efficientunlimited",
-        "snapshot": "snapshots/qoder-events-efficientunlimited/2026-09-27-1355-c3ce144a.json"
-      },
-      {
-        "quote": "结束时间 ：待定。结束前会提前通知，并同步更新本页",
-        "url": "https://docs.qoder.com/zh/events/efficientunlimited",
-        "snapshot": "snapshots/qoder-events-efficientunlimited/2026-09-27-1355-c3ce144a.json"
-      },
-      {
-        "quote": "适用用户 ：付费用户，包括个人订阅 Pro、Pro+、Ultra，以及 Teams、企业版席位。个人体验版用户在 Pro 试用期内、账户有 Credits 时同样适用",
-        "url": "https://docs.qoder.com/zh/events/efficientunlimited",
-        "snapshot": "snapshots/qoder-events-efficientunlimited/2026-09-27-1355-c3ce144a.json"
-      },
-      {
-        "quote": "生效方式 ：自动生效。无需领取，无需任何设置。打开模型选择器，选「经济」即可",
-        "url": "https://docs.qoder.com/zh/events/efficientunlimited",
-        "snapshot": "snapshots/qoder-events-efficientunlimited/2026-09-27-1355-c3ce144a.json"
-      },
-      {
-        "quote": "活动期间选择器会显示 0.3x 0.0x",
-        "url": "https://docs.qoder.com/zh/events/efficientunlimited",
-        "snapshot": "snapshots/qoder-events-efficientunlimited/2026-09-27-1355-c3ce144a.json"
-      },
-      {
-        "quote": "Service Account 被集成调用的场景，不参与本次活动，「经济」档位按原系数计费",
-        "url": "https://docs.qoder.com/zh/events/efficientunlimited",
-        "snapshot": "snapshots/qoder-events-efficientunlimited/2026-09-27-1355-c3ce144a.json"
-      },
-      {
-        "quote": "不。本次活动仅适用于「经济」档位。Auto、极致、性能，以及指定具体模型，照常按公示系数计费。",
-        "url": "https://docs.qoder.com/zh/events/efficientunlimited",
-        "snapshot": "snapshots/qoder-events-efficientunlimited/2026-09-27-1355-c3ce144a.json"
-      },
-      {
-        "quote": "适用用户 ：付费用户，包括个人订阅 Lite、Pro、Pro+、Ultra，以及 Teams、企业版席位。个人体验版用户在 Pro 试用期内、账户有 Credits 时同样适用",
-        "url": "https://docs.qoder.com/zh/events/efficientunlimited",
-        "snapshot": "snapshots/qoder-events-efficientunlimited/2026-10-22-2359-3b452454.json"
-      }
-    ],
-    "quantity": null
-  },
-  {
-    "schemaVersion": 0,
-    "occurredAt": "2026-09-18",
-    "publishedAt": "2026-09-18T17:38:00Z",
-    "verification": "auto_verified",
-    "category": "creditsPromotion",
-    "region": null,
-    "startsAt": null,
-    "startsAtText": null,
-    "expiresAt": null,
-    "expiresAtText": null,
-    "validityText": null,
-    "supersedes": null,
-    "offerKey": "fb96add77c18a7c7",
-    "promotionType": "discount",
-    "appliesTo": [
-      "subscription",
-      "apiCredit"
-    ],
-    "planKind": "tokenPlan",
-    "vendor": "minimax",
-    "entity": "minimax-token-plan",
-    "amount": "￥ 4,690",
-    "eligibility": "连续包年",
-    "baseline": "￥5,628",
-    "howToClaim": "purchase",
-    "restrictions": "M Plan Build 连续包年：原价 ￥5,628，年订阅 ￥4,690；Go 的 12 倍用量，含 M3.1 Flash 文本模型、图像与音频生成、网络搜索和多模态理解，以及 H3 视频模型。",
-    "claimUrl": "https://platform.minimax.cn/subscribe/token-plan",
-    "sourceId": "minimax-token-plan",
-    "facts": [
-      {
-        "quote": "连续包月 连续包年 立省2月",
-        "url": "https://platform.minimax.cn/subscribe/token-plan",
-        "snapshot": "snapshots/minimax-token-plan/2026-10-19-1201-3f190f60.json"
-      },
-      {
-        "quote": "Build\n全力创造\n￥5,628\n￥ 4,690\nGo 的 12 倍用量",
-        "url": "https://platform.minimax.cn/subscribe/token-plan",
-        "snapshot": "snapshots/minimax-token-plan/2026-10-19-1201-3f190f60.json"
-      },
-      {
-        "quote": "M Plan 包含哪些模型？如何切换模型？ 三个档位都包含 M3.1 Flash 文本模型，以及图像与音频生成、网络搜索和多模态理解能力；Explore 和 Build 还包含 H3 视频模型，Go 不包含视频模型。如需切换模型，在 API 请求或工具配置中填写对应的模型 ID 即可。",
-        "url": "https://platform.minimax.cn/subscribe/token-plan",
-        "snapshot": "snapshots/minimax-token-plan/2026-10-19-1201-3f190f60.json"
-      }
-    ],
-    "quantity": null
-  },
-  {
-    "schemaVersion": 0,
-    "offerKey": "2258374c95c6e702",
-    "occurredAt": "2026-10-17",
-    "publishedAt": "2026-10-17T00:03:17.973003+00:00",
-    "verification": "auto_verified",
-    "category": "creditsPromotion",
-    "vendor": "commandcode",
-    "entity": "beam-1-0-free",
-    "amount": "Beam 1.0 is free while capacity lasts.",
-    "eligibility": "while capacity lasts",
-    "promotionType": "free",
-    "appliesTo": [
-      "model"
-    ],
-    "baseline": null,
-    "startsAt": null,
-    "startsAtText": null,
-    "expiresAt": null,
-    "expiresAtText": null,
-    "howToClaim": "auto",
-    "restrictions": "Command Code 的 Beam 1.0 在可用容量持续期间免费，无每日请求限制且不消耗 credits。提供方可能保留输入输出并训练，CMD_ZDR=1 会话不可用；官方未给固定结束日期。",
-    "supersedes": null,
-    "sourceId": "commandcode-pricing-limits",
-    "claimUrl": "https://commandcode.ai/docs/resources/pricing-limits",
-    "facts": [
-      {
-        "quote": "DEAL beam-free Beam 1.0 Free while capacity lasts\nauto-applied when you pick beam:free\nModel Beam 1.0\nBeam 1.0 is free while capacity lasts.\nBeam 1.0 is Reflection AI&#x27;s reasoning model for coding and agentic work, with a 1M token context and low, medium, high, xhigh, and max reasoning effort.\nNo daily request limit : use it as much as you like while the free tier lasts.\nKeep sensitive work elsewhere : the provider may keep your prompts and outputs and train on them, so Beam 1.0 won&#x27;t run in a CMD_ZDR=1 session.",
-        "url": "https://commandcode.ai/docs/resources/pricing-limits",
-        "snapshot": "snapshots/commandcode-pricing-limits/2026-10-16-2359-66dcae9d.json"
-      },
-      {
-        "quote": "DEAL beam:free is free, with no daily request limit. Requests on this model cost no credits. while capacity lasts",
-        "url": "https://commandcode.ai/docs/resources/pricing-limits",
-        "snapshot": "snapshots/commandcode-pricing-limits/2026-10-16-2359-66dcae9d.json"
-      }
-    ],
-    "quantity": null
-  },
-  {
-    "schemaVersion": 0,
-    "offerKey": "2498358b777130a9",
-    "occurredAt": "2026-10-21",
-    "publishedAt": "2026-10-21T02:05:49.114433+00:00",
-    "verification": "auto_verified",
-    "category": "creditsPromotion",
-    "vendor": "qoder",
-    "entity": "qoder-first-subscription-20261021",
-    "promotionType": "bonus",
-    "appliesTo": [
-      "subscription"
-    ],
-    "amount": "First subscription: 1,000 Credits for Lite, 2,000 for Pro, 6,000 for Pro+, and 0 for Ultra.",
-    "eligibility": "If your account has never had a successful payment",
-    "baseline": null,
-    "startsAt": "2026-10-21T00:00:00+08:00",
-    "startsAtText": "October 21, 2026 at 00:00 (UTC+8)",
-    "expiresAt": null,
-    "expiresAtText": null,
-    "howToClaim": "purchase",
-    "supersedes": "446642bff10e4457",
-    "sourceId": "qoder-events-newbogo",
-    "planKind": "toolPlan",
-    "restrictions": "仅国际站个人月付首次成功付费账号；Lite/Pro/Pro+分别加赠1000/2000/6000 Credits，首月总额2000/4000/12000，Ultra首购不加赠。退款订单仍算曾付费，过期重订按续费。 支付成功后自动到账，通常数分钟，到账后30天有效。结束时间提前公告；Teams/企业版不适用。",
-    "claimUrl": "https://docs.qoder.com/events/newbogo.md",
-    "facts": [
-      {
-        "quote": "> ## Documentation Index\n> Fetch the complete documentation index at: https://docs.qoder.com/llms.txt\n> Use this file to discover all available pages before exploring further.\n# Limited-Time Offer: Double Credits on Your First Subscription, Plus Bonus Credits on Renewal and Upgrade\nDuring the event, subscribe to the Lite, Pro, or Pro+ Personal plan for the first time to receive bonus Credits equal to the plan's monthly included Credits. Renew or upgrade a Personal plan to receive bonus Credits based on the plan.\n## Event details\n- **Start time**: October 21, 2026 at 00:00 (UTC+8)\n- **End time**: To be announced. We'll announce the end date on this page in advance\n- **Applicable site**: qoder.com\n- **Eligible plans**: Lite, Pro, Pro+, and Ultra Personal plans\n- **Not eligible**: Teams and Enterprise plans\n- **How it works**: Bonus Credits are issued automatically after payment succeeds. No claim is required\n[Subscribe on the Pricing page →](https://qoder.com/pricing)\n## First subscription: Double Credits\nIf your account has never had a successful payment, subscribe to Lite, Pro, or Pro+ for the first time during the event to receive bonus Credits equal to the plan's monthly included Credits. Your account registration date does not matter, and subscribing during the Pro trial is eligible.\n| Plan | Price | Monthly included Credits | Bonus Credits | First-month total |\n| ----- | ---------- | ------------------------ | ------------- | ----------------- |\n| Lite | 10 USD/mo | 1,000 Credits | 1,000 Credits | 2,000 Credits |\n| Pro | 20 USD/mo | 2,000 Credits | 2,000 Credits | 4,000 Credits |\n| Pro+ | 60 USD/mo | 6,000 Credits | 6,000 Credits | 12,000 Credits |\n| Ultra | 200 USD/mo | 20,000 Credits | Not eligible | 20,000 Credits |\n## Renewal and upgrade bonus\nRenew, upgrade, or resubscribe after your subscription expires during the event to receive bonus Credits as follows.\n### Renewal\n| Plan | Monthly included Credits | Bonus Credits |\n| ----- | ------------------------ | ------------- |\n| Lite | 1,000 Credits | 500 Credits |\n| Pro | 2,000 Credits | 1,000 Credits |\n| Pro+ | 6,000 Credits | 2,000 Credits |\n| Ultra | 20,000 Credits | 3,000 Credits |\n### Upgrade\nThe upgrade bonus is based on the plan you upgrade to, regardless of your previous plan.\n| Upgraded plan | Bonus Credits |\n| ------------- | ------------- |\n| Pro | 1,000 Credits |\n| Pro+ | 2,000 Credits |\n| Ultra | 3,000 Credits |\nFor example, upgrading from Lite to Pro grants 1,000 bonus Credits. Upgrading from Lite or Pro to Pro+ grants 2,000 bonus Credits.\nNOTE: Resubscribing after your subscription expires is treated as a renewal, not a first subscription.\n## How to participate\n1. Sign in to Qoder.\n2. Go to the [Pricing page](https://qoder.com/pricing), select a Personal plan, and complete payment.\n3. Bonus Credits are usually added automatically within a few minutes after payment succeeds. Go to **Settings > Usage** to view your Credits details and expiration dates.\n## FAQ\n**Q: How is this event different from the previous one?**\nLite is now eligible for the first-subscription bonus. The renewal and upgrade bonus has changed from a flat 1,000 Credits for every plan to a plan-based amount: 500 for Lite, 1,000 for Pro, 2,000 for Pro+, and 3,000 for Ultra.\n**Q: Which rules apply to orders paid on October 20, 2026?**\nEligibility is based on when the order payment succeeds. Orders paid before October 20, 2026 at 24:00 (UTC+8) follow the previous event rules. Orders paid from October 21, 2026 at 00:00 (UTC+8) follow the rules on this page.\n**Q: I registered a long time ago but have never paid. Does this count as a first subscription?**\nYes. A first subscription is determined by whether the account has ever had a successful payment, not by its registration date.\n**Q: I already have a Personal plan. Can I participate?**\nYes. Renew during the event to receive bonus Credits based on your current plan: 500 for Lite, 1,000 for Pro, 2,000 for Pro+, and 3,000 for Ultra. Upgrades are based on the plan you upgrade to.\n**Q: I subscribed to Pro before. If I subscribe to Lite after Pro expires, does it count as a first subscription?**\nNo. Your account already has a successful payment, so you receive the Lite renewal bonus of 500 Credits.\n**Q: Do I receive bonus Credits if my first subscription is Ultra?**\nNo. A first Ultra subscription is not eligible for the bonus. Renewing Ultra during the event grants 3,000 bonus Credits.\n**Q: Which models can I use with bonus Credits?**\nBonus Credits can be used with the same models as your current plan. For example, bonus Credits on the Lite plan can only be used with models supported by Lite.\n**Q: When will I receive the bonus Credits, and how long are they valid?**\nThey are issued automatically after payment succeeds and usually arrive within a few minutes. They are valid for 30 days from the time they are issued. Unused Credits expire automatically.\n**Q: Will unused bonus Credits expire when the event ends?**\nNo. Bonus Credits already issued are not cleared early when the event ends, and remain available within their 30-day validity period.\n**Q: Are Teams and Enterprise plans eligible?**\nNo. This event applies only to Personal plans.\n## Event terms\nThese terms apply to qoder.com (the international site). For the qoder.cn offer, see the Qoder CN event page.\n**Credits bonus**\n1. **Event period**: The event starts on October 21, 2026 at 00:00 (UTC+8). The end date will be announced on this page in advance. Bonus eligibility is determined by whether the order payment succeeds during the event. Orders paid outside the event period are not eligible. Orders paid before October 20, 2026 at 24:00 (UTC+8) follow the previous event rules.\n2. **Eligibility**: The Credits bonus applies only to monthly Personal plans. The first-subscription bonus applies to Lite, Pro, and Pro+. A first Ultra subscription is not eligible. Lite, Pro, Pro+, and Ultra subscriptions renewed, upgraded, or resubscribed after expiration during the event receive bonus Credits as described in Term 4. Bonus Credits can be used with the same models as your current plan. Teams, Enterprise, and other non-Personal plans are not eligible.\n3. **First subscription**: An account qualifies for a first subscription if it has never had a successful payment. A refunded order still counts as a previous payment, so a later purchase is not treated as a first subscription.\n4. **Bonus amount and issuance**: Bonus Credits are issued automatically after the order payment succeeds and usually arrive within a few minutes.\n- First subscription: 1,000 Credits for Lite, 2,000 for Pro, 6,000 for Pro+, and 0 for Ultra.\n- Renewal or resubscription after expiration: 500 Credits for Lite, 1,000 for Pro, 2,000 for Pro+, and 3,000 for Ultra.\n- Upgrade: Based on the plan you upgrade to. 1,000 Credits for Pro, 2,000 for Pro+, and 3,000 for Ultra.\n- The amount shown on the order confirmation page prevails for each order.\n5. **Validity**: Bonus Credits are valid for 30 calendar days from the time they are issued, calculated in UTC+8. Unused Credits expire automatically and do not roll over. The end or early termination of the event does not affect bonus Credits already issued and still within their validity period.\n6. **Refunds**: Orders with Credits consumed during the subscription period are non-refundable. If an order has no Credits consumed and meets the refund requirements, it can be fully refunded. After the refund, the subscription is canceled, unused bonus Credits are revoked, and the account is still considered to have made a previous payment.\n**Other terms**\n1. **Benefit restrictions**: Bonus Credits cannot be transferred, redeemed for cash, or invoiced.\n2. **Abuse prevention**: Qoder may disqualify accounts involved in abnormal or bulk registration, fraudulent transactions, or other violations of the Terms of Service, and may revoke issued bonus Credits.\n3. **Event changes**: Qoder reserves the right to adjust, suspend, or terminate this event and will provide notice by updating this page or through other official channels.\n4. **Taxes and usage**: Prices exclude applicable taxes. For Credits usage and model pricing, see the Help Center and the Pricing page.\n5. **Contact**: If you have questions, contact [contact@qoder.com](mailto:contact@qoder.com).",
-        "url": "https://docs.qoder.com/events/newbogo.md",
-        "snapshot": "snapshots/qoder-events-newbogo/2026-10-21-0204-771af682.json"
-      }
-    ],
-    "quantity": {
-      "value": 1000,
-      "unit": "credits",
-      "raw": "First subscription: 1,000 Credits for Lite, 2,000 for Pro, 6,000 for Pro+, and 0 for Ultra."
-    }
-  },
-  {
-    "schemaVersion": 0,
-    "offerKey": "3c9dad158662f199",
-    "occurredAt": "2026-10-27",
-    "publishedAt": "2026-10-27T12:15:25.229486+00:00",
-    "verification": "auto_verified",
-    "category": "creditsPromotion",
-    "promotionType": "free",
-    "appliesTo": [
-      "model"
-    ],
-    "vendor": "opencode",
-    "entity": "iceman-contributor-free",
-    "amount": "Iceman Contributor Free: Free for a limited time.",
-    "eligibility": "in exchange for permission to use your prompts and completions to improve the model.",
-    "baseline": null,
-    "howToClaim": "console",
-    "startsAt": null,
-    "startsAtText": null,
-    "expiresAt": null,
-    "expiresAtText": null,
-    "region": null,
-    "supersedes": null,
-    "claimUrl": "https://opencode.ai/v2/docs/console/go/",
-    "sourceId": "opencode-go",
-    "restrictions": "Iceman Contributor Free模型限时免费，结束日期未说明。需依OpenCode Go官方接入流程使用，单成员工作空间；必须允许输入与输出用于改进模型，官方表列Yes/Not ZDR，不提供零数据留存。",
-    "facts": [
-      {
-        "quote": "Iceman Contributor Free: Free for a limited time.",
-        "url": "https://opencode.ai/v2/docs/console/go/",
-        "snapshot": "snapshots/opencode-go/2026-10-27-1210-dfe3b9c9.json"
-      },
-      {
-        "quote": "Iceman Contributor Free Free Free Free - Unlimited",
-        "url": "https://opencode.ai/v2/docs/console/go/",
-        "snapshot": "snapshots/opencode-go/2026-10-27-1210-dfe3b9c9.json"
-      },
-      {
-        "quote": "Iceman Contributor Free Yes Not ZDR",
-        "url": "https://opencode.ai/v2/docs/console/go/",
-        "snapshot": "snapshots/opencode-go/2026-10-27-1210-dfe3b9c9.json"
-      },
-      {
-        "quote": "Iceman Contributor Free: Free for a limited time in exchange for permission to use your prompts and completions to improve the model.",
-        "url": "https://opencode.ai/v2/docs/console/go/",
-        "snapshot": "snapshots/opencode-go/2026-10-27-1210-dfe3b9c9.json"
-      },
-      {
-        "quote": "Go and Go Plus are for workspaces with a single member",
-        "url": "https://opencode.ai/v2/docs/console/go/",
-        "snapshot": "snapshots/opencode-go/2026-10-27-1210-dfe3b9c9.json"
-      }
-    ],
-    "quantity": null
-  },
-  {
-    "schemaVersion": 0,
-    "offerKey": "48ddcb72c9f88d8f",
-    "occurredAt": "2026-10-11",
-    "publishedAt": "2026-10-11T00:00:00Z",
-    "verification": "auto_verified",
-    "category": "creditsPromotion",
-    "vendor": "opencode",
-    "entity": "opencode-go-plus",
-    "amount": "$40/month",
-    "eligibility": "single member",
-    "appliesTo": [
-      "subscription",
-      "apiCredit"
-    ],
-    "planKind": "tokenPlan",
-    "howToClaim": "purchase",
-    "startsAt": null,
-    "startsAtText": null,
-    "expiresAt": null,
-    "expiresAtText": null,
-    "baseline": null,
-    "claimUrl": "https://opencode.ai/v2/docs/console/go/",
-    "sourceId": "opencode-go",
-    "restrictions": "5 小时为对应月额度的 20%，每周为 50%；仅单成员工作空间，订阅后不能邀请成员。 按官方模型表展示月用量等值，不同模型额度不可相加。Gemini 4 Argon月额度为$120；50%价格折扣适用至2026年11月30日，输入/输出/缓存读取每百万tokens分别从$4/$20/$0.20降至$2/$10/$0.10。普通Argon替换Contributor，官方表列不用于训练、留存0天。Step 5 Preview与MiniMax M3.1 Flash额度见模型列表；Kimi K3.1 Pro额度保持。DeepSeek需允许Global区域；Muse Contributor端点需允许使用请求数据训练。",
-    "facts": [
-      {
-        "quote": "Go Plus $40/month Higher usage limits across the models below",
-        "url": "https://opencode.ai/v2/docs/console/go/",
-        "snapshot": "snapshots/opencode-go/2026-10-16-0008-233d74c8.json"
-      },
-      {
-        "quote": "DeepSeek V4.1 Flash (Off-Peak) $0.15 $0.60 $0.003 - $160",
-        "url": "https://opencode.ai/v2/docs/console/go/",
-        "snapshot": "snapshots/opencode-go/2026-10-16-0008-233d74c8.json"
-      },
-      {
-        "quote": "GLM-5.3 $1.40 $4.40 $0.26 - $120",
-        "url": "https://opencode.ai/v2/docs/console/go/",
-        "snapshot": "snapshots/opencode-go/2026-10-16-0008-233d74c8.json"
-      },
-      {
-        "quote": "MiMo-V2.6-Pro $0.435 $0.87 $0.003625 - $60",
-        "url": "https://opencode.ai/v2/docs/console/go/",
-        "snapshot": "snapshots/opencode-go/2026-10-16-0008-233d74c8.json"
-      },
-      {
-        "quote": "Each model has the following usage limits: 5-hour — 20% of the monthly limit;\nweekly — 50%; and monthly — 100%.",
-        "url": "https://opencode.ai/v2/docs/console/go/",
-        "snapshot": "snapshots/opencode-go/2026-10-16-0008-233d74c8.json"
-      },
-      {
-        "quote": "Go and Go Plus are for workspaces with a single member",
-        "url": "https://opencode.ai/v2/docs/console/go/",
-        "snapshot": "snapshots/opencode-go/2026-10-16-0008-233d74c8.json"
-      },
-      {
-        "quote": "workspace with a Go subscription cannot invite members.",
-        "url": "https://opencode.ai/v2/docs/console/go/",
-        "snapshot": "snapshots/opencode-go/2026-10-16-0008-233d74c8.json"
-      },
-      {
-        "quote": "2x · Limited time",
-        "url": "https://opencode.ai/v2/docs/console/go/",
-        "snapshot": "snapshots/opencode-go/2026-10-16-0008-233d74c8.json"
-      },
-      {
-        "quote": "Step 5 Preview $1.00 $2.70 $0.10 - $60",
-        "url": "https://opencode.ai/v2/docs/console/go/",
-        "snapshot": "snapshots/opencode-go/2026-10-22-2358-83e107b8.json"
-      },
-      {
-        "quote": "MiniMax M3.1 Flash $0.15 $0.60 $0.015 - $80",
-        "url": "https://opencode.ai/v2/docs/console/go/",
-        "snapshot": "snapshots/opencode-go/2026-10-22-2358-83e107b8.json"
-      },
-      {
-        "quote": "Kimi K3.1 Pro $2.00 $10.00 $0.20 $2.00 $60",
-        "url": "https://opencode.ai/v2/docs/console/go/",
-        "snapshot": "snapshots/opencode-go/2026-10-24-0022-e5cf5086.json"
-      },
-      {
-        "quote": "Gemini 4 Argon (50% off) $4.00 $2.00 $20.00 $10.00 $0.20 $0.10 - $120",
-        "url": "https://opencode.ai/v2/docs/console/go/",
-        "snapshot": "snapshots/opencode-go/2026-10-25-0046-205e5d55.json"
-      },
-      {
-        "quote": "Gemini 4 Argon: The 50% discount applies through November 30, 2026.",
-        "url": "https://opencode.ai/v2/docs/console/go/",
-        "snapshot": "snapshots/opencode-go/2026-10-25-0046-205e5d55.json"
-      },
-      {
-        "quote": "Gemini 4 Argon Not used 0 days",
-        "url": "https://opencode.ai/v2/docs/console/go/",
-        "snapshot": "snapshots/opencode-go/2026-10-25-0046-205e5d55.json"
-      },
-      {
-        "quote": "Enable restricted models\nWorkspace privacy settings apply to Go. By default, paid endpoints that train on request data are blocked, and\nallowed regions are Europe & United States . Workspaces without saved privacy settings also allow Global\nfor requests from China.\nIn Settings › Privacy , an owner or admin can enable:\nDeepSeek V4.1 Flash and V4 Pro: select Global under Regions .\nMuse Spark 1.3 Contributor and Muse Spark 1.2 Contributor: turn on Allow paid endpoints that train on request data .\nSee Privacy for each model’s training and retention terms.",
-        "url": "https://opencode.ai/v2/docs/console/go/",
-        "snapshot": "snapshots/opencode-go/2026-10-25-0046-205e5d55.json"
-      }
-    ],
-    "supersedes": null,
-    "promotionType": "allowance",
-    "planName": "OpenCode Go Plus",
-    "allowance": {
-      "price": {
-        "value": 40,
-        "currency": "USD",
-        "period": "month",
-        "text": "$40/month",
-        "fact": 0
-      },
-      "models": [
-        {
-          "model": "DeepSeek V4.1 Flash (Off-Peak)",
-          "value": 160,
-          "currency": "USD",
-          "period": "month",
-          "text": "$160",
-          "fact": 1
-        },
-        {
-          "model": "GLM-5.3",
-          "value": 120,
-          "currency": "USD",
-          "period": "month",
-          "text": "$120",
-          "fact": 2
-        },
-        {
-          "model": "MiMo-V2.6-Pro",
-          "value": 60,
-          "currency": "USD",
-          "period": "month",
-          "text": "$60",
-          "fact": 3
-        },
-        {
-          "model": "Step 5 Preview",
-          "value": 60,
-          "currency": "USD",
-          "period": "month",
-          "text": "$60",
-          "fact": 8
-        },
-        {
-          "model": "MiniMax M3.1 Flash",
-          "value": 80,
-          "currency": "USD",
-          "period": "month",
-          "text": "$80",
-          "fact": 9
-        },
-        {
-          "model": "Kimi K3.1 Pro",
-          "value": 60,
-          "currency": "USD",
-          "period": "month",
-          "text": "$60",
-          "fact": 10
-        },
-        {
-          "model": "Gemini 4 Argon",
-          "value": 120,
-          "currency": "USD",
-          "period": "month",
-          "text": "$120",
-          "fact": 11
-        }
-      ],
-      "limits": {
-        "zh": "5 小时为对应月额度的 20%，每周为 50%；仅单成员工作空间，订阅后不能邀请成员。",
-        "en": "5-hour allowance: 20% of the model monthly limit; weekly: 50%. Only single-member workspaces; Go workspaces cannot invite members."
-      },
-      "notes": {
-        "zh": "按官方模型表展示月用量等值，不同模型额度不可相加。Gemini 4 Argon月额度为$120；50%价格折扣适用至2026年11月30日，输入/输出/缓存读取每百万tokens分别从$4/$20/$0.20降至$2/$10/$0.10。普通Argon替换Contributor，官方表列不用于训练、留存0天。Step 5 Preview与MiniMax M3.1 Flash额度见模型列表；Kimi K3.1 Pro额度保持。DeepSeek需允许Global区域；Muse Contributor端点需允许使用请求数据训练。",
-        "en": "Model monthly usage equivalents are not additive. Gemini 4 Argon has a $120 monthly allowance; its 50% pricing discount applies through November 30, 2026. Input/output/cached-read prices per million tokens fall from $4/$20/$0.20 to $2/$10/$0.10. Standard Argon replaces Contributor: not used for training, 0-day retention. Other listed model allowances remain. DeepSeek requires Global regions; Muse Contributor endpoints require permitting training on request data."
-      }
-    },
-    "quantity": null
-  },
-  {
-    "schemaVersion": 0,
-    "offerKey": "5ccdd469f5d8ba79",
-    "occurredAt": "2026-10-23",
-    "publishedAt": "2026-10-23T12:15:55.128978+00:00",
-    "verification": "auto_verified",
-    "category": "creditsPromotion",
-    "vendor": "baidu",
-    "entity": "baidu-qianfan-token-plan-pro",
-    "promotionType": "discount",
-    "appliesTo": [
-      "subscription"
-    ],
-    "planKind": "tokenPlan",
-    "amount": "¥ 99.9 /月",
-    "eligibility": "首购半价",
-    "baseline": "¥200/月",
-    "startsAt": null,
-    "startsAtText": null,
-    "expiresAt": null,
-    "expiresAtText": null,
-    "howToClaim": "purchase",
-    "supersedes": null,
-    "sourceId": "baidu-qianfan-tokenplan-invite",
-    "claimUrl": "https://cloud.baidu.com/product-s/qianfan_home/qianfan_invite",
-    "restrictions": "千帆Token Plan个人版Pro首购月价99.9元，原标价200元/月；页面列明每月45,000积分。活动截止日期和续订是否同价未说明，不将首购价作为永久续费价格；积分不当作固定请求次数。",
-    "facts": [
-      {
-        "quote": "Pro\n高频开发，持续创作无压力\n45,000 积分 /月\n¥ 99.9 /月 ¥200/月",
-        "url": "https://cloud.baidu.com/product-s/qianfan_home/qianfan_invite",
-        "snapshot": "snapshots/baidu-qianfan-tokenplan-invite/2026-10-23-1212-0aa1e5ab.json"
-      },
-      {
-        "quote": "首购半价低至 4.9 元起，高倍率、超大容量的积分 / Token 供给，让用户彻底放开手脚",
-        "url": "https://cloud.baidu.com/product-s/qianfan_home/qianfan_invite",
-        "snapshot": "snapshots/baidu-qianfan-tokenplan-invite/2026-10-23-1212-0aa1e5ab.json"
-      }
-    ],
-    "quantity": null
-  },
-  {
-    "schemaVersion": 0,
-    "offerKey": "6865e91341caf8f0",
-    "occurredAt": "2026-10-11",
-    "publishedAt": "2026-10-11T00:00:00Z",
-    "verification": "auto_verified",
-    "category": "creditsPromotion",
-    "vendor": "zhipu",
-    "entity": "glm-5.3-flash-api-discount",
-    "amount": "限时五折输入 0.4 元、缓存命中 0.115 元、输出 1.4 元",
-    "eligibility": "GLM-5.3-Flash",
-    "promotionType": "discount",
-    "appliesTo": [
-      "apiCredit",
-      "model"
-    ],
-    "baseline": "标准价输入 0.8 元、缓存命中 0.23 元、输出 2.8 元",
-    "startsAt": null,
-    "startsAtText": null,
-    "expiresAt": null,
-    "expiresAtText": null,
-    "howToClaim": "auto",
-    "restrictions": "来源未说明结束日期。",
-    "supersedes": null,
-    "sourceId": "zhipu-bigmodel-pricing",
-    "claimUrl": "https://open.bigmodel.cn/pricing",
-    "facts": [
-      {
-        "quote": "GLM-5.3-Flash",
-        "url": "https://open.bigmodel.cn/pricing",
-        "snapshot": "snapshots/zhipu-bigmodel-pricing/2026-10-10-1140-f0b61c8f.json"
-      },
-      {
-        "quote": "GLM-5.3-Flash：输入0.8元 / M，输出2.8元/M",
-        "url": "https://open.bigmodel.cn/pricing",
-        "snapshot": "snapshots/zhipu-bigmodel-pricing/2026-10-10-1140-f0b61c8f.json"
-      },
-      {
-        "quote": "GLM-5.3-Flash（原生多模态、1M 上下文）：限时五折输入 0.4 元、缓存命中 0.115 元、输出 1.4 元；标准价输入 0.8 元、缓存命中 0.23 元、输出 2.8 元",
-        "url": "https://open.bigmodel.cn/pricing",
-        "snapshot": "snapshots/zhipu-bigmodel-pricing/2026-10-10-1140-f0b61c8f.json"
-      }
-    ],
-    "quantity": null
-  },
-  {
-    "schemaVersion": 0,
-    "offerKey": "7c1d3a4c7f728ad1",
-    "occurredAt": "2026-10-12",
-    "publishedAt": "2026-10-11T17:54:16.785Z",
-    "verification": "auto_verified",
-    "category": "creditsPromotion",
-    "promotionType": "allowance",
-    "vendor": "commandcode",
-    "entity": "commandcode-go",
-    "planName": "Command Code Go",
-    "appliesTo": [
-      "subscription"
-    ],
-    "planKind": "toolPlan",
-    "amount": "$1/month",
-    "eligibility": null,
-    "baseline": null,
-    "howToClaim": "purchase",
-    "startsAt": null,
-    "startsAtText": null,
-    "expiresAt": null,
-    "expiresAtText": null,
-    "claimUrl": "https://commandcode.ai/docs/plans/go",
-    "sourceId": "commandcode-go",
-    "facts": [
-      {
-        "quote": "The Go plan is the $1/month entry point to Command Code: open models, available globally, for the price of a coffee once a month. Your $1 buys $10 of credits. A 10x multiplier as one shared pool with a monthly usage on every model.",
-        "url": "https://commandcode.ai/docs/plans/go",
-        "snapshot": "snapshots/commandcode-go/2026-10-11-1754-b5eed048.json"
-      },
-      {
-        "quote": "DeepSeek V4.1 Flash $0.15 $0.60 $0.003 - $10",
-        "url": "https://commandcode.ai/docs/plans/go",
-        "snapshot": "snapshots/commandcode-go/2026-10-11-1754-b5eed048.json"
-      },
-      {
-        "quote": "GLM-5.2 $1.40 $4.40 $0.26 - $10",
-        "url": "https://commandcode.ai/docs/plans/go",
-        "snapshot": "snapshots/commandcode-go/2026-10-11-1754-b5eed048.json"
-      },
-      {
-        "quote": "MiMo V2.6 Pro $0.435 $0.87 $0.0036 - $6",
-        "url": "https://commandcode.ai/docs/plans/go",
-        "snapshot": "snapshots/commandcode-go/2026-10-11-1754-b5eed048.json"
-      },
-      {
-        "quote": "5-hour limit - $3 of usage\nWeekly limit - $6 of usage\nMonthly limit - $10 of usage",
-        "url": "https://commandcode.ai/docs/plans/go",
-        "snapshot": "snapshots/commandcode-go/2026-10-11-1754-b5eed048.json"
-      },
-      {
-        "quote": "Plan Your cost Monthly credits 5-hour limit Weekly limit\nGo $1 $10 of usage $2 $5",
-        "url": "https://commandcode.ai/docs/resources/pricing-limits",
-        "snapshot": "snapshots/commandcode-pricing-limits/2026-10-11-1754-a5b6e94b.json"
-      },
-      {
-        "quote": "These usage limits all come out of one shared $10 pool. A model&#x27;s monthly credits allocation is how much usage that pool is worth if you spend the whole month on that model. Mix models and the pool is spent in proportion: $1 of usage on a model with boosted credits takes a smaller share of the pool than $1 of usage on a model with standard credits. The usage limits below work the same way.",
-        "url": "https://commandcode.ai/docs/plans/go",
-        "snapshot": "snapshots/commandcode-go/2026-10-11-1754-b5eed048.json"
-      },
-      {
-        "quote": "Go is the only plan without API access",
-        "url": "https://commandcode.ai/docs/plans/go",
-        "snapshot": "snapshots/commandcode-go/2026-10-11-1754-b5eed048.json"
-      },
-      {
-        "quote": "Kimi K3.1 Pro $2.00 $10.00 $0.20 - $6",
-        "url": "https://commandcode.ai/docs/plans/go",
-        "snapshot": "snapshots/commandcode-go/2026-10-24-0007-8bad1fe0.json"
-      }
-    ],
-    "supersedes": null,
-    "allowance": {
-      "price": {
-        "value": 1,
-        "currency": "USD",
-        "period": "month",
-        "text": "$1/month",
-        "fact": 0
-      },
-      "models": [
-        {
-          "model": "DeepSeek V4.1 Flash",
-          "value": 10,
-          "currency": "USD",
-          "period": "month",
-          "text": "$10",
-          "fact": 1
-        },
-        {
-          "model": "GLM-5.2",
-          "value": 10,
-          "currency": "USD",
-          "period": "month",
-          "text": "$10",
-          "fact": 2
-        },
-        {
-          "model": "MiMo V2.6 Pro",
-          "value": 6,
-          "currency": "USD",
-          "period": "month",
-          "text": "$6",
-          "fact": 3
-        },
-        {
-          "model": "Kimi K3.1 Pro",
-          "value": 6,
-          "currency": "USD",
-          "period": "month",
-          "text": "$6",
-          "fact": 8
-        }
-      ],
-      "limits": {
-        "zh": "官方两页口径不同：Go 页为 5 小时 $3、每周 $6；价格规则页为 $2、$5。实际窗口以控制台为准。",
-        "en": "Official pages differ: Go lists $3 per 5 hours / $6 per week; Pricing & Limits lists $2 / $5. Check your console for the applied limits."
-      },
-      "notes": {
-        "zh": "示例模型按各自计价折算，共用一个套餐额度池，不可相加。Go 不支持 Provider API。 Kimi K3.1 Pro月用量等值为$6。",
-        "en": "Examples are model-specific usage equivalents from one shared plan pool; do not add them together. Go has no Provider API access. Kimi K3.1 Pro provides $6 monthly usage equivalent."
-      }
-    },
-    "restrictions": "官方两页口径不同：Go 页为 5 小时 $3、每周 $6；价格规则页为 $2、$5。实际窗口以控制台为准。 示例模型按各自计价折算，共用一个套餐额度池，不可相加。Go 不支持 Provider API。 Kimi K3.1 Pro月用量等值为$6。",
-    "quantity": null
-  },
-  {
-    "schemaVersion": 0,
     "offerKey": "a98799dd15c30b28",
     "occurredAt": "2026-10-16",
     "publishedAt": "2026-10-16T00:13:48.247027+00:00",
@@ -2873,6 +2566,75 @@
       }
     },
     "restrictions": "5小时最多$22、每周最多$55、每月最多$110；各模型额度不能相加。 Ling 3.1 Flash 模型月用量等值 $110；选择该模型自动适用，单价不变，额外充值按常规费率另计。不是额外发放可累加余额；来源未说明结束时间。 DeepSeek V4.1 Flash 长期提升后的月用量等值为 $90，官方明确无结束日期；各模型用量不是可相加余额。 GLM-5.3 Flash 当前月用量等值为 $90，官方按模型 ID glm-5.3-flash 列示，提升优惠持续到容量用尽；单价不变，固定结束日期未说明。",
+    "quantity": null
+  },
+  {
+    "schemaVersion": 0,
+    "offerKey": "ad6b185485a0180a",
+    "occurredAt": "2026-09-18",
+    "publishedAt": "2026-09-18T11:33:00Z",
+    "verification": "auto_verified",
+    "category": "creditsPromotion",
+    "promotionType": "free",
+    "appliesTo": [
+      "model"
+    ],
+    "vendor": "qoder",
+    "entity": "qwen3.8-flash",
+    "amount": "计费系数由 0.1× 降至 0.0×",
+    "eligibility": "Qoder 国际版新老个人用户",
+    "howToClaim": "auto",
+    "startsAt": "2026-09-18T02:00:00Z",
+    "startsAtText": "2026 年 9 月 18 日 10:00",
+    "expiresAt": null,
+    "expiresAtText": null,
+    "region": null,
+    "restrictions": "免费期已延长，10 月 1 日起继续免费，结束时间提前在官方页面公告；团队版及企业版不适用；免费个人账号及 Credits 余额为 0 的账号也可参与。 官方现明确个人Lite套餐也可参与；模型与其它限制仍按原活动规则。 免费仅适用于实际由Qwen3.8-Flash完成的调用；部分功能内部调用其它指定模型时，相关调用仍按对应模型规则计费。",
+    "claimUrl": "https://docs.qoder.com/zh/events/flashoffer",
+    "sourceId": "qoder-events-flashoffer",
+    "facts": [
+      {
+        "quote": "2026 年 9 月 18 日 10:00 起，Qoder 国际版面向所有新老个人用户开放 Qwen3.8-Flash 限时免费使用 。活动期间，调用该模型不消耗 Credits，计费系数由 0.1× 降至 0.0× 。无需领取，选择该模型即可免费使用， 免费账号及 Credits 余额为 0 的账号也可参与 。",
+        "url": "https://docs.qoder.com/zh/events/flashoffer",
+        "snapshot": "snapshots/qoder-events-flashoffer/2026-10-10-1136-cb2c915b.json"
+      },
+      {
+        "quote": "活动时间 ：2026 年 9 月 18 日 10:00 起。原定 9 月 30 日 23:59:59 结束，现已延长，10 月 1 日起继续免费，结束时间将提前在本页公告。",
+        "url": "https://docs.qoder.com/zh/events/flashoffer",
+        "snapshot": "snapshots/qoder-events-flashoffer/2026-10-10-1136-cb2c915b.json"
+      },
+      {
+        "quote": "适用用户 ：Qoder 国际版新老个人用户，包括体验版（免费）、Pro 试用期、Pro、Pro+ 和 Ultra 用户。团队版（Teams）及企业版（Enterprise）订阅用户不适用。",
+        "url": "https://docs.qoder.com/zh/events/flashoffer",
+        "snapshot": "snapshots/qoder-events-flashoffer/2026-10-10-1136-cb2c915b.json"
+      },
+      {
+        "quote": "优惠内容 ：指定模型计费系数由 0.1× 降至 0.0×，调用该模型不消耗 Credits。",
+        "url": "https://docs.qoder.com/zh/events/flashoffer",
+        "snapshot": "snapshots/qoder-events-flashoffer/2026-10-10-1136-cb2c915b.json"
+      },
+      {
+        "quote": "活动延期 ：原定 9 月 30 日结束的免费期现已延长， 10 月 1 日起继续免费 。无需任何操作，照常选择 Qwen3.8-Flash 即可。结束时间将提前在本页公告。",
+        "url": "https://docs.qoder.com/zh/events/flashoffer",
+        "snapshot": "snapshots/qoder-events-flashoffer/2026-10-10-1136-cb2c915b.json"
+      },
+      {
+        "quote": "本次优惠仅适用于 Qwen3.8-Flash。其他模型或档位按照各自的计费及优惠规则执行。",
+        "url": "https://docs.qoder.com/zh/events/flashoffer",
+        "snapshot": "snapshots/qoder-events-flashoffer/2026-10-10-1136-cb2c915b.json"
+      },
+      {
+        "quote": "适用用户 ：Qoder 国际版新老个人用户，包括体验版（免费）、Pro 试用期、Lite、Pro、Pro+ 和 Ultra 用户。团队版（Teams）及企业版（Enterprise）订阅用户不适用。",
+        "url": "https://docs.qoder.com/zh/events/flashoffer",
+        "snapshot": "snapshots/qoder-events-flashoffer/2026-10-22-2359-bae983bb.json"
+      },
+      {
+        "quote": "计费说明 ：本次免费仅适用于实际由 Qwen3.8-Flash 完成的调用。部分功能在运行时可能会调用特定模型，相关调用将按照对应模型的计费规则计费，不享受本次免费。",
+        "url": "https://docs.qoder.com/zh/events/flashoffer",
+        "snapshot": "snapshots/qoder-events-flashoffer/2026-10-27-1211-c1bd5b1b.json"
+      }
+    ],
+    "supersedes": null,
     "quantity": null
   },
   {
@@ -3238,6 +3000,54 @@
   },
   {
     "schemaVersion": 0,
+    "offerKey": "b366b833d0c4df59",
+    "occurredAt": "2026-09-18",
+    "publishedAt": "2026-09-18T12:02:00Z",
+    "verification": "auto_verified",
+    "category": "creditsPromotion",
+    "promotionType": "referral",
+    "appliesTo": [
+      "subscription"
+    ],
+    "planKind": "toolPlan",
+    "vendor": "moonshot",
+    "entity": "kimi-moon-companion-plan",
+    "amount": "Kimi Go 等级的会员等值额度",
+    "eligibility": "好友须通过邀请链接或海报二维码确定绑定关系，并在绑定后 24 小时内完成 Kimi 会员订阅且支付成功",
+    "howToClaim": "invite",
+    "startsAt": null,
+    "expiresAt": null,
+    "expiresAtText": null,
+    "restrictions": "邀请注册任务已停止；当前邀请好友订阅会员，绑定后 24 小时内支付成功，双方各获 1 次抽奖机会；同一好友仅首次助力有效，个人版用户参与。",
+    "claimUrl": "https://www.kimi.ai/zh-hans/help/kimi-blackboard/moon-companion-plan",
+    "sourceId": "moonshot-moon-companion-plan",
+    "facts": [
+      {
+        "quote": "好友须通过邀请链接或海报二维码确定绑定关系，并在绑定后 24 小时内完成 Kimi 会员订阅且支付成功；超时则该次邀请失效。",
+        "url": "https://www.kimi.ai/zh-hans/help/kimi-blackboard/moon-companion-plan",
+        "snapshot": "snapshots/moonshot-moon-companion-plan/2026-10-10-1134-5309627e.json"
+      },
+      {
+        "quote": "活动奖品为 Kimi Go 等级的会员等值额度，包括：",
+        "url": "https://www.kimi.ai/zh-hans/help/kimi-blackboard/moon-companion-plan",
+        "snapshot": "snapshots/moonshot-moon-companion-plan/2026-10-10-1134-5309627e.json"
+      },
+      {
+        "quote": "本说明依据 2026 年 9 月 20 日起执行的活动规则。此前已取得的抽奖机会及奖品，仍可按此前活动规则继续使用和兑换。",
+        "url": "https://www.kimi.ai/zh-hans/help/kimi-blackboard/moon-companion-plan",
+        "snapshot": "snapshots/moonshot-moon-companion-plan/2026-10-10-1134-5309627e.json"
+      },
+      {
+        "quote": "活动规则可在活动页面右上角查看。具体任务、奖品和活动周期均以活动页面的最新展示为准。",
+        "url": "https://www.kimi.ai/zh-hans/help/kimi-blackboard/moon-companion-plan",
+        "snapshot": "snapshots/moonshot-moon-companion-plan/2026-10-10-1134-5309627e.json"
+      }
+    ],
+    "supersedes": null,
+    "quantity": null
+  },
+  {
+    "schemaVersion": 0,
     "offerKey": "b39b5d2f0db4fbc2",
     "occurredAt": "2026-10-17",
     "publishedAt": "2026-10-17T00:03:17.973003+00:00",
@@ -3282,6 +3092,61 @@
   },
   {
     "schemaVersion": 0,
+    "occurredAt": "2026-09-18",
+    "publishedAt": "2026-09-18T17:38:00Z",
+    "verification": "auto_verified",
+    "category": "creditsPromotion",
+    "region": null,
+    "startsAt": null,
+    "startsAtText": null,
+    "expiresAt": null,
+    "expiresAtText": null,
+    "validityText": null,
+    "supersedes": null,
+    "offerKey": "b43edc15d8ead8d4",
+    "promotionType": "newcomer",
+    "appliesTo": [
+      "agent"
+    ],
+    "vendor": "qoder",
+    "entity": "qoder-trial",
+    "amount": "300 Credits as your welcome gift",
+    "eligibility": "New users",
+    "baseline": null,
+    "howToClaim": "signup",
+    "restrictions": "2-Week Trial，注册后在客户端领取；结束时间来源未说明",
+    "claimUrl": "https://qoder.com/activities",
+    "sourceId": "qoder-activities-index",
+    "facts": [
+      {
+        "quote": "300 Credits as your welcome gift",
+        "url": "https://qoder.com/activities",
+        "snapshot": "snapshots/qoder-activities-index/2026-09-18-1735-f2598a3b.json"
+      },
+      {
+        "quote": "New users",
+        "url": "https://qoder.com/activities",
+        "snapshot": "snapshots/qoder-activities-index/2026-09-18-1735-f2598a3b.json"
+      },
+      {
+        "quote": "2 -Week Trial",
+        "url": "https://qoder.com/activities",
+        "snapshot": "snapshots/qoder-activities-index/2026-09-18-1735-f2598a3b.json"
+      },
+      {
+        "quote": "Register to claim",
+        "url": "https://qoder.com/activities",
+        "snapshot": "snapshots/qoder-activities-index/2026-09-18-1735-f2598a3b.json"
+      }
+    ],
+    "quantity": {
+      "value": 300,
+      "unit": "credits",
+      "raw": "300 Credits as your welcome gift"
+    }
+  },
+  {
+    "schemaVersion": 0,
     "offerKey": "b914c48a8e0923a2",
     "occurredAt": "2026-10-23",
     "publishedAt": "2026-10-23T12:15:55.129131+00:00",
@@ -3318,6 +3183,100 @@
         "snapshot": "snapshots/baidu-qianfan-tokenplan-invite/2026-10-23-1212-0aa1e5ab.json"
       }
     ],
+    "quantity": null
+  },
+  {
+    "schemaVersion": 0,
+    "offerKey": "bf785ca1d6f8e018",
+    "occurredAt": "2026-09-27",
+    "publishedAt": "2026-09-27T13:55:38.247Z",
+    "verification": "auto_verified",
+    "category": "creditsPromotion",
+    "region": null,
+    "startsAt": null,
+    "startsAtText": null,
+    "expiresAt": null,
+    "expiresAtText": null,
+    "validityText": "decision-model-preview 限时免费",
+    "supersedes": null,
+    "promotionType": "discount",
+    "appliesTo": [
+      "subscription"
+    ],
+    "planKind": "tokenPlan",
+    "vendor": "qianwen",
+    "entity": "qianwen-token-plan",
+    "amount": "调用不消耗 Credits",
+    "eligibility": "decision-model-preview 限时免费",
+    "baseline": "通过 Credits 统一抵扣模型调用及 模型内置工具 的费用",
+    "howToClaim": "auto",
+    "restrictions": "限时把套餐内额度消耗规则降为 0，按判据记 discount（参照物为标准 Credits 抵扣），不按 free 入库；页面标「限时免费」但未给出活动固定截止日；接入方法参见页面「接入决策模型」",
+    "claimUrl": "https://help.aliyun.com/zh/model-studio/token-plan-personal-overview",
+    "sourceId": "qianwen-token-plan-reset",
+    "facts": [
+      {
+        "quote": "decision-model-preview 限时免费 ：调用不消耗 Credits。接入方法参见 接入决策模型 。",
+        "url": "https://help.aliyun.com/zh/model-studio/token-plan-personal-overview",
+        "snapshot": "snapshots/qianwen-token-plan-reset/2026-09-27-1355-dd5a629d.json"
+      }
+    ],
+    "quantity": null
+  },
+  {
+    "schemaVersion": 0,
+    "offerKey": "c01a151447cb0ad2",
+    "occurredAt": "2026-09-18",
+    "publishedAt": "2026-09-18T12:02:00Z",
+    "verification": "auto_verified",
+    "category": "creditsPromotion",
+    "promotionType": "newcomer",
+    "appliesTo": [
+      "apiCredit"
+    ],
+    "vendor": "moonshot",
+    "entity": "kimi-open-platform",
+    "amount": "15 元代金券",
+    "eligibility": "国内手机号注册的新用户",
+    "howToClaim": "realName",
+    "startsAt": null,
+    "expiresAt": null,
+    "validityText": "代金券自发放之日起 3 个月内有效，过期自动失效",
+    "restrictions": "完成实名认证后发放；自动应用于 API 调用消耗，余额优先于充值余额扣减；不可用于体验 Kimi K3",
+    "claimUrl": "https://www.kimi.com/zh-cn/help/kimi-api/api-free-trial",
+    "sourceId": "moonshot-api-free-trial",
+    "facts": [
+      {
+        "quote": "Kimi 开放平台为新注册用户提供免费测试额度，让你在正式使用前充分体验平台能力。",
+        "url": "https://www.kimi.com/zh-cn/help/kimi-api/api-free-trial",
+        "snapshot": "snapshots/moonshot-api-free-trial/2026-09-18-1202-3587b4c1.json"
+      },
+      {
+        "quote": "适用对象 ：国内手机号注册的新用户。",
+        "url": "https://www.kimi.com/zh-cn/help/kimi-api/api-free-trial",
+        "snapshot": "snapshots/moonshot-api-free-trial/2026-09-18-1202-3587b4c1.json"
+      },
+      {
+        "quote": "赠送金额 ：注册即赠送 15 元代金券 。",
+        "url": "https://www.kimi.com/zh-cn/help/kimi-api/api-free-trial",
+        "snapshot": "snapshots/moonshot-api-free-trial/2026-09-18-1202-3587b4c1.json"
+      },
+      {
+        "quote": "领取条件 ：完成实名认证后发放。",
+        "url": "https://www.kimi.com/zh-cn/help/kimi-api/api-free-trial",
+        "snapshot": "snapshots/moonshot-api-free-trial/2026-09-18-1202-3587b4c1.json"
+      },
+      {
+        "quote": "有效期 ：代金券自发放之日起 3 个月 内有效，过期自动失效。",
+        "url": "https://www.kimi.com/zh-cn/help/kimi-api/api-free-trial",
+        "snapshot": "snapshots/moonshot-api-free-trial/2026-09-18-1202-3587b4c1.json"
+      },
+      {
+        "quote": "模型发布后，国内注册并完成认证的用户获赠的 15 元代金券不可用于体验 Kimi K3，请充值后解锁使用。",
+        "url": "https://www.kimi.com/zh-cn/help/kimi-api/api-free-trial",
+        "snapshot": "snapshots/moonshot-api-free-trial/2026-09-18-1202-3587b4c1.json"
+      }
+    ],
+    "supersedes": null,
     "quantity": null
   },
   {
@@ -3504,6 +3463,89 @@
   },
   {
     "schemaVersion": 0,
+    "offerKey": "e6a805d8703434ab",
+    "occurredAt": "2026-09-27",
+    "publishedAt": "2026-09-27T13:55:51.632Z",
+    "verification": "auto_verified",
+    "category": "creditsPromotion",
+    "region": null,
+    "startsAt": "2026-09-03T14:00:00+08:00",
+    "startsAtText": "2026 年 9 月 3 日 14:00（新加坡时间）",
+    "expiresAt": null,
+    "expiresAtText": null,
+    "validityText": null,
+    "supersedes": null,
+    "promotionType": "discount",
+    "appliesTo": [
+      "model",
+      "subscription"
+    ],
+    "planKind": "toolPlan",
+    "vendor": "qoder",
+    "entity": "qoder-efficient-tier",
+    "amount": "计费系数由 0.3x 降至 0.0x",
+    "eligibility": "选择「经济」档位时",
+    "baseline": "0.3x",
+    "howToClaim": "auto",
+    "restrictions": "限时改松套餐内额度的消耗规则，省的是 Credits，并非额外赠送：「经济」档位的标准倍率 0.3x，活动期内降为 0.0x。适用用户为付费用户（个人订阅 Pro、Pro+、Ultra，以及 Teams、企业版席位），个人体验版用户在 Pro 试用期内、账户有 Credits 时同样适用；自动生效，无需领取。Service Account 被集成调用的场景不参与本次活动，按原系数计费。结束时间待定，结束前会提前通知。高峰时段可能限流或响应较慢。 个人Lite现已纳入；仅适用该方案支持的模型与档位。",
+    "claimUrl": "https://docs.qoder.com/zh/events/efficientunlimited",
+    "sourceId": "qoder-events-efficientunlimited",
+    "facts": [
+      {
+        "quote": "现在起，所有付费用户选择「经济」档位不再扣除 Credits，限时免费使用。",
+        "url": "https://docs.qoder.com/zh/events/efficientunlimited",
+        "snapshot": "snapshots/qoder-events-efficientunlimited/2026-09-27-1355-c3ce144a.json"
+      },
+      {
+        "quote": "优惠内容 ：选择「经济」档位时，计费系数由 0.3x 降至 0.0x，不扣除 Credits。个人订阅、Teams、企业版一致",
+        "url": "https://docs.qoder.com/zh/events/efficientunlimited",
+        "snapshot": "snapshots/qoder-events-efficientunlimited/2026-09-27-1355-c3ce144a.json"
+      },
+      {
+        "quote": "开始时间 ：2026 年 9 月 3 日 14:00（新加坡时间）",
+        "url": "https://docs.qoder.com/zh/events/efficientunlimited",
+        "snapshot": "snapshots/qoder-events-efficientunlimited/2026-09-27-1355-c3ce144a.json"
+      },
+      {
+        "quote": "结束时间 ：待定。结束前会提前通知，并同步更新本页",
+        "url": "https://docs.qoder.com/zh/events/efficientunlimited",
+        "snapshot": "snapshots/qoder-events-efficientunlimited/2026-09-27-1355-c3ce144a.json"
+      },
+      {
+        "quote": "适用用户 ：付费用户，包括个人订阅 Pro、Pro+、Ultra，以及 Teams、企业版席位。个人体验版用户在 Pro 试用期内、账户有 Credits 时同样适用",
+        "url": "https://docs.qoder.com/zh/events/efficientunlimited",
+        "snapshot": "snapshots/qoder-events-efficientunlimited/2026-09-27-1355-c3ce144a.json"
+      },
+      {
+        "quote": "生效方式 ：自动生效。无需领取，无需任何设置。打开模型选择器，选「经济」即可",
+        "url": "https://docs.qoder.com/zh/events/efficientunlimited",
+        "snapshot": "snapshots/qoder-events-efficientunlimited/2026-09-27-1355-c3ce144a.json"
+      },
+      {
+        "quote": "活动期间选择器会显示 0.3x 0.0x",
+        "url": "https://docs.qoder.com/zh/events/efficientunlimited",
+        "snapshot": "snapshots/qoder-events-efficientunlimited/2026-09-27-1355-c3ce144a.json"
+      },
+      {
+        "quote": "Service Account 被集成调用的场景，不参与本次活动，「经济」档位按原系数计费",
+        "url": "https://docs.qoder.com/zh/events/efficientunlimited",
+        "snapshot": "snapshots/qoder-events-efficientunlimited/2026-09-27-1355-c3ce144a.json"
+      },
+      {
+        "quote": "不。本次活动仅适用于「经济」档位。Auto、极致、性能，以及指定具体模型，照常按公示系数计费。",
+        "url": "https://docs.qoder.com/zh/events/efficientunlimited",
+        "snapshot": "snapshots/qoder-events-efficientunlimited/2026-09-27-1355-c3ce144a.json"
+      },
+      {
+        "quote": "适用用户 ：付费用户，包括个人订阅 Lite、Pro、Pro+、Ultra，以及 Teams、企业版席位。个人体验版用户在 Pro 试用期内、账户有 Credits 时同样适用",
+        "url": "https://docs.qoder.com/zh/events/efficientunlimited",
+        "snapshot": "snapshots/qoder-events-efficientunlimited/2026-10-22-2359-3b452454.json"
+      }
+    ],
+    "quantity": null
+  },
+  {
+    "schemaVersion": 0,
     "offerKey": "eaef11d3e256954b",
     "occurredAt": "2026-10-11",
     "publishedAt": "2026-10-11T00:00:00Z",
@@ -3675,6 +3717,54 @@
         "quote": "首购半价低至 4.9 元起，高倍率、超大容量的积分 / Token 供给，让用户彻底放开手脚",
         "url": "https://cloud.baidu.com/product-s/qianfan_home/qianfan_invite",
         "snapshot": "snapshots/baidu-qianfan-tokenplan-invite/2026-10-23-1212-0aa1e5ab.json"
+      }
+    ],
+    "quantity": null
+  },
+  {
+    "schemaVersion": 0,
+    "occurredAt": "2026-09-18",
+    "publishedAt": "2026-09-18T17:38:00Z",
+    "verification": "auto_verified",
+    "category": "creditsPromotion",
+    "region": null,
+    "startsAt": null,
+    "startsAtText": null,
+    "expiresAt": null,
+    "expiresAtText": null,
+    "validityText": null,
+    "supersedes": null,
+    "offerKey": "fb96add77c18a7c7",
+    "promotionType": "discount",
+    "appliesTo": [
+      "subscription",
+      "apiCredit"
+    ],
+    "planKind": "tokenPlan",
+    "vendor": "minimax",
+    "entity": "minimax-token-plan",
+    "amount": "￥ 4,690",
+    "eligibility": "连续包年",
+    "baseline": "￥5,628",
+    "howToClaim": "purchase",
+    "restrictions": "M Plan Build 连续包年：原价 ￥5,628，年订阅 ￥4,690；Go 的 12 倍用量，含 M3.1 Flash 文本模型、图像与音频生成、网络搜索和多模态理解，以及 H3 视频模型。",
+    "claimUrl": "https://platform.minimax.cn/subscribe/token-plan",
+    "sourceId": "minimax-token-plan",
+    "facts": [
+      {
+        "quote": "连续包月 连续包年 立省2月",
+        "url": "https://platform.minimax.cn/subscribe/token-plan",
+        "snapshot": "snapshots/minimax-token-plan/2026-10-19-1201-3f190f60.json"
+      },
+      {
+        "quote": "Build\n全力创造\n￥5,628\n￥ 4,690\nGo 的 12 倍用量",
+        "url": "https://platform.minimax.cn/subscribe/token-plan",
+        "snapshot": "snapshots/minimax-token-plan/2026-10-19-1201-3f190f60.json"
+      },
+      {
+        "quote": "M Plan 包含哪些模型？如何切换模型？ 三个档位都包含 M3.1 Flash 文本模型，以及图像与音频生成、网络搜索和多模态理解能力；Explore 和 Build 还包含 H3 视频模型，Go 不包含视频模型。如需切换模型，在 API 请求或工具配置中填写对应的模型 ID 即可。",
+        "url": "https://platform.minimax.cn/subscribe/token-plan",
+        "snapshot": "snapshots/minimax-token-plan/2026-10-19-1201-3f190f60.json"
       }
     ],
     "quantity": null

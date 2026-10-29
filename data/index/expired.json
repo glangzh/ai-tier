@@ -1,6 +1,69 @@
 [
   {
     "schemaVersion": 0,
+    "offerKey": "0592505613f92022",
+    "occurredAt": "2026-10-11",
+    "publishedAt": "2026-10-11T00:00:00Z",
+    "verification": "auto_verified",
+    "category": "creditsPromotion",
+    "vendor": "opencode",
+    "entity": "step-5-preview-free",
+    "amount": "Step 5 Preview Free: 限时免费。",
+    "eligibility": "限时",
+    "promotionType": "free",
+    "appliesTo": [
+      "model"
+    ],
+    "baseline": null,
+    "startsAt": null,
+    "startsAtText": null,
+    "expiresAt": null,
+    "expiresAtText": null,
+    "howToClaim": "auto",
+    "restrictions": "来源未说明结束日期。",
+    "supersedes": null,
+    "sourceId": "opencode-go",
+    "claimUrl": "https://opencode.ai/docs/zh-cn/go/",
+    "facts": [
+      {
+        "quote": "LongCat 2.5 Preview Free （限时）",
+        "url": "https://opencode.ai/docs/zh-cn/go/",
+        "snapshot": "snapshots/opencode-go/2026-10-10-1135-338c7735.json"
+      },
+      {
+        "quote": "Step 5 Preview Free （限时）",
+        "url": "https://opencode.ai/docs/zh-cn/go/",
+        "snapshot": "snapshots/opencode-go/2026-10-10-1135-338c7735.json"
+      },
+      {
+        "quote": "限时",
+        "url": "https://opencode.ai/docs/zh-cn/go/",
+        "snapshot": "snapshots/opencode-go/2026-10-10-1135-338c7735.json"
+      },
+      {
+        "quote": "LongCat 2.5 Preview Free: 限时免费。",
+        "url": "https://opencode.ai/docs/zh-cn/go/",
+        "snapshot": "snapshots/opencode-go/2026-10-10-1135-338c7735.json"
+      },
+      {
+        "quote": "Step 5 Preview Free: 限时免费。",
+        "url": "https://opencode.ai/docs/zh-cn/go/",
+        "snapshot": "snapshots/opencode-go/2026-10-10-1135-338c7735.json"
+      },
+      {
+        "quote": "规则",
+        "url": "https://opencode.ai/docs/zh-cn/go/",
+        "snapshot": "snapshots/opencode-go/2026-10-10-1135-338c7735.json"
+      }
+    ],
+    "withdrawn": {
+      "reason": "项目失效复查连续三轮确认原 Step 5 Preview Free 免费条目原文缺失；官方现列为付费 Step 5 Preview，已过项目连续3次失效判据。",
+      "at": "2026-10-17"
+    },
+    "quantity": null
+  },
+  {
+    "schemaVersion": 0,
     "offerKey": "0db2ea055081bb08",
     "occurredAt": "2026-09-20",
     "publishedAt": "2026-09-20T07:11:48.866Z",
@@ -162,6 +225,129 @@
       "unit": "credits",
       "raw": "累计最多可领取 7,500 Credits"
     }
+  },
+  {
+    "schemaVersion": 0,
+    "offerKey": "1c352787511d2b23",
+    "occurredAt": "2026-10-13",
+    "publishedAt": "2026-10-13T16:13:54.940503+00:00",
+    "verification": "auto_verified",
+    "category": "creditsPromotion",
+    "promotionType": "discount",
+    "vendor": "commandcode",
+    "entity": "commandcode-deepseek-v4.1-flash",
+    "planName": "Command Code GOAT / Pro",
+    "appliesTo": [
+      "model",
+      "subscription"
+    ],
+    "planKind": "tokenPlan",
+    "amount": "$100 on GOAT and Pro",
+    "eligibility": "pick deepseek-v4.1-flash from /model",
+    "baseline": "$60 and $70",
+    "howToClaim": "auto",
+    "startsAt": "2026-10-13T07:00:00-07:00",
+    "startsAtText": "October 13 at 7 AM PT",
+    "expiresAt": "2026-10-16T07:00:00-07:00",
+    "expiresAtText": "October 16 at 7 AM PT",
+    "claimUrl": "https://commandcode.ai/docs/resources/pricing-limits",
+    "sourceId": "commandcode-pricing-limits",
+    "region": null,
+    "supersedes": null,
+    "quantity": null,
+    "validityText": "through October 16, 2026",
+    "restrictions": "DeepSeek V4.1 Flash 月用量等值临时提高至 $100，适用 $10/月 GOAT 与 $20/月 Pro；Token 单价不变，CLI 选择该模型自动生效。官方指定 10 月 13 日至 16 日均为太平洋时间早上 7 点；结束后 GOAT 保持 $80、Pro 保持 $90，不是额外充值余额。",
+    "facts": [
+      {
+        "quote": "DEAL deepseek-v4.1-flash usage: $100 on GOAT and Pro. through Oct 16th",
+        "url": "https://commandcode.ai/docs/resources/pricing-limits",
+        "snapshot": "snapshots/commandcode-pricing-limits/2026-10-13-1608-0cd5303e.json"
+      },
+      {
+        "quote": "DeepSeek V4.1 Flash gets $100 of monthly credits for three days, through October 16, 2026.",
+        "url": "https://commandcode.ai/docs/resources/pricing-limits",
+        "snapshot": "snapshots/commandcode-pricing-limits/2026-10-13-1608-0cd5303e.json"
+      },
+      {
+        "quote": "From October 13 at 7 AM PT until October 16 at 7 AM PT, DeepSeek V4.1 Flash&#x27;s per-model allowance is $100 on the $10 GOAT plan and $100 on the $20 Pro plan , up from $60 and $70. Per-token rates stay the same.",
+        "url": "https://commandcode.ai/docs/resources/pricing-limits",
+        "snapshot": "snapshots/commandcode-pricing-limits/2026-10-13-1608-0cd5303e.json"
+      },
+      {
+        "quote": "Applied automatically : pick deepseek-v4.1-flash from /model in the CLI and the bigger allowance is there. Nothing to turn on.",
+        "url": "https://commandcode.ai/docs/resources/pricing-limits",
+        "snapshot": "snapshots/commandcode-pricing-limits/2026-10-13-1608-0cd5303e.json"
+      },
+      {
+        "quote": "After the three days : the allowance stays raised, at $80 on GOAT and $90 on Pro.",
+        "url": "https://commandcode.ai/docs/resources/pricing-limits",
+        "snapshot": "snapshots/commandcode-pricing-limits/2026-10-13-1608-0cd5303e.json"
+      },
+      {
+        "quote": "GOAT ($10/mo) $60 $100 $80",
+        "url": "https://commandcode.ai/docs/resources/pricing-limits",
+        "snapshot": "snapshots/commandcode-pricing-limits/2026-10-13-1608-0cd5303e.json"
+      },
+      {
+        "quote": "Pro ($20/mo) $70 $100 $90",
+        "url": "https://commandcode.ai/docs/resources/pricing-limits",
+        "snapshot": "snapshots/commandcode-pricing-limits/2026-10-13-1608-0cd5303e.json"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 0,
+    "offerKey": "1c5702763a48ce4e",
+    "occurredAt": "2026-10-20",
+    "publishedAt": "2026-10-20T12:15:42.008269+00:00",
+    "verification": "auto_verified",
+    "category": "creditsPromotion",
+    "vendor": "opendesign",
+    "entity": "opendesign-deepseek-v4.1-flash-1017-motion-week",
+    "promotionType": "discount",
+    "appliesTo": [
+      "model"
+    ],
+    "amount": "The multiplier drops from 0.5× to 0.25×, then returns to 0.5×.",
+    "eligibility": "DeepSeek V4.1 Flash Off-peak promo",
+    "baseline": "DeepSeek V4.1 Flash 0.5×",
+    "startsAt": "2026-10-20T18:00:00+08:00",
+    "startsAtText": "October 20 at 18:00",
+    "expiresAt": "2026-10-27T18:00:00+08:00",
+    "expiresAtText": "October 27 at 18:00 (UTC+8)",
+    "howToClaim": "auto",
+    "supersedes": null,
+    "sourceId": "opendesign-model-credits",
+    "claimUrl": "https://open-design.ai/model-credits/",
+    "restrictions": "OpenDesign Motion Week：DeepSeek V4.1 Flash 已升级为 1017 版本，活动期间全天按优惠倍率消耗 Design Plan credits，由常规0.5×降为0.25×，同样积分可支持约两倍通常用量。仅适用于 Design Plan credits；套餐额度和重置时间保持不变，无额外赠送积分，不与同名off-peak宣传叠加，活动后恢复0.5×。",
+    "facts": [
+      {
+        "quote": "The one-week off-peak offer lowers the Design Plan credit multiplier for DeepSeek V4.1 Flash from 0.5× to 0.25×. These are the same offer, with no stacked discount. The same credits support twice the usual usage for one week; existing allowances and reset times stay unchanged.",
+        "url": "https://open-design.ai/model-credits/",
+        "snapshot": "snapshots/opendesign-model-credits/2026-10-20-1212-40ebc8ce.json"
+      },
+      {
+        "quote": "DeepSeek V4.1 Flash Off-peak promo ? The limited-time off-peak offer lasts one week: October 20 at 18:00 to October 27 at 18:00 (UTC+8). The multiplier drops from 0.5× to 0.25×, then returns to 0.5×. Plan allowances and reset times stay unchanged. 0.25×",
+        "url": "https://open-design.ai/model-credits/",
+        "snapshot": "snapshots/opendesign-model-credits/2026-10-20-1212-40ebc8ce.json"
+      },
+      {
+        "quote": "DeepSeek V4.1 Flash 0.5×",
+        "url": "https://open-design.ai/model-credits/",
+        "snapshot": "snapshots/opendesign-model-credits/2026-10-20-1212-40ebc8ce.json"
+      },
+      {
+        "quote": "DeepSeek V4.1 Flash has been upgraded to the October 17, 2026 update (1017).",
+        "url": "https://open-design.ai/model-credits/",
+        "snapshot": "snapshots/opendesign-model-credits/2026-10-20-1212-40ebc8ce.json"
+      },
+      {
+        "quote": "DeepSeek V4.1 Flash 1017 · Official API · All-day off-peak rates for one week",
+        "url": "https://open-design.ai/pricing/",
+        "snapshot": "snapshots/opendesign-pricing/2026-10-20-1212-37df2270.json"
+      }
+    ],
+    "quantity": null
   },
   {
     "schemaVersion": 0,
@@ -455,6 +641,103 @@
   },
   {
     "schemaVersion": 0,
+    "offerKey": "500ad25f1d6821d4",
+    "occurredAt": "2026-10-14",
+    "publishedAt": "2026-10-15T00:01:36.332066+00:00",
+    "verification": "auto_verified",
+    "category": "creditsPromotion",
+    "promotionType": "discount",
+    "vendor": "commandcode",
+    "entity": "commandcode-glm-5.3-flash",
+    "planName": "Command Code GOAT / Pro",
+    "appliesTo": [
+      "model",
+      "subscription"
+    ],
+    "planKind": "tokenPlan",
+    "amount": "$100 on GOAT and Pro",
+    "eligibility": "pick glm-5.3-flash from /model",
+    "baseline": "$60 and $70",
+    "howToClaim": "auto",
+    "startsAt": "2026-10-14T05:30:00-07:00",
+    "startsAtText": "October 14 at 5:30 AM PT",
+    "expiresAt": "2026-10-17T05:30:00-07:00",
+    "expiresAtText": "October 17 at 5:30 AM PT",
+    "claimUrl": "https://commandcode.ai/docs/resources/pricing-limits",
+    "sourceId": "commandcode-pricing-limits",
+    "region": null,
+    "supersedes": null,
+    "quantity": null,
+    "validityText": "through October 17, 2026",
+    "restrictions": "GLM-5.3 Flash 月用量等值临时提高至 $100，适用 $10/月 GOAT 与 $20/月 Pro，原额度分别 $60、$70；Token 单价不变，CLI 选择该模型自动生效。活动时间为太平洋时间 10 月 14 日 05:30 至 17 日 05:30，不是额外充值余额。",
+    "facts": [
+      {
+        "quote": "DEAL glm-5.3-flash usage: $100 on GOAT and Pro. through Oct 17th",
+        "url": "https://commandcode.ai/docs/resources/pricing-limits",
+        "snapshot": "snapshots/commandcode-pricing-limits/2026-10-14-2359-a7982284.json"
+      },
+      {
+        "quote": "GLM-5.3 Flash gets $100 of monthly credits for three days, through October 17, 2026.",
+        "url": "https://commandcode.ai/docs/resources/pricing-limits",
+        "snapshot": "snapshots/commandcode-pricing-limits/2026-10-14-2359-a7982284.json"
+      },
+      {
+        "quote": "From October 14 at 5:30 AM PT until October 17 at 5:30 AM PT, GLM-5.3 Flash&#x27;s per-model allowance is $100 on the $10 GOAT plan and $100 on the $20 Pro plan , up from $60 and $70. Per-token rates stay the same.",
+        "url": "https://commandcode.ai/docs/resources/pricing-limits",
+        "snapshot": "snapshots/commandcode-pricing-limits/2026-10-14-2359-a7982284.json"
+      },
+      {
+        "quote": "Applied automatically : pick glm-5.3-flash from /model in the CLI and the bigger allowance is there. Nothing to turn on.",
+        "url": "https://commandcode.ai/docs/resources/pricing-limits",
+        "snapshot": "snapshots/commandcode-pricing-limits/2026-10-14-2359-a7982284.json"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 0,
+    "offerKey": "86005e88dff38638",
+    "occurredAt": "2026-10-16",
+    "publishedAt": "2026-10-16T00:13:48.247750+00:00",
+    "verification": "auto_verified",
+    "category": "creditsPromotion",
+    "vendor": "commandcode",
+    "entity": "cat-jam-free",
+    "amount": "Cat Jam is a free stealth preview.",
+    "eligibility": "while the stealth preview lasts",
+    "promotionType": "free",
+    "appliesTo": [
+      "model"
+    ],
+    "baseline": null,
+    "startsAt": null,
+    "startsAtText": null,
+    "expiresAt": null,
+    "expiresAtText": null,
+    "howToClaim": "auto",
+    "restrictions": "Command Code 的 Cat Jam 隐身预览期免费，无每日请求限制，不消耗 credits。提供方可能保留输入输出并用于训练；CMD_ZDR=1 会话不可用。结束日期未说明。",
+    "supersedes": null,
+    "sourceId": "commandcode-pricing-limits",
+    "claimUrl": "https://commandcode.ai/docs/resources/pricing-limits",
+    "facts": [
+      {
+        "quote": "DEAL cat-jam-free Cat Jam Free while the stealth preview lasts\nauto-applied when you pick cat-jam:free\nModel Cat Jam\nCat Jam is a free stealth preview.\nCat Jam is a reasoning model for coding and agentic work, with a 1M token context and low, medium, high, xhigh, and max reasoning effort. Its maker has chosen to stay anonymous for the preview.\nNo daily request limit : use it as much as you like while the preview lasts.\nKeep sensitive work elsewhere : the provider may keep your prompts and outputs and train on them, so Cat Jam won&#x27;t run in a CMD_ZDR=1 session.",
+        "url": "https://commandcode.ai/docs/resources/pricing-limits",
+        "snapshot": "snapshots/commandcode-pricing-limits/2026-10-16-0008-452ca750.json"
+      },
+      {
+        "quote": "DEAL cat-jam:free is free, with no daily request limit. Requests on this model cost no credits. while the stealth preview lasts",
+        "url": "https://commandcode.ai/docs/resources/pricing-limits",
+        "snapshot": "snapshots/commandcode-pricing-limits/2026-10-16-0008-452ca750.json"
+      }
+    ],
+    "quantity": null,
+    "withdrawn": {
+      "reason": "项目失效复查连续3轮成功回源均不再出现Cat Jam免费预览原文；当前官方快照snapshots/commandcode-pricing-limits/2026-10-22-2358-9fc9d567.json。其它已知空值/渲染误差不纳入本次下架。",
+      "at": "2026-10-23"
+    }
+  },
+  {
+    "schemaVersion": 0,
     "occurredAt": "2026-09-18",
     "publishedAt": "2026-09-18T14:22:00Z",
     "verification": "auto_verified",
@@ -554,6 +837,90 @@
       "reason": "项目失效复查连续 3 次不再出现 Space Bunny Free 限时免费；官方快照现列 Space Bunny 付费价格。",
       "at": "2026-10-11"
     },
+    "quantity": null
+  },
+  {
+    "schemaVersion": 0,
+    "offerKey": "9b30c0ce9335b380",
+    "occurredAt": "2026-10-18",
+    "publishedAt": "2026-10-18T12:18:17.714069+00:00",
+    "verification": "auto_verified",
+    "category": "creditsPromotion",
+    "vendor": "trae",
+    "entity": "TRAE 1024 签到抽奖（随机奖励，非必得）",
+    "promotionType": "free",
+    "appliesTo": [
+      "agent"
+    ],
+    "amount": "每日完成签到后，即可获得一次随机奖励。",
+    "eligibility": "TRAE 中国区用户均可参与，包括活动期间登录 TRAE IDE 的新老用户。",
+    "baseline": null,
+    "startsAt": "2026-10-18T16:00:00Z",
+    "startsAtText": "2026 年 10 月 19 日 00:00",
+    "expiresAt": "2026-10-24T10:00:00Z",
+    "expiresAtText": "10 月 24 日 18:00",
+    "howToClaim": "console",
+    "restrictions": "签到抽奖，奖励随机，非固定额度或必得优惠券。每日88积分中奖概率0.5%，888积分0.04%，10元连续包月优惠券92.5%，20元券2.4%；100万积分大奖共1名，10月24日19:00直播抽取。积分、优惠券有效期按官方规则分别计算；优惠券仅用于Lite/Pro/Pro+/Ultra连续包月购买或升级，不用于续扣，不可叠加。请使用支持该活动的TRAE IDE登录签到。",
+    "sourceId": "trae-1024-checkin-lottery",
+    "claimUrl": "https://docs.trae.cn/ide_million-credits-giveaway-on-oct-24?lang=zh",
+    "supersedes": null,
+    "facts": [
+      {
+        "quote": "活动时间：​ 北京时间 2026 年 10 月 19 日 00:00 至 10 月 24 日 18:00",
+        "url": "https://docs.trae.cn/ide_million-credits-giveaway-on-oct-24?lang=zh",
+        "snapshot": "snapshots/trae-1024-checkin-lottery/2026-10-18-1217-289caa6f.json"
+      },
+      {
+        "quote": "TRAE 中国区用户均可参与，包括活动期间登录 TRAE IDE 的新老用户。",
+        "url": "https://docs.trae.cn/ide_million-credits-giveaway-on-oct-24?lang=zh",
+        "snapshot": "snapshots/trae-1024-checkin-lottery/2026-10-18-1217-289caa6f.json"
+      },
+      {
+        "quote": "每日完成签到后，即可获得一次随机奖励。",
+        "url": "https://docs.trae.cn/ide_million-credits-giveaway-on-oct-24?lang=zh",
+        "snapshot": "snapshots/trae-1024-checkin-lottery/2026-10-18-1217-289caa6f.json"
+      },
+      {
+        "quote": "88 积分",
+        "url": "https://docs.trae.cn/ide_million-credits-giveaway-on-oct-24?lang=zh",
+        "snapshot": "snapshots/trae-1024-checkin-lottery/2026-10-18-1217-289caa6f.json"
+      },
+      {
+        "quote": "每日签到随机奖励（每天中奖概率为0.5%）",
+        "url": "https://docs.trae.cn/ide_million-credits-giveaway-on-oct-24?lang=zh",
+        "snapshot": "snapshots/trae-1024-checkin-lottery/2026-10-18-1217-289caa6f.json"
+      },
+      {
+        "quote": "888 积分",
+        "url": "https://docs.trae.cn/ide_million-credits-giveaway-on-oct-24?lang=zh",
+        "snapshot": "snapshots/trae-1024-checkin-lottery/2026-10-18-1217-289caa6f.json"
+      },
+      {
+        "quote": "每日签到随机奖励（每天中奖概率为0.04%）",
+        "url": "https://docs.trae.cn/ide_million-credits-giveaway-on-oct-24?lang=zh",
+        "snapshot": "snapshots/trae-1024-checkin-lottery/2026-10-18-1217-289caa6f.json"
+      },
+      {
+        "quote": "10 元连续包月优惠券（每天中奖概率为92.5%）",
+        "url": "https://docs.trae.cn/ide_million-credits-giveaway-on-oct-24?lang=zh",
+        "snapshot": "snapshots/trae-1024-checkin-lottery/2026-10-18-1217-289caa6f.json"
+      },
+      {
+        "quote": "20 元连续包月优惠券（每天中奖概率为2.4%）",
+        "url": "https://docs.trae.cn/ide_million-credits-giveaway-on-oct-24?lang=zh",
+        "snapshot": "snapshots/trae-1024-checkin-lottery/2026-10-18-1217-289caa6f.json"
+      },
+      {
+        "quote": "2026年10 月 24 日 19:00，TRAE 将在「AI Builder Day」直播间从候选池中随机抽取 1 位用户，送出 100 万积分。",
+        "url": "https://docs.trae.cn/ide_million-credits-giveaway-on-oct-24?lang=zh",
+        "snapshot": "snapshots/trae-1024-checkin-lottery/2026-10-18-1217-289caa6f.json"
+      },
+      {
+        "quote": "优惠券适用于Lite、Pro、Pro+、Ultra连续包月会员权益的购买或升级，但无法在连续包月套餐后续的自动扣费中使用。优惠券在任何情况下，无法叠加使用。",
+        "url": "https://docs.trae.cn/ide_million-credits-giveaway-on-oct-24?lang=zh",
+        "snapshot": "snapshots/trae-1024-checkin-lottery/2026-10-18-1217-289caa6f.json"
+      }
+    ],
     "quantity": null
   },
   {
@@ -726,548 +1093,6 @@
   },
   {
     "schemaVersion": 0,
-    "offerKey": "bb9c6c6c18d72a28",
-    "occurredAt": "2026-09-27",
-    "publishedAt": "2026-09-27T13:57:29.810Z",
-    "verification": "auto_verified",
-    "category": "creditsPromotion",
-    "region": null,
-    "startsAt": "2026-09-25T00:00:00+08:00",
-    "startsAtText": "9 月 25 日至 10 月 7 日",
-    "expiresAt": "2026-10-07T23:59:59+08:00",
-    "expiresAtText": "9 月 25 日至 10 月 7 日",
-    "validityText": null,
-    "supersedes": null,
-    "promotionType": "discount",
-    "appliesTo": [
-      "model",
-      "subscription"
-    ],
-    "planKind": "codingPlan",
-    "vendor": "zhipu",
-    "entity": "glm-coding-plan",
-    "amount": "全天按非高峰时段规则消耗额度",
-    "eligibility": "9 月 25 日至 10 月 7 日",
-    "baseline": "全部在高峰时段，按 1 倍积分消耗",
-    "howToClaim": "auto",
-    "restrictions": "「庆双节活动」为限时活动：9 月 25 日至 10 月 7 日期间，GLM Coding Plan 套餐额度全天（含高峰时段）按非高峰时段规则消耗，即按基础积分消耗的 50% 抵扣；参照物是标准消耗规则——高峰时段（每周一至周五的 14:00～18:00，UTC+8）按 1 倍积分消耗，非高峰时段按 50% 抵扣，活动期内高峰时段不再按 1 倍计。消耗的是套餐积分额度，用户已为套餐付费，故按 discount 入库而非 free。页面未说明需领取动作，同页兄弟活动标注「进入指定时间段自动生效」，本条按自动生效处理。套餐仅限在官方支持的指定工具与产品环境中使用；同页另有 9 月 3 日至 10 月 7 日的夜间错峰活动（GLM-5.3-Flash 在 ZCode、AutoClaw 消耗降为 0 / 其他 Agent 额度翻倍）可叠加，已另有记录 3812c3d2854743b3，本条不重复收录。该句同时出现在套餐概览页与套餐改版说明页（用量修订公告）内，故合并为一条记录",
-    "claimUrl": "https://docs.bigmodel.cn/cn/coding-plan/overview",
-    "sourceId": "zhipu-coding-plan",
-    "facts": [
-      {
-        "quote": "庆双节活动 ：9 月 25 日至 10 月 7 日，全天按非高峰时段规则消耗额度。",
-        "url": "https://docs.bigmodel.cn/cn/coding-plan/overview",
-        "snapshot": "snapshots/zhipu-coding-plan/2026-09-27-1357-e6e9de0b.json"
-      },
-      {
-        "quote": "非高峰时段内，模型调用按基础积分消耗的 50% 抵扣。",
-        "url": "https://docs.bigmodel.cn/cn/coding-plan/overview",
-        "snapshot": "snapshots/zhipu-coding-plan/2026-09-27-1357-e6e9de0b.json"
-      },
-      {
-        "quote": "高峰时段：每周一至周五的 14:00～18:00 （UTC+8）。",
-        "url": "https://docs.bigmodel.cn/cn/coding-plan/overview",
-        "snapshot": "snapshots/zhipu-coding-plan/2026-09-27-1357-e6e9de0b.json"
-      },
-      {
-        "quote": "最少 Tokens：全部在高峰时段，按 1 倍积分消耗",
-        "url": "https://docs.bigmodel.cn/cn/coding-plan/overview",
-        "snapshot": "snapshots/zhipu-coding-plan/2026-09-27-1357-e6e9de0b.json"
-      },
-      {
-        "quote": "订阅套餐后，在上述编程工具中调用 GLM 模型，按接入指南配置即可使用套餐额度。",
-        "url": "https://docs.bigmodel.cn/cn/coding-plan/overview",
-        "snapshot": "snapshots/zhipu-coding-plan/2026-09-27-1357-e6e9de0b.json"
-      },
-      {
-        "quote": "庆双节活动 ：9 月 25 日至 10 月 7 日，全天按非高峰时段规则消耗额度。",
-        "url": "https://docs.bigmodel.cn/cn/coding-plan/notice/usage-revision",
-        "snapshot": "snapshots/zhipu-usage-revision/2026-09-27-1357-d67ed6ab.json"
-      }
-    ],
-    "corroboration": [
-      {
-        "sourceId": "zhipu-usage-revision",
-        "quote": "庆双节活动 ：9 月 25 日至 10 月 7 日，全天按非高峰时段规则消耗额度。",
-        "snapshot": "snapshots/zhipu-usage-revision/2026-09-27-1357-d67ed6ab.json"
-      }
-    ],
-    "quantity": null
-  },
-  {
-    "schemaVersion": 0,
-    "offerKey": "cd2ace6688ef48e8",
-    "occurredAt": "2026-09-20",
-    "publishedAt": "2026-09-20T07:11:48.866Z",
-    "verification": "auto_verified",
-    "category": "creditsPromotion",
-    "region": null,
-    "startsAt": null,
-    "startsAtText": null,
-    "expiresAt": null,
-    "expiresAtText": null,
-    "validityText": null,
-    "supersedes": null,
-    "promotionType": "referral",
-    "appliesTo": [
-      "apiCredit",
-      "subscription"
-    ],
-    "planKind": "accountPlan",
-    "vendor": "stepfun",
-    "entity": "step-plan",
-    "amount": "每邀请 1 位好友注册，再获 15 天",
-    "eligibility": "邀请新构建者完成注册",
-    "baseline": null,
-    "howToClaim": "invite",
-    "restrictions": "累计最高 45 天，总福利可达 75 天",
-    "claimUrl": "https://platform.stepfun.com/step-plan",
-    "sourceId": "stepfun-step-plan",
-    "facts": [
-      {
-        "quote": "每邀请 1 位好友注册，再获 15 天，累计最高 45 天，总福利可达 75 天！",
-        "url": "https://platform.stepfun.com/step-plan",
-        "snapshot": "snapshots/stepfun-step-plan/2026-09-20-0711-1ca0d014.json"
-      },
-      {
-        "quote": "邀请构建者加入，每位完成注册，邀请人再得 15 天 Step Plan",
-        "url": "https://platform.stepfun.com/step-plan",
-        "snapshot": "snapshots/stepfun-step-plan/2026-09-20-0711-1ca0d014.json"
-      }
-    ],
-    "withdrawn": {
-      "reason": "连续 6 次失效复查未出现原免费体验文案；官方 Playwright 快照明确关闭新增免费体验领取通道。",
-      "at": "2026-10-12"
-    },
-    "quantity": null
-  },
-  {
-    "schemaVersion": 0,
-    "offerKey": "ce72f73e73e630b1",
-    "occurredAt": "2026-09-18",
-    "publishedAt": "2026-09-18T14:34:00Z",
-    "verification": "auto_verified",
-    "category": "creditsPromotion",
-    "promotionType": "discount",
-    "appliesTo": [
-      "subscription",
-      "agent"
-    ],
-    "planKind": "toolPlan",
-    "vendor": "moonshot",
-    "entity": "kimi-membership",
-    "amount": "¥1,680",
-    "eligibility": "连续包年",
-    "howToClaim": "purchase",
-    "startsAt": null,
-    "startsAtText": null,
-    "expiresAt": null,
-    "expiresAtText": null,
-    "region": null,
-    "validityText": "会员权益有效期为自订阅生效之日起 30 天",
-    "restrictions": "四档会员 ¥49/¥99/¥199/¥699 每月，选择连续包年可享受更大折扣，最高立省 ¥1,680；具体到各档的年省金额来源未逐项列出",
-    "claimUrl": "https://www.kimi.com/help/membership/membership-pricing",
-    "sourceId": "moonshot-kimi-membership-pricing",
-    "facts": [
-      {
-        "quote": "选择连续包年可享受更大折扣，最高立省 ¥1,680。",
-        "url": "https://www.kimi.com/help/membership/membership-pricing",
-        "snapshot": "snapshots/moonshot-kimi-membership-pricing/2026-09-18-1434-535d126f.json"
-      },
-      {
-        "quote": "Kimi 提供四档会员计划，均支持连续包月和连续包年两种订阅方式。",
-        "url": "https://www.kimi.com/help/membership/membership-pricing",
-        "snapshot": "snapshots/moonshot-kimi-membership-pricing/2026-09-18-1434-535d126f.json"
-      },
-      {
-        "quote": "会员权益有效期为自订阅生效之日起 30 天。",
-        "url": "https://www.kimi.com/help/membership/membership-overview",
-        "snapshot": "snapshots/moonshot-kimi-membership-overview/2026-09-18-1434-b63c153f.json"
-      }
-    ],
-    "corroboration": [
-      {
-        "sourceId": "moonshot-kimi-membership-overview",
-        "quote": "选择连续包年订阅，最高可立省 ¥1,680 ，适合长期使用的用户。",
-        "snapshot": "snapshots/moonshot-kimi-membership-overview/2026-09-18-1434-b63c153f.json"
-      }
-    ],
-    "supersedes": null,
-    "withdrawn": {
-      "reason": "页面只给封顶口径「最高立省 ¥1,680」，未给出连续包年价与逐档原价，参照物不成立；原 revise 补丁以 baseline=连续包月 充当原价属硬凑。等会员页渲染数据到手后按具体档位重录",
-      "at": "2026-09-18"
-    },
-    "quantity": null
-  },
-  {
-    "schemaVersion": 0,
-    "offerKey": "0592505613f92022",
-    "occurredAt": "2026-10-11",
-    "publishedAt": "2026-10-11T00:00:00Z",
-    "verification": "auto_verified",
-    "category": "creditsPromotion",
-    "vendor": "opencode",
-    "entity": "step-5-preview-free",
-    "amount": "Step 5 Preview Free: 限时免费。",
-    "eligibility": "限时",
-    "promotionType": "free",
-    "appliesTo": [
-      "model"
-    ],
-    "baseline": null,
-    "startsAt": null,
-    "startsAtText": null,
-    "expiresAt": null,
-    "expiresAtText": null,
-    "howToClaim": "auto",
-    "restrictions": "来源未说明结束日期。",
-    "supersedes": null,
-    "sourceId": "opencode-go",
-    "claimUrl": "https://opencode.ai/docs/zh-cn/go/",
-    "facts": [
-      {
-        "quote": "LongCat 2.5 Preview Free （限时）",
-        "url": "https://opencode.ai/docs/zh-cn/go/",
-        "snapshot": "snapshots/opencode-go/2026-10-10-1135-338c7735.json"
-      },
-      {
-        "quote": "Step 5 Preview Free （限时）",
-        "url": "https://opencode.ai/docs/zh-cn/go/",
-        "snapshot": "snapshots/opencode-go/2026-10-10-1135-338c7735.json"
-      },
-      {
-        "quote": "限时",
-        "url": "https://opencode.ai/docs/zh-cn/go/",
-        "snapshot": "snapshots/opencode-go/2026-10-10-1135-338c7735.json"
-      },
-      {
-        "quote": "LongCat 2.5 Preview Free: 限时免费。",
-        "url": "https://opencode.ai/docs/zh-cn/go/",
-        "snapshot": "snapshots/opencode-go/2026-10-10-1135-338c7735.json"
-      },
-      {
-        "quote": "Step 5 Preview Free: 限时免费。",
-        "url": "https://opencode.ai/docs/zh-cn/go/",
-        "snapshot": "snapshots/opencode-go/2026-10-10-1135-338c7735.json"
-      },
-      {
-        "quote": "规则",
-        "url": "https://opencode.ai/docs/zh-cn/go/",
-        "snapshot": "snapshots/opencode-go/2026-10-10-1135-338c7735.json"
-      }
-    ],
-    "withdrawn": {
-      "reason": "项目失效复查连续三轮确认原 Step 5 Preview Free 免费条目原文缺失；官方现列为付费 Step 5 Preview，已过项目连续3次失效判据。",
-      "at": "2026-10-17"
-    },
-    "quantity": null
-  },
-  {
-    "schemaVersion": 0,
-    "offerKey": "1c352787511d2b23",
-    "occurredAt": "2026-10-13",
-    "publishedAt": "2026-10-13T16:13:54.940503+00:00",
-    "verification": "auto_verified",
-    "category": "creditsPromotion",
-    "promotionType": "discount",
-    "vendor": "commandcode",
-    "entity": "commandcode-deepseek-v4.1-flash",
-    "planName": "Command Code GOAT / Pro",
-    "appliesTo": [
-      "model",
-      "subscription"
-    ],
-    "planKind": "tokenPlan",
-    "amount": "$100 on GOAT and Pro",
-    "eligibility": "pick deepseek-v4.1-flash from /model",
-    "baseline": "$60 and $70",
-    "howToClaim": "auto",
-    "startsAt": "2026-10-13T07:00:00-07:00",
-    "startsAtText": "October 13 at 7 AM PT",
-    "expiresAt": "2026-10-16T07:00:00-07:00",
-    "expiresAtText": "October 16 at 7 AM PT",
-    "claimUrl": "https://commandcode.ai/docs/resources/pricing-limits",
-    "sourceId": "commandcode-pricing-limits",
-    "region": null,
-    "supersedes": null,
-    "quantity": null,
-    "validityText": "through October 16, 2026",
-    "restrictions": "DeepSeek V4.1 Flash 月用量等值临时提高至 $100，适用 $10/月 GOAT 与 $20/月 Pro；Token 单价不变，CLI 选择该模型自动生效。官方指定 10 月 13 日至 16 日均为太平洋时间早上 7 点；结束后 GOAT 保持 $80、Pro 保持 $90，不是额外充值余额。",
-    "facts": [
-      {
-        "quote": "DEAL deepseek-v4.1-flash usage: $100 on GOAT and Pro. through Oct 16th",
-        "url": "https://commandcode.ai/docs/resources/pricing-limits",
-        "snapshot": "snapshots/commandcode-pricing-limits/2026-10-13-1608-0cd5303e.json"
-      },
-      {
-        "quote": "DeepSeek V4.1 Flash gets $100 of monthly credits for three days, through October 16, 2026.",
-        "url": "https://commandcode.ai/docs/resources/pricing-limits",
-        "snapshot": "snapshots/commandcode-pricing-limits/2026-10-13-1608-0cd5303e.json"
-      },
-      {
-        "quote": "From October 13 at 7 AM PT until October 16 at 7 AM PT, DeepSeek V4.1 Flash&#x27;s per-model allowance is $100 on the $10 GOAT plan and $100 on the $20 Pro plan , up from $60 and $70. Per-token rates stay the same.",
-        "url": "https://commandcode.ai/docs/resources/pricing-limits",
-        "snapshot": "snapshots/commandcode-pricing-limits/2026-10-13-1608-0cd5303e.json"
-      },
-      {
-        "quote": "Applied automatically : pick deepseek-v4.1-flash from /model in the CLI and the bigger allowance is there. Nothing to turn on.",
-        "url": "https://commandcode.ai/docs/resources/pricing-limits",
-        "snapshot": "snapshots/commandcode-pricing-limits/2026-10-13-1608-0cd5303e.json"
-      },
-      {
-        "quote": "After the three days : the allowance stays raised, at $80 on GOAT and $90 on Pro.",
-        "url": "https://commandcode.ai/docs/resources/pricing-limits",
-        "snapshot": "snapshots/commandcode-pricing-limits/2026-10-13-1608-0cd5303e.json"
-      },
-      {
-        "quote": "GOAT ($10/mo) $60 $100 $80",
-        "url": "https://commandcode.ai/docs/resources/pricing-limits",
-        "snapshot": "snapshots/commandcode-pricing-limits/2026-10-13-1608-0cd5303e.json"
-      },
-      {
-        "quote": "Pro ($20/mo) $70 $100 $90",
-        "url": "https://commandcode.ai/docs/resources/pricing-limits",
-        "snapshot": "snapshots/commandcode-pricing-limits/2026-10-13-1608-0cd5303e.json"
-      }
-    ]
-  },
-  {
-    "schemaVersion": 0,
-    "offerKey": "1c5702763a48ce4e",
-    "occurredAt": "2026-10-20",
-    "publishedAt": "2026-10-20T12:15:42.008269+00:00",
-    "verification": "auto_verified",
-    "category": "creditsPromotion",
-    "vendor": "opendesign",
-    "entity": "opendesign-deepseek-v4.1-flash-1017-motion-week",
-    "promotionType": "discount",
-    "appliesTo": [
-      "model"
-    ],
-    "amount": "The multiplier drops from 0.5× to 0.25×, then returns to 0.5×.",
-    "eligibility": "DeepSeek V4.1 Flash Off-peak promo",
-    "baseline": "DeepSeek V4.1 Flash 0.5×",
-    "startsAt": "2026-10-20T18:00:00+08:00",
-    "startsAtText": "October 20 at 18:00",
-    "expiresAt": "2026-10-27T18:00:00+08:00",
-    "expiresAtText": "October 27 at 18:00 (UTC+8)",
-    "howToClaim": "auto",
-    "supersedes": null,
-    "sourceId": "opendesign-model-credits",
-    "claimUrl": "https://open-design.ai/model-credits/",
-    "restrictions": "OpenDesign Motion Week：DeepSeek V4.1 Flash 已升级为 1017 版本，活动期间全天按优惠倍率消耗 Design Plan credits，由常规0.5×降为0.25×，同样积分可支持约两倍通常用量。仅适用于 Design Plan credits；套餐额度和重置时间保持不变，无额外赠送积分，不与同名off-peak宣传叠加，活动后恢复0.5×。",
-    "facts": [
-      {
-        "quote": "The one-week off-peak offer lowers the Design Plan credit multiplier for DeepSeek V4.1 Flash from 0.5× to 0.25×. These are the same offer, with no stacked discount. The same credits support twice the usual usage for one week; existing allowances and reset times stay unchanged.",
-        "url": "https://open-design.ai/model-credits/",
-        "snapshot": "snapshots/opendesign-model-credits/2026-10-20-1212-40ebc8ce.json"
-      },
-      {
-        "quote": "DeepSeek V4.1 Flash Off-peak promo ? The limited-time off-peak offer lasts one week: October 20 at 18:00 to October 27 at 18:00 (UTC+8). The multiplier drops from 0.5× to 0.25×, then returns to 0.5×. Plan allowances and reset times stay unchanged. 0.25×",
-        "url": "https://open-design.ai/model-credits/",
-        "snapshot": "snapshots/opendesign-model-credits/2026-10-20-1212-40ebc8ce.json"
-      },
-      {
-        "quote": "DeepSeek V4.1 Flash 0.5×",
-        "url": "https://open-design.ai/model-credits/",
-        "snapshot": "snapshots/opendesign-model-credits/2026-10-20-1212-40ebc8ce.json"
-      },
-      {
-        "quote": "DeepSeek V4.1 Flash has been upgraded to the October 17, 2026 update (1017).",
-        "url": "https://open-design.ai/model-credits/",
-        "snapshot": "snapshots/opendesign-model-credits/2026-10-20-1212-40ebc8ce.json"
-      },
-      {
-        "quote": "DeepSeek V4.1 Flash 1017 · Official API · All-day off-peak rates for one week",
-        "url": "https://open-design.ai/pricing/",
-        "snapshot": "snapshots/opendesign-pricing/2026-10-20-1212-37df2270.json"
-      }
-    ],
-    "quantity": null
-  },
-  {
-    "schemaVersion": 0,
-    "offerKey": "500ad25f1d6821d4",
-    "occurredAt": "2026-10-14",
-    "publishedAt": "2026-10-15T00:01:36.332066+00:00",
-    "verification": "auto_verified",
-    "category": "creditsPromotion",
-    "promotionType": "discount",
-    "vendor": "commandcode",
-    "entity": "commandcode-glm-5.3-flash",
-    "planName": "Command Code GOAT / Pro",
-    "appliesTo": [
-      "model",
-      "subscription"
-    ],
-    "planKind": "tokenPlan",
-    "amount": "$100 on GOAT and Pro",
-    "eligibility": "pick glm-5.3-flash from /model",
-    "baseline": "$60 and $70",
-    "howToClaim": "auto",
-    "startsAt": "2026-10-14T05:30:00-07:00",
-    "startsAtText": "October 14 at 5:30 AM PT",
-    "expiresAt": "2026-10-17T05:30:00-07:00",
-    "expiresAtText": "October 17 at 5:30 AM PT",
-    "claimUrl": "https://commandcode.ai/docs/resources/pricing-limits",
-    "sourceId": "commandcode-pricing-limits",
-    "region": null,
-    "supersedes": null,
-    "quantity": null,
-    "validityText": "through October 17, 2026",
-    "restrictions": "GLM-5.3 Flash 月用量等值临时提高至 $100，适用 $10/月 GOAT 与 $20/月 Pro，原额度分别 $60、$70；Token 单价不变，CLI 选择该模型自动生效。活动时间为太平洋时间 10 月 14 日 05:30 至 17 日 05:30，不是额外充值余额。",
-    "facts": [
-      {
-        "quote": "DEAL glm-5.3-flash usage: $100 on GOAT and Pro. through Oct 17th",
-        "url": "https://commandcode.ai/docs/resources/pricing-limits",
-        "snapshot": "snapshots/commandcode-pricing-limits/2026-10-14-2359-a7982284.json"
-      },
-      {
-        "quote": "GLM-5.3 Flash gets $100 of monthly credits for three days, through October 17, 2026.",
-        "url": "https://commandcode.ai/docs/resources/pricing-limits",
-        "snapshot": "snapshots/commandcode-pricing-limits/2026-10-14-2359-a7982284.json"
-      },
-      {
-        "quote": "From October 14 at 5:30 AM PT until October 17 at 5:30 AM PT, GLM-5.3 Flash&#x27;s per-model allowance is $100 on the $10 GOAT plan and $100 on the $20 Pro plan , up from $60 and $70. Per-token rates stay the same.",
-        "url": "https://commandcode.ai/docs/resources/pricing-limits",
-        "snapshot": "snapshots/commandcode-pricing-limits/2026-10-14-2359-a7982284.json"
-      },
-      {
-        "quote": "Applied automatically : pick glm-5.3-flash from /model in the CLI and the bigger allowance is there. Nothing to turn on.",
-        "url": "https://commandcode.ai/docs/resources/pricing-limits",
-        "snapshot": "snapshots/commandcode-pricing-limits/2026-10-14-2359-a7982284.json"
-      }
-    ]
-  },
-  {
-    "schemaVersion": 0,
-    "offerKey": "86005e88dff38638",
-    "occurredAt": "2026-10-16",
-    "publishedAt": "2026-10-16T00:13:48.247750+00:00",
-    "verification": "auto_verified",
-    "category": "creditsPromotion",
-    "vendor": "commandcode",
-    "entity": "cat-jam-free",
-    "amount": "Cat Jam is a free stealth preview.",
-    "eligibility": "while the stealth preview lasts",
-    "promotionType": "free",
-    "appliesTo": [
-      "model"
-    ],
-    "baseline": null,
-    "startsAt": null,
-    "startsAtText": null,
-    "expiresAt": null,
-    "expiresAtText": null,
-    "howToClaim": "auto",
-    "restrictions": "Command Code 的 Cat Jam 隐身预览期免费，无每日请求限制，不消耗 credits。提供方可能保留输入输出并用于训练；CMD_ZDR=1 会话不可用。结束日期未说明。",
-    "supersedes": null,
-    "sourceId": "commandcode-pricing-limits",
-    "claimUrl": "https://commandcode.ai/docs/resources/pricing-limits",
-    "facts": [
-      {
-        "quote": "DEAL cat-jam-free Cat Jam Free while the stealth preview lasts\nauto-applied when you pick cat-jam:free\nModel Cat Jam\nCat Jam is a free stealth preview.\nCat Jam is a reasoning model for coding and agentic work, with a 1M token context and low, medium, high, xhigh, and max reasoning effort. Its maker has chosen to stay anonymous for the preview.\nNo daily request limit : use it as much as you like while the preview lasts.\nKeep sensitive work elsewhere : the provider may keep your prompts and outputs and train on them, so Cat Jam won&#x27;t run in a CMD_ZDR=1 session.",
-        "url": "https://commandcode.ai/docs/resources/pricing-limits",
-        "snapshot": "snapshots/commandcode-pricing-limits/2026-10-16-0008-452ca750.json"
-      },
-      {
-        "quote": "DEAL cat-jam:free is free, with no daily request limit. Requests on this model cost no credits. while the stealth preview lasts",
-        "url": "https://commandcode.ai/docs/resources/pricing-limits",
-        "snapshot": "snapshots/commandcode-pricing-limits/2026-10-16-0008-452ca750.json"
-      }
-    ],
-    "quantity": null,
-    "withdrawn": {
-      "reason": "项目失效复查连续3轮成功回源均不再出现Cat Jam免费预览原文；当前官方快照snapshots/commandcode-pricing-limits/2026-10-22-2358-9fc9d567.json。其它已知空值/渲染误差不纳入本次下架。",
-      "at": "2026-10-23"
-    }
-  },
-  {
-    "schemaVersion": 0,
-    "offerKey": "9b30c0ce9335b380",
-    "occurredAt": "2026-10-18",
-    "publishedAt": "2026-10-18T12:18:17.714069+00:00",
-    "verification": "auto_verified",
-    "category": "creditsPromotion",
-    "vendor": "trae",
-    "entity": "TRAE 1024 签到抽奖（随机奖励，非必得）",
-    "promotionType": "free",
-    "appliesTo": [
-      "agent"
-    ],
-    "amount": "每日完成签到后，即可获得一次随机奖励。",
-    "eligibility": "TRAE 中国区用户均可参与，包括活动期间登录 TRAE IDE 的新老用户。",
-    "baseline": null,
-    "startsAt": "2026-10-18T16:00:00Z",
-    "startsAtText": "2026 年 10 月 19 日 00:00",
-    "expiresAt": "2026-10-24T10:00:00Z",
-    "expiresAtText": "10 月 24 日 18:00",
-    "howToClaim": "console",
-    "restrictions": "签到抽奖，奖励随机，非固定额度或必得优惠券。每日88积分中奖概率0.5%，888积分0.04%，10元连续包月优惠券92.5%，20元券2.4%；100万积分大奖共1名，10月24日19:00直播抽取。积分、优惠券有效期按官方规则分别计算；优惠券仅用于Lite/Pro/Pro+/Ultra连续包月购买或升级，不用于续扣，不可叠加。请使用支持该活动的TRAE IDE登录签到。",
-    "sourceId": "trae-1024-checkin-lottery",
-    "claimUrl": "https://docs.trae.cn/ide_million-credits-giveaway-on-oct-24?lang=zh",
-    "supersedes": null,
-    "facts": [
-      {
-        "quote": "活动时间：​ 北京时间 2026 年 10 月 19 日 00:00 至 10 月 24 日 18:00",
-        "url": "https://docs.trae.cn/ide_million-credits-giveaway-on-oct-24?lang=zh",
-        "snapshot": "snapshots/trae-1024-checkin-lottery/2026-10-18-1217-289caa6f.json"
-      },
-      {
-        "quote": "TRAE 中国区用户均可参与，包括活动期间登录 TRAE IDE 的新老用户。",
-        "url": "https://docs.trae.cn/ide_million-credits-giveaway-on-oct-24?lang=zh",
-        "snapshot": "snapshots/trae-1024-checkin-lottery/2026-10-18-1217-289caa6f.json"
-      },
-      {
-        "quote": "每日完成签到后，即可获得一次随机奖励。",
-        "url": "https://docs.trae.cn/ide_million-credits-giveaway-on-oct-24?lang=zh",
-        "snapshot": "snapshots/trae-1024-checkin-lottery/2026-10-18-1217-289caa6f.json"
-      },
-      {
-        "quote": "88 积分",
-        "url": "https://docs.trae.cn/ide_million-credits-giveaway-on-oct-24?lang=zh",
-        "snapshot": "snapshots/trae-1024-checkin-lottery/2026-10-18-1217-289caa6f.json"
-      },
-      {
-        "quote": "每日签到随机奖励（每天中奖概率为0.5%）",
-        "url": "https://docs.trae.cn/ide_million-credits-giveaway-on-oct-24?lang=zh",
-        "snapshot": "snapshots/trae-1024-checkin-lottery/2026-10-18-1217-289caa6f.json"
-      },
-      {
-        "quote": "888 积分",
-        "url": "https://docs.trae.cn/ide_million-credits-giveaway-on-oct-24?lang=zh",
-        "snapshot": "snapshots/trae-1024-checkin-lottery/2026-10-18-1217-289caa6f.json"
-      },
-      {
-        "quote": "每日签到随机奖励（每天中奖概率为0.04%）",
-        "url": "https://docs.trae.cn/ide_million-credits-giveaway-on-oct-24?lang=zh",
-        "snapshot": "snapshots/trae-1024-checkin-lottery/2026-10-18-1217-289caa6f.json"
-      },
-      {
-        "quote": "10 元连续包月优惠券（每天中奖概率为92.5%）",
-        "url": "https://docs.trae.cn/ide_million-credits-giveaway-on-oct-24?lang=zh",
-        "snapshot": "snapshots/trae-1024-checkin-lottery/2026-10-18-1217-289caa6f.json"
-      },
-      {
-        "quote": "20 元连续包月优惠券（每天中奖概率为2.4%）",
-        "url": "https://docs.trae.cn/ide_million-credits-giveaway-on-oct-24?lang=zh",
-        "snapshot": "snapshots/trae-1024-checkin-lottery/2026-10-18-1217-289caa6f.json"
-      },
-      {
-        "quote": "2026年10 月 24 日 19:00，TRAE 将在「AI Builder Day」直播间从候选池中随机抽取 1 位用户，送出 100 万积分。",
-        "url": "https://docs.trae.cn/ide_million-credits-giveaway-on-oct-24?lang=zh",
-        "snapshot": "snapshots/trae-1024-checkin-lottery/2026-10-18-1217-289caa6f.json"
-      },
-      {
-        "quote": "优惠券适用于Lite、Pro、Pro+、Ultra连续包月会员权益的购买或升级，但无法在连续包月套餐后续的自动扣费中使用。优惠券在任何情况下，无法叠加使用。",
-        "url": "https://docs.trae.cn/ide_million-credits-giveaway-on-oct-24?lang=zh",
-        "snapshot": "snapshots/trae-1024-checkin-lottery/2026-10-18-1217-289caa6f.json"
-      }
-    ],
-    "quantity": null
-  },
-  {
-    "schemaVersion": 0,
     "offerKey": "b6997c6fcbff48ff",
     "occurredAt": "2026-10-19",
     "publishedAt": "2026-10-19T12:05:57.221465+00:00",
@@ -1375,6 +1200,76 @@
   },
   {
     "schemaVersion": 0,
+    "offerKey": "bb9c6c6c18d72a28",
+    "occurredAt": "2026-09-27",
+    "publishedAt": "2026-09-27T13:57:29.810Z",
+    "verification": "auto_verified",
+    "category": "creditsPromotion",
+    "region": null,
+    "startsAt": "2026-09-25T00:00:00+08:00",
+    "startsAtText": "9 月 25 日至 10 月 7 日",
+    "expiresAt": "2026-10-07T23:59:59+08:00",
+    "expiresAtText": "9 月 25 日至 10 月 7 日",
+    "validityText": null,
+    "supersedes": null,
+    "promotionType": "discount",
+    "appliesTo": [
+      "model",
+      "subscription"
+    ],
+    "planKind": "codingPlan",
+    "vendor": "zhipu",
+    "entity": "glm-coding-plan",
+    "amount": "全天按非高峰时段规则消耗额度",
+    "eligibility": "9 月 25 日至 10 月 7 日",
+    "baseline": "全部在高峰时段，按 1 倍积分消耗",
+    "howToClaim": "auto",
+    "restrictions": "「庆双节活动」为限时活动：9 月 25 日至 10 月 7 日期间，GLM Coding Plan 套餐额度全天（含高峰时段）按非高峰时段规则消耗，即按基础积分消耗的 50% 抵扣；参照物是标准消耗规则——高峰时段（每周一至周五的 14:00～18:00，UTC+8）按 1 倍积分消耗，非高峰时段按 50% 抵扣，活动期内高峰时段不再按 1 倍计。消耗的是套餐积分额度，用户已为套餐付费，故按 discount 入库而非 free。页面未说明需领取动作，同页兄弟活动标注「进入指定时间段自动生效」，本条按自动生效处理。套餐仅限在官方支持的指定工具与产品环境中使用；同页另有 9 月 3 日至 10 月 7 日的夜间错峰活动（GLM-5.3-Flash 在 ZCode、AutoClaw 消耗降为 0 / 其他 Agent 额度翻倍）可叠加，已另有记录 3812c3d2854743b3，本条不重复收录。该句同时出现在套餐概览页与套餐改版说明页（用量修订公告）内，故合并为一条记录",
+    "claimUrl": "https://docs.bigmodel.cn/cn/coding-plan/overview",
+    "sourceId": "zhipu-coding-plan",
+    "facts": [
+      {
+        "quote": "庆双节活动 ：9 月 25 日至 10 月 7 日，全天按非高峰时段规则消耗额度。",
+        "url": "https://docs.bigmodel.cn/cn/coding-plan/overview",
+        "snapshot": "snapshots/zhipu-coding-plan/2026-09-27-1357-e6e9de0b.json"
+      },
+      {
+        "quote": "非高峰时段内，模型调用按基础积分消耗的 50% 抵扣。",
+        "url": "https://docs.bigmodel.cn/cn/coding-plan/overview",
+        "snapshot": "snapshots/zhipu-coding-plan/2026-09-27-1357-e6e9de0b.json"
+      },
+      {
+        "quote": "高峰时段：每周一至周五的 14:00～18:00 （UTC+8）。",
+        "url": "https://docs.bigmodel.cn/cn/coding-plan/overview",
+        "snapshot": "snapshots/zhipu-coding-plan/2026-09-27-1357-e6e9de0b.json"
+      },
+      {
+        "quote": "最少 Tokens：全部在高峰时段，按 1 倍积分消耗",
+        "url": "https://docs.bigmodel.cn/cn/coding-plan/overview",
+        "snapshot": "snapshots/zhipu-coding-plan/2026-09-27-1357-e6e9de0b.json"
+      },
+      {
+        "quote": "订阅套餐后，在上述编程工具中调用 GLM 模型，按接入指南配置即可使用套餐额度。",
+        "url": "https://docs.bigmodel.cn/cn/coding-plan/overview",
+        "snapshot": "snapshots/zhipu-coding-plan/2026-09-27-1357-e6e9de0b.json"
+      },
+      {
+        "quote": "庆双节活动 ：9 月 25 日至 10 月 7 日，全天按非高峰时段规则消耗额度。",
+        "url": "https://docs.bigmodel.cn/cn/coding-plan/notice/usage-revision",
+        "snapshot": "snapshots/zhipu-usage-revision/2026-09-27-1357-d67ed6ab.json"
+      }
+    ],
+    "corroboration": [
+      {
+        "sourceId": "zhipu-usage-revision",
+        "quote": "庆双节活动 ：9 月 25 日至 10 月 7 日，全天按非高峰时段规则消耗额度。",
+        "snapshot": "snapshots/zhipu-usage-revision/2026-09-27-1357-d67ed6ab.json"
+      }
+    ],
+    "quantity": null
+  },
+  {
+    "schemaVersion": 0,
     "offerKey": "bf04a69c443dc708",
     "occurredAt": "2026-10-20",
     "publishedAt": "2026-10-20T12:15:42.008269+00:00",
@@ -1413,6 +1308,111 @@
     "withdrawn": {
       "reason": "项目连续3轮成功回源已不再出现MiniMax免费预览原文；最新官方快照snapshots/commandcode-pricing-limits/2026-10-24-0007-7ea95ec8.json。仅下架此已验证缺失条目。",
       "at": "2026-10-24"
+    },
+    "quantity": null
+  },
+  {
+    "schemaVersion": 0,
+    "offerKey": "cd2ace6688ef48e8",
+    "occurredAt": "2026-09-20",
+    "publishedAt": "2026-09-20T07:11:48.866Z",
+    "verification": "auto_verified",
+    "category": "creditsPromotion",
+    "region": null,
+    "startsAt": null,
+    "startsAtText": null,
+    "expiresAt": null,
+    "expiresAtText": null,
+    "validityText": null,
+    "supersedes": null,
+    "promotionType": "referral",
+    "appliesTo": [
+      "apiCredit",
+      "subscription"
+    ],
+    "planKind": "accountPlan",
+    "vendor": "stepfun",
+    "entity": "step-plan",
+    "amount": "每邀请 1 位好友注册，再获 15 天",
+    "eligibility": "邀请新构建者完成注册",
+    "baseline": null,
+    "howToClaim": "invite",
+    "restrictions": "累计最高 45 天，总福利可达 75 天",
+    "claimUrl": "https://platform.stepfun.com/step-plan",
+    "sourceId": "stepfun-step-plan",
+    "facts": [
+      {
+        "quote": "每邀请 1 位好友注册，再获 15 天，累计最高 45 天，总福利可达 75 天！",
+        "url": "https://platform.stepfun.com/step-plan",
+        "snapshot": "snapshots/stepfun-step-plan/2026-09-20-0711-1ca0d014.json"
+      },
+      {
+        "quote": "邀请构建者加入，每位完成注册，邀请人再得 15 天 Step Plan",
+        "url": "https://platform.stepfun.com/step-plan",
+        "snapshot": "snapshots/stepfun-step-plan/2026-09-20-0711-1ca0d014.json"
+      }
+    ],
+    "withdrawn": {
+      "reason": "连续 6 次失效复查未出现原免费体验文案；官方 Playwright 快照明确关闭新增免费体验领取通道。",
+      "at": "2026-10-12"
+    },
+    "quantity": null
+  },
+  {
+    "schemaVersion": 0,
+    "offerKey": "ce72f73e73e630b1",
+    "occurredAt": "2026-09-18",
+    "publishedAt": "2026-09-18T14:34:00Z",
+    "verification": "auto_verified",
+    "category": "creditsPromotion",
+    "promotionType": "discount",
+    "appliesTo": [
+      "subscription",
+      "agent"
+    ],
+    "planKind": "toolPlan",
+    "vendor": "moonshot",
+    "entity": "kimi-membership",
+    "amount": "¥1,680",
+    "eligibility": "连续包年",
+    "howToClaim": "purchase",
+    "startsAt": null,
+    "startsAtText": null,
+    "expiresAt": null,
+    "expiresAtText": null,
+    "region": null,
+    "validityText": "会员权益有效期为自订阅生效之日起 30 天",
+    "restrictions": "四档会员 ¥49/¥99/¥199/¥699 每月，选择连续包年可享受更大折扣，最高立省 ¥1,680；具体到各档的年省金额来源未逐项列出",
+    "claimUrl": "https://www.kimi.com/help/membership/membership-pricing",
+    "sourceId": "moonshot-kimi-membership-pricing",
+    "facts": [
+      {
+        "quote": "选择连续包年可享受更大折扣，最高立省 ¥1,680。",
+        "url": "https://www.kimi.com/help/membership/membership-pricing",
+        "snapshot": "snapshots/moonshot-kimi-membership-pricing/2026-09-18-1434-535d126f.json"
+      },
+      {
+        "quote": "Kimi 提供四档会员计划，均支持连续包月和连续包年两种订阅方式。",
+        "url": "https://www.kimi.com/help/membership/membership-pricing",
+        "snapshot": "snapshots/moonshot-kimi-membership-pricing/2026-09-18-1434-535d126f.json"
+      },
+      {
+        "quote": "会员权益有效期为自订阅生效之日起 30 天。",
+        "url": "https://www.kimi.com/help/membership/membership-overview",
+        "snapshot": "snapshots/moonshot-kimi-membership-overview/2026-09-18-1434-b63c153f.json"
+      }
+    ],
+    "corroboration": [
+      {
+        "sourceId": "moonshot-kimi-membership-overview",
+        "quote": "选择连续包年订阅，最高可立省 ¥1,680 ，适合长期使用的用户。",
+        "snapshot": "snapshots/moonshot-kimi-membership-overview/2026-09-18-1434-b63c153f.json"
+      }
+    ],
+    "supersedes": null,
+    "withdrawn": {
+      "reason": "页面只给封顶口径「最高立省 ¥1,680」，未给出连续包年价与逐档原价，参照物不成立；原 revise 补丁以 baseline=连续包月 充当原价属硬凑。等会员页渲染数据到手后按具体档位重录",
+      "at": "2026-09-18"
     },
     "quantity": null
   },
