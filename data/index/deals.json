@@ -2158,7 +2158,7 @@
     "expiresAt": null,
     "validityText": "免费额度的有效期为 90 天，从开通阿里云百炼、模型发布或模型申请通过之日起计算（以较晚者为准）。",
     "region": "华北 2（北京）",
-    "restrictions": "仅抵扣模型实时推理费用；额度过期自动失效，不支持补发、延期或重置；不可跨模型合并或转移；欠费限制按商品 Code 隔离：欠费商品对应服务不可用，即使该模型仍有免费额度；结清后恢复，其他商品 Code 对应的服务不受影响。",
+    "restrictions": "仅抵扣模型实时推理费用；额度过期自动失效，不支持补发、延期或重置；不可跨模型合并或转移；欠费限制按商品 Code 隔离：欠费商品对应服务不可用，即使该模型仍有免费额度；结清后恢复，其他商品 Code 对应的服务不受影响。 部分模型已停止向新用户发放免费额度；老用户已获额度可用至到期或耗尽，具体模型以官方下架清单为准。",
     "claimUrl": "https://help.aliyun.com/document_detail/2793371.html",
     "sourceId": "alibaba-bailian-newcomer-quota",
     "facts": [
@@ -2181,6 +2181,11 @@
         "quote": "欠费限制按商品 Code 隔离。某个商品 Code 产生欠费时，该商品 Code 对应的服务不可用，即使模型仍有免费额度也无法调用，结清欠费后恢复；其他商品 Code 对应的服务不受影响。您可以在账单中 查询商品 Code 。",
         "url": "https://help.aliyun.com/zh/model-studio/new-free-quota",
         "snapshot": "snapshots/alibaba-bailian-newcomer-quota/2026-10-16-1220-20ba349f.json"
+      },
+      {
+        "quote": "部分模型的免费额度由平台下架。下架后，新用户不再获得该模型的免费额度；已发放给老用户的额度仍可继续使用，直至到期或耗尽。",
+        "url": "https://help.aliyun.com/document_detail/2793371.html",
+        "snapshot": "snapshots/alibaba-bailian-newcomer-quota/2026-10-29-1204-f00a8e6a.json"
       }
     ],
     "supersedes": null,
