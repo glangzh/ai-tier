@@ -193,7 +193,7 @@
       "availability_change": 0,
       "benchmark_upgrade": 1,
       "model_release": 3,
-      "score_revision": 0
+      "score_revision": 1
     },
     "anthropic": {
       "availability_change": 0,
@@ -205,43 +205,43 @@
       "availability_change": 0,
       "benchmark_upgrade": 3,
       "model_release": 5,
-      "score_revision": 0
+      "score_revision": 1
     },
     "google": {
       "availability_change": 0,
       "benchmark_upgrade": 3,
-      "model_release": 4,
+      "model_release": 5,
       "score_revision": 0
     },
     "meta": {
       "availability_change": 0,
       "benchmark_upgrade": 3,
       "model_release": 6,
-      "score_revision": 0
+      "score_revision": 1
     },
     "minimax": {
       "availability_change": 0,
       "benchmark_upgrade": 3,
       "model_release": 3,
-      "score_revision": 1
+      "score_revision": 2
     },
     "moonshot": {
       "availability_change": 0,
       "benchmark_upgrade": 3,
       "model_release": 3,
-      "score_revision": 0
+      "score_revision": 1
     },
     "openai": {
       "availability_change": 1,
       "benchmark_upgrade": 2,
       "model_release": 16,
-      "score_revision": 0
+      "score_revision": 1
     },
     "spacexai": {
       "availability_change": 0,
       "benchmark_upgrade": 2,
       "model_release": 3,
-      "score_revision": 0
+      "score_revision": 1
     },
     "tencent": {
       "availability_change": 1,
@@ -253,13 +253,13 @@
       "availability_change": 0,
       "benchmark_upgrade": 2,
       "model_release": 3,
-      "score_revision": 0
+      "score_revision": 1
     },
     "zhipu": {
       "availability_change": 0,
       "benchmark_upgrade": 3,
       "model_release": 2,
-      "score_revision": 0
+      "score_revision": 1
     }
   },
   "events": [
@@ -1239,10 +1239,101 @@
       "score": 45,
       "stage": "official",
       "type": "model_release"
+    },
+    {
+      "benchmark": "AAII v4.3.2",
+      "company_id": "google",
+      "date": "2026-10-28",
+      "id": "google:Gemini 4 Carbon (High):release",
+      "model": "Gemini 4 Carbon (High)",
+      "score": 59,
+      "stage": "official",
+      "type": "model_release"
+    },
+    {
+      "benchmark": "AAII v4.3.2",
+      "company_id": "alibaba",
+      "date": "2026-10-30",
+      "id": "alibaba:Qwen3.8 Max (0902):score:2026-10-30",
+      "model": "Qwen3.8 Max (0902)",
+      "score": 34,
+      "type": "score_revision"
+    },
+    {
+      "benchmark": "AAII v4.3.2",
+      "company_id": "deepseek",
+      "date": "2026-10-30",
+      "id": "deepseek:DeepSeek V4.1 Flash 1017:score:2026-10-30",
+      "model": "DeepSeek V4.1 Flash 1017",
+      "score": 32,
+      "type": "score_revision"
+    },
+    {
+      "benchmark": "AAII v4.3.2",
+      "company_id": "meta",
+      "date": "2026-10-30",
+      "id": "meta:Muse Wonder Full:score:2026-10-30",
+      "model": "Muse Wonder Full",
+      "score": 50,
+      "type": "score_revision"
+    },
+    {
+      "benchmark": "AAII v4.3.2",
+      "company_id": "minimax",
+      "date": "2026-10-30",
+      "id": "minimax:MiniMax-M3.1-Flash:score:2026-10-30",
+      "model": "MiniMax-M3.1-Flash",
+      "score": 29,
+      "type": "score_revision"
+    },
+    {
+      "benchmark": "AAII v4.3.2",
+      "company_id": "moonshot",
+      "date": "2026-10-30",
+      "id": "moonshot:Kimi K3.1 Pro:score:2026-10-30",
+      "model": "Kimi K3.1 Pro",
+      "score": 46,
+      "type": "score_revision"
+    },
+    {
+      "benchmark": "AAII v4.3.2",
+      "company_id": "openai",
+      "date": "2026-10-30",
+      "id": "openai:GPT-6 Astra:score:2026-10-30",
+      "model": "GPT-6 Astra",
+      "score": 57,
+      "type": "score_revision"
+    },
+    {
+      "benchmark": "AAII v4.3.2",
+      "company_id": "spacexai",
+      "date": "2026-10-30",
+      "id": "spacexai:Grok 4.7:score:2026-10-30",
+      "model": "Grok 4.7",
+      "score": 35,
+      "type": "score_revision"
+    },
+    {
+      "benchmark": "AAII v4.3.2",
+      "company_id": "xiaomi",
+      "date": "2026-10-30",
+      "id": "xiaomi:MiMo-V2.6-Pro:score:2026-10-30",
+      "model": "MiMo-V2.6-Pro",
+      "score": 30,
+      "type": "score_revision"
+    },
+    {
+      "benchmark": "AAII v4.3.2",
+      "company_id": "zhipu",
+      "date": "2026-10-30",
+      "id": "zhipu:GLM-5.3:score:2026-10-30",
+      "model": "GLM-5.3",
+      "score": 32,
+      "type": "score_revision"
     }
   ],
   "meta": {
-    "as_of": "2026-10-27",
+    "as_of": "2026-10-30",
     "benchmark": "AAII v4.3.2",
     "note": "事件流；benchmark_upgrade = 同一模型换了评测版本（口径变更，不是能力变化）"
   }

@@ -15,11 +15,11 @@
       "timeline_ok": true
     },
     {
-      "anchor_gens": 4,
-      "anchor_span_days": 117,
+      "anchor_gens": 2,
+      "anchor_span_days": 21,
       "key": "general",
       "label": "通用长文档",
-      "timeline_ok": false
+      "timeline_ok": true
     },
     {
       "anchor_gens": 0,
@@ -51,7 +51,7 @@
     }
   ],
   "meta": {
-    "as_of": "2026-10-27",
+    "as_of": "2026-10-30",
     "benchmark": "AAII v4.3.2",
     "frontier": {
       "date": "2026-09-22",
@@ -85,11 +85,11 @@
           "status": "measured"
         },
         "general": {
-          "anchor_gens": null,
+          "anchor_gens": 2,
           "beyond_pool": false,
-          "gap_days": null,
-          "score": 46.1,
-          "status": "no_timeline"
+          "gap_days": 0,
+          "score": 46.9,
+          "status": "measured"
         },
         "hallucination": {
           "anchor_gens": null,
@@ -141,11 +141,11 @@
           "status": "measured"
         },
         "general": {
-          "anchor_gens": null,
-          "beyond_pool": false,
-          "gap_days": null,
-          "score": 45.5,
-          "status": "no_timeline"
+          "anchor_gens": 2,
+          "beyond_pool": true,
+          "gap_days": 48,
+          "score": 45,
+          "status": "measured"
         },
         "hallucination": {
           "anchor_gens": null,
@@ -197,11 +197,11 @@
           "status": "measured"
         },
         "general": {
-          "anchor_gens": null,
-          "beyond_pool": false,
-          "gap_days": null,
-          "score": 35.5,
-          "status": "no_timeline"
+          "anchor_gens": 2,
+          "beyond_pool": true,
+          "gap_days": 302,
+          "score": 35.1,
+          "status": "measured"
         },
         "hallucination": {
           "anchor_gens": null,
@@ -253,11 +253,11 @@
           "status": "measured"
         },
         "general": {
-          "anchor_gens": null,
-          "beyond_pool": false,
-          "gap_days": null,
-          "score": 39.6,
-          "status": "no_timeline"
+          "anchor_gens": 2,
+          "beyond_pool": true,
+          "gap_days": 181,
+          "score": 39.8,
+          "status": "measured"
         },
         "hallucination": {
           "anchor_gens": null,
@@ -309,11 +309,11 @@
           "status": "measured"
         },
         "general": {
-          "anchor_gens": null,
-          "beyond_pool": false,
-          "gap_days": null,
-          "score": 24.2,
-          "status": "no_timeline"
+          "anchor_gens": 2,
+          "beyond_pool": true,
+          "gap_days": 686,
+          "score": 20,
+          "status": "measured"
         },
         "hallucination": {
           "anchor_gens": null,
@@ -354,22 +354,22 @@
           "anchor_gens": null,
           "beyond_pool": false,
           "gap_days": null,
-          "score": 48.8,
-          "status": "no_timeline"
+          "score": null,
+          "status": "unmeasured"
         },
         "coding": {
           "anchor_gens": 5,
           "beyond_pool": false,
-          "gap_days": 15,
-          "score": 59.4,
+          "gap_days": -5,
+          "score": 64.7,
           "status": "measured"
         },
         "general": {
-          "anchor_gens": null,
-          "beyond_pool": false,
-          "gap_days": null,
-          "score": 41.7,
-          "status": "no_timeline"
+          "anchor_gens": 2,
+          "beyond_pool": true,
+          "gap_days": -64,
+          "score": 49.4,
+          "status": "measured"
         },
         "hallucination": {
           "anchor_gens": null,
@@ -388,12 +388,12 @@
         "science": {
           "anchor_gens": 5,
           "beyond_pool": false,
-          "gap_days": 102,
-          "score": 42.1,
+          "gap_days": -16,
+          "score": 48.2,
           "status": "measured"
         }
       },
-      "model": "Gemini 4 Argon (High)",
+      "model": "Gemini 4 Carbon (High)",
       "name": "Google"
     },
     {
@@ -421,11 +421,11 @@
           "status": "measured"
         },
         "general": {
-          "anchor_gens": null,
-          "beyond_pool": false,
-          "gap_days": null,
-          "score": 39.9,
-          "status": "no_timeline"
+          "anchor_gens": 2,
+          "beyond_pool": true,
+          "gap_days": 173,
+          "score": 40.1,
+          "status": "measured"
         },
         "hallucination": {
           "anchor_gens": null,
@@ -477,11 +477,11 @@
           "status": "measured"
         },
         "general": {
-          "anchor_gens": null,
-          "beyond_pool": false,
-          "gap_days": null,
-          "score": 21.9,
-          "status": "no_timeline"
+          "anchor_gens": 2,
+          "beyond_pool": true,
+          "gap_days": 688,
+          "score": 20,
+          "status": "measured"
         },
         "hallucination": {
           "anchor_gens": null,
@@ -533,11 +533,11 @@
           "status": "measured"
         },
         "general": {
-          "anchor_gens": null,
-          "beyond_pool": false,
-          "gap_days": null,
-          "score": 28,
-          "status": "no_timeline"
+          "anchor_gens": 2,
+          "beyond_pool": true,
+          "gap_days": 763,
+          "score": 17,
+          "status": "measured"
         },
         "hallucination": {
           "anchor_gens": null,
@@ -589,11 +589,11 @@
           "status": "measured"
         },
         "general": {
-          "anchor_gens": null,
-          "beyond_pool": false,
-          "gap_days": null,
-          "score": 27,
-          "status": "no_timeline"
+          "anchor_gens": 2,
+          "beyond_pool": true,
+          "gap_days": 528,
+          "score": 26.2,
+          "status": "measured"
         },
         "hallucination": {
           "anchor_gens": null,
@@ -645,11 +645,11 @@
           "status": "measured"
         },
         "general": {
-          "anchor_gens": null,
-          "beyond_pool": false,
-          "gap_days": null,
-          "score": 25,
-          "status": "no_timeline"
+          "anchor_gens": 2,
+          "beyond_pool": true,
+          "gap_days": 724,
+          "score": 18.6,
+          "status": "measured"
         },
         "hallucination": {
           "anchor_gens": null,

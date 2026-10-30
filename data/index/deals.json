@@ -601,7 +601,7 @@
     "eligibility": "Your friend signs up, downloads Qoder, and chats or runs a task within 7 days.",
     "baseline": null,
     "howToClaim": "invite",
-    "restrictions": "邀请方奖励；好友通过邀请链接注册，完成相应活动条件。到账时间及此档有效期来源未说明。",
+    "restrictions": "邀请方奖励；好友通过邀请链接注册，完成相应活动条件。到账时间及此档有效期来源未说明。 每位邀请方最多50位新用户，三档任务共享名额；好友注册即占名额，未完成任务也不释放，超额不计奖励。",
     "claimUrl": "https://qoder.com/activities",
     "sourceId": "qoder-activities-index",
     "facts": [
@@ -614,6 +614,11 @@
         "quote": "Your friend signs up, downloads Qoder, and chats or runs a task within 7 days.",
         "url": "https://qoder.com/activities",
         "snapshot": "snapshots/qoder-activities-index/2026-10-29-0333-7f9d1c93.json"
+      },
+      {
+        "quote": "Each referrer can invite up to 50 new users to sign up and take part in the follow-up tasks, and the three tasks share these 50 slots. A slot is taken as soon as your friend signs up, and it is not released even if they never complete the follow-up tasks. New users beyond this limit no longer count toward your campaign rewards.",
+        "url": "https://qoder.com/activities",
+        "snapshot": "snapshots/qoder-activities-index/2026-10-30-0008-d87b76a2.json"
       }
     ],
     "quantity": {
@@ -1668,7 +1673,7 @@
     "eligibility": "Your friend chats or runs a task on 3 days within 7 days.",
     "baseline": null,
     "howToClaim": "invite",
-    "restrictions": "邀请方奖励；好友通过邀请链接注册，完成相应活动条件。到账时间及此档有效期来源未说明。",
+    "restrictions": "邀请方奖励；好友通过邀请链接注册，完成相应活动条件。到账时间及此档有效期来源未说明。 每位邀请方最多50位新用户，三档任务共享名额；好友注册即占名额，未完成任务也不释放，超额不计奖励。",
     "claimUrl": "https://qoder.com/activities",
     "sourceId": "qoder-activities-index",
     "facts": [
@@ -1681,6 +1686,11 @@
         "quote": "Your friend chats or runs a task on 3 days within 7 days.",
         "url": "https://qoder.com/activities",
         "snapshot": "snapshots/qoder-activities-index/2026-10-29-0333-7f9d1c93.json"
+      },
+      {
+        "quote": "Each referrer can invite up to 50 new users to sign up and take part in the follow-up tasks, and the three tasks share these 50 slots. A slot is taken as soon as your friend signs up, and it is not released even if they never complete the follow-up tasks. New users beyond this limit no longer count toward your campaign rewards.",
+        "url": "https://qoder.com/activities",
+        "snapshot": "snapshots/qoder-activities-index/2026-10-30-0008-d87b76a2.json"
       }
     ],
     "quantity": {
@@ -2399,7 +2409,7 @@
     "eligibility": "When they complete their first payment within 30 days of signing up",
     "baseline": null,
     "howToClaim": "invite",
-    "restrictions": "奖励在好友订阅后 14 天到账，好友侧 500 Credits 需在首次付款后登录客户端领取；一个邀请码对应一人，长期有效",
+    "restrictions": "奖励在好友订阅后 14 天到账，好友侧 500 Credits 需在首次付款后登录客户端领取；一个邀请码对应一人，长期有效 每位邀请方最多50位新用户，三档任务共享名额；好友注册即占名额，未完成任务也不释放，超额不计奖励。",
     "claimUrl": "https://qoder.com/activities",
     "sourceId": "qoder-activities-index",
     "facts": [
@@ -2412,6 +2422,11 @@
         "quote": "Credits arrive 14 days after",
         "url": "https://qoder.com/activities",
         "snapshot": "snapshots/qoder-activities-index/2026-09-18-1735-f2598a3b.json"
+      },
+      {
+        "quote": "Each referrer can invite up to 50 new users to sign up and take part in the follow-up tasks, and the three tasks share these 50 slots. A slot is taken as soon as your friend signs up, and it is not released even if they never complete the follow-up tasks. New users beyond this limit no longer count toward your campaign rewards.",
+        "url": "https://qoder.com/activities",
+        "snapshot": "snapshots/qoder-activities-index/2026-10-30-0008-d87b76a2.json"
       }
     ],
     "quantity": {
