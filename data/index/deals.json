@@ -435,7 +435,7 @@
     "eligibility": "Your friend signs up, downloads Qoder, and chats or runs a task within 7 days.",
     "baseline": null,
     "howToClaim": "invite",
-    "restrictions": "邀请方奖励；好友通过邀请链接注册，完成相应活动条件。到账时间及此档有效期来源未说明。 每位邀请方最多50位新用户，三档任务共享名额；好友注册即占名额，未完成任务也不释放，超额不计奖励。",
+    "restrictions": "邀请方奖励；好友通过邀请链接注册，完成相应活动条件。有效期来源未说明。 每位邀请方最多50位新用户，三档任务共享名额；好友注册即占名额，未完成任务也不释放，超额不计奖励。 三档可叠加；首次使用和3日活跃奖励完成后于注册第8天到账，首购双方奖励于成功订阅14天后到账。仅登录或空会话不计使用，3天无需连续但同日多次只算一天；积分包不算首购，首购任务独立。",
     "claimUrl": "https://qoder.com/activities",
     "sourceId": "qoder-activities-index",
     "facts": [
@@ -453,6 +453,26 @@
         "quote": "Each referrer can invite up to 50 new users to sign up and take part in the follow-up tasks, and the three tasks share these 50 slots. A slot is taken as soon as your friend signs up, and it is not released even if they never complete the follow-up tasks. New users beyond this limit no longer count toward your campaign rewards.",
         "url": "https://qoder.com/activities",
         "snapshot": "snapshots/qoder-activities-index/2026-10-30-0008-d87b76a2.json"
+      },
+      {
+        "quote": "Complete the tasks below and you will earn the corresponding rewards. The three tiers stack:",
+        "url": "https://qoder.com/activities",
+        "snapshot": "snapshots/qoder-activities-index/2026-10-31-0001-ed7d9059.json"
+      },
+      {
+        "quote": "Successfully sending a task request or conversation message counts as one use, based on system records. Logging in or creating a blank conversation alone does not count. The 3 days must fall within 7 days of registration, with at least one use on each day. Multiple uses on the same day do not count as multiple days, and the days do not need to be consecutive.",
+        "url": "https://qoder.com/activities",
+        "snapshot": "snapshots/qoder-activities-index/2026-10-31-0001-ed7d9059.json"
+      },
+      {
+        "quote": "Credit packs do not count. The first-purchase reward applies only to the first successful purchase of an eligible subscription plan within 30 days of registration. The first-purchase task is calculated independently, so you do not need to complete the first-use or 3-day usage tasks beforehand.",
+        "url": "https://qoder.com/activities",
+        "snapshot": "snapshots/qoder-activities-index/2026-10-31-0001-ed7d9059.json"
+      },
+      {
+        "quote": "Rewards for first use and 3-day usage are credited on the 8th day after registration is completed, provided the tasks are completed. The first-purchase rewards for both parties are credited 14 days after the first purchase succeeds.",
+        "url": "https://qoder.com/activities",
+        "snapshot": "snapshots/qoder-activities-index/2026-10-31-0001-ed7d9059.json"
       }
     ],
     "quantity": {
@@ -1507,7 +1527,7 @@
     "eligibility": "Your friend chats or runs a task on 3 days within 7 days.",
     "baseline": null,
     "howToClaim": "invite",
-    "restrictions": "邀请方奖励；好友通过邀请链接注册，完成相应活动条件。到账时间及此档有效期来源未说明。 每位邀请方最多50位新用户，三档任务共享名额；好友注册即占名额，未完成任务也不释放，超额不计奖励。",
+    "restrictions": "邀请方奖励；好友通过邀请链接注册，完成相应活动条件。有效期来源未说明。 每位邀请方最多50位新用户，三档任务共享名额；好友注册即占名额，未完成任务也不释放，超额不计奖励。 三档可叠加；首次使用和3日活跃奖励完成后于注册第8天到账，首购双方奖励于成功订阅14天后到账。仅登录或空会话不计使用，3天无需连续但同日多次只算一天；积分包不算首购，首购任务独立。",
     "claimUrl": "https://qoder.com/activities",
     "sourceId": "qoder-activities-index",
     "facts": [
@@ -1525,6 +1545,26 @@
         "quote": "Each referrer can invite up to 50 new users to sign up and take part in the follow-up tasks, and the three tasks share these 50 slots. A slot is taken as soon as your friend signs up, and it is not released even if they never complete the follow-up tasks. New users beyond this limit no longer count toward your campaign rewards.",
         "url": "https://qoder.com/activities",
         "snapshot": "snapshots/qoder-activities-index/2026-10-30-0008-d87b76a2.json"
+      },
+      {
+        "quote": "Complete the tasks below and you will earn the corresponding rewards. The three tiers stack:",
+        "url": "https://qoder.com/activities",
+        "snapshot": "snapshots/qoder-activities-index/2026-10-31-0001-ed7d9059.json"
+      },
+      {
+        "quote": "Successfully sending a task request or conversation message counts as one use, based on system records. Logging in or creating a blank conversation alone does not count. The 3 days must fall within 7 days of registration, with at least one use on each day. Multiple uses on the same day do not count as multiple days, and the days do not need to be consecutive.",
+        "url": "https://qoder.com/activities",
+        "snapshot": "snapshots/qoder-activities-index/2026-10-31-0001-ed7d9059.json"
+      },
+      {
+        "quote": "Credit packs do not count. The first-purchase reward applies only to the first successful purchase of an eligible subscription plan within 30 days of registration. The first-purchase task is calculated independently, so you do not need to complete the first-use or 3-day usage tasks beforehand.",
+        "url": "https://qoder.com/activities",
+        "snapshot": "snapshots/qoder-activities-index/2026-10-31-0001-ed7d9059.json"
+      },
+      {
+        "quote": "Rewards for first use and 3-day usage are credited on the 8th day after registration is completed, provided the tasks are completed. The first-purchase rewards for both parties are credited 14 days after the first purchase succeeds.",
+        "url": "https://qoder.com/activities",
+        "snapshot": "snapshots/qoder-activities-index/2026-10-31-0001-ed7d9059.json"
       }
     ],
     "quantity": {
@@ -2248,7 +2288,7 @@
     "eligibility": "When they complete their first payment within 30 days of signing up",
     "baseline": null,
     "howToClaim": "invite",
-    "restrictions": "奖励在好友订阅后 14 天到账，好友侧 500 Credits 需在首次付款后登录客户端领取；一个邀请码对应一人，长期有效 每位邀请方最多50位新用户，三档任务共享名额；好友注册即占名额，未完成任务也不释放，超额不计奖励。",
+    "restrictions": "奖励在好友订阅后 14 天到账，好友侧 500 Credits 需在首次付款后登录客户端领取；一个邀请码对应一人，长期有效 每位邀请方最多50位新用户，三档任务共享名额；好友注册即占名额，未完成任务也不释放，超额不计奖励。 三档可叠加；首次使用和3日活跃奖励完成后于注册第8天到账，首购双方奖励于成功订阅14天后到账。仅登录或空会话不计使用，3天无需连续但同日多次只算一天；积分包不算首购，首购任务独立。",
     "claimUrl": "https://qoder.com/activities",
     "sourceId": "qoder-activities-index",
     "facts": [
@@ -2266,6 +2306,26 @@
         "quote": "Each referrer can invite up to 50 new users to sign up and take part in the follow-up tasks, and the three tasks share these 50 slots. A slot is taken as soon as your friend signs up, and it is not released even if they never complete the follow-up tasks. New users beyond this limit no longer count toward your campaign rewards.",
         "url": "https://qoder.com/activities",
         "snapshot": "snapshots/qoder-activities-index/2026-10-30-0008-d87b76a2.json"
+      },
+      {
+        "quote": "Complete the tasks below and you will earn the corresponding rewards. The three tiers stack:",
+        "url": "https://qoder.com/activities",
+        "snapshot": "snapshots/qoder-activities-index/2026-10-31-0001-ed7d9059.json"
+      },
+      {
+        "quote": "Successfully sending a task request or conversation message counts as one use, based on system records. Logging in or creating a blank conversation alone does not count. The 3 days must fall within 7 days of registration, with at least one use on each day. Multiple uses on the same day do not count as multiple days, and the days do not need to be consecutive.",
+        "url": "https://qoder.com/activities",
+        "snapshot": "snapshots/qoder-activities-index/2026-10-31-0001-ed7d9059.json"
+      },
+      {
+        "quote": "Credit packs do not count. The first-purchase reward applies only to the first successful purchase of an eligible subscription plan within 30 days of registration. The first-purchase task is calculated independently, so you do not need to complete the first-use or 3-day usage tasks beforehand.",
+        "url": "https://qoder.com/activities",
+        "snapshot": "snapshots/qoder-activities-index/2026-10-31-0001-ed7d9059.json"
+      },
+      {
+        "quote": "Rewards for first use and 3-day usage are credited on the 8th day after registration is completed, provided the tasks are completed. The first-purchase rewards for both parties are credited 14 days after the first purchase succeeds.",
+        "url": "https://qoder.com/activities",
+        "snapshot": "snapshots/qoder-activities-index/2026-10-31-0001-ed7d9059.json"
       }
     ],
     "quantity": {
@@ -2378,6 +2438,16 @@
         "quote": "Pro $20 Up to $110 of usage Up to $22 Up to $55",
         "url": "https://commandcode.ai/docs/resources/pricing-limits",
         "snapshot": "snapshots/commandcode-pricing-limits/2026-10-27-0005-9384aad0.json"
+      },
+      {
+        "quote": "DEAL deepseek-v4.1-flash boosted usage: $10 Go, $100 GOAT, $110 Pro.",
+        "url": "https://commandcode.ai/docs/resources/pricing-limits",
+        "snapshot": "snapshots/commandcode-pricing-limits/2026-10-31-1202-ad0d8330.json"
+      },
+      {
+        "quote": "DEAL glm-5.3-flash boosted usage: $10 Go, $100 GOAT, $110 Pro. while capacity lasts",
+        "url": "https://commandcode.ai/docs/resources/pricing-limits",
+        "snapshot": "snapshots/commandcode-pricing-limits/2026-10-31-1202-ad0d8330.json"
       }
     ],
     "supersedes": null,
@@ -2424,7 +2494,7 @@
         "en": "Ling 3.1 Flash monthly usage equivalent is $110, applied automatically at unchanged per-token rates. Top-ups use regular rates. This is not an additional balance; no end date is stated. DeepSeek V4.1 Flash has a permanently boosted $90 monthly usage equivalent, with no end date. Model allowances must not be added. GLM-5.3 Flash, listed as glm-5.3-flash, has a $90 monthly usage equivalent while capacity lasts, at unchanged per-token rates. No fixed end date is stated."
       }
     },
-    "restrictions": "5小时最多$22、每周最多$55、每月最多$110；各模型额度不能相加。 Ling 3.1 Flash 模型月用量等值 $110；选择该模型自动适用，单价不变，额外充值按常规费率另计。不是额外发放可累加余额；来源未说明结束时间。 DeepSeek V4.1 Flash 长期提升后的月用量等值为 $90，官方明确无结束日期；各模型用量不是可相加余额。 GLM-5.3 Flash 当前月用量等值为 $90，官方按模型 ID glm-5.3-flash 列示，提升优惠持续到容量用尽；单价不变，固定结束日期未说明。",
+    "restrictions": "5小时最多$22、每周最多$55、每月最多$110；各模型额度不能相加。 Ling 3.1 Flash 模型月用量等值 $110；选择该模型自动适用，单价不变，额外充值按常规费率另计。不是额外发放可累加余额；来源未说明结束时间。 DeepSeek V4.1 Flash 长期提升后的月用量等值为 $90，官方明确无结束日期；各模型用量不是可相加余额。 GLM-5.3 Flash 当前月用量等值为 $90，官方按模型 ID glm-5.3-flash 列示，提升优惠持续到容量用尽；单价不变，固定结束日期未说明。 最新官方额度：DeepSeek V4.1 Flash、GLM-5.3 Flash分别为GOAT $100、Pro $110月用量等值，取代原$80/$90；不是可相加余额。",
     "quantity": null
   },
   {
@@ -2448,7 +2518,7 @@
     "expiresAt": null,
     "expiresAtText": null,
     "region": null,
-    "restrictions": "免费期已延长，10 月 1 日起继续免费，结束时间提前在官方页面公告；团队版及企业版不适用；免费个人账号及 Credits 余额为 0 的账号也可参与。 官方现明确个人Lite套餐也可参与；模型与其它限制仍按原活动规则。 免费仅适用于实际由Qwen3.8-Flash完成的调用；部分功能内部调用其它指定模型时，相关调用仍按对应模型规则计费。",
+    "restrictions": "免费期已延长，10 月 1 日起继续免费，结束时间提前在官方页面公告；团队版及企业版不适用；免费个人账号及 Credits 余额为 0 的账号也可参与。 官方现明确个人Lite套餐也可参与；模型与其它限制仍按原活动规则。 免费仅适用于实际由Qwen3.8-Flash完成的调用；部分功能内部调用其它指定模型时，相关调用仍按对应模型规则计费。 免费限每日赠送次数内，付费用户次数更多，官方未公布具体次数；当日用尽后可消耗Credits按原倍率继续或次日恢复，不是无限免费。",
     "claimUrl": "https://docs.qoder.com/zh/events/flashoffer",
     "sourceId": "qoder-events-flashoffer",
     "facts": [
@@ -2491,6 +2561,16 @@
         "quote": "计费说明 ：本次免费仅适用于实际由 Qwen3.8-Flash 完成的调用。部分功能在运行时可能会调用特定模型，相关调用将按照对应模型的计费规则计费，不享受本次免费。",
         "url": "https://docs.qoder.com/zh/events/flashoffer",
         "snapshot": "snapshots/qoder-events-flashoffer/2026-10-27-1211-c1bd5b1b.json"
+      },
+      {
+        "quote": "每日免费额度 ：每个账号每日享有一定次数的免费使用额度，付费订阅用户的免费使用次数高于免费用户。当日额度用尽后，次日可继续免费使用。",
+        "url": "https://docs.qoder.com/zh/events/flashoffer",
+        "snapshot": "snapshots/qoder-events-flashoffer/2026-10-31-1203-294c5310.json"
+      },
+      {
+        "quote": "额度用尽后 ：可使用 Credits 继续使用该模型，按该模型原计费系数消耗 Credits，也可切换其他模型。",
+        "url": "https://docs.qoder.com/zh/events/flashoffer",
+        "snapshot": "snapshots/qoder-events-flashoffer/2026-10-31-1203-294c5310.json"
       }
     ],
     "supersedes": null,
@@ -2607,6 +2687,16 @@
         "quote": "Kimi K3.1 Pro $2.00 $10.00 $0.20 - $20",
         "url": "https://commandcode.ai/docs/plans/goat",
         "snapshot": "snapshots/commandcode-goat/2026-10-24-0007-b4b759b3.json"
+      },
+      {
+        "quote": "DEAL deepseek-v4.1-flash boosted usage: $10 Go, $100 GOAT, $110 Pro.",
+        "url": "https://commandcode.ai/docs/resources/pricing-limits",
+        "snapshot": "snapshots/commandcode-pricing-limits/2026-10-31-1202-ad0d8330.json"
+      },
+      {
+        "quote": "DEAL glm-5.3-flash boosted usage: $10 Go, $100 GOAT, $110 Pro. while capacity lasts",
+        "url": "https://commandcode.ai/docs/resources/pricing-limits",
+        "snapshot": "snapshots/commandcode-pricing-limits/2026-10-31-1202-ad0d8330.json"
       }
     ],
     "supersedes": null,
@@ -2701,7 +2791,7 @@
         "en": "These are example monthly usage equivalents, not separate balances per model. CLI and API use plan credits; purchased top-ups are separate. The three-day $100 DeepSeek V4.1 Flash deal has ended. Its permanently boosted monthly usage equivalent is now $80, with no end date. The plan and its windows now advertise up to $100; per-model allowances and rolling window caps still apply. The three-day $100 GLM-5.3 Flash deal has ended. Its current monthly usage equivalent is $80 while capacity lasts; no fixed end date is stated. Current rows show Ling 3.1 Flash $100, GPT-5.6 Sol $20, Muse Spark Open $20 and Nemotron 3.5 Super VL $20 monthly usage equivalents; do not add model allowances. Kimi K3.1 Pro provides $20 monthly usage equivalent."
       }
     },
-    "restrictions": "5小时最多$20、每周最多$50、每月最多$100；按模型折算，并非每个模型均提供$100。 列出的是示例模型月用量，不是各模型独立余额；不可相加。CLI 与 API 使用套餐额度，额外购买的积分另计。 DeepSeek V4.1 Flash 三天 $100 活动已结束，现为长期提升后的 $80 月用量等值；官方明确无结束日期。 官方宣传与窗口现统一为最多$100，仍受各模型额度和滚动窗口限制。 GLM-5.3 Flash 三天 $100 活动已结束，当前月用量等值为 $80，提升优惠持续到容量用尽，来源未给固定结束日期。 本轮官方表新增展示 Ling 3.1 Flash $100、GPT-5.6 Sol $20、Muse Spark Open $20 及 Nemotron 3.5 Super VL $20 月用量等值；各模型额度不可相加。 Kimi K3.1 Pro月用量等值为$20。",
+    "restrictions": "5小时最多$20、每周最多$50、每月最多$100；按模型折算，并非每个模型均提供$100。 列出的是示例模型月用量，不是各模型独立余额；不可相加。CLI 与 API 使用套餐额度，额外购买的积分另计。 DeepSeek V4.1 Flash 三天 $100 活动已结束，现为长期提升后的 $80 月用量等值；官方明确无结束日期。 官方宣传与窗口现统一为最多$100，仍受各模型额度和滚动窗口限制。 GLM-5.3 Flash 三天 $100 活动已结束，当前月用量等值为 $80，提升优惠持续到容量用尽，来源未给固定结束日期。 本轮官方表新增展示 Ling 3.1 Flash $100、GPT-5.6 Sol $20、Muse Spark Open $20 及 Nemotron 3.5 Super VL $20 月用量等值；各模型额度不可相加。 Kimi K3.1 Pro月用量等值为$20。 最新官方额度：DeepSeek V4.1 Flash、GLM-5.3 Flash分别为GOAT $100、Pro $110月用量等值，取代原$80/$90；不是可相加余额。",
     "quantity": null
   },
   {
