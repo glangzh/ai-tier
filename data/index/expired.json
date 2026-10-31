@@ -695,6 +695,69 @@
   },
   {
     "schemaVersion": 0,
+    "offerKey": "575a9d241519d896",
+    "occurredAt": "2026-10-14",
+    "publishedAt": "2026-10-14T12:12:40.613770+00:00",
+    "verification": "auto_verified",
+    "category": "creditsPromotion",
+    "promotionType": "discount",
+    "appliesTo": [
+      "model",
+      "subscription"
+    ],
+    "planKind": "toolPlan",
+    "vendor": "qoder",
+    "entity": "qoder-ultimate",
+    "amount": "0.4x（2 折）",
+    "eligibility": "在模型选择器中选择「极致」即可",
+    "howToClaim": "auto",
+    "startsAt": "2026-10-14T22:00:00+08:00",
+    "startsAtText": "2026 年 10 月 14 日 22:00 SGT",
+    "expiresAt": "2026-10-31T08:00:00+08:00",
+    "expiresAtText": "2026 年 10 月 31 日 08:00 SGT",
+    "window": "错峰时段（22:00–08:00）",
+    "region": null,
+    "restrictions": "仅「极致」（Ultimate）档位，标准 2x、错峰 0.4x（2 折）。覆盖 Pro Trial、Pro、Pro+、Ultra、Teams、Enterprise、Service Account。新加坡时间 UTC+8：一般产品每日 22:00–08:00，Service Account 每日 01:00–07:00；10 月 14 日 22:00 起至 10 月 31 日 08:00。选择该档位后自动生效，需更新对应产品至最新版本。 Lite不包含极致（Ultimate），覆盖名单列出Lite不会解锁该档位。",
+    "claimUrl": "https://docs.qoder.com/zh/events/offpeakrate",
+    "sourceId": "qoder-events-offpeakrate",
+    "facts": [
+      {
+        "quote": "极致（Ultimate）档位 2x 无折扣 0.4x（2 折）",
+        "url": "https://docs.qoder.com/zh/events/offpeakrate",
+        "snapshot": "snapshots/qoder-events-offpeakrate/2026-10-14-1210-243be29a.json"
+      },
+      {
+        "quote": "极致（Ultimate）档位错峰 2 折 2026 年 10 月 14 日 22:00 SGT 2026 年 10 月 31 日 08:00 SGT",
+        "url": "https://docs.qoder.com/zh/events/offpeakrate",
+        "snapshot": "snapshots/qoder-events-offpeakrate/2026-10-14-1210-243be29a.json"
+      },
+      {
+        "quote": "在模型选择器中选择「极致」即可，无需领取。",
+        "url": "https://docs.qoder.com/zh/events/offpeakrate",
+        "snapshot": "snapshots/qoder-events-offpeakrate/2026-10-14-1210-243be29a.json"
+      },
+      {
+        "quote": "覆盖用户 ：Pro Trial / Pro / Pro+ / Ultra / Teams / Enterprise / Service Account",
+        "url": "https://docs.qoder.com/zh/events/offpeakrate",
+        "snapshot": "snapshots/qoder-events-offpeakrate/2026-10-14-1210-243be29a.json"
+      },
+      {
+        "quote": "不一样。Service Account 为每日 01:00–07:00（SGT）。其余产品为 22:00–08:00（SGT）。覆盖模型和折扣倍率相同，「极致」档位同样适用。",
+        "url": "https://docs.qoder.com/zh/events/offpeakrate",
+        "snapshot": "snapshots/qoder-events-offpeakrate/2026-10-14-1210-243be29a.json"
+      },
+      {
+        "quote": "折扣仅适用于当前方案支持的模型和档位。Lite 不包含极致（Ultimate）档位，订阅 Lite 不会解锁该档位。",
+        "url": "https://docs.qoder.com/zh/events/offpeakrate",
+        "snapshot": "snapshots/qoder-events-offpeakrate/2026-10-22-2359-48f1cccc.json"
+      }
+    ],
+    "supersedes": null,
+    "baseline": "2x",
+    "quantity": null
+  },
+  {
+    "schemaVersion": 0,
     "offerKey": "86005e88dff38638",
     "occurredAt": "2026-10-16",
     "publishedAt": "2026-10-16T00:13:48.247750+00:00",
@@ -1415,6 +1478,109 @@
       "at": "2026-09-18"
     },
     "quantity": null
+  },
+  {
+    "schemaVersion": 0,
+    "offerKey": "d882a66bc7a28cc6",
+    "occurredAt": "2026-10-22",
+    "publishedAt": "2026-10-23T00:04:32.592268+00:00",
+    "verification": "auto_verified",
+    "category": "creditsPromotion",
+    "vendor": "qoder",
+    "entity": "qoder-1024-community-boost",
+    "promotionType": "free",
+    "appliesTo": [
+      "model"
+    ],
+    "amount": "1,024 SOTA Credits",
+    "eligibility": "Your account must be on an individual Pro plan or higher, or have an approved application for this promotion.",
+    "sourceId": "qoder-events-communityboost",
+    "claimUrl": "https://docs.qoder.com/events/communityboost.md",
+    "baseline": null,
+    "startsAt": "2026-10-22T00:00:00+08:00",
+    "startsAtText": "October 22, 2026",
+    "expiresAt": "2026-10-30T23:59:00+08:00",
+    "expiresAtText": "October 30, 2026 at 23:59",
+    "howToClaim": "console",
+    "supersedes": null,
+    "restrictions": "符合条件者手动领取1024 SOTA Credits欢迎包，仅供Sonus；个人Pro及以上或申请获批者可参与，Lite需升级。前三轮解锁礼包为2048/3072/4096。第四轮需达到200000累计助力，奖励总额12288，拆成10月28、29、30日各4096：每天00:00开放，当天23:59前领取并用完，过期不可补领、不结转。欢迎包10月31日23:59到期；前三轮礼包领取后24小时有效，领取不晚于10月30日23:59。不可叠加错峰折扣，所有时间UTC+8。",
+    "facts": [
+      {
+        "quote": "During the promotion, eligible individual Qoder users can claim a **Welcome Pack of 1,024 SOTA Credits** and contribute daily boosts to unlock additional **SOTA Credit Packs** together. Promotional Credits can be used with the **Sonus model**. More rewards await—let’s unlock them together.",
+        "url": "https://docs.qoder.com/events/communityboost.md",
+        "snapshot": "snapshots/qoder-events-communityboost/2026-10-27-1211-03a897de.json"
+      },
+      {
+        "quote": "| Welcome Pack | Join Community Boost | 1,024 SOTA Credits |",
+        "url": "https://docs.qoder.com/events/communityboost.md",
+        "snapshot": "snapshots/qoder-events-communityboost/2026-10-27-1211-03a897de.json"
+      },
+      {
+        "quote": "| Round 1 SOTA Credit Pack | Reach 20,000 cumulative community boost points | 2,048 SOTA Credits |",
+        "url": "https://docs.qoder.com/events/communityboost.md",
+        "snapshot": "snapshots/qoder-events-communityboost/2026-10-27-1211-03a897de.json"
+      },
+      {
+        "quote": "| Round 2 SOTA Credit Pack | Reach 50,000 cumulative community boost points | 3,072 SOTA Credits |",
+        "url": "https://docs.qoder.com/events/communityboost.md",
+        "snapshot": "snapshots/qoder-events-communityboost/2026-10-27-1211-03a897de.json"
+      },
+      {
+        "quote": "| Round 3 SOTA Credit Pack | Reach 100,000 cumulative community boost points | 4,096 SOTA Credits |",
+        "url": "https://docs.qoder.com/events/communityboost.md",
+        "snapshot": "snapshots/qoder-events-communityboost/2026-10-27-1211-03a897de.json"
+      },
+      {
+        "quote": "| Round 4 SOTA Credit Pack | Reach 200,000 cumulative community boost points | 12,288 SOTA Credits |",
+        "url": "https://docs.qoder.com/events/communityboost.md",
+        "snapshot": "snapshots/qoder-events-communityboost/2026-10-27-1211-03a897de.json"
+      },
+      {
+        "quote": "**Promotion period:** October 22, 2026 through October 30, 2026 at 23:59. Applications, application reviews, enrollment, and boosting close when the promotion ends. All pack claims close no later than the end of the promotion. Individual packs may have earlier deadlines; see the claim windows table.",
+        "url": "https://docs.qoder.com/events/communityboost.md",
+        "snapshot": "snapshots/qoder-events-communityboost/2026-10-27-1211-03a897de.json"
+      },
+      {
+        "quote": "- **Lite subscribers:** Lite does not currently support Sonus, the model covered by these promotional Credit Packs. Upgrade to Pro or higher to claim rewards.",
+        "url": "https://docs.qoder.com/events/communityboost.md",
+        "snapshot": "snapshots/qoder-events-communityboost/2026-10-27-1211-03a897de.json"
+      },
+      {
+        "quote": "- **Claim eligibility:** Eligibility for the Welcome Pack and SOTA Credit Packs is determined at the time of claiming. Your account must be on an individual Pro plan or higher, or have an approved application for this promotion.",
+        "url": "https://docs.qoder.com/events/communityboost.md",
+        "snapshot": "snapshots/qoder-events-communityboost/2026-10-27-1211-03a897de.json"
+      },
+      {
+        "quote": "2. Boosts count toward the current round's progress and the cumulative community total. Reaching a round's target unlocks its reward. Each round can be unlocked only once. SOTA Credit Packs for Rounds 1, 2, and 3 are released within 12 hours of unlocking. Round 4 releases one pack at 00:00 on each of October 28, 29, and 30. Claim and use each pack according to the table below.",
+        "url": "https://docs.qoder.com/events/communityboost.md",
+        "snapshot": "snapshots/qoder-events-communityboost/2026-10-27-1211-03a897de.json"
+      },
+      {
+        "quote": "| Welcome Pack | Until October 30, 2026 at 23:59 | Until October 31, 2026 at 23:59 |",
+        "url": "https://docs.qoder.com/events/communityboost.md",
+        "snapshot": "snapshots/qoder-events-communityboost/2026-10-27-1211-03a897de.json"
+      },
+      {
+        "quote": "| SOTA Credit Packs for Rounds 1, 2, and 3 | Within 3 days of issuance, but no later than October 30, 2026 at 23:59 | 24 hours from the time you claim it |",
+        "url": "https://docs.qoder.com/events/communityboost.md",
+        "snapshot": "snapshots/qoder-events-communityboost/2026-10-27-1211-03a897de.json"
+      },
+      {
+        "quote": "| Round 4 SOTA Credit Packs | One pack of 4,096 SOTA Credits opens at 00:00 on each of October 28, 29, and 30, 2026. Each account may claim one pack per day. Claims close at 23:59 that day; late claims are not available. | Each pack can be used only on its release date and expires at 23:59 that day. Unused Credits do not carry over to the next day. |",
+        "url": "https://docs.qoder.com/events/communityboost.md",
+        "snapshot": "snapshots/qoder-events-communityboost/2026-10-27-1211-03a897de.json"
+      },
+      {
+        "quote": "- Promotional Credit Packs cannot be combined with off-peak discounts.",
+        "url": "https://docs.qoder.com/events/communityboost.md",
+        "snapshot": "snapshots/qoder-events-communityboost/2026-10-27-1211-03a897de.json"
+      }
+    ],
+    "quantity": {
+      "value": 1024,
+      "unit": "credits",
+      "raw": "1,024 SOTA Credits"
+    }
   },
   {
     "schemaVersion": 0,
