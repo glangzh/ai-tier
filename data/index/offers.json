@@ -1,231 +1,6 @@
 [
   {
     "schemaVersion": 0,
-    "offerKey": "ad1579e88624c783",
-    "occurredAt": "2026-10-17",
-    "publishedAt": "2026-10-17T00:03:17.973003+00:00",
-    "verification": "auto_verified",
-    "category": "creditsPromotion",
-    "vendor": "deepseek",
-    "entity": "deepseek-search-native-tools",
-    "amount": "These calls are currently free of charge",
-    "eligibility": "DeepSeek Harness, Claude Code, or Codex",
-    "promotionType": "free",
-    "appliesTo": [
-      "agent",
-      "apiCredit"
-    ],
-    "baseline": null,
-    "startsAt": null,
-    "startsAtText": null,
-    "expiresAt": "2026-10-31T16:00:00Z",
-    "expiresAtText": "per-request billing starts at 00:00 Beijing time on November 1, 2026.",
-    "howToClaim": "auto",
-    "restrictions": "通过 DeepSeek API 在 DeepSeek Harness、Claude Code 或 Codex 中发起的服务端 Search 和 Fetch 工具调用当前免请求费；北京时间 2026 年 11 月 1 日 00:00 起开始按请求计费，Search 和 Fetch 标准价均为每 1,000 次成功请求 $0.75。本条不代表模型 Token 免费，也不将该工具规则扩展为所有独立 API 请求免费。",
-    "supersedes": null,
-    "sourceId": "deepseek-pricing",
-    "claimUrl": "https://api-docs.deepseek.com/quick_start/pricing/",
-    "facts": [
-      {
-        "quote": "Note: when you use the DeepSeek API through DeepSeek Harness, Claude Code, or Codex, server-side tool calls already hit the Search and Fetch APIs. These calls are currently free of charge; per-request billing starts at 00:00 Beijing time on November 1, 2026.",
-        "url": "https://api-docs.deepseek.com/quick_start/pricing/",
-        "snapshot": "snapshots/deepseek-pricing/2026-10-17-1207-b1f19d06.json"
-      },
-      {
-        "quote": "Search Per 1,000 successful requests $0.75",
-        "url": "https://api-docs.deepseek.com/quick_start/pricing/",
-        "snapshot": "snapshots/deepseek-pricing/2026-10-17-1207-b1f19d06.json"
-      },
-      {
-        "quote": "Fetch Per 1,000 successful requests $0.75",
-        "url": "https://api-docs.deepseek.com/quick_start/pricing/",
-        "snapshot": "snapshots/deepseek-pricing/2026-10-17-1207-b1f19d06.json"
-      },
-      {
-        "quote": "For model usage, the expense = number of tokens × price. Search and Fetch are charged per successful request at the rates above.",
-        "url": "https://api-docs.deepseek.com/quick_start/pricing/",
-        "snapshot": "snapshots/deepseek-pricing/2026-10-17-1207-b1f19d06.json"
-      }
-    ],
-    "quantity": null
-  },
-  {
-    "schemaVersion": 0,
-    "offerKey": "fa880785ca280c74",
-    "occurredAt": "2026-10-20",
-    "publishedAt": "2026-10-26T12:36:52.018830+00:00",
-    "verification": "auto_verified",
-    "category": "creditsPromotion",
-    "promotionType": "free",
-    "appliesTo": [
-      "model"
-    ],
-    "vendor": "qoder",
-    "entity": "deepseek-v4.1-flash-1017",
-    "amount": "daily free allowance for DeepSeek-Flash for a limited time",
-    "eligibility": "All new and existing individual users of Qoder International",
-    "baseline": "0.1×",
-    "howToClaim": "auto",
-    "startsAt": "2026-10-19T16:00:00Z",
-    "startsAtText": "October 20, 2026 at 00:00",
-    "expiresAt": "2026-10-31T16:00:00Z",
-    "expiresAtText": "October 31 at 24:00 (November 1 at 00:00)",
-    "region": null,
-    "supersedes": null,
-    "claimUrl": "https://docs.qoder.com/events/deepseek-flash-free.md",
-    "sourceId": "qoder-events-deepseek-flash-free",
-    "restrictions": "Qoder国际版个人账号每日免费额度内DeepSeek-V4.1-Flash-1017按0.0×计费，免费账号和零余额也可用；团队和企业不适用。付费账号每日免费次数更多，但具体次数未公布。额度耗尽可按原0.1×消耗Credits或次日再用；最高推理强度也适用。原10月24日截止已延长至10月31日24:00（UTC+8）。",
-    "facts": [
-      {
-        "quote": "Starting October 20, 2026 at 00:00, Qoder International provides all new and existing individual users with a **daily free allowance for DeepSeek-Flash for a limited time**. Within this allowance, calls to the model consume no Credits, with the Credit rate reduced from **0.1× to 0.0×**. No claim is required: simply select the model to use it. **Free accounts and accounts with a zero Credits balance are also eligible.**",
-        "url": "https://docs.qoder.com/events/deepseek-flash-free.md",
-        "snapshot": "snapshots/qoder-events-deepseek-flash-free/2026-10-26-1234-4de1bc75.json"
-      },
-      {
-        "quote": "- **Promotion period**: October 20, 2026 at 00:00 through October 31 at 24:00 (November 1 at 00:00). The original end time of October 24 at 24:00 has been extended.",
-        "url": "https://docs.qoder.com/events/deepseek-flash-free.md",
-        "snapshot": "snapshots/qoder-events-deepseek-flash-free/2026-10-26-1234-4de1bc75.json"
-      },
-      {
-        "quote": "- **Eligibility**: All new and existing individual users of Qoder International, including users on Free, Pro Trial, Lite, Pro, Pro+, and Ultra plans. **Teams and Enterprise subscribers are not eligible.**",
-        "url": "https://docs.qoder.com/events/deepseek-flash-free.md",
-        "snapshot": "snapshots/qoder-events-deepseek-flash-free/2026-10-26-1234-4de1bc75.json"
-      },
-      {
-        "quote": "- **Offer**: A free allowance is provided each day during the promotion. Within this allowance, the model's Credit rate is reduced from 0.1× to 0.0×, and calls consume no Credits. This also applies when reasoning effort is set to the maximum level.",
-        "url": "https://docs.qoder.com/events/deepseek-flash-free.md",
-        "snapshot": "snapshots/qoder-events-deepseek-flash-free/2026-10-26-1234-4de1bc75.json"
-      },
-      {
-        "quote": "- **Daily free allowance**: Each account receives a certain number of free uses per day. Paid subscribers receive more free uses than free users. Once the daily allowance is exhausted, free usage becomes available again the next day.",
-        "url": "https://docs.qoder.com/events/deepseek-flash-free.md",
-        "snapshot": "snapshots/qoder-events-deepseek-flash-free/2026-10-26-1234-4de1bc75.json"
-      },
-      {
-        "quote": "- **After the allowance is exhausted**: You can continue using the model with Credits at its original Credit rate, or switch to another model.",
-        "url": "https://docs.qoder.com/events/deepseek-flash-free.md",
-        "snapshot": "snapshots/qoder-events-deepseek-flash-free/2026-10-26-1234-4de1bc75.json"
-      },
-      {
-        "quote": "- **Activation**: The offer applies automatically, with no claim required. You can use the model within the allowance even with a zero Credits balance.",
-        "url": "https://docs.qoder.com/events/deepseek-flash-free.md",
-        "snapshot": "snapshots/qoder-events-deepseek-flash-free/2026-10-26-1234-4de1bc75.json"
-      }
-    ],
-    "quantity": null
-  },
-  {
-    "schemaVersion": 0,
-    "occurredAt": "2026-09-18",
-    "publishedAt": "2026-09-18T17:38:00Z",
-    "verification": "auto_verified",
-    "category": "creditsPromotion",
-    "region": null,
-    "startsAt": null,
-    "startsAtText": null,
-    "expiresAt": "2026-10-31T23:59:59+08:00",
-    "expiresAtText": "即日起至2026年10月31日期间",
-    "validityText": null,
-    "supersedes": null,
-    "offerKey": "64cf70e68f3bd04d",
-    "promotionType": "referral",
-    "appliesTo": [
-      "agent"
-    ],
-    "vendor": "workbuddy",
-    "entity": "workbuddy",
-    "amount": "你得 50 积分",
-    "eligibility": "每邀请一位新注册 好友 完成一次对话/任务",
-    "baseline": null,
-    "howToClaim": "invite",
-    "restrictions": "受邀好友首次注册后须完成一次对话或任务，邀请人得 50 积分；首次注册后 7 天内累计活跃满 3 天另得 100，3 天不要求连续；30 天内首次付费升级，双方各得 500。",
-    "claimUrl": "https://www.workbuddy.cn/events/invite",
-    "sourceId": "workbuddy-invite",
-    "facts": [
-      {
-        "quote": "基础奖：每邀请一位新注册 好友 完成一次对话/任务 ， 你得 50 积分 活跃奖： 好友 首次注册后 7 天内累计活跃满 3 天， 你得 100 积分",
-        "url": "https://www.workbuddy.cn/events/invite",
-        "snapshot": "snapshots/workbuddy-invite/2026-10-12-1209-6c801133.json"
-      },
-      {
-        "quote": "注：「活跃」= 当天有任意有效使用行为（发起对话、调用工具、执行任务等）即算 1 天；3 天不要求连续。",
-        "url": "https://www.workbuddy.cn/events/invite",
-        "snapshot": "snapshots/workbuddy-invite/2026-10-12-1209-6c801133.json"
-      },
-      {
-        "quote": "受邀新人 30 天内首次 付费升级个人版 ， 你 和 好友 各得 500 积分",
-        "url": "https://www.workbuddy.cn/events/invite",
-        "snapshot": "snapshots/workbuddy-invite/2026-10-12-1209-6c801133.json"
-      },
-      {
-        "quote": "即日起至2026年10月31日期间，推荐好友使用，一起拿积分",
-        "url": "https://www.workbuddy.cn/events/invite",
-        "snapshot": "snapshots/workbuddy-invite/2026-10-12-1209-6c801133.json"
-      },
-      {
-        "quote": "分享专属链接 将专属邀请链接或海报分享给好友",
-        "url": "https://www.workbuddy.cn/events/invite",
-        "snapshot": "snapshots/workbuddy-invite/2026-10-12-1209-6c801133.json"
-      }
-    ],
-    "quantity": {
-      "value": 50,
-      "unit": "points",
-      "raw": "你得 50 积分"
-    }
-  },
-  {
-    "schemaVersion": 0,
-    "occurredAt": "2026-09-18",
-    "publishedAt": "2026-09-18T17:38:00Z",
-    "verification": "auto_verified",
-    "category": "creditsPromotion",
-    "region": null,
-    "startsAt": null,
-    "startsAtText": null,
-    "expiresAt": "2026-10-31T23:59:59+08:00",
-    "expiresAtText": "即日起至2026年10月31日期间",
-    "validityText": null,
-    "supersedes": null,
-    "offerKey": "8e0188729b6bfd63",
-    "promotionType": "newcomer",
-    "appliesTo": [
-      "agent"
-    ],
-    "vendor": "workbuddy",
-    "entity": "workbuddy",
-    "amount": "即得 2,000 积分",
-    "eligibility": "好友 首次注册并 完成一次对话/任务",
-    "baseline": null,
-    "howToClaim": "signup",
-    "restrictions": "通过邀请链接首次注册后，还须完成一次对话或任务，方可获得 2,000 积分；截止 2026 年 10 月 31 日。",
-    "claimUrl": "https://www.workbuddy.cn/events/invite",
-    "sourceId": "workbuddy-invite",
-    "facts": [
-      {
-        "quote": "好友 首次注册并 完成一次对话/任务 ，即得 2,000 积分 新用户礼包（截止日期：2026年10月31日）",
-        "url": "https://www.workbuddy.cn/events/invite",
-        "snapshot": "snapshots/workbuddy-invite/2026-10-12-1209-6c801133.json"
-      },
-      {
-        "quote": "即日起至2026年10月31日期间，推荐好友使用，一起拿积分",
-        "url": "https://www.workbuddy.cn/events/invite",
-        "snapshot": "snapshots/workbuddy-invite/2026-10-12-1209-6c801133.json"
-      },
-      {
-        "quote": "分享专属链接 将专属邀请链接或海报分享给好友",
-        "url": "https://www.workbuddy.cn/events/invite",
-        "snapshot": "snapshots/workbuddy-invite/2026-10-12-1209-6c801133.json"
-      }
-    ],
-    "quantity": {
-      "value": 2000,
-      "unit": "points",
-      "raw": "即得 2,000 积分"
-    }
-  },
-  {
-    "schemaVersion": 0,
     "occurredAt": "2026-09-18",
     "publishedAt": "2026-09-18T15:00:00Z",
     "verification": "auto_verified",
@@ -276,6 +51,126 @@
     ],
     "baseline": "0.78 倍",
     "quantity": null
+  },
+  {
+    "schemaVersion": 0,
+    "occurredAt": "2026-09-18",
+    "publishedAt": "2026-09-18T17:38:00Z",
+    "verification": "auto_verified",
+    "category": "creditsPromotion",
+    "region": null,
+    "startsAt": null,
+    "startsAtText": null,
+    "expiresAt": "2026-11-30T23:59:59+08:00",
+    "expiresAtText": "即日起至2026年11月30日期间",
+    "validityText": null,
+    "supersedes": null,
+    "offerKey": "64cf70e68f3bd04d",
+    "promotionType": "referral",
+    "appliesTo": [
+      "agent"
+    ],
+    "vendor": "workbuddy",
+    "entity": "workbuddy",
+    "amount": "你得 50 积分",
+    "eligibility": "每邀请一位新注册 好友 完成一次对话/任务",
+    "baseline": null,
+    "howToClaim": "invite",
+    "restrictions": "受邀好友首次注册后须完成一次对话或任务，邀请人得 50 积分；首次注册后 7 天内累计活跃满 3 天另得 100，3 天不要求连续；30 天内首次付费升级，双方各得 500。",
+    "claimUrl": "https://www.workbuddy.cn/events/invite",
+    "sourceId": "workbuddy-invite",
+    "facts": [
+      {
+        "quote": "基础奖：每邀请一位新注册 好友 完成一次对话/任务 ， 你得 50 积分 活跃奖： 好友 首次注册后 7 天内累计活跃满 3 天， 你得 100 积分",
+        "url": "https://www.workbuddy.cn/events/invite",
+        "snapshot": "snapshots/workbuddy-invite/2026-10-12-1209-6c801133.json"
+      },
+      {
+        "quote": "注：「活跃」= 当天有任意有效使用行为（发起对话、调用工具、执行任务等）即算 1 天；3 天不要求连续。",
+        "url": "https://www.workbuddy.cn/events/invite",
+        "snapshot": "snapshots/workbuddy-invite/2026-10-12-1209-6c801133.json"
+      },
+      {
+        "quote": "受邀新人 30 天内首次 付费升级个人版 ， 你 和 好友 各得 500 积分",
+        "url": "https://www.workbuddy.cn/events/invite",
+        "snapshot": "snapshots/workbuddy-invite/2026-10-12-1209-6c801133.json"
+      },
+      {
+        "quote": "即日起至2026年10月31日期间，推荐好友使用，一起拿积分",
+        "url": "https://www.workbuddy.cn/events/invite",
+        "snapshot": "snapshots/workbuddy-invite/2026-10-12-1209-6c801133.json"
+      },
+      {
+        "quote": "分享专属链接 将专属邀请链接或海报分享给好友",
+        "url": "https://www.workbuddy.cn/events/invite",
+        "snapshot": "snapshots/workbuddy-invite/2026-10-12-1209-6c801133.json"
+      },
+      {
+        "quote": "即日起至2026年11月30日期间",
+        "url": "https://www.workbuddy.cn/events/invite",
+        "snapshot": "snapshots/workbuddy-invite/2026-11-01-0119-ce0d6830.json"
+      }
+    ],
+    "quantity": {
+      "value": 50,
+      "unit": "points",
+      "raw": "你得 50 积分"
+    }
+  },
+  {
+    "schemaVersion": 0,
+    "occurredAt": "2026-09-18",
+    "publishedAt": "2026-09-18T17:38:00Z",
+    "verification": "auto_verified",
+    "category": "creditsPromotion",
+    "region": null,
+    "startsAt": null,
+    "startsAtText": null,
+    "expiresAt": "2026-11-30T23:59:59+08:00",
+    "expiresAtText": "即日起至2026年11月30日期间",
+    "validityText": null,
+    "supersedes": null,
+    "offerKey": "8e0188729b6bfd63",
+    "promotionType": "newcomer",
+    "appliesTo": [
+      "agent"
+    ],
+    "vendor": "workbuddy",
+    "entity": "workbuddy",
+    "amount": "即得 2,000 积分",
+    "eligibility": "好友 首次注册并 完成一次对话/任务",
+    "baseline": null,
+    "howToClaim": "signup",
+    "restrictions": "通过邀请链接首次注册后，还须完成一次对话或任务，方可获得 2,000 积分；截止 2026 年 10 月 31 日。",
+    "claimUrl": "https://www.workbuddy.cn/events/invite",
+    "sourceId": "workbuddy-invite",
+    "facts": [
+      {
+        "quote": "好友 首次注册并 完成一次对话/任务 ，即得 2,000 积分 新用户礼包（截止日期：2026年10月31日）",
+        "url": "https://www.workbuddy.cn/events/invite",
+        "snapshot": "snapshots/workbuddy-invite/2026-10-12-1209-6c801133.json"
+      },
+      {
+        "quote": "即日起至2026年10月31日期间，推荐好友使用，一起拿积分",
+        "url": "https://www.workbuddy.cn/events/invite",
+        "snapshot": "snapshots/workbuddy-invite/2026-10-12-1209-6c801133.json"
+      },
+      {
+        "quote": "分享专属链接 将专属邀请链接或海报分享给好友",
+        "url": "https://www.workbuddy.cn/events/invite",
+        "snapshot": "snapshots/workbuddy-invite/2026-10-12-1209-6c801133.json"
+      },
+      {
+        "quote": "即日起至2026年11月30日期间",
+        "url": "https://www.workbuddy.cn/events/invite",
+        "snapshot": "snapshots/workbuddy-invite/2026-11-01-0119-ce0d6830.json"
+      }
+    ],
+    "quantity": {
+      "value": 2000,
+      "unit": "points",
+      "raw": "即得 2,000 积分"
+    }
   },
   {
     "schemaVersion": 0,
