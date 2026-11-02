@@ -1,7 +1,7 @@
 {
-  "checked": 95,
-  "corroborated": 8,
-  "rate": 0.084,
+  "checked": 99,
+  "corroborated": 7,
+  "rate": 0.071,
   "detail": [
     {
       "offerKey": "cc86de0abfd5744c",
@@ -179,10 +179,8 @@
     },
     {
       "offerKey": "76b6f7ad957ee4e3",
-      "corroboratedBy": [
-        "qianwen-token-plan-overview"
-      ],
-      "declared": 1
+      "corroboratedBy": [],
+      "declared": 0
     },
     {
       "offerKey": "7bdec826bb4bd7de",
@@ -492,6 +490,26 @@
     },
     {
       "offerKey": "4f2d710c4cfd534f",
+      "corroboratedBy": [],
+      "declared": 0
+    },
+    {
+      "offerKey": "7d4ffe3eadace4f7",
+      "corroboratedBy": [],
+      "declared": 0
+    },
+    {
+      "offerKey": "0d17daf569c169ca",
+      "corroboratedBy": [],
+      "declared": 0
+    },
+    {
+      "offerKey": "8aa20ebbb1841015",
+      "corroboratedBy": [],
+      "declared": 0
+    },
+    {
+      "offerKey": "857817e7264cc8d1",
       "corroboratedBy": [],
       "declared": 0
     }

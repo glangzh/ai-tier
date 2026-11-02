@@ -1157,6 +1157,59 @@
   {
     "schemaVersion": 0,
     "occurredAt": "2026-09-18",
+    "publishedAt": "2026-09-18T15:00:00Z",
+    "verification": "auto_verified",
+    "category": "creditsPromotion",
+    "region": null,
+    "offerKey": "ad751a576a20a666",
+    "promotionType": "discount",
+    "appliesTo": [
+      "model",
+      "subscription"
+    ],
+    "planKind": "toolPlan",
+    "vendor": "trae",
+    "entity": "traecode-member",
+    "amount": "享 5 折，积分消耗速度从 0.78 倍降至 0.39 倍",
+    "eligibility": "付费会员折扣表",
+    "howToClaim": "purchase",
+    "validityText": null,
+    "restrictions": "本条仅适用GLM-5.3付费会员折扣：积分消耗速度由0.78倍降至0.39倍；官方新增说明在11月2日前有效。仅限TRAE内使用。",
+    "startsAt": null,
+    "startsAtText": null,
+    "expiresAt": "2026-11-02T00:00:00+08:00",
+    "expiresAtText": "11 月 2 日前有效",
+    "claimUrl": "https://docs.trae.cn/ide_limited-time-discount-for-builtin-models",
+    "sourceId": "trae-limited-discount",
+    "supersedes": "b4c4a3aa8e3f92c5",
+    "facts": [
+      {
+        "quote": "GLM-5.3",
+        "url": "https://docs.trae.cn/ide_limited-time-discount-for-builtin-models",
+        "snapshot": "snapshots/trae-limited-discount/2026-10-14-1210-e6e0e48d.json"
+      },
+      {
+        "quote": "享 5 折，积分消耗速度从 0.78 倍降至 0.39 倍。",
+        "url": "https://docs.trae.cn/ide_limited-time-discount-for-builtin-models",
+        "snapshot": "snapshots/trae-limited-discount/2026-10-14-1210-e6e0e48d.json"
+      },
+      {
+        "quote": "付费会员折扣表",
+        "url": "https://docs.trae.cn/ide_limited-time-discount-for-builtin-models",
+        "snapshot": "snapshots/trae-limited-discount/2026-10-14-1210-e6e0e48d.json"
+      },
+      {
+        "quote": "享 5 折，积分消耗速度从 0.78 倍降至 0.39 倍。优惠折扣在 11 月 2 日前有效。",
+        "url": "https://docs.trae.cn/ide_limited-time-discount-for-builtin-models",
+        "snapshot": "snapshots/trae-limited-discount/2026-10-23-1209-2ab0d3e4.json"
+      }
+    ],
+    "baseline": "0.78 倍",
+    "quantity": null
+  },
+  {
+    "schemaVersion": 0,
+    "occurredAt": "2026-09-18",
     "publishedAt": "2026-09-18T14:40:00Z",
     "verification": "auto_verified",
     "category": "creditsPromotion",

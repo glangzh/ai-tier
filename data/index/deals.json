@@ -2,59 +2,6 @@
   {
     "schemaVersion": 0,
     "occurredAt": "2026-09-18",
-    "publishedAt": "2026-09-18T15:00:00Z",
-    "verification": "auto_verified",
-    "category": "creditsPromotion",
-    "region": null,
-    "offerKey": "ad751a576a20a666",
-    "promotionType": "discount",
-    "appliesTo": [
-      "model",
-      "subscription"
-    ],
-    "planKind": "toolPlan",
-    "vendor": "trae",
-    "entity": "traecode-member",
-    "amount": "享 5 折，积分消耗速度从 0.78 倍降至 0.39 倍",
-    "eligibility": "付费会员折扣表",
-    "howToClaim": "purchase",
-    "validityText": null,
-    "restrictions": "本条仅适用GLM-5.3付费会员折扣：积分消耗速度由0.78倍降至0.39倍；官方新增说明在11月2日前有效。仅限TRAE内使用。",
-    "startsAt": null,
-    "startsAtText": null,
-    "expiresAt": "2026-11-02T00:00:00+08:00",
-    "expiresAtText": "11 月 2 日前有效",
-    "claimUrl": "https://docs.trae.cn/ide_limited-time-discount-for-builtin-models",
-    "sourceId": "trae-limited-discount",
-    "supersedes": "b4c4a3aa8e3f92c5",
-    "facts": [
-      {
-        "quote": "GLM-5.3",
-        "url": "https://docs.trae.cn/ide_limited-time-discount-for-builtin-models",
-        "snapshot": "snapshots/trae-limited-discount/2026-10-14-1210-e6e0e48d.json"
-      },
-      {
-        "quote": "享 5 折，积分消耗速度从 0.78 倍降至 0.39 倍。",
-        "url": "https://docs.trae.cn/ide_limited-time-discount-for-builtin-models",
-        "snapshot": "snapshots/trae-limited-discount/2026-10-14-1210-e6e0e48d.json"
-      },
-      {
-        "quote": "付费会员折扣表",
-        "url": "https://docs.trae.cn/ide_limited-time-discount-for-builtin-models",
-        "snapshot": "snapshots/trae-limited-discount/2026-10-14-1210-e6e0e48d.json"
-      },
-      {
-        "quote": "享 5 折，积分消耗速度从 0.78 倍降至 0.39 倍。优惠折扣在 11 月 2 日前有效。",
-        "url": "https://docs.trae.cn/ide_limited-time-discount-for-builtin-models",
-        "snapshot": "snapshots/trae-limited-discount/2026-10-23-1209-2ab0d3e4.json"
-      }
-    ],
-    "baseline": "0.78 倍",
-    "quantity": null
-  },
-  {
-    "schemaVersion": 0,
-    "occurredAt": "2026-09-18",
     "publishedAt": "2026-09-18T17:38:00Z",
     "verification": "auto_verified",
     "category": "creditsPromotion",
@@ -305,6 +252,51 @@
       "unit": "points",
       "raw": "邀请人与被邀请人双方各获得 500 通用积分"
     }
+  },
+  {
+    "schemaVersion": 0,
+    "offerKey": "0d17daf569c169ca",
+    "occurredAt": "2026-10-31",
+    "publishedAt": "2026-11-02T05:49:11.277169+00:00",
+    "verification": "auto_verified",
+    "category": "creditsPromotion",
+    "promotionType": "free",
+    "vendor": "commandcode",
+    "entity": "glyph-cluster-free",
+    "appliesTo": [
+      "apiCredit",
+      "model"
+    ],
+    "amount": "1000 requests a day",
+    "eligibility": "glyph-cluster:free",
+    "baseline": null,
+    "howToClaim": "auto",
+    "startsAt": null,
+    "startsAtText": null,
+    "expiresAt": null,
+    "expiresAtText": null,
+    "claimUrl": "https://commandcode.ai/docs/resources/pricing-limits",
+    "sourceId": "commandcode-pricing-limits",
+    "facts": [
+      {
+        "quote": "DEAL glyph-cluster:free is free, up to 1000 requests a day. while the stealth preview lasts",
+        "url": "https://commandcode.ai/docs/resources/pricing-limits",
+        "snapshot": "snapshots/commandcode-pricing-limits/2026-10-31-1202-ad0d8330.json"
+      },
+      {
+        "quote": "Keep sensitive work elsewhere : the provider may keep your prompts and outputs and train on them, so Glyph Cluster won&#x27;t run in a CMD_ZDR=1 session.",
+        "url": "https://commandcode.ai/docs/resources/pricing-limits",
+        "snapshot": "snapshots/commandcode-pricing-limits/2026-10-31-1202-ad0d8330.json"
+      },
+      {
+        "quote": "Keep sensitive work elsewhere : the provider may keep your prompts and outputs and train on them, so Beam 1.0 won&#x27;t run in a CMD_ZDR=1 session.",
+        "url": "https://commandcode.ai/docs/resources/pricing-limits",
+        "snapshot": "snapshots/commandcode-pricing-limits/2026-10-31-1202-ad0d8330.json"
+      }
+    ],
+    "restrictions": "隐身预览期间免费，每日最多1000次；预览结束时间未说明。提供方可保留提示及输出用于训练，不适合敏感数据，CMD_ZDR=1不可用。",
+    "supersedes": null,
+    "quantity": null
   },
   {
     "schemaVersion": 0,
@@ -1862,59 +1854,29 @@
     "planKind": "tokenPlan",
     "vendor": "qianwen",
     "entity": "qianwen-token-plan",
-    "amount": "限时 39 元/月",
-    "eligibility": "面向个人开发者",
+    "amount": "¥ 19.50",
+    "eligibility": "个人版",
     "howToClaim": "purchase",
     "validityText": null,
-    "restrictions": "Lite 档原价 60 元/月、限时 39 元/月；个人版四档设订阅月 Credits 限额（原为每 7 天限额，2026-09-27 页面已改为按月）；一份订阅可在 Claude Code、Cursor、Qwen Code、Codex、Qoder 等工具中使用；个人版允许将同一个 API Key 配置于本人的多台设备，仅限本人使用，禁止共享给他人。订阅到期后 API Key 不可用，重新购买成功后原 Key 恢复可用，无需重新配置。",
+    "restrictions": "本轮个人版月付页面价¥ 19.50，页面原价¥60.00 /月；月额度11,500 Credits。页面未说明本次价格优惠固定截止日。四档设订阅月 Credits 限额（原为每 7 天限额，2026-09-27 页面已改为按月）；一份订阅可在 Claude Code、Cursor、Qwen Code、Codex、Qoder 等工具中使用；个人版允许将同一个 API Key 配置于本人的多台设备，仅限本人使用，禁止共享给他人。订阅到期后 API Key 不可用，重新购买成功后原 Key 恢复可用，无需重新配置。",
     "startsAt": null,
     "startsAtText": null,
     "expiresAt": null,
     "expiresAtText": null,
-    "claimUrl": "https://help.aliyun.com/zh/model-studio/token-plan-personal-overview",
-    "sourceId": "qianwen-token-plan-reset",
+    "claimUrl": "https://platform.qianwenai.com/pricing/token-plan",
+    "sourceId": "qianwen-token-plan",
     "supersedes": null,
     "facts": [
       {
-        "quote": "Token Plan 个人版 是面向个人开发者的 AI 大模型订阅服务",
-        "url": "https://help.aliyun.com/zh/model-studio/token-plan-personal-overview",
-        "snapshot": "snapshots/qianwen-token-plan-reset/2026-10-16-1222-60b2549d.json"
-      },
-      {
-        "quote": "原价 60 元/月\n限时 39 元/月",
-        "url": "https://help.aliyun.com/zh/model-studio/token-plan-personal-overview",
-        "snapshot": "snapshots/qianwen-token-plan-reset/2026-10-16-1222-60b2549d.json"
-      },
-      {
-        "quote": "每月限额 ：额度按订阅月计算，订阅周期内累计消耗达到套餐额度后暂停服务，需等待下一个订阅月后额度恢复。月额度用满后，可购买用量包作为补充，或等待下一个订阅月开始后重置。",
-        "url": "https://help.aliyun.com/zh/model-studio/token-plan-personal-overview",
-        "snapshot": "snapshots/qianwen-token-plan-reset/2026-10-16-1222-60b2549d.json"
-      },
-      {
-        "quote": "兼容多种工具 ：适配 Claude Code、Cursor、Qwen Code、Qoder、Qoder CN、OpenClaw 等主流 AI 编程和智能体工具。",
-        "url": "https://help.aliyun.com/zh/model-studio/token-plan-personal-overview",
-        "snapshot": "snapshots/qianwen-token-plan-reset/2026-10-16-1222-60b2549d.json"
-      },
-      {
-        "quote": "订阅到期后 API Key 变为不可用；重新购买成功后，原 API Key 恢复可用，无需在工具中重新配置。",
-        "url": "https://help.aliyun.com/zh/model-studio/token-plan-personal-overview",
-        "snapshot": "snapshots/qianwen-token-plan-reset/2026-10-16-1222-60b2549d.json"
-      },
-      {
-        "quote": "设备使用说明 ：Token Plan 个人版可将同一个 API Key 配置到本人的多台设备（如家庭电脑和公司电脑）上使用，但仅限本人使用。将 API Key 共享给他人使用可能被判定为违规并导致封禁。",
-        "url": "https://help.aliyun.com/zh/model-studio/token-plan-personal-overview",
-        "snapshot": "snapshots/qianwen-token-plan-reset/2026-10-16-1222-60b2549d.json"
+        "quote": "Lite 套餐\n¥ 19.50\n¥60.00 /月\n11,500 Credits / 月",
+        "url": "https://platform.qianwenai.com/pricing/token-plan",
+        "snapshot": "snapshots/qianwen-token-plan/2026-11-02-0552-a5330785.json"
       }
     ],
-    "corroboration": [
-      {
-        "sourceId": "qianwen-token-plan-overview",
-        "quote": "原价 60 元/月\n限时 39 元/月",
-        "snapshot": "snapshots/qianwen-token-plan-overview/2026-09-18-1500-de61dae7.json"
-      }
-    ],
-    "baseline": "原价 60 元/月",
-    "quantity": null
+    "corroboration": [],
+    "baseline": "¥60.00 /月",
+    "quantity": null,
+    "planName": "Token Plan Lite"
   },
   {
     "schemaVersion": 0,
@@ -2108,6 +2070,41 @@
   },
   {
     "schemaVersion": 0,
+    "offerKey": "7d4ffe3eadace4f7",
+    "occurredAt": "2026-10-31",
+    "publishedAt": "2026-11-02T05:49:11.276319+00:00",
+    "verification": "auto_verified",
+    "category": "creditsPromotion",
+    "promotionType": "discount",
+    "vendor": "moonshot",
+    "entity": "kimi-batch",
+    "appliesTo": [
+      "apiCredit",
+      "model"
+    ],
+    "amount": "60%",
+    "eligibility": "kimi-k3.1-pro 与 kimi-k3",
+    "baseline": "标准价格",
+    "howToClaim": "auto",
+    "startsAt": null,
+    "startsAtText": null,
+    "expiresAt": null,
+    "expiresAtText": null,
+    "claimUrl": "https://platform.kimi.com/docs/pricing/chat",
+    "sourceId": "moonshot-kimi-pricing",
+    "facts": [
+      {
+        "quote": "批量推理（Batch API） ： kimi-k3.1-pro 与 kimi-k3 支持批量推理，适合大规模、低实时性要求的任务，各项费用为标准价格的 60%。",
+        "url": "https://platform.kimi.com/docs/pricing/chat",
+        "snapshot": "snapshots/moonshot-kimi-pricing/2026-10-31-0001-c7473f8d.json"
+      }
+    ],
+    "restrictions": "仅限 Batch API 批量推理，适合大规模、低实时性任务；费用为标准价格的60%，不是免费。来源未说明结束时间。",
+    "supersedes": null,
+    "quantity": null
+  },
+  {
+    "schemaVersion": 0,
     "offerKey": "83fb85b6d9431bbd",
     "occurredAt": "2026-09-18",
     "publishedAt": "2026-09-18T17:38:00Z",
@@ -2158,6 +2155,81 @@
       "unit": "tokens",
       "raw": "2000万 免费Tokens资源包"
     }
+  },
+  {
+    "schemaVersion": 0,
+    "occurredAt": "2026-11-02",
+    "publishedAt": "2026-09-18T15:00:00Z",
+    "verification": "auto_verified",
+    "category": "creditsPromotion",
+    "region": null,
+    "offerKey": "857817e7264cc8d1",
+    "promotionType": "discount",
+    "appliesTo": [
+      "subscription",
+      "agent"
+    ],
+    "planKind": "tokenPlan",
+    "vendor": "qianwen",
+    "entity": "qianwen-token-plan-essential",
+    "amount": "¥ 39.50",
+    "eligibility": "个人版",
+    "howToClaim": "purchase",
+    "validityText": null,
+    "restrictions": "Essential个人版月付页面价¥39.50，页面原价¥120/月，每月25,500 Credits，支持2～3个Agent并发。固定截止日期未说明。",
+    "startsAt": null,
+    "startsAtText": null,
+    "expiresAt": null,
+    "expiresAtText": null,
+    "claimUrl": "https://platform.qianwenai.com/pricing/token-plan",
+    "sourceId": "qianwen-token-plan",
+    "supersedes": null,
+    "facts": [
+      {
+        "quote": "Essential 套餐\n¥ 39.50\n¥120.00 /月\n25,500 Credits / 月",
+        "url": "https://platform.qianwenai.com/pricing/token-plan",
+        "snapshot": "snapshots/qianwen-token-plan/2026-11-02-0552-a5330785.json"
+      }
+    ],
+    "corroboration": [],
+    "baseline": "¥120.00 /月",
+    "quantity": null,
+    "planName": "Token Plan Essential"
+  },
+  {
+    "schemaVersion": 0,
+    "offerKey": "8aa20ebbb1841015",
+    "occurredAt": "2026-11-02",
+    "publishedAt": "2026-11-02T05:52:24.598144+00:00",
+    "verification": "auto_verified",
+    "category": "creditsPromotion",
+    "promotionType": "newcomer",
+    "vendor": "opendesign",
+    "entity": "opendesign-free",
+    "appliesTo": [
+      "apiCredit",
+      "model"
+    ],
+    "amount": "$0.5",
+    "eligibility": "A new account’s default workspace",
+    "baseline": null,
+    "howToClaim": "auto",
+    "startsAt": null,
+    "startsAtText": null,
+    "expiresAt": null,
+    "expiresAtText": null,
+    "claimUrl": "https://open-design.ai/pricing/",
+    "sourceId": "opendesign-pricing",
+    "facts": [
+      {
+        "quote": "How do the plans differ? Can Free use hosted models? Free workspaces also include free invitations. A new account’s default workspace gets $0.5 trial credits valid for 3 days, for DeepSeek V4.1 Flash only, including its API access. Top-up is unavailable. Paid models, credits and concurrency are shown on the plan cards.",
+        "url": "https://open-design.ai/pricing/",
+        "snapshot": "snapshots/opendesign-pricing/2026-11-02-0545-7f4fbb17.json"
+      }
+    ],
+    "restrictions": "新账号默认工作区试用额度$0.5，有效3天，仅限DeepSeek V4.1 Flash及其API；不可充值。具体绝对截止时间未说明。",
+    "supersedes": null,
+    "quantity": null
   },
   {
     "schemaVersion": 0,
@@ -2794,6 +2866,21 @@
         "quote": "Standard · $20/month",
         "url": "https://open-design.ai/pricing/",
         "snapshot": "snapshots/opendesign-pricing/2026-10-12-1207-11de330c.json"
+      },
+      {
+        "quote": "Does inviting colleagues cost extra? No. Every plan includes unlimited members and free invitations. Members share the workspace credits. Adding members adds no seat fees and does not increase credits or concurrent slots.",
+        "url": "https://open-design.ai/pricing/",
+        "snapshot": "snapshots/opendesign-pricing/2026-11-02-0545-7f4fbb17.json"
+      },
+      {
+        "quote": "How do shared credits and concurrency work? Tasks use the credits and concurrency of the workspace they start in. Go / Plus / Pro / Max allow 10 / 20 / 30 / 50 simultaneous tasks respectively, shared by all members.",
+        "url": "https://open-design.ai/pricing/",
+        "snapshot": "snapshots/opendesign-pricing/2026-11-02-0545-7f4fbb17.json"
+      },
+      {
+        "quote": "Does the price change after the first-month offer? Monthly plans can start with a first-month offer. The plan cards show the current first-month and renewal prices. The first-month offer applies only to new monthly subscriptions and once per account. Yearly billing does not use the first-month offer because it already has a lower monthly equivalent.",
+        "url": "https://open-design.ai/pricing/",
+        "snapshot": "snapshots/opendesign-pricing/2026-11-02-0545-7f4fbb17.json"
       }
     ],
     "supersedes": null,
@@ -2839,7 +2926,7 @@
         "fact": 7
       }
     },
-    "restrictions": "Design Plan 每 7 天窗口最高 $40，无 5 小时窗口限制；另含 $20 常规模型额度，不受上述窗口限制。 Design Plan 共用额度，DeepSeek V4.1 Flash 为双倍用量折算，不增加共享余额。另含 $20 常规模型额度；平台与 API 共用。首月 $16，续费 $20/月；年付 $168。",
+    "restrictions": "Design Plan 每 7 天窗口最高 $40，无 5 小时窗口限制；另含 $20 常规模型额度，不受上述窗口限制。 Design Plan 共用额度，DeepSeek V4.1 Flash 为双倍用量折算，不增加共享余额。另含 $20 常规模型额度；平台与 API 共用。首月 $16，续费 $20/月；年付 $168。 现按工作区订阅，成员邀请免费且不限人数，共享额度和并发，不因新增成员增加；Go/Plus并发分别10/20。首月优惠仅限新月付订阅，每账号一次，年付不适用。",
     "quantity": null
   },
   {
@@ -3489,6 +3576,21 @@
         "quote": "$ 8 / mo $10\nSave $2/mo First-month price\n$ 7 / mo $10\nSave $36 Billed $84/year",
         "url": "https://open-design.ai/pricing/",
         "snapshot": "snapshots/opendesign-pricing/2026-10-12-1207-11de330c.json"
+      },
+      {
+        "quote": "Does inviting colleagues cost extra? No. Every plan includes unlimited members and free invitations. Members share the workspace credits. Adding members adds no seat fees and does not increase credits or concurrent slots.",
+        "url": "https://open-design.ai/pricing/",
+        "snapshot": "snapshots/opendesign-pricing/2026-11-02-0545-7f4fbb17.json"
+      },
+      {
+        "quote": "How do shared credits and concurrency work? Tasks use the credits and concurrency of the workspace they start in. Go / Plus / Pro / Max allow 10 / 20 / 30 / 50 simultaneous tasks respectively, shared by all members.",
+        "url": "https://open-design.ai/pricing/",
+        "snapshot": "snapshots/opendesign-pricing/2026-11-02-0545-7f4fbb17.json"
+      },
+      {
+        "quote": "Does the price change after the first-month offer? Monthly plans can start with a first-month offer. The plan cards show the current first-month and renewal prices. The first-month offer applies only to new monthly subscriptions and once per account. Yearly billing does not use the first-month offer because it already has a lower monthly equivalent.",
+        "url": "https://open-design.ai/pricing/",
+        "snapshot": "snapshots/opendesign-pricing/2026-11-02-0545-7f4fbb17.json"
       }
     ],
     "supersedes": null,
@@ -3527,7 +3629,7 @@
         "en": "Design Plan shares one allowance; DeepSeek V4.1 Flash doubles the usage equivalent, not the pool. App and API share usage. First month $8, then $10/month; annual $84."
       }
     },
-    "restrictions": "Design Plan 每 7 天窗口最高 $30、每 5 小时最高 $10；达到限制需等待对应窗口恢复。 Design Plan 共用额度，DeepSeek V4.1 Flash 为双倍用量折算，不增加共享余额。平台与 API 共用。首月 $8，续费 $10/月；年付 $84。",
+    "restrictions": "Design Plan 每 7 天窗口最高 $30、每 5 小时最高 $10；达到限制需等待对应窗口恢复。 Design Plan 共用额度，DeepSeek V4.1 Flash 为双倍用量折算，不增加共享余额。平台与 API 共用。首月 $8，续费 $10/月；年付 $84。 现按工作区订阅，成员邀请免费且不限人数，共享额度和并发，不因新增成员增加；Go/Plus并发分别10/20。首月优惠仅限新月付订阅，每账号一次，年付不适用。",
     "quantity": null
   },
   {
