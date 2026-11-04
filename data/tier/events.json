@@ -205,13 +205,13 @@
       "availability_change": 0,
       "benchmark_upgrade": 3,
       "model_release": 5,
-      "score_revision": 1
+      "score_revision": 2
     },
     "google": {
       "availability_change": 0,
       "benchmark_upgrade": 3,
       "model_release": 5,
-      "score_revision": 0
+      "score_revision": 1
     },
     "meta": {
       "availability_change": 0,
@@ -1330,10 +1330,28 @@
       "model": "GLM-5.3",
       "score": 32,
       "type": "score_revision"
+    },
+    {
+      "benchmark": "AAII v4.3.2",
+      "company_id": "deepseek",
+      "date": "2026-11-04",
+      "id": "deepseek:DeepSeek V4.1 Flash 1017:score:2026-11-04",
+      "model": "DeepSeek V4.1 Flash 1017",
+      "score": 33,
+      "type": "score_revision"
+    },
+    {
+      "benchmark": "AAII v4.3.2",
+      "company_id": "google",
+      "date": "2026-11-04",
+      "id": "google:Gemini 4 Carbon:score:2026-11-04",
+      "model": "Gemini 4 Carbon",
+      "score": 60,
+      "type": "score_revision"
     }
   ],
   "meta": {
-    "as_of": "2026-11-03",
+    "as_of": "2026-11-04",
     "benchmark": "AAII v4.3.2",
     "note": "事件流；benchmark_upgrade = 同一模型换了评测版本（口径变更，不是能力变化）"
   }
