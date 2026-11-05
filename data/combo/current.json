@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-11-04",
+  "asOf": "2026-11-05",
   "source": {
     "name": "Artificial Analysis",
     "url": "https://artificialanalysis.ai/leaderboards/models",
@@ -240,7 +240,7 @@
       "family": "gemini",
       "openWeights": false,
       "intelligence": 50,
-      "costPerTaskUsd": 7.68,
+      "costPerTaskUsd": 9.95,
       "outputTokensPerSecond": null,
       "timeToFirstTokenSeconds": null,
       "endToEndSeconds": null,
