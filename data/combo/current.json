@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-11-05",
+  "asOf": "2026-11-06",
   "source": {
     "name": "Artificial Analysis",
     "url": "https://artificialanalysis.ai/leaderboards/models",
@@ -322,7 +322,7 @@
       "name": "Kimi K3.1 Pro",
       "developer": "Kimi",
       "family": "kimi",
-      "openWeights": false,
+      "openWeights": true,
       "intelligence": 46,
       "costPerTaskUsd": 3.68,
       "outputTokensPerSecond": null,
@@ -414,6 +414,20 @@
       "endToEndSeconds": null,
       "inputUsdPerMillion": 2,
       "outputUsdPerMillion": 10
+    },
+    {
+      "id": "muse-wonder-high",
+      "name": "Muse Wonder (High)",
+      "developer": "Meta",
+      "family": "muse",
+      "openWeights": false,
+      "intelligence": 41,
+      "costPerTaskUsd": 4.56,
+      "outputTokensPerSecond": null,
+      "timeToFirstTokenSeconds": null,
+      "endToEndSeconds": null,
+      "inputUsdPerMillion": 4,
+      "outputUsdPerMillion": 20
     },
     {
       "id": "claude-fable-5-1-low",
